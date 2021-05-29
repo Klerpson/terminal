@@ -1,0 +1,64 @@
+- img: popayan/artesanias-silvia-popayan-vertical.webp
+  alt: Artesanías en el mercado de los martes de Popayán
+  popup: popayan/artesanias-silvia-popayan.webp
+  numero: 1
+
+- img: popayan/balcones-popayan-vertical.webp
+  alt: Balcones de la arquitectura colonial de Popayán
+  popup: popayan/balcones-popayan.webp
+  numero: 2
+
+- img: popayan/capilla-popayan-vertical.webp
+  alt: Capilla de la época colonial de Popayán
+  popup: popayan/capilla-popayan.webp
+  numero: 3
+
+- img: popayan/centro-popayan-cauca-vertical.webp
+  alt: Popayán es la Ciudad Blanca del Cauca
+  popup: popayan/centro-popayan-cauca.webp
+  numero: 4
+
+- img: popayan/comida-tipica-popayan-cauca-mini.webp
+  alt: Gastronomía caucana
+  popup: popayan/comida-tipica-popayan-cauca.webp
+  numero: 5
+
+- img: popayan/mercado-popayan-mini.webp
+  alt: Mercado de Popayán
+  popup: popayan/mercado-popayan.webp
+  numero: 6
+
+- img: popayan/mercado-silvia-cauca-vertical.webp
+  alt: Mercado con campesinos de Silvia
+  popup: popayan/mercado-silvia-cauca.webp
+  numero: 7
+
+- img: popayan/parque-popayan-vertical.webp
+  alt: Parque de Popayán Cauca
+  popup: popayan/parque-popayan.webp
+  numero: 8
+
+- img: popayan/popayan-colonial-mini.webp
+  alt: Edificio de Popayán Cauca
+  popup: popayan/popayan-colonial.webp
+  numero: 9
+
+- img: popayan/popayan-puente-mini.webp
+  alt: Puente de Popayán Cauca
+  popup: popayan/popayan-puente.webp
+  numero: 10
+
+- img: popayan/puerta-popayan-vertical.webp
+  alt: Puerta colonial de Popayán Cauca
+  popup: popayan/puertapopayan.webp
+  numero: 11
+
+- img: popayan/teatro-popayan-vertical.webp
+  alt: Teatro de Popayán Cauca
+  popup: popayan/teatro-popayan.webp
+  numero: 12
+
+- img: popayan/vestimenta-tipica-silvia-cauca-mini.webp
+  alt: Cultura de Silvia Cauca
+  popup: popayan/vestimenta-tipica-silvia-cauca.webp
+  numero: 13

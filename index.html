@@ -1,0 +1,34 @@
+---
+layout: default
+title: Terminales de Transporte de Colombia
+description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
+---
+{% include header.html %}
+{% include buscador.html %}
+{% include categorias.html %}
+{% include destinos.html %}
+
+<!-- <section class="destinos">
+  <h2>¿Te gusta viajar por Colombia? Mira estos destinos</h2>
+
+  <p class="nota">Cada uno de estos destinos lo seleccionamos para ofrecerte una <strong>oferta de viaje económica, tranquila, segura y llena de atracciones diferentes y fascinantes.</strong> Selecciona el que más te guste:</p>
+  {% for tag in site.tags %}
+  {% capture entrada %}{{ tag | first }}{% endcapture %}
+  <div>
+      <h3 class="wow bounceInRight">{{ entrada | capitalize}}</h3>
+      {% for post in site.tags[entrada] %}
+      <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+        <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">
+        <h4>{{ post.title }}</h4>
+      </picture>
+    </a>
+    {% endfor %}
+  </div>
+    {% endfor %}
+</section> -->
+
+
+{% include parallax.html clase="testimonio3" front="alberto-sanchez-colombia-viajera.webp" texto="Los guías fueron de gran ayuda. El personal, las instalaciones de los hospedajes, todo muy bien. Felicitaciones - JOSE SÁNCHEZ" %}
+
+{% include footer.html %}
+

@@ -1,0 +1,9 @@
+@media screen and (min-width: 767px) {
+  header{
+    width: 70vw;
+  }
+
+  #search-container {
+    width: 40vw;
+  }
+}

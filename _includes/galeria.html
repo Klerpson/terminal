@@ -1,0 +1,12 @@
+<section class="galeria">
+	{% for galeria in site.data.[include.destino] %}
+	<a href="#img{{galeria.numero}}">
+		<img src="{{site.baseurl}}/img/destinos/{{galeria.img}}" alt="{{galeria.alt}}" loading="lazy">
+	</a>
+	<div class="light-box" id="img{{galeria.numero}}">
+		<img src="{{site.baseurl}}/img/destinos/{{galeria.popup}}" alt="{{galeria.alt}}" loading="lazy">
+		<a href="#" class="close">X</a>
+	</div>
+	{% endfor %}
+
+</section>

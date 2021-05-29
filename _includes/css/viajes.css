@@ -1,0 +1,15 @@
+.viajes {
+  padding: 4em 2rem 0;
+  text-align: center;
+  color: var(--grisFuentes);
+}
+
+.viajes h1{
+  font-family: var(--fuenteTitulos);
+  font-size: calc(100% * 2.5);
+  line-height: 1.1;
+}
+
+.viajes p{
+  font-family: var(--fuenteTexto);
+}

@@ -1,0 +1,14 @@
+.ec-stars-wrapper {
+  font-size: 0;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.ec-stars-wrapper span {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  font-size: 2rem;
+}

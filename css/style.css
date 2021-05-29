@@ -1,0 +1,18 @@
+---
+---
+{% include css/universal.css %}
+{% include css/header.css %}
+{% include css/nav.css %}
+{% include css/buscador.css %}
+{% include css/entradas.css %}
+{% include css/queries.css %}
+{% include css/servicios.css %}
+{% include css/parallax.css %}
+{% include css/articulo.css %}
+{% include css/galeria.css %}
+{% include css/footer.css %}
+{% include css/contacto.css %}
+{% include css/blog.css %}
+{% include css/viajes.css %}
+{% include css/calificaciones.css %}
+{% include css/share.css %}

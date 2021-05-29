@@ -1,0 +1,49 @@
+- img: popayan/capilla-popayan-vertical.webp
+  popup: popayan/capilla-popayan.webp
+  alt: Arquitectura tradicional Popayán
+  numero: 1
+
+- img: san-agustin-huila/parque-arqueologico-fotografias-mini.webp
+  popup: san-agustin-huila/parque-arqueologico-fotografias.webp
+  alt: Parque arqueológico de San Agustin Huila
+  numero: 2
+
+- img: san-agustin-huila/rio-magdalena-mini.webp
+  popup: san-agustin-huila/rio-magdalena.webp
+  alt: Río Magdalena en su paso por San Agustin Huila
+  numero: 3
+
+- img: san-agustin-huila/estatuas-alto-parque-arqueologico-mini.webp
+  popup: san-agustin-huila/estatuas-alto-parque-arqueologico.webp
+  alt: Estatuas en el alto del parque arqueológico de San Agustin Huila
+  numero: 4
+
+- img: popayan/comida-tipica-popayan-cauca-mini.webp
+  popup: popayan/comida-tipica-popayan-cauca.webp
+  alt: Gastronomía caucana
+  numero: 5
+
+- img: purace/frailejones-purace-vertical.webp
+  popup: purace/frailejones-purace.webp
+  alt: Frailejones en el parque Puracé
+  numero: 6
+
+- img: san-agustin-huila/turistas-salto-bordones-mini.webp
+  popup: san-agustin-huila/turistas-salto-bordones.webp
+  alt: Turistas en el salto de Bordones
+  numero: 7
+
+- img: san-agustin-huila/museo-obando-turismo-mini.webp
+  popup: san-agustin-huila/museo-obando-turismo.webp
+  alt: Museo de Obando de San Agustín
+  numero: 8
+
+- img: popayan/balcones-popayan-vertical.webp
+  popup: popayan/balcones-popayan.webp
+  alt: Balcones arquitectura Popayán
+  numero: 9
+
+- img: san-agustin-huila/parque-arqueologico-turismo-mini.webp
+  popup: san-agustin-huila/parque-arqueologico-turismo.webp
+  alt: Turismo en el parque arqueológico de san agustin
+  numero: 10

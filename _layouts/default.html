@@ -1,0 +1,28 @@
+---
+layout: compress
+---
+{% include head.html %}
+<body>
+  {% include nav.html %}
+  {{ content }}
+</body>
+<script>
+  const menuIcon = document.querySelector(".hamburguer-menu"),
+    navbar = document.querySelector(".nav");
+  menuIcon.addEventListener("click", (() => {
+    navbar.classList.toggle("change")
+  }));
+</script>
+
+<!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+<!-- Configuration -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '{{site.baseurl}}/search.json'
+  })
+</script>
+
+</html>

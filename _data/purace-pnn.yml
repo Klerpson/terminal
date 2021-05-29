@@ -1,0 +1,49 @@
+- img: purace/turismo-pnn-purace-vertical.webp
+  alt: Turismo en el parque nacional puracé
+  popup: purace/turismo-pnn-purace.webp
+  numero: 1
+
+- img: purace/turista-pnn-purace-mini.webp
+  alt: Turistas en Puracé
+  popup: purace/turista-pnn-purace.webp
+  numero: 2
+
+- img: purace/experiencias-purace-mini.webp
+  alt: Experiencias en Parque Puracé
+  popup: purace/experiencias-purace.webp
+  numero: 3
+
+- img: purace/parque-nacional-purace-vertical.webp
+  alt: Parque Nacional Puracé
+  popup: purace/parque-nacional-purace.webp
+  numero: 4
+
+- img: purace/parque-purace-mini.webp
+  alt: Parque Puracé
+  popup: purace/parque-purace.webp
+  numero: 5
+
+- img: purace/aves-parque-purace-vertical.webp
+  alt: Aves en el parque Puracé
+  popup: purace/aves-parque-purace.webp
+  numero: 6
+
+- img: purace/paseo-parque-purace-mini.webp
+  alt: Paseo parque Puracé
+  popup: purace/paseo-parque-purace.webp
+  numero: 7
+
+- img: purace/visita-turistas-parque-purace-vertical.webp
+  alt: Visita parque Puracé
+  popup: purace/visita-turistas-parque-purace.webp
+  numero: 8
+
+- img: purace/cabalgata-parque-purace-mini.webp
+  alt: Cabalgata parque Puracé
+  popup: purace/cabalgata-parque-purace.webp
+  numero: 9
+
+- img: purace/plantas-parque-purace-mini.webp
+  alt: Plantas parque Puracé
+  popup: purace/plantas-parque-purace.webp
+  numero: 10

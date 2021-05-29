@@ -1,0 +1,42 @@
+---
+layout: default
+title: Colombia Viajera te lleva a tu destino favorito
+description: Comparte las experiencias de todos nuestros amigos viajeros y de sus destinos favoritos en Colombia
+---
+{% include header.html %}
+<section class="viajes">
+  <h1>{{page.title}}</h1>
+  <p>Encuentra aquí el tour con el paquete apropiado según tus preferencias. Nosotros tenemos lo que tú buscas.</p>
+</section>
+
+{% include buscador.html %}
+
+<section class="categorias">
+  <h2 class="titulo-viajes">¿Cuál de estas opciones te gustaría disfrutar en tu próximo viaje por Colombia?</h2>
+  {% for category in site.tags %}
+  <div class="wow fadeInUpBig">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <a href="#{{ category_name }}">{{ category_name | capitalize }}</a>
+  </div>
+  {% endfor %}
+</section>
+
+<main class="destinos">
+  {% for tag in site.tags %}
+  {% capture entrada %}{{ tag | first }}{% endcapture %}
+  <div id="{{ entrada}}">
+    <h2 class="wow bounceInRight">{{ entrada | capitalize}}
+    </h2>
+    {% for post in site.tags[entrada] %}
+    <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+      <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">
+      <h4>{{ post.title }}</h4>
+    </picture>
+  </a>
+  {% endfor %}
+</div>
+  {% endfor %}
+</main>
+
+
+{% include footer.html %}

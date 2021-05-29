@@ -1,0 +1,49 @@
+- img: san-agustin-huila/parque-arqueologico-san-agustin-mini.webp
+  popup: san-agustin-huila/parque-arqueologico-san-agustin.webp
+  alt: Parque arqueológico de San Agustin Huila
+  numero: 1
+
+- img: tierradentro/tumbas-tierradentro-cauca-vertical.webp
+  alt: Tierradentro Cauca
+  popup: tierradentro/tumbas-tierradentro-cauca.webp
+  numero: 2
+
+- img: tierradentro/tierradentro-cauca-mini.webp
+  alt: Paisaje Tierradentro Cauca
+  popup: tierradentro/tierradentro-cauca.webp
+  numero: 3
+
+- img: tierradentro/turistas-tumbas-tierradentro-mini.webp
+  alt: Turismo en las tumbas de Tierradentro
+  popup: tierradentro/turistas-tumbas-tierradentro.webp
+  numero: 4
+
+- img: tierradentro/turistas-tierradentro-san-agustin-mini.webp
+  alt: Turistas en las tumbas de Tierradentro Cauca
+  popup: tierradentro/turistas-tierradentro-san-agustin.webp
+  numero: 5
+
+- img: tierradentro/arquitectura-tierradentro-vertical.webp
+  alt: Arquitectura de Tierradentro Cauca
+  popup: tierradentro/arquitectura-tierradentro.webp
+  numero: 6
+
+- img: tierradentro/grabados-turismo-tierradentro-mini.webp
+  alt: Grabados de San Agustín Huila
+  popup: tierradentro/grabados-turismo-tierradentro.webp
+  numero: 7
+
+- img: tierradentro/estrecho-magdalena-vertical.webp
+  alt: estrecho del río magdalena
+  popup: tierradentro/estrecho-magdalena.webp
+  numero: 8
+
+- img: tierradentro/tierradentro-san-agustin-tour-mini.webp
+  alt: turismo tierradentro san agustin
+  popup: tierradentro/tierradentro-san-agustin-tour.webp
+  numero: 9
+
+- img: tierradentro/museo-tierradentro-cauca-vertical.webp
+  alt: Museo de Tierradentro Cauca
+  popup: tierradentro/museo-tierradentro-cauca.webp
+  numero: 10

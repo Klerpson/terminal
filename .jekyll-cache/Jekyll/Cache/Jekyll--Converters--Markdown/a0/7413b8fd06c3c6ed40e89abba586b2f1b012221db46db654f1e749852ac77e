@@ -1,0 +1,192 @@
+I"+<h1 id="san-agustín-huila-mágico">San Agustín Huila Mágico</h1>
+
+<!-- Calificación de las estrellas. Cada color es una estrella -->
+<div class="ec-stars-wrapper">
+	<span href="#" data-value="1" style="color: var(--principal);">&#9733;</span>
+	<span href="#" data-value="2" style="color: var(--principal);">&#9733;</span>
+	<span href="#" data-value="3" style="color: var(--principal);">&#9733;</span>
+	<span href="#" data-value="4" style="color: var(--principal);">&#9733;</span>
+	<span href="#" data-value="5" style="color: var(--principal);">&#9733;</span>
+</div>
+
+<!-- Párrafo de introducción -->
+<p>Ahora queremos enseñarte todo lo que puedes disfrutar de este mágico destino. <strong>Todas estas fotografías son compartidas por los felices viajeros que hemos podido acompañar en sus vacaciones</strong>.
+<!-- excerpt --></p>
+
+<h2 id="fotografías-de-san-agustín-huila">Fotografías de San Agustín Huila</h2>
+
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+<section class="galeria">
+	
+	<a href="#img1">
+		<img src="/img/destinos/san-agustin-huila/alto-parque-arqueologico-san-agustin-mini.webp" alt="Alto en el parque arqueológico de San Agustín" loading="lazy" />
+	</a>
+	<div class="light-box" id="img1">
+		<img src="/img/destinos/san-agustin-huila/alto-parque-arqueologico-san-agustin.webp" alt="Alto en el parque arqueológico de San Agustín" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img2">
+		<img src="/img/destinos/san-agustin-huila/calle-loseria-san-agustin-mini.webp" alt="Calle de la losería en San Agustín Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img2">
+		<img src="/img/destinos/san-agustin-huila/calle-loseria-san-agustin.webp" alt="Calle de la losería en San Agustín Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img3">
+		<img src="/img/destinos/san-agustin-huila/cascada-tres-chorros-mini.webp" alt="Cascada Tres Chorros" loading="lazy" />
+	</a>
+	<div class="light-box" id="img3">
+		<img src="/img/destinos/san-agustin-huila/cascada-tres-chorros.webp" alt="Cascada Tres Chorros" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img4">
+		<img src="/img/destinos/san-agustin-huila/estatua-san-agustin-vertical.webp" alt="Estatua San Agustin Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img4">
+		<img src="/img/destinos/san-agustin-huila/estatua-piedra-san-agustin.webp" alt="Estatua San Agustin Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img5">
+		<img src="/img/destinos/san-agustin-huila/estatua-sentada-san-agustin-vertical.webp" alt="Estatua sentada San Agustin Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img5">
+		<img src="/img/destinos/san-agustin-huila/estatua-sentada-san-agustin.webp" alt="Estatua sentada San Agustin Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img6">
+		<img src="/img/destinos/san-agustin-huila/estatuas-san-agustin-huila-mini.webp" alt="Estatuas San Agustin Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img6">
+		<img src="/img/destinos/san-agustin-huila/estatuas-san-agustin-huila.webp" alt="Estatuas San Agustin Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img7">
+		<img src="/img/destinos/san-agustin-huila/lavadero-pies-san-agustin-vertical.webp" alt="Lavadero pies parque arqueolocigo" loading="lazy" />
+	</a>
+	<div class="light-box" id="img7">
+		<img src="/img/destinos/san-agustin-huila/lavadero-pies-san-agustin.webp" alt="Lavadero pies parque arqueolocigo" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img8">
+		<img src="/img/destinos/san-agustin-huila/loseria-san-agustin-huila-vertical.webp" alt="Calle de la losería en San Agustín" loading="lazy" />
+	</a>
+	<div class="light-box" id="img8">
+		<img src="/img/destinos/san-agustin-huila/loseria-san-agustin-huila.webp" alt="Calle de la losería en San Agustín" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img9">
+		<img src="/img/destinos/san-agustin-huila/pareja-estatuas-san-agustin-vertical.webp" alt="Estatuas parque arqueológico de San Agustin Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img9">
+		<img src="/img/destinos/san-agustin-huila/pareja-estatuas-san-agustin.webp" alt="Estatuas parque arqueológico de San Agustin Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img10">
+		<img src="/img/destinos/san-agustin-huila/parque-arqueologico-san-agustin-mini.webp" alt="Parque arqueológico de San Agustin Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img10">
+		<img src="/img/destinos/san-agustin-huila/parque-arqueologico-san-agustin.webp" alt="Parque arqueológico de San Agustin Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img11">
+		<img src="/img/destinos/san-agustin-huila/san-agustin-parque-vertical.webp" alt="Alto parque arqueológico de San Agustin Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img11">
+		<img src="/img/destinos/san-agustin-huila/san-agustin-parque.webp" alt="Alto parque arqueológico de San Agustin Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img12">
+		<img src="/img/destinos/san-agustin-huila/turismo-arqueologia-san-agustin-mini.webp" alt="Turistas San Agustín Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img12">
+		<img src="/img/destinos/san-agustin-huila/turismo-arqueologia-san-agustin.webp" alt="Turistas San Agustín Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img13">
+		<img src="/img/destinos/san-agustin-huila/turismo-cafe-san-agustin-mini.webp" alt="Turistas en zona cafetera de San Agustín Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img13">
+		<img src="/img/destinos/san-agustin-huila/turismo-cafe-san-agustin.webp" alt="Turistas en zona cafetera de San Agustín Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img14">
+		<img src="/img/destinos/san-agustin-huila/turista-san-agustin-vertical.webp" alt="Turistas en zona cafetera de San Agustín Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img14">
+		<img src="/img/destinos/san-agustin-huila/turista-san-agustin.webp" alt="Turistas en zona cafetera de San Agustín Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+
+</section>
+
+<h2 id="conoce-un-poco-más-de-san-agustín-huila-mágico">Conoce un poco más de San Agustín Huila Mágico</h2>
+
+<p>San Agustín está ubicado al sur del departamento del Huila, rodeado del paisaje del macizo colombiano y privilegiado por el legado del pueblo escultor con sus parques arqueológicos emblema: <strong>Parque Arqueológico de San Agustín y Alto de los Ídolos</strong>. Estos son uno de los misterios más grandes de las civilizaciones precolombinas, y han sido <strong>declarados Patrimonio de la Humanidad por la Unesco.</strong></p>
+
+<p>Tiene atractivos naturales como el Estrecho del Magdalena. Aquí nuestro río de la patria se reduce a 2,20mtrs de ancho. También la cascada Salto de Bordones, la segunda más alta de Colombia, ubicada en el vecino municipio de Isnos. Todos son sitios imperdibles en tu visita.</p>
+
+<h2 id="cómo-puedo-disfrutar-san-agustín-huila-mágico">¿Cómo puedo disfrutar San Agustín Huila Mágico?</h2>
+
+<p>😎 Aquí voy a poner los enlaces de los paquetes de cada tour</p>
+
+<h2 id="qué-debes-saber-antes-de-visitar-san-agustín-huila-mágico">¿Qué debes saber antes de visitar San Agustín Huila Mágico?</h2>
+
+<!-- La siguiente es una tabla de dos columnas. La primera columna son aspectos positivos. Comienza con el primer símbolo y termina en la línea vertical. La segunda columna son aspecto un poco negativos, no mucho. Estos comienzan en la X y terminan en el punto aparte. Se llena cada columna según el número de aspectos. Al ser más aspectos positivos que negativos, se dejan las filas hasta la línea vertical. Luego se copia la siguiente línea, se pega y se pone la siguiente fila con solo aspectos positivos  -->
+
+<table>
+  <tbody>
+    <tr>
+      <td>🔘 Sus parques fueron declarados patrimonio de la Humanidad</td>
+      <td>🔘 El aeropuerto más cercano queda a 40minutos en la ciudad de Pitalito Huila y sólo opera la aerolínea Satena</td>
+    </tr>
+    <tr>
+      <td>🔘 Diversidad de actividades para realizar: senderismo, actividades de aventura, agroturismo, turismo cultural y arqueológico</td>
+      <td>🔘 Estamos a 10 horas de Bogotá y 4 horas de Neiva y Popayán por vía terrestre</td>
+    </tr>
+    <tr>
+      <td>🔘 Gran diversidad gastronómica que te deleitará</td>
+      <td>🔘 Debes estar preparado para la lluvia y el sol, estamos en el corazón del Macizo Colombiano.</td>
+    </tr>
+    <tr>
+      <td>🔘 Es cuna de artistas y artesanos, por ello encontrarás sus calles adornadas de murales y de variedad de souvenirs artesanales</td>
+      <td>🔘 Si necesitas dinero en efectivo, sólo encontraras cajeros automáticos de Banco Bogotá y Servivanca y corresponsal bancario de Bancolombia</td>
+    </tr>
+    <tr>
+      <td>🔘 Región cafetera ganadora de taza de la excelencia, así que disfrutarás de cafés especiales en cada rincón</td>
+      <td>🔘 Cuenta con una gran infraestructura hotelera para todos los gustos y presupuestos</td>
+    </tr>
+    <tr>
+      <td>🔘 Su temperatura promedio es de 25ºC en el día y de 18ºC en la noche, un clima muy agradable</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="nuestros-planes-a-san-agustín">Nuestros planes a San Agustín</h2>
+
+<p>¿Te gustaría visitar San Agustín Huila? Mira lo que Colombia Viajera tiene para ti:</p>
+
+<ul>
+  <li>🎒 <a href="/cultura/tour-san-agustin-huila/" title="Tour a San Agustín - La magia de San Agustín">Tour San Agustín Huila Mágico</a></li>
+  <li>🎒 <a href="/cultura/naturaleza/tour-experiencia-campesina/" title="Tour a San Agustín - Experiencias Campesinas">Experiencias Campesinas</a></li>
+  <li>🎒 <a href="/naturaleza/tour-san-agustin-extremo/" title="Tour a San Agustín - San Agustín extremo y natural">San Agustín extremo y natural</a></li>
+  <li>🎒 <a href="/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/" title="Tour Tatacoa y San Agustíns">Desierto de la Tatacoa y San Agustín</a></li>
+  <li>🎒 <a href="/cultura/tour-tierradentro-san-agustin/" title="Tour a San Agustín - San Agustín y Tierradentro">San Agustín y Tierradentro Cauca, Patrimonios de la Humanidad</a></li>
+  <li>🎒 <a href="/cultura/tour-tatacoa-tierradentro-san-agustin/" title="Tour a San Agustín - San Agustín, Tierradentro y Tatacoa">Tatacoa, Tierradentro y San Agustín</a></li>
+  <li>🎒 <a href="/naturaleza/tour-travesia-macizo-colombiano/" title="Tour Travesía Macizo Colombiano">Travesía Macizo Colombiano</a></li>
+</ul>
+:ET

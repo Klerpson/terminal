@@ -1,0 +1,31 @@
+.share-box a {
+  display: inline-block;
+  box-shadow: 0 0 1px #777;
+  padding: 5px 12px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+
+.share-box a:hover {
+  text-decoration: none;
+  transition: background-color 200ms linear;
+}
+
+.f {
+  color: #3b5998;
+}
+
+.f:hover {
+  color: #fff;
+  background-color: #3b5998;
+}
+
+.i {
+  color: #5bd336;
+}
+
+.i:hover {
+  color: #fff;
+  background-color: #43d336;
+}

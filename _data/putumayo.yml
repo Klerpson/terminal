@@ -1,0 +1,49 @@
+- img: putumayo/senderos-putumayo-mini.webp
+  popup: putumayo/senderos-putumayo.webp
+  alt: Senderos del Putumayo
+  numero: 1
+
+- img: putumayo/rios-putumayo-mini.webp
+  popup: putumayo/rios-putumayo.webp
+  alt: Ríos Putumayo
+  numero: 2
+
+- img: putumayo/puentes-colgantes-putumayo-vertical.webp
+  popup: putumayo/puentes-colgantes-putumayo.webp
+  alt: Puente colgante Putumayo
+  numero: 3
+
+- img: putumayo/rio-putumayo-vertical.webp
+  popup: putumayo/rio-putumayo.webp
+  alt: Río Putumayo
+  numero: 4
+
+- img: putumayo/fin-del-mundo-mocoa-vertical.webp
+  popup: putumayo/fin-del-mundo-mocoa.webp
+  alt: Cascada fin del mundo Mocoa
+  numero: 5
+
+- img: putumayo/reserva-mocoa-mini.webp
+  popup: putumayo/reserva-mocoa.webp
+  alt: Reserva Natural Mocoa
+  numero: 6
+
+- img: putumayo/cea-putumayo-mini.webp
+  popup: putumayo/cea-putumayo.webp
+  alt: Estrecho Magdalena San Agustin Huila
+  numero: 7
+
+- img: putumayo/sendero-fin-del-mundo-mini.webp
+  popup: putumayo/sendero-fin-del-mundo.webp
+  alt: Cabalgata en San Agustín
+  numero: 8
+
+- img: putumayo/sendero-ojo-de-dios-vertical.webp
+  popup: putumayo/sendero-ojo-de-dios.webp
+  alt: Paseo extremo San Agustin Huila
+  numero: 9
+
+- img: putumayo/rios-del-putumayo-mini.webp
+  popup: putumayo/rios-del-putumayo.webp
+  alt: La Chaquira de San Agustin Huila
+  numero: 10

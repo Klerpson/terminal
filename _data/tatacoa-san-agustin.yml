@@ -1,0 +1,49 @@
+- img: tatacoa/turistas-desierto-tatacoa-mini.webp
+  alt: Tursitas desierto tatacoa
+  popup: tatacoa/turistas-desierto-tatacoa.webp
+  numero: 1
+
+- img: tatacoa/desierto-tatacoa-zona-ventanas-mini.webp
+  alt: zona ventanas desierto tatacoa
+  popup: tatacoa/desierto-tatacoa-zona-ventanas.webp
+  numero: 2
+
+- img: san-agustin-huila/pareja-estatuas-san-agustin-vertical.webp
+  alt: Estatuas San Agustín Huila
+  popup: san-agustin-huila/pareja-estatuas-san-agustin.webp
+  numero: 3
+
+- img: tatacoa/moto-taxi-desierto-tatacoa-mini.webp
+  alt: Mototaxi en el desierto de la Tatacoa
+  popup: tatacoa/moto-taxi-desierto-tatacoa.webp
+  numero: 4
+
+- img: tatacoa/grupo-turistas-desierto-tatacoa-mini.webp
+  alt: Grupo turistas en el desierto de la Tatacoa
+  popup: tatacoa/grupo-turistas-desierto-tatacoa.webp
+  numero: 5
+
+- img: tatacoa/ropa-turistas-desierto-tatacoa-vertical.webp
+  alt: Ropa turistas desierto de la Tatacoa
+  popup: tatacoa/ropa-turistas-desierto-tatacoa.webp
+  numero: 6
+
+- img: san-agustin-huila/turistas-estrecho-magdalena-mini.webp
+  alt: Turistas estrecho magdalena
+  popup: san-agustin-huila/turistas-estrecho-magdalena.webp
+  numero: 7
+
+- img: san-agustin-huila/estatuas-san-agustin-huila-mini.webp
+  alt: Mesita alta parque arqueológico
+  popup: san-agustin-huila/estatuas-san-agustin-huila.webp
+  numero: 8
+
+- img: tatacoa/tour-desierto-tatacoa-vertical.webp
+  alt: Tour en el desierto de la Tatacoa
+  popup: tatacoa/tour-desierto-tatacoa.webp
+  numero: 9
+
+- img: san-agustin-huila/calle-loseria-san-agustin-mini.webp
+  alt: Calle losería san agustin
+  popup: san-agustin-huila/calle-loseria-san-agustin.webp
+  numero: 10

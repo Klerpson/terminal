@@ -1,0 +1,130 @@
+I"�<h1 id="paicol-naturaleza-y-aventura">Paicol naturaleza y aventura</h1>
+
+<p>Un plan perfecto de fin de semana para vivir una aventura natural en el municipio de Paicol en el Huila. Senderismo y baños recreativos en sus piscinas y cascadas naturales.</p>
+
+<!-- excerpt -->
+
+<p>Explora la Caja de Agua, sus formaciones rocosas y fuentes de agua subterráneas y vive la adrenalina haciendo rafting por las aguas del río Paéz. Llenaras tus días de total conexión con la naturaleza en este maravilloso destino.</p>
+
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+<section class="galeria">
+	
+	<a href="#img1">
+		<img src="/img/destinos/paicol/disfrutando-cascadas-paicol-vertical.webp" alt="Cascadas de Paicol" loading="lazy" />
+	</a>
+	<div class="light-box" id="img1">
+		<img src="/img/destinos/paicol/disfrutando-cascadas-paicol.webp" alt="Cascadas de Paicol" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img2">
+		<img src="/img/destinos/paicol/arquitectura-paicol-vertical.webp" alt="Arquitectura de Paicol" loading="lazy" />
+	</a>
+	<div class="light-box" id="img2">
+		<img src="/img/destinos/paicol/arquitectura-paicol.webp" alt="Arquitectura de Paicol" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img3">
+		<img src="/img/destinos/paicol/visita-cuevas-paicol-mini.webp" alt="Cuevas en Paicol" loading="lazy" />
+	</a>
+	<div class="light-box" id="img3">
+		<img src="/img/destinos/paicol/visita-cuevas-paicol.webp" alt="Cuevas en Paicol" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img4">
+		<img src="/img/destinos/paicol/paisaje-paicol-mini.webp" alt="Estatuas de piedra en San Agustín Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img4">
+		<img src="/img/destinos/paicol/paisaje-paicol.webp" alt="Estatuas de piedra en San Agustín Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img5">
+		<img src="/img/destinos/paicol/paseo-cuevas-paicol-mini.webp" alt="Desierto paicol" loading="lazy" />
+	</a>
+	<div class="light-box" id="img5">
+		<img src="/img/destinos/paicol/paseo-cuevas-paicol.webp" alt="Desierto paicol" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img6">
+		<img src="/img/destinos/paicol/paseo-paicol-cuevas-mini.webp" alt="Turismo en San Agustín" loading="lazy" />
+	</a>
+	<div class="light-box" id="img6">
+		<img src="/img/destinos/paicol/paseo-paicol-cuevas.webp" alt="Turismo en San Agustín" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img7">
+		<img src="/img/destinos/paicol/cascadas-de-paicol-huila.webp" alt="Cascadas de Paicol" loading="lazy" />
+	</a>
+	<div class="light-box" id="img7">
+		<img src="/img/destinos/paicol/cascadas-paicol.webp" alt="Cascadas de Paicol" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img8">
+		<img src="/img/destinos/paicol/navegando-rio-paicol-mini.webp" alt="Navegando rio Paicol" loading="lazy" />
+	</a>
+	<div class="light-box" id="img8">
+		<img src="/img/destinos/paicol/navegando-rio-paicol.webp" alt="Navegando rio Paicol" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img9">
+		<img src="/img/destinos/paicol/cascadas-paicol-huila-vertical.webp" alt="Cascadas Paicol Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img9">
+		<img src="/img/destinos/paicol/cascadas-paicol-huila.webp" alt="Cascadas Paicol Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img10">
+		<img src="/img/destinos/paicol/turismo-paicol-vertical.webp" alt="Turismo Paicol Huila" loading="lazy" />
+	</a>
+	<div class="light-box" id="img10">
+		<img src="/img/destinos/paicol/turismo-paicol.webp" alt="Turismo Paicol Huila" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+
+</section>
+
+<ul>
+  <li>✔️ <strong>Tarifa desde:</strong> $370.000 por persona</li>
+  <li>✔️ <strong>Duración:</strong> 3 días</li>
+  <li>✔️ <strong>Fecha:</strong> todos los días previa reserva</li>
+  <li>✔️ <strong>Incluye:</strong>
+    <ul>
+      <li><strong>Alojamiento:</strong> dos noches en hotel estándar en Paicol Huila. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.</li>
+      <li><strong>Alimentación:</strong> 2 desayunos</li>
+      <li><strong>Otros:</strong> seguro de viajes, entrada a los atractivos a visitar, transfer desde el hotel de Paicol a cada uno de los atractivos naturales.</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p><a href="https://api.whatsapp.com/send?phone=+573209673925&amp;text=Hola.%20Me%20encantar%C3%ADa%20saber%20m%C3%A1s%20sobre%20este%20paquete:%20Paicol%20naturaleza%20y%20aventura">Conseguir este paquete</a></p>
+</blockquote>
+
+<h2 id="qué-actividades-incluye-este-paquete">¿Qué actividades incluye este paquete?</h2>
+
+<p><strong>Recorridos guiados a la Caja de Agua</strong> en Paicol donde haremos espeleología, <strong>senderismo y baño de recreación</strong> en las cascadas la serpiente en la quebrada la Motilona y <strong>rafting nivel 3</strong> sobre las aguas del rio Paéz.</p>
+
+<p><strong>No incluye:</strong> Transporte para llegar a Paicol, punto de inicio y finalización del viaje. Puedes adicionar transportes privados desde Bogotá y Neiva. Alimentación no estipulada en el plan ¡Dejamos que explores la gastronomía local a tu gusto! Actividades y/o visitas no estipuladas en el plan.</p>
+
+<blockquote>
+  <p><a href="https://api.whatsapp.com/send?phone=+573209673925&amp;text=Hola.%20Me%20encantar%C3%ADa%20saber%20m%C3%A1s%20sobre%20este%20paquete:%20Paicol%20naturaleza%20y%20aventura">Conseguir este paquete</a></p>
+</blockquote>
+
+<!-- <section class="parallax testimonio2">
+    <img src="/img/testimonios/luis-carlos-nohemi-colombia-viajera.webp" alt="">
+    <q>Gracias por ofrecernos y diseñarnos un plan tan bien estructurado. Fue un paseo inolvidable - NOHEMÍ</q>
+</section> -->
+
+<h2 id="cómo-llegar-a-paicol-en-el-huila">¿Cómo llegar a Paicol en el Huila?</h2>
+
+<p>Consulta nuestro post <a href="/"><strong>pendiente</strong></a></p>
+:ET

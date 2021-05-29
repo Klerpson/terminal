@@ -1,0 +1,10 @@
+<section class="categorias">
+<h3>¡Viajar por Colombia es maravilloso!</h3>
+<p>¿A qué parte de Colombia deseas llegar? <strong>Aquí están todas las terminales de Colombia separadas por ciudades. Haz clic en la que necesitas para ir directamente a su información</strong></p>
+  {% for category in site.categories %}
+  <div class="wow fadeInUpBig">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <a href="{{ site.baseurl }}/#{{ category_name }}">{{ category_name | capitalize }}</a>
+  </div>
+  {% endfor %}
+</section>

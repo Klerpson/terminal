@@ -1,0 +1,49 @@
+- img: guaviare/pinturas-guaviare-vertical.webp
+  popup: guaviare/pinturas-guaviare.webp
+  alt: Pinturas rupestres en el Guaviare
+  numero: 1
+
+- img: guaviare/turismo-rios-guaviare-mini.webp
+  popup: guaviare/turismo-rios-guaviare.webp
+  alt: Turismo en los ríos del Guaviare
+  numero: 2
+
+- img: guaviare/cerro-azul-guaviare-mini.webp
+  popup: guaviare/cerro-azul-guaviare.webp
+  alt: Entrada a Cerro Azul Guaviare
+  numero: 3
+
+- img: guaviare/rocas-gigantes-guaviare-vertical.webp
+  popup: guaviare/rocas-gigantes-guaviare.webp
+  alt: Turistas en el Guaviare
+  numero: 4
+
+- img: guaviare/cuevas-guaviare-vertical.webp
+  popup: guaviare/cuevas-guaviare.webp
+  alt: Rocas gigantes en el Guaviare
+  numero: 5
+
+- img: guaviare/turismo-navegando-rio-guaviare-mini.webp
+  popup: guaviare/turismo-navegando-rio-guaviare.webp
+  alt: Turistas navegando en el río Guaviare
+  numero: 6
+
+- img: guaviare/turistas-guaviare-vertical.webp
+  popup: guaviare/turistas-guaviare.webp
+  alt: Turistas en el Guaviare
+  numero: 7
+
+- img: guaviare/navegando-en-guaviare-mini.webp
+  popup: guaviare/navegando-en-guaviare.webp
+  alt: navegando en el río guaviare
+  numero: 8
+
+- img: guaviare/recorriendo-cuevas-guaviare-mini.webp
+  popup: guaviare/recorriendo-cuevas-guaviare.webp
+  alt: Recorriendo cuevas en el Guaviare
+  numero: 9
+
+- img: guaviare/pinturas-rupestres-guaviare-mini.webp
+  popup: guaviare/pinturas-rupestres-guaviare.webp
+  alt: Parque arqueológico de San Agustin Huila
+  numero: 10

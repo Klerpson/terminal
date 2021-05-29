@@ -1,0 +1,49 @@
+- img: tatacoa/navegando-tour-tatacoa-exotica-vertical.webp
+  alt: Tour en el desierto de la Tatacoa navegando en el río
+  popup: tatacoa/navegando-tour-tatacoa-exotica.webp
+  numero: 1
+
+- img: tatacoa/turistas-desierto-tatacoa-mini.webp
+  alt: Turistas en el desierto de la Tatacoa
+  popup: tatacoa/turistas-desierto-tatacoa.webp
+  numero: 2
+
+- img: tatacoa/noche-tatacoa-exotica-mini.webp
+  alt: Noches en el desierto de la Tatacoa
+  popup: tatacoa/noche-tatacoa-exotica.webp
+  numero: 3
+
+- img: tatacoa/experiencias-desierto-tatacoa-mini.webp
+  alt: Experiencias en el desierto de la Tatacoa
+  popup: tatacoa/experiencias-desierto-tatacoa.webp
+  numero: 4
+
+- img: tatacoa/turismo-desierto-tatacoa-vertical.webp
+  alt: Turismo en el desierto de la Tatacoa
+  popup: tatacoa/turismo-desierto-tatacoa.webp
+  numero: 5
+
+- img: tatacoa/museo-tatacoa-vertical.webp
+  alt: Museo en el desierto de la Tatacoa
+  popup: tatacoa/museo-tatacoa.webp
+  numero: 6
+
+- img: tatacoa/arquitectura-desierto-tatacoa-mini.webp
+  alt: Arquitectura en el desierto de la Tatacoa
+  popup: tatacoa/arquitectura-desierto-tatacoa.webp
+  numero: 7
+
+- img: tatacoa/sendero-hoyos-tatacoa-mini.webp
+  alt: Sendero de los Hoyos desierto de la Tatacoa
+  popup: tatacoa/sendero-hoyos-tatacoa.webp
+  numero: 8
+
+- img: tatacoa/sol-luna-tatacoa-vertical.webp
+  alt: Restaurante en el desierto de la Tatacoa
+  popup: tatacoa/sol-luna-tatacoa.webp
+  numero: 9
+
+- img: tatacoa/fotografia-desierto-tatacoa-vertical.webp
+  alt: Fotografía desierto de la Tatacoa
+  popup: tatacoa/fotografia-desierto-tatacoa.webp
+  numero: 10

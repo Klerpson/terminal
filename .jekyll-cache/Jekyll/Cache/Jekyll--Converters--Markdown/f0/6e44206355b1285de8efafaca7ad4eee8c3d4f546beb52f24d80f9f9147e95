@@ -1,0 +1,128 @@
+I"�<h1 id="desierto-de-la-tatacoa-exótico">Desierto de la Tatacoa Exótico</h1>
+
+<p>Disfruta de un paisaje de ensueño recorriendo los exóticos lugares del Desierto de la Tatacoa, en la noche contempla los millones de estrellas que forman la vía láctea y las diferentes constelaciones que enmarcan el firmamento, refréscate con un paseo en canoa a motor por el río Magdalena y contempla el atardecer al paso de un caballo.</p>
+
+<!-- excerpt -->
+
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin-tour.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+<section class="galeria">
+	
+	<a href="#img1">
+		<img src="/img/destinos/tatacoa/navegando-tour-tatacoa-exotica-vertical.webp" alt="Tour en el desierto de la Tatacoa navegando en el río" loading="lazy" />
+	</a>
+	<div class="light-box" id="img1">
+		<img src="/img/destinos/tatacoa/navegando-tour-tatacoa-exotica.webp" alt="Tour en el desierto de la Tatacoa navegando en el río" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img2">
+		<img src="/img/destinos/tatacoa/turistas-desierto-tatacoa-mini.webp" alt="Turistas en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img2">
+		<img src="/img/destinos/tatacoa/turistas-desierto-tatacoa.webp" alt="Turistas en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img3">
+		<img src="/img/destinos/tatacoa/noche-tatacoa-exotica-mini.webp" alt="Noches en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img3">
+		<img src="/img/destinos/tatacoa/noche-tatacoa-exotica.webp" alt="Noches en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img4">
+		<img src="/img/destinos/tatacoa/experiencias-desierto-tatacoa-mini.webp" alt="Experiencias en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img4">
+		<img src="/img/destinos/tatacoa/experiencias-desierto-tatacoa.webp" alt="Experiencias en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img5">
+		<img src="/img/destinos/tatacoa/turismo-desierto-tatacoa-vertical.webp" alt="Turismo en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img5">
+		<img src="/img/destinos/tatacoa/turismo-desierto-tatacoa.webp" alt="Turismo en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img6">
+		<img src="/img/destinos/tatacoa/museo-tatacoa-vertical.webp" alt="Museo en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img6">
+		<img src="/img/destinos/tatacoa/museo-tatacoa.webp" alt="Museo en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img7">
+		<img src="/img/destinos/tatacoa/arquitectura-desierto-tatacoa-mini.webp" alt="Arquitectura en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img7">
+		<img src="/img/destinos/tatacoa/arquitectura-desierto-tatacoa.webp" alt="Arquitectura en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img8">
+		<img src="/img/destinos/tatacoa/sendero-hoyos-tatacoa-mini.webp" alt="Sendero de los Hoyos desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img8">
+		<img src="/img/destinos/tatacoa/sendero-hoyos-tatacoa.webp" alt="Sendero de los Hoyos desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img9">
+		<img src="/img/destinos/tatacoa/sol-luna-tatacoa-vertical.webp" alt="Restaurante en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img9">
+		<img src="/img/destinos/tatacoa/sol-luna-tatacoa.webp" alt="Restaurante en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img10">
+		<img src="/img/destinos/tatacoa/fotografia-desierto-tatacoa-vertical.webp" alt="Fotografía desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img10">
+		<img src="/img/destinos/tatacoa/fotografia-desierto-tatacoa.webp" alt="Fotografía desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+
+</section>
+
+<ul>
+  <li>✔️ <strong>Tarifa desde:</strong> $430.000 por persona</li>
+  <li>✔️ <strong>Duración:</strong> 3 días</li>
+  <li>✔️ <strong>Fecha:</strong> todos los días previa reserva</li>
+  <li>✔️ <strong>Incluye:</strong>
+    <ul>
+      <li><strong>Alojamiento:</strong> dos noches en hotel estándar en Villavieja. Las acomodaciones son sencillas si viajas solo. Dobles, triples y cuádruples para dos personas en adelante.</li>
+      <li><strong>Alimentación:</strong> 2 desayunos</li>
+      <li><strong>Otros:</strong> seguro de viajes, entrada a los parques arqueológicos a visitar.</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p><a href="https://api.whatsapp.com/send?phone=+573209673925&amp;text=Hola.%20Me%20encantar%C3%ADa%20saber%20m%C3%A1s%20sobre%20este%20paquete:%20Tatacoa%20Ex%C3%B3tica">Conseguir este paquete</a></p>
+</blockquote>
+
+<h2 id="qué-actividades-incluye-este-paquete">¿Qué actividades incluye este paquete?</h2>
+
+<p><strong>Recorridos guiados al desierto de la Tatacoa</strong>, visitando sectores el Cuzco, Ventanas y los Hoyos, <strong>baño opcional</strong> en las piscinas del Desierto. <strong>Observación astronómica en la Tatacoa</strong>. <strong>Paseo en canoa</strong> por el río Magdalena. <strong>City tour</strong> por Villavieja visitando el museo Paleontológico y del Totumo. <strong>Cabalgata por el Desierto</strong> de la Tatacoa para ver el atardecer.</p>
+
+<p><strong>No incluye:</strong> Transporte para llegar a Villavieja, punto de inicio y final del viaje. Puedes adicionar transportes privados desde Bogotá y Neiva. Alimentación no estipulada en el plan ¡Dejamos que explores la gastronomía local a tu gusto! Actividades y/o visitas no estipuladas en el plan.</p>
+
+<blockquote>
+  <p><a href="https://api.whatsapp.com/send?phone=+573209673925&amp;text=Hola.%20Me%20encantar%C3%ADa%20saber%20m%C3%A1s%20sobre%20este%20paquete:%20Tatacoa%20Ex%C3%B3tica">Conseguir este paquete</a></p>
+</blockquote>
+
+<!-- <section class="parallax testimonio3">
+    <img src="/img/testimonios/alberto-sanchez-colombia-viajera.webp" alt="">
+    <q>Los guías fueron de gran ayuda. El personal, las instalaciones de los hospedajes, todo muy bien. Felicitaciones - JOSE SÁNCHEZ</q>
+</section> -->
+
+<h2 id="cómo-llegar-a-villavieja--en-el-huila">¿Cómo llegar a Villavieja  en el Huila?</h2>
+
+<p>Consulta nuestro post <a href="/tour-estrellas-desierto-tatacoa/">“CIELOS ESTRELLADOS EN LA TATACOA”</a></p>
+:ET

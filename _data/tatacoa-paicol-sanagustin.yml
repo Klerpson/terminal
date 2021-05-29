@@ -1,0 +1,49 @@
+- img: tatacoa/experiencias-desierto-tatacoa-mini.webp
+  popup: tatacoa/experiencias-desierto-tatacoa.webp
+  alt: Experiencias en el desierto de la tatacoa
+  numero: 1
+
+- img: paicol/paseo-paicol-cuevas-mini.webp
+  popup: paicol/paseo-paicol-cuevas.webp
+  alt: Paseo a cuevas en Paicol
+  numero: 2
+
+- img: paicol/cascadas-de-paicol-huila.webp
+  popup: paicol/cascadas-paicol.webp
+  alt: Cascadas de paicol Huila
+  numero: 3
+
+- img: san-agustin-huila/estatua-san-agustin-vertical.webp
+  popup: san-agustin-huila/estatua-piedra-san-agustin.webp
+  alt: Estatuas de piedra en San Agustín Huila
+  numero: 4
+
+- img: tatacoa/paseo-desierto-tatacoa-vertical.webp
+  popup: tatacoa/paseo-desierto-tatacoa.webp
+  alt: Desierto Tatacoa
+  numero: 5
+
+- img: san-agustin-huila/paseo-balcon-san-agustin-vertical.webp
+  popup: san-agustin-huila/paseo-balcon-san-agustin.webp
+  alt: Turismo en San Agustín
+  numero: 6
+
+- img: paicol/visita-cuevas-paicol-mini.webp
+  popup: paicol/visita-cuevas-paicol.webp
+  alt: Cuevas en Paicol
+  numero: 7
+
+- img: san-agustin-huila/visitantes-parque-arqueologico-mini.webp
+  popup: san-agustin-huila/visitantes-parque-arqueologico.webp
+  alt: Visitantes al parque arqueológico San Agustín
+  numero: 8
+
+- img: san-agustin-huila/estrecho-magdalena-turistas-mini.webp
+  popup: san-agustin-huila/estrecho-magdalena-turistas.webp
+  alt: Estrecho del río Magdalena
+  numero: 9
+
+- img: tatacoa/noche-tatacoa-exotica-mini.webp
+  popup: tatacoa/noche-tatacoa-exotica.webp
+  alt: Desierto de la Tatacoa en la noche
+  numero: 10

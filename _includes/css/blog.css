@@ -1,0 +1,13 @@
+.magazine {
+  padding: 4em 2rem;
+}
+
+.magazine h1{
+  font-family: var(--fuenteTitulos);
+  font-size: calc(100% * 2.5);
+  line-height: 1.1;
+}
+
+.magazine p{
+  font-family: var(--fuenteTexto);
+}

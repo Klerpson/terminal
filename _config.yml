@@ -1,0 +1,24 @@
+baseurl: ''
+url: 'terminalesdetransporte.com'
+name: Terminales de Transporte de Colombia
+author: Julian Franco
+email: info@terminalesdetransporte.com
+instagram: https://instagram.com/lacolombiaviajera
+# whatsapp: https://wa.me/3209673925
+
+markdown: kramdown
+
+permalink: :slug
+
+
+keep_files: [/img]
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []

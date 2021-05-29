@@ -1,0 +1,49 @@
+- img: guaviare/navegando-rio-guejar-mini.webp
+  popup: guaviare/navegando-rio-guejar.webp
+  alt: Río Guejar Guaviare
+  numero: 1
+
+- img: guaviare/aventura-rio-guejar-mini.webp
+  popup: guaviare/aventura-rio-guejar.webp
+  alt: Aventura Río Guejar
+  numero: 2
+
+- img: guaviare/sendero-rio-guejar-vertical.webp
+  popup: guaviare/sendero-rio-guejar.webp
+  alt: Sendero Río Guejar
+  numero: 3
+
+- img: guaviare/rio-guejar-guaviare-mini.webp
+  popup: guaviare/rio-guejar-guaviare.webp
+  alt: Río Guejar Guaviare
+  numero: 4
+
+- img: guaviare/canon-guejar-vertical.webp
+  popup: guaviare/canon-guejar.webp
+  alt: Cañón río Guejar
+  numero: 5
+
+- img: guaviare/turismo-rio-guejar-mini.webp
+  popup: guaviare/turismo-rio-guejar.webp
+  alt: Turistas en el río Guejar
+  numero: 6
+
+- img: guaviare/paisajes-del-meta-mini.webp
+  popup: guaviare/paisajes-del-meta.webp
+  alt: Turistas en el Guaviare
+  numero: 7
+
+- img: guaviare/cascadas-del-meta-mini.webp
+  popup: guaviare/cascadas-del-meta.webp
+  alt: Cascadas en el río guaviare
+  numero: 8
+
+- img: guaviare/atardecer-meta-mini.webp
+  popup: guaviare/atardecer-meta.webp
+  alt: Atardeceres en el Meta
+  numero: 9
+
+- img: guaviare/tursitas-rio-guejar-mini.webp
+  popup: guaviare/tursitas-rio-guejar.webp
+  alt: Turistas en el río Guejar
+  numero: 10

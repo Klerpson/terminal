@@ -1,0 +1,12 @@
+<section class="servicios">
+  <h2>Tus viajes con <span>Colombia Viajera</span> tienen:</h2>
+  <ul>
+    {% for servicio in site.data.servicios %}
+    <li class="wow pulse">
+      <h3>{{servicio.titulo}}</h3>
+      <p>{{servicio.parrafo}}</p>
+      <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="address-card" class="svg-inline--fa fa-address-card fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="rgba(52, 209, 191, 0.5)" d="{{servicio.icono}}"></path></svg>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

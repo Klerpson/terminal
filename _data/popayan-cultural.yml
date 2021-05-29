@@ -1,0 +1,49 @@
+- img: popayan/popayan-tradicional-mini.webp
+  popup: popayan/popayan-tradicional.webp
+  alt: Arquitectura tradicionalPopayán
+  numero: 1
+
+- img: popayan/balcones-popayan-vertical.webp
+  alt: Balcones de la arquitectura colonial de Popayán
+  popup: popayan/balcones-popayan.webp
+  numero: 2
+
+- img: popayan/popayan-panorama-vertical.webp
+  alt: Panorama de Popayán
+  popup: popayan/popayan-panorama.webp
+  numero: 3
+
+- img: popayan/centro-popayan-cauca-vertical.webp
+  alt: Popayán es la Ciudad Blanca del Cauca
+  popup: popayan/centro-popayan-cauca.webp
+  numero: 4
+
+- img: popayan/comida-tipica-popayan-cauca-mini.webp
+  alt: Gastronomía caucana
+  popup: popayan/comida-tipica-popayan-cauca.webp
+  numero: 5
+
+- img: popayan/arquitectura-popayan-mini.webp
+  alt: Arquitectura de Popayán
+  popup: popayan/arquitectura-popayan.webp
+  numero: 6
+
+- img: popayan/atardecer-popayan-mini.webp
+  alt: Atardecer popayan
+  popup: popayan/atardecer-popayan.webp
+  numero: 7
+
+- img: popayan/parque-popayan-vertical.webp
+  alt: Parque de Popayán Cauca
+  popup: popayan/parque-popayan.webp
+  numero: 8
+
+- img: popayan/popayan-puente-mini.webp
+  alt: Puente de Popayán Cauca
+  popup: popayan/popayan-puente.webp
+  numero: 9
+
+- img: popayan/edificio-popayan-vertical.webp
+  alt: Puerta colonial de Popayán Cauca
+  popup: popayan/edificio-popayan.webp
+  numero: 10

@@ -1,0 +1,49 @@
+- img: paicol/disfrutando-cascadas-paicol-vertical.webp
+  popup: paicol/disfrutando-cascadas-paicol.webp
+  alt: Cascadas de Paicol
+  numero: 1
+
+- img: paicol/arquitectura-paicol-vertical.webp
+  popup: paicol/arquitectura-paicol.webp
+  alt: Arquitectura de Paicol
+  numero: 2
+
+- img: paicol/visita-cuevas-paicol-mini.webp
+  popup: paicol/visita-cuevas-paicol.webp
+  alt: Cuevas en Paicol
+  numero: 3
+
+- img: paicol/paisaje-paicol-mini.webp
+  popup: paicol/paisaje-paicol.webp
+  alt: Estatuas de piedra en San Agustín Huila
+  numero: 4
+
+- img: paicol/paseo-cuevas-paicol-mini.webp
+  popup: paicol/paseo-cuevas-paicol.webp
+  alt: Desierto paicol
+  numero: 5
+
+- img: paicol/paseo-paicol-cuevas-mini.webp
+  popup: paicol/paseo-paicol-cuevas.webp
+  alt: Turismo en San Agustín
+  numero: 6
+
+- img: paicol/cascadas-de-paicol-huila.webp
+  popup: paicol/cascadas-paicol.webp
+  alt: Cascadas de Paicol
+  numero: 7
+
+- img: paicol/navegando-rio-paicol-mini.webp
+  popup: paicol/navegando-rio-paicol.webp
+  alt: Navegando rio Paicol
+  numero: 8
+
+- img: paicol/cascadas-paicol-huila-vertical.webp
+  popup: paicol/cascadas-paicol-huila.webp
+  alt: Cascadas Paicol Huila
+  numero: 9
+
+- img: paicol/turismo-paicol-vertical.webp
+  popup: paicol/turismo-paicol.webp
+  alt: Turismo Paicol Huila
+  numero: 10

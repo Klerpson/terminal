@@ -1,0 +1,49 @@
+- img: tatacoa/cabras-desierto-tatacoa-mini.webp
+  alt: Cabras en el desierto de la Tatacoa
+  popup: tatacoa/cabras-desierto-tatacoa.webp
+  numero: 1
+
+- img: tatacoa/desierto-tatacoa-huila-mini.webp
+  alt: Panorámica del desierto de la Tatacoa
+  popup: tatacoa/desierto-tatacoa-huila.webp
+  numero: 2
+
+- img: tatacoa/desierto-tatacoa-turista-mini.webp
+  alt: Turista en el desierto de la Tatacoa
+  popup: tatacoa/desierto-tatacoa-turista.webp
+  numero: 3
+
+- img: tatacoa/desierto-tatacoa-zona-gris-mini.webp
+  alt: La llamada zona gris del desierto de la Tatacoa
+  popup: tatacoa/desierto-tatacoa-zona-gris.webp
+  numero: 4
+
+- img: tatacoa/desierto-tatacoa-zona-ventanas-mini.webp
+  alt: La llamada zona ventanas del desierto de la Tatacoa
+  popup: tatacoa/desierto-tatacoa-zona-ventanas.webp
+  numero: 5
+
+- img: tatacoa/laberintos-desierto-tatacoa-vertical.webp
+  alt: Laberintos en el desierto de la Tatacoa
+  popup: tatacoa/laberintos-desierto-tatacoa.webp
+  numero: 6
+
+- img: tatacoa/museo-tatacoa-vertical.webp
+  alt: Museo en el desierto de la Tatacoa
+  popup: tatacoa/museo-tatacoa.webp
+  numero: 7
+
+- img: tatacoa/plantas-desierto-tatacoa-vertical.webp
+  alt: Museo en el desierto de la Tatacoa
+  popup: tatacoa/plantas-desierto-tatacoa.webp
+  numero: 8
+
+- img: tatacoa/souvenir-desierto-tatacoa-vertical.webp
+  alt: Mercado de recuerdos en el desierto de la Tatacoa
+  popup: tatacoa/souvenir-desierto-tatacoa.webp
+  numero: 9
+
+- img: tatacoa/tatacoa-atardecer-vertical.webp
+  alt: Hermoso atardecer en el desierto de la Tatacoa
+  popup: tatacoa/tatacoa-atardecer.webp
+  numero: 10

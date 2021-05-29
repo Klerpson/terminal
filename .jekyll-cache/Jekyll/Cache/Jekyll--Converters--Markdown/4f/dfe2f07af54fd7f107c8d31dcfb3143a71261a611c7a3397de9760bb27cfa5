@@ -1,0 +1,161 @@
+I"�"<h1 id="cielos-estrellados-en-la-tatacoa">Cielos estrellados en la Tatacoa</h1>
+
+<!-- Calificación de las estrellas. Cada color es una estrella -->
+<div class="ec-stars-wrapper">
+	<span href="#" data-value="1" style="color: var(--principal);">&#9733;</span>
+	<span href="#" data-value="2" style="color: var(--principal);">&#9733;</span>
+	<span href="#" data-value="3" style="color: var(--principal);">&#9733;</span>
+	<span href="#" data-value="4" style="color: var(--principal);">&#9733;</span>
+	<span href="#" data-value="5" style="color: var(--principal);">&#9733;</span>
+</div>
+
+<!-- Párrafo de introducción -->
+<p>Un cielo estrellado que te marcará para toda la vida. <strong>Todas estas fotografías son compartidas por los felices viajeros que hemos podido acompañar en sus vacaciones</strong>.
+<!-- excerpt --></p>
+
+<h2 id="fotografías-de-san-agustín-huila">Fotografías de San Agustín Huila</h2>
+
+<!-- Esta sección toma las fotos de los nombres que aparecen en el archivo san-agustin.yml. Si deseas cambiar fotos, solamente cambias la ruta en ese archivo con el nombre de la nueva foto. Recuerda adaptar los tamaños igual al resto de las imágenes -->
+<section class="galeria">
+	
+	<a href="#img1">
+		<img src="/img/destinos/tatacoa/cabras-desierto-tatacoa-mini.webp" alt="Cabras en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img1">
+		<img src="/img/destinos/tatacoa/cabras-desierto-tatacoa.webp" alt="Cabras en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img2">
+		<img src="/img/destinos/tatacoa/desierto-tatacoa-huila-mini.webp" alt="Panorámica del desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img2">
+		<img src="/img/destinos/tatacoa/desierto-tatacoa-huila.webp" alt="Panorámica del desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img3">
+		<img src="/img/destinos/tatacoa/desierto-tatacoa-turista-mini.webp" alt="Turista en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img3">
+		<img src="/img/destinos/tatacoa/desierto-tatacoa-turista.webp" alt="Turista en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img4">
+		<img src="/img/destinos/tatacoa/desierto-tatacoa-zona-gris-mini.webp" alt="La llamada zona gris del desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img4">
+		<img src="/img/destinos/tatacoa/desierto-tatacoa-zona-gris.webp" alt="La llamada zona gris del desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img5">
+		<img src="/img/destinos/tatacoa/desierto-tatacoa-zona-ventanas-mini.webp" alt="La llamada zona ventanas del desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img5">
+		<img src="/img/destinos/tatacoa/desierto-tatacoa-zona-ventanas.webp" alt="La llamada zona ventanas del desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img6">
+		<img src="/img/destinos/tatacoa/laberintos-desierto-tatacoa-vertical.webp" alt="Laberintos en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img6">
+		<img src="/img/destinos/tatacoa/laberintos-desierto-tatacoa.webp" alt="Laberintos en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img7">
+		<img src="/img/destinos/tatacoa/museo-tatacoa-vertical.webp" alt="Museo en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img7">
+		<img src="/img/destinos/tatacoa/museo-tatacoa.webp" alt="Museo en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img8">
+		<img src="/img/destinos/tatacoa/plantas-desierto-tatacoa-vertical.webp" alt="Museo en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img8">
+		<img src="/img/destinos/tatacoa/plantas-desierto-tatacoa.webp" alt="Museo en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img9">
+		<img src="/img/destinos/tatacoa/souvenir-desierto-tatacoa-vertical.webp" alt="Mercado de recuerdos en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img9">
+		<img src="/img/destinos/tatacoa/souvenir-desierto-tatacoa.webp" alt="Mercado de recuerdos en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+	<a href="#img10">
+		<img src="/img/destinos/tatacoa/tatacoa-atardecer-vertical.webp" alt="Hermoso atardecer en el desierto de la Tatacoa" loading="lazy" />
+	</a>
+	<div class="light-box" id="img10">
+		<img src="/img/destinos/tatacoa/tatacoa-atardecer.webp" alt="Hermoso atardecer en el desierto de la Tatacoa" loading="lazy" />
+		<a href="#" class="close">X</a>
+	</div>
+	
+
+</section>
+
+<h2 id="conoce-un-poco-más-de-cielos-estrellados-en-la-tatacoa">Conoce un poco más de Cielos estrellados en la Tatacoa</h2>
+
+<p>Ubicado en el municipio de Villavieja, al norte del departamento del Huila, <strong>es la segunda zona desértica más grande de Colombia</strong>, con una extensión de 330km2 y una temperatura que alcanza los 43ºC.</p>
+
+<p>Un destino que de hecho no es propiamente un desierto, sino un bosque seco tropical. Este destino turístico tiene paisajes exóticos y ha formado dos zonas de distintos colores en un mismo lugar: la zona roja o el cuzco y la zona gris. <strong>Es el mejor destino del país para las observaciones astronómicas</strong>, adicional en el poblado de Villavieja podemos visitar el museo paleontológico, del totumo y dar un refrescante paseo por el río magdalena.</p>
+
+<h2 id="qué-tal-es-visitar-cielos-estrellados-en-la-tatacoa">¿Qué tal es visitar Cielos estrellados en la Tatacoa?</h2>
+
+<p>😎 Aquí podemos incluir 3 testimonios de visitantes</p>
+
+<p>😎 Aquí podemos incluir 3 testimonios de visitantes</p>
+
+<p>😎 Aquí podemos incluir 3 testimonios de visitantes</p>
+
+<h2 id="qué-debes-saber-antes-de-visitar-cielos-estrellados-en-la-tatacoa">¿Qué debes saber antes de visitar Cielos estrellados en la Tatacoa?</h2>
+
+<!-- La siguiente es una tabla de dos columnas. La primera columna son aspectos positivos. Comienza con el primer símbolo y termina en la línea vertical. La segunda columna son aspecto un poco negativos, no mucho. Estos comienzan en la X y terminan en el punto aparte. Se llena cada columna según el número de aspectos. Al ser más aspectos positivos que negativos, se dejan las filas hasta la línea vertical. Luego se copia la siguiente línea, se pega y se pone la siguiente fila con solo aspectos positivos  -->
+
+<table>
+  <tbody>
+    <tr>
+      <td>🔘 Senderismo y observación astronómica son las actividades turísticas preferidas</td>
+      <td>🔘 En esta zona la temperatura es muy alta</td>
+    </tr>
+    <tr>
+      <td>🔘 Destino ideal para una escapada de fin de semana</td>
+      <td>🔘 Si quieres más confort hay oferta hotelera y gastronómica en el municipio de Villavieja a 15 minutos del desierto de la Tatacoa</td>
+    </tr>
+    <tr>
+      <td>🔘 Fue nominado con la categoría Starligth por considerarse el mejor lugar en Colombia para realizar observación astronómica</td>
+      <td>🔘 El aeropuerto más cercano queda a 1 hora en la ciudad de Neiva Huila con operación diaria de las aerolíneas Avianca y Easyfly</td>
+    </tr>
+    <tr>
+      <td>🔘 Sus paisajes lunares hacen de este destino único en Colombia</td>
+      <td>🔘 Si necesitas dinero en efectivo, sólo encontraras cajero automático de Servivanca y corresponsal bancario de Bancolombia</td>
+    </tr>
+    <tr>
+      <td>🔘 Si deseas algo más experiencial puedes alojarte en las posadas turísticas del Desierto y adaptarte a las condiciones del destino</td>
+      <td>🔘 Te sugerimos siempre comprar agua enbotellada pues el destino no cuenta con agua potable</td>
+    </tr>
+    <tr>
+      <td>🔘 Estamos a 6 horas de Bogotá por vía terrestre</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="nuestros-planes-al-desierto-de-la-tatacoa">Nuestros planes al desierto de la Tatacoa</h2>
+
+<p>¿Te gustaría visitar el desierto de la Tatacoa en el Huila? Mira lo que Colombia Viajera tiene para ti:</p>
+
+<ul>
+  <li>🎒 <a href="/naturaleza/tour-tatacoa-exotica/" title="Tour Tatacoa exótica">Tatacoa exótica</a></li>
+  <li>🎒 <a href="/cultura/naturaleza/tour-desierto-tatacoa-san-agustin-huila/" title="Tour Tatacoa y San Agustíns">Desierto de la Tatacoa y San Agustín</a></li>
+  <li>🎒 <a href="/cultura/tour-tatacoa-tierradentro-san-agustin/" title="Tour Tatacoa, Tierradentro y San Agustín">Tatacoa, Tierradentro y San Agustín</a></li>
+  <li>🎒 <a href="/cultura/tour-huila-paraiso-por-descubrir/" title="Tour Tatacoa, San Agustín y Rivera">Tatacoa, San Agustín y Rivera</a></li>
+</ul>
+:ET

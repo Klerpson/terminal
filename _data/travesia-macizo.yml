@@ -1,0 +1,49 @@
+- img: purace/turistas-parque-purace-mini.webp
+  alt: Travesías Macizo Colombiano
+  popup: purace/turistas-parque-purace.webp
+  numero: 1
+
+- img: purace/visitando-macizo-colombiano-vertical.webp
+  alt: Visitando el Macizo Colombiano
+  popup: purace/visitando-macizo-colombiano.webp
+  numero: 2
+
+- img: purace/turismo-macizo-colombiano-mini.webp
+  alt: Marcizo Colombiano
+  popup: purace/turismo-macizo-colombiano.webp
+  numero: 3
+
+- img: purace/alto-macizo-colombiano-vertical.webp
+  alt: Macizo Colombiano laguna
+  popup: purace/alto-macizo-colombiano.webp
+  numero: 4
+
+- img: purace/noches-alto-macizo-colombiano-mini.webp
+  alt: Noches Macizo Colombiano
+  popup: purace/noches-alto-macizo-colombiano.webp
+  numero: 5
+
+- img: purace/cabalgata-macizo-colombiano-vertical.webp
+  alt: Cabalgata Macizo Colombiano
+  popup: purace/cabalgata-macizo-colombiano.webp
+  numero: 6
+
+- img: purace/cabalgata-turistas-macizo-colombiano-mini.webp
+  alt: Tierradentro Cauca
+  popup: purace/cabalgata-turistas-macizo-colombiano.webp
+  numero: 7
+
+- img: purace/experiencias-macizo-colombiano-vertical.webp
+  alt: Tierradentro Cauca
+  popup: purace/experiencias-macizo-colombiano.webp
+  numero: 8
+
+- img: purace/visita-macizo-colombiano-mini.webp
+  alt: Tierradentro Cauca
+  popup: purace/visita-macizo-colombiano.webp
+  numero: 9
+
+- img: purace/visitantes-macizo-colombiano-mini.webp
+  alt: Tierradentro Cauca
+  popup: purace/visitantes-macizo-colombiano.webp
+  numero: 10

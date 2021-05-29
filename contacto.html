@@ -1,0 +1,18 @@
+---
+layout: default
+title: Agencia de Viajes Colombia Viajera
+description: Para reservas o mayor información sobre nuestros planes o el destino no dude en contactarnos, profesionales expertos están esperando para atenderlo. Comuníquese a través de nuestro número celular, correo electrónico o el formulario de contacto.
+---
+{% include header.html %}
+
+<main class="contacto">
+  <h1>{{page.title}}</h1>
+  <p>{{page.description}}</p>
+  <ul>
+    <li>✔️ Selecciona para llamar al <a href="tel:+573209673925">3209673925</a></li>
+    <li>✔️ Aquí puedes escribirnos a <a href="{{site.whatsapp}}">whatsapp</a></li>
+    <li>✔️ Envíanos tus preguntas y comentarios directamente en nuestro email en el siguiente formulario:</li>
+  </ul>
+  {% include formulario.html %}
+</main>
+{% include footer.html %}
