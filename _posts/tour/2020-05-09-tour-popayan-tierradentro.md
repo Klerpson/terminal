@@ -1,7 +1,7 @@
 ---
 layout: articulo
-title: Tour Popayán y Parque Arqueológico de Tierradentro
-description: Estas dos joyas del departamento del Cauca unidas en un solo plan. Disfruta su historia, arquitectura y gastronomía
+title: Terminal de Transporte de Cali
+description: La terminal de transporte de Cali tiene conexiones con más de 20 municipios. Busca sus empresas de transporte, tiendas, oficinas, restaurantes y más.
 categories: Cultura
 img: img/destinos/popayan/parque-popayan-vertical.webp
 alt: Parque de Popayán Cauca
