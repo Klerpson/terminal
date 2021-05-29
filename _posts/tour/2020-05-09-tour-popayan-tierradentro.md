@@ -2,7 +2,7 @@
 layout: articulo
 title: Terminal de Transporte de Cali
 description: La terminal de transporte de Cali tiene conexiones con más de 20 municipios. Busca sus empresas de transporte, tiendas, oficinas, restaurantes y más.
-categories: Cultura
+categories: valle-del-cauca
 img: img/destinos/popayan/parque-popayan-vertical.webp
 alt: Parque de Popayán Cauca
 autor: Colombia Viajera
