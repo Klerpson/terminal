@@ -86,7 +86,7 @@ pre {
 }
 
 a {
-  background-color: transparent;
+  background: transparent;
 }
 
 abbr[title] {
@@ -389,137 +389,32 @@ nav li {
   text-decoration-color: var(--principal);
   text-decoration-thickness: 0.2rem;
 }
-.destinos {
+.categorias {
   display: grid;
-  grid-gap: 5em;
+  grid-gap: 1.5rem;
 }
 
-.destinos div {
+.categorias h3 {
+  text-align: center;
+}
+
+.categorias div {
+  margin: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(auto, 40vw));
+  grid-template-columns: repeat(auto-fill, minmax(150px, auto));
   grid-gap: 1rem;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 
-.destinos div h3 {
-  position: relative;
-  margin: 0;
-  font-weight: 800;
-  text-transform: capitalize;
-  grid-column: span 2;
-  font-size: 1.7rem;
-  color: var(--accion);
-  text-align: center;
-}
 
-.destinos>h2 {
-  text-align: center;
-}
-
-.destinos div>a {
-  position: relative;
-  display: inline-block;
+.categorias div a {
   transition: all .2s ease-in-out;
+  background: var(--secundario);
 }
 
-.destinos div>a:hover {
+.categorias div a:hover {
   transform: scale(1.1);
-}
-
-.destinos div a h4 {
-  color: var(--blanco);
-  position: absolute;
-  bottom: 15px;
-  left: 10px;
-  font-weight: 700;
-  font-family: var(--fuenteTexto);
-  text-decoration: underline;
-  -webkit-text-decoration-color: var(--principal);
-  text-decoration-color: var(--principal);
-  text-decoration-thickness: 0.2rem;
-  transition: 0.5s;
-}
-
-.destinos div a img {
-  width: 100%;
-  border-radius: 4px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
-}
-
-.nota {
-  max-width: 70vw;
-  margin: 0 auto 3rem;
-  text-align: center;
-  font-size: 1.2rem;
-}
-
-.nota a {
-  font-family: var(--fuenteTitulos);
-  color: var(--secundario);
-  text-decoration: underline;
-  -webkit-text-decoration-color: var(--principal);
-  text-decoration-color: var(--principal);
-  text-decoration-thickness: 0.2rem;
-}
-
-@media screen and (min-width: 600px) {
-
-  .destinos div {
-    grid-template-columns: repeat(auto-fill, minmax(auto, 25vw));
-    grid-gap: 2rem;
-  }
-
-  .destinos div h3 {
-    grid-column: span 3;
-  }
-
-  .destinos div h3 .destinos-background {
-    bottom: calc(100% - 60%);
-  }
-
-}
-
-@media screen and (min-width: 992px) {
-
-  .destinos div {
-    width: 70vw;
-    margin: 0 auto;
-    grid-template-columns: repeat(auto-fill, minmax(auto, 12vw));
-    grid-gap: 2em;
-  }
-
-  .destinos div h3 {
-    grid-column: span 4;
-  }
-
-  .destinos div h3 .destinos-background {
-    max-width: 120%;
-  }
-
-  .destinos div a h4 {
-    text-shadow: -1px -1px 1px var(--gris1),
-      2px 2px 1px var(--gris3);
-  }
-
-  .nota {
-    max-width: 50vw;
-  }
-}
-
-@media screen and (min-width: 1200px) {
-  .destinos div {
-    width: 60vw;
-  }
-}
-@media screen and (min-width: 767px) {
-  header{
-    width: 70vw;
-  }
-
-  #search-container {
-    width: 40vw;
-  }
 }
 .servicios {
   color: var(--accion);
@@ -1170,6 +1065,15 @@ textarea.form__input {
   font-family: var(--fuenteTexto);
 }
 
+@media screen and (min-width: 767px) {
+  header{
+    width: 70vw;
+  }
+
+  #search-container {
+    width: 40vw;
+  }
+}
 .ec-stars-wrapper {
   font-size: 0;
   display: inline-block;

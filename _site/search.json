@@ -4,19 +4,9 @@
 
       "title"    : "San Agustín Huila Mágico",
       "url"      : "/san-agustin",
-      "category" : "Mira más en: ",
-      "url-cat"  : "/#",
+      "category" : "Mira más en: huila",
+      "url-cat"  : "/#huila",
       "tags"     : "naturaleza, cultura"
-
-    } ,
-  
-    {
-
-      "title"    : "Turismo en Popayán",
-      "url"      : "/popayan-historica",
-      "category" : "Mira más en: ",
-      "url-cat"  : "/#",
-      "tags"     : "cultura"
 
     } ,
   
@@ -27,36 +17,6 @@
       "category" : "Mira más en: valle-del-cauca",
       "url-cat"  : "/#valle-del-cauca",
       "tags"     : ""
-
-    } ,
-  
-    {
-
-      "title"    : "Cielos estrellados en la Tatacoa",
-      "url"      : "/tour-estrellas-desierto-tatacoa",
-      "category" : "Mira más en: ",
-      "url-cat"  : "/#",
-      "tags"     : "cultura, naturaleza"
-
-    } ,
-  
-    {
-
-      "title"    : "Putumayo Flora y Fauna",
-      "url"      : "/putumayo-flora-y-fauna",
-      "category" : "Mira más en: ",
-      "url-cat"  : "/#",
-      "tags"     : "naturaleza"
-
-    } ,
-  
-    {
-
-      "title"    : "Tumbas de Tierradentro Cauca",
-      "url"      : "/necropolis-tierradentro",
-      "category" : "Mira más en: ",
-      "url-cat"  : "/#",
-      "tags"     : "naturaleza, cultura"
 
     } 
   
