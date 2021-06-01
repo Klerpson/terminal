@@ -3,7 +3,7 @@
   /*** COLORES ***/
   --principal: #ffed05;
   --secundario: #018a31ff;
-  --accion: #e81118ff;
+  --accion: #e81118;
   --complemento1: rgb(248, 94, 0);
   --complemento2: #848484ff;
 
@@ -13,7 +13,7 @@
   --gris4: rgba(64, 64, 64, 1);
   --grisFuentes: #252323;
 
-  --blanco: rgb(255, 254, 246);
+  --blanco: #fffef6;
 
   /*** FUENTES ***/
   --fuenteTitulos: 'Sarala', sans-serif;
@@ -28,7 +28,7 @@
   --radius: 12px;
 
   /* SOMBRA */
-  --shadow: 2px 2px 7px rgba(22, 22, 22, 0.2);
+  --shadow: 0 5px 7px rgba(22, 22, 22, .5);
 }
 
 *,
@@ -46,16 +46,18 @@ html {
 }
 
 body {
-  font-family: var(--fuenteTexto);
-  font-size: var(--sizeTexto);
-  color: var(--grisFuentes);
   display: grid;
   grid-gap: 2.5rem;
   justify-items: center;
+  font-family: var(--fuenteTexto);
+  font-size: var(--sizeTexto);
+  color: var(--grisFuentes);
 }
 
+header,
 main,
-section{
+section,
+footer{
   width: 90vw;
   align-self: center;
 }
@@ -71,8 +73,6 @@ h2 {
 h3 {
   font-size: var(--sizeH3);
 }
-
-p{margin: 1.5rem 0;}
 
 hr {
   box-sizing: content-box;
@@ -213,9 +213,24 @@ template {
   display: none;
 }
 
-p {
-  margin-bottom: 1.5rem;
+li{list-style: none;
 }
 
-li{list-style: none;
+.boton{
+  display: block;
+  width: fit-content;
+  transition: all .2s ease-in-out;
+  background: var(--secundario);
+  border-radius: var(--radius);
+  text-align: center;
+  text-decoration: none;
+  color: var(--blanco);
+  padding: 0.5rem 0.7rem;
+  box-shadow: var(--shadow),
+    0 0 0 1px var(--blanco),
+    0 0 0 2px var(--secundario);
+}
+
+.boton:hover{
+  transform: scale(1.1);
 }

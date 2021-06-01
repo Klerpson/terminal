@@ -4,31 +4,46 @@ title: Terminales de Transporte de Colombia
 description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
 ---
 {% include header.html %}
-{% include buscador.html %}
-{% include categorias.html %}
-{% include destinos.html %}
-
-<!-- <section class="destinos">
-  <h2>¿Te gusta viajar por Colombia? Mira estos destinos</h2>
-
-  <p class="nota">Cada uno de estos destinos lo seleccionamos para ofrecerte una <strong>oferta de viaje económica, tranquila, segura y llena de atracciones diferentes y fascinantes.</strong> Selecciona el que más te guste:</p>
-  {% for tag in site.tags %}
-  {% capture entrada %}{{ tag | first }}{% endcapture %}
+<!-- BUSCADOR -->
+<section id="search-container">
+  <h2>Busca la terminal de transporte que necesitas</h2>
+  <input type="text" id="search-input" placeholder="También puedes buscarlo aquí..."
+    style="font-family: var(--fuenteTexto);">
+  <ul id="results-container"></ul>
+</section>
+<!-- FIN BUSCADOR -->
+<section class="categorias">
+  <h3>¡Viajar por Colombia es maravilloso!</h3>
+  <p>¿A qué parte de Colombia deseas llegar? Aquí están todas las terminales de Colombia separadas por departamentos. Haz clic en el botón de la terminal de transporte que estás buscando.</p>
   <div>
-      <h3 class="wow bounceInRight">{{ entrada | capitalize}}</h3>
-      {% for post in site.tags[entrada] %}
-      <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
-        <img src="{{ site.baseurl }}/{{ post.img }}" class="wow flipInY" alt="{{ post.alt }}">
-        <h4>{{ post.title }}</h4>
-      </picture>
-    </a>
+    {% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <a href="{{ site.baseurl }}/#{{ category_name }}"
+      title="Terminales de transporte {{ category_name }}" class="boton">{{ category_name | capitalize | normalize_whitespace }}</a>
     {% endfor %}
   </div>
-    {% endfor %}
-</section> -->
-
-
-{% include parallax.html clase="testimonio3" front="alberto-sanchez-colombia-viajera.webp" texto="Los guías fueron de gran ayuda. El personal, las instalaciones de los hospedajes, todo muy bien. Felicitaciones - JOSE SÁNCHEZ" %}
+</section>
+<section class="terminales-intro">
+  <h2>Principales terminales de transporte</h2>
+  <p>Estas son las terminales de transporte más buscadas en Colombia. <strong>Y son: la terminal de transporte de Cali, la terminal de transporte salitre, la terminal de tranporte sur de Bogotá, la terminal de transporte de Santa Marta, la terminal de tranporte de Manizales, la treminal de transporte de Barranquilla y la terminal de transporte de Cartagena.</strong> </p>
+  <div class="terminales-section">
+      {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <article>
+        <h3 id="{{ category_name}}">{{ category_name | capitalize}}
+        </h3>
+        {% for post in site.categories[category_name] %}
+        <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+          <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}" width="300" height="200">
+          <h4>{{ post.title }}</h4>
+        </a>
+        {% endfor %}
+      </article>
+      {% endfor %}
+  </div>
+  <p>Haz clic en la terminal que estás buscando para ver su teléfono, horarios y más. Si necesitas ver otras terminales
+    más, haz clic en el botón <q>Más Terminales de Colombia.</q></p>
+  <a href="{{site.baseurl}}/terminales" class="boton">Más terminales de Colombia</a>
+</section>
 
 {% include footer.html %}
-

@@ -4,7 +4,7 @@
 <div>
   {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <a href="{{ site.baseurl }}/#{{ category_name }}" title="Terminales de transporte {{ category_name }}">{{ category_name | capitalize | Slugify }}</a>
+    <a href="{{ site.baseurl }}/#{{ category_name }}" title="Terminales de transporte {{ category_name }}">{{ category_name | capitalize | normalize_whitespace }}</a>
   {% endfor %}
 </div>
 </section>

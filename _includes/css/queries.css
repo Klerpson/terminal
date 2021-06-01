@@ -1,9 +1,21 @@
 @media screen and (min-width: 767px) {
-  header{
+
+  header,
+  main,
+  section,
+  footer {
+    width: 720px;
+  }
+
+  header {
     width: 70vw;
   }
 
   #search-container {
     width: 40vw;
+  }
+
+  .terminales-section{
+    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
   }
 }
