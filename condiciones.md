@@ -4,54 +4,45 @@ title: Codiciones de Uso | Colombia Viajera
 description: Condiciones de uso de la página de la agencia de viajes Colombia Viajera
 noindex: true
 ---
-# TÉRMINOS Y CONDICIONES
+## INFORMACIÓN RELEVANTE
 
-## Cláusula de responsabilidad:
+Es requisito necesario para la adquisición de los productos que se ofrecen en este sitio, que lea y acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros servicios así como la compra de nuestros productos implicará que usted ha leído y aceptado los Términos y Condiciones de Uso en el presente documento. Todas los productos  que son ofrecidos por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una página web tercera y en tal caso estarían sujetas a sus propios Términos y Condiciones. En algunos casos, para adquirir un producto, será necesario el registro por parte del usuario, con ingreso de datos personales fidedignos y definición de una contraseña.
 
-**{{site.name}}** actúa como intermediario entre los usuarios y quienes proporcionan los servicios incluidos, tales como Hoteles, restaurantes y operadores turísticos entre otros; no asume ningún tipo de responsabilidad en cuanto a la prestación de servicios de cualquiera de los establecimientos, empresas afiliadas, proveedores, participantes, vinculadas, agencias, aerolíneas, hoteles, etc. Todo reclamo al respecto o relacionado con éstas de dichos servicios, debe dirigirse directa y únicamente a las entidades antes referidas.
+El usuario puede elegir y cambiar la clave para su acceso de administración de la cuenta en cualquier momento, en caso de que se haya registrado y que sea necesario para la compra de alguno de nuestros productos. **Terminal de Transporte** no asume la responsabilidad en caso de que entregue dicha clave a terceros.
 
-**{{site.name}}** se reserva el derecho en eventos de fuerza mayor o caso fortuito, sin que medie aceptación del usuario, de hacer modificaciones al plan o servicio turístico contratado y no se responsabiliza y/o responde, por cambios que efectúen los prestadores del servicio o por imprevistos tales como: demoras en aeropuertos, retardo de vuelos, congestión en Hoteles, cuarentenas y demás circunstancias de fuerza mayor o caso fortuito que alteren el normal desarrollo de la prestación de los servicios turísticos, por lo que sí los prestadores de los servicios contratados no pudieran proporcionar parcial o totalmente los mismos, sólo se gestionará por parte del usuario el reembolso del importe que proceda con exclusión de cualquier otro compromiso
+Todas las compras y transacciones que se lleven a cabo por medio de este sitio web, están sujetas a un proceso de confirmación y verificación, el cual podría incluir la verificación del stock y disponibilidad de producto, validación de la forma de pago, validación de la factura (en caso de existir) y el cumplimiento de las condiciones requeridas por el medio de pago seleccionado. En algunos casos puede que se requiera una verificación por medio de correo electrónico.
 
-No asumimos responsabilidad por: accidentes, pérdidas o daños que sufran los clientes como consecuencia de imprudencia o inobservancia a las instrucciones y/o reglamentos que para el disfrute de su estancia, sean hechas por parte de las aerolíneas o prestadores de los servicios turísticos; por daños, pérdidas y perjuicios ocasionados por descuidos, negligencias o no entrega en custodia de joyas y/o bienes de propiedad de los clientes.
+Los precios de los productos ofrecidos en esta Tienda Online es válido solamente en las compras realizadas en este sitio web.
 
-## 1 Tarifas sujetas a regulación de regla tarifaria.
+## LICENCIA
 
-## 2 Penalidades
+**Terminal de Transporte** a través de su sitio web concede una licencia para que los usuarios utilicen los productos que son vendidos en este sitio web de acuerdo a los Términos y Condiciones que se describen en este documento.
 
-2.1Modificación de fecha.
+## USO NO AUTORIZADO
 
-• No se cobrará penalidad por modificación de fecha, esto no exime que se pueda cobrar una diferencia tarifaria de acuerdo a la nueva fecha de viaje.
+En caso de que aplique (para venta de software, templetes, u otro producto de diseño y programación) usted no puede colocar uno de nuestros productos, modificado o sin modificar, en un CD, sitio web o ningún otro medio y ofrecerlos para la redistribución o la reventa de ningún tipo.
 
-1.Cancelaciones.
+## PROPIEDAD
 
-Por norma General nuestros planes no son reembolsables ni endosables por lo que **{{site.name}}** se reserva el derecho de revisar la posibilidad de hacer reembolso teniendo en cuenta las siguientes consideraciones:
+Usted no puede declarar propiedad intelectual o exclusiva a ninguno de nuestros productos, modificado o sin modificar. Todos los productos son propiedad  de los proveedores del contenido. En caso de que no se especifique lo contrario, nuestros productos se proporcionan  sin ningún tipo de garantía, expresa o implícita. En ningún esta compañía será  responsables de ningún daño incluyendo, pero no limitado a, daños directos, indirectos, especiales, fortuitos o consecuentes u otras pérdidas resultantes del uso o de la imposibilidad de utilizar nuestros productos.
 
-• Si la reserva es cancelada con una anticipación menor o igual a 5 días calendario de la fecha de inicio del viaje, se cobrara una penalidad equivalente al 40% del valor total.
+## POLÍTICA DE REEMBOLSO Y GARANTÍA
 
-• Si la reserva es cancelada con una anticipación entre 6 y más días calendario de la fecha de inicio del viaje, no se cobrará penalidad
+En el caso de productos que sean  mercancías irrevocables no-tangibles, no realizamos reembolsos después de que se envíe el producto, usted tiene la responsabilidad de entender antes de comprarlo.  Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones con esta regla cuando la descripción no se ajusta al producto. Hay algunos productos que pudieran tener garantía y posibilidad de reembolso pero este será especificado al comprar el producto. En tales casos la garantía solo cubrirá fallas de fábrica y sólo se hará efectiva cuando el producto se haya usado correctamente. La garantía no cubre averías o daños ocasionados por uso indebido. Los términos de la garantía están asociados a fallas de fabricación y funcionamiento en condiciones normales de los productos y sólo se harán efectivos estos términos si el equipo ha sido usado correctamente. Esto incluye:
 
-1.Aplica a todos los hoteles:
+* De acuerdo a las especificaciones técnicas indicadas para cada producto.
+* En condiciones ambientales acorde con las especificaciones indicadas por el fabricante.
+* En uso específico para la función con que fue diseñado de fábrica.
+* En condiciones de operación eléctricas acorde con las especificaciones y tolerancias indicadas.
 
-a. Hora de entrada al hotel desde las 2:00 pm y hora de salida, 1:00 pm. Si requiere modificación de las horas de entrada y/o salida, solicitarla al hotel quien confirmará la disponibilidad y cargo adicional.
+## COMPROBACIÓN ANTIFRAUDE
 
-b. No se reembolsa saldo de planes utilizados parcialmente, excepto por fuerza mayor o caso fortuito debidamente comprobado; caso en el que se reintegrará el valor de los servicios no utilizados menos los gastos que se causen o causaren por la cancelación.
+La compra del cliente puede ser aplazada para la comprobación antifraude. También puede ser suspendida por más tiempo para una investigación más rigurosa, para evitar transacciones fraudulentas.
 
-c. Si el pasajero cancela la reserva dentro de los plazos establecidos y quiere viajar en una fecha posterior, se le abonará al nuevo plan el valor pagado menos el valor de las penalidades a lugar.
+## PRIVACIDAD
 
-d. Los planes cancelados y con más de 1 año de expedición, se les dará una nota crédito por el valor pagado menos el valor de las penalidades a lugar, para que sea utilizada en el año siguiente.
+En este sitio web con dominio **Terminal de Transporte**.com se garantiza que la información personal que usted envía cuenta con la seguridad necesaria. Los datos ingresados por usuario o en el caso de requerir una validación de los pedidos no serán entregados a terceros, salvo que deba ser revelada en cumplimiento a una orden judicial o requerimientos legales.
 
-e. En los casos de los literales c y d, la nota crédito únicamente podrá utilizarse abonándola a un nuevo plan y pagando la diferencia con la tarifa existente para la fecha de la nueva reserva.
+La suscripción a boletines de correos electrónicos publicitarios es voluntaria y podría ser seleccionada al momento de crear su cuenta.
 
-f. A los planes pagados con tarjeta de crédito y reembolsados, se descontarán las penalidades a que haya lugar.
-
-g. Los planes de promoción, no son modificables, endosables, revisables, ni reembolsables, en ninguna temporada.
-
-h. Estas condiciones también aplican para planes reservados mediante depósito.
-
-i. Para efecto del cómputo de los plazos aquí establecidos, los días serán calendario y se contarán teniendo como referencia la fecha programada para el viaje.
-
-j. Las penalidades a lugar, serán descontadas del valor pagado por el pasajero y/o Agencia.
-
-1.Las tarifas no incluyen: llamadas telefónicas, lavandería, cajilla de seguridad, asistencia médica, medicinas.
-
-2.Notificaciones: Las notificaciones deben dirigirse a: **{{site.name}}**, NIT 55.182.249-7, RNT 31.281, Cel 3209673925 Vereda El Tablón San Agustín Huila Colombia o al correo electrónico  operaciones@disfrutasanagustin.com
+**Terminal de Transporte** reserva los derechos de cambiar o de modificar estos términos sin previo aviso.

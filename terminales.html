@@ -1,0 +1,27 @@
+---
+layout: default
+title: Terminales de Transporte de Colombia
+description: La teminal de transporte de cada ciudad la estamos incluyendo en este lugar. De esta manera, tienes la información a mano para tu próximo viaje.
+---
+{% include header.html %}
+
+<main class="terminales">
+  <div class="terminales-section">
+    {% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <article>
+      <h3 id="{{ category_name}}">Terminales de tranporte del {{ category_name | capitalize}}
+      </h3>
+      <div>
+        {% for post in site.categories[category_name] %}
+        <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+          <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}" width="300" height="200">
+          <h4>{{ post.title }}</h4>
+        </a>
+        {% endfor %}
+      </div>
+      </article>
+      {% endfor %}
+  </div>
+</main>
+{% include footer.html %}

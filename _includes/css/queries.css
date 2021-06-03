@@ -16,6 +16,23 @@
   }
 
   .terminales-section{
-    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .terminales-section article a{
+    margin-right: 1.5rem;
+    margin-bottom: 0;
+  }
+
+  footer div {
+    margin-top: 3rem;
+    width: 300px;
+  }
+
+  footer li a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 0.4rem;
+    -webkit-text-decoration-color: var(--principal);
+            text-decoration-color: var(--principal);
   }
 }

@@ -9,9 +9,7 @@
 
 .categorias div {
   margin: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, auto));
-  grid-gap: 1rem;
+  display: flex;
   align-items: center;
   justify-content: space-around;
 }
@@ -26,6 +24,10 @@
   display: grid;
   grid-gap: 2rem;
   place-content: center;
+}
+
+.terminales-section article h3{
+  text-transform: uppercase;
 }
 
 .terminales-section article a{

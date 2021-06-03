@@ -7,7 +7,7 @@ tags: san-agustín
 img: img/terminales/neiva/terminal-transporte-neiva.webp
 alt: Terminal de Transporte de Neiva Huila
 copyright: Julian Andres Franco Bedoya
-relacionados: true
+principal: false
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Fotografía de portada Terminal de Transporte de Neiva: https://pbs.twimg.com/media/Cpx2rWGWIAEwJbC?format=jpg&name=medium

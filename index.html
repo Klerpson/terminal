@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Terminales de Transporte de Colombia
+title: Terminal de Transporte
 description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
 ---
 {% include header.html %}
@@ -27,17 +27,21 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
   <h2>Principales terminales de transporte</h2>
   <p>Estas son las terminales de transporte más buscadas en Colombia. <strong>Y son: la terminal de transporte de Cali, la terminal de transporte salitre, la terminal de tranporte sur de Bogotá, la terminal de transporte de Santa Marta, la terminal de tranporte de Manizales, la treminal de transporte de Barranquilla y la terminal de transporte de Cartagena.</strong> </p>
   <div class="terminales-section">
-      {% for category in site.categories %}
-      {% capture category_name %}{{ category | first }}{% endcapture %}
-      <article>
-        <h3 id="{{ category_name}}">{{ category_name | capitalize}}
-        </h3>
+    {% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <article>
+      <h3 id="{{ category_name}}">{{ category_name | capitalize}}
+      </h3>
+      <div>
         {% for post in site.categories[category_name] %}
-        <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+        {% if post.principal %}
+        <a href="{{site.baseurl}}{{ post.url }}" title="{{post.title}}">
           <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}" width="300" height="200">
           <h4>{{ post.title }}</h4>
         </a>
+        {% endif %}
         {% endfor %}
+      </div>
       </article>
       {% endfor %}
   </div>

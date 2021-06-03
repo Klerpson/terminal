@@ -1,169 +1,78 @@
-main {
-  margin: 5rem 0;
-  padding: 0 1em;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  font-family: var(--fuenteTexto);
-  color: var(--grisFuentes);
-}
+/* // Adding 'Contents' headline to the TOC */
 
-.articulo img {
-  max-width: 90vw;
-}
-
-.articulo h1 {
-  font-size: 3rem;
-  font-family: var(--fuenteTitulos);
-  color: var(--secundario);
-  line-height: 1.1em;
-  text-align: center;
-}
-
-.articulo h2 {
-  text-align: center;
-  margin: 2em 0 1em;
-  line-height: 1.1;
-  width: 100%;
-}
-
-.articulo td {
-  border-spacing: 0.5rem;
-}
-
-.articulo p {
+#markdown-toc {
+  border: 1px solid var(--complemento1);
+  border-radius: var(--radius );
+  padding: 0.7rem;
   margin: 1rem 0;
+  list-style: decimal;
+  display: inline-block;
 }
 
-.articulo a {
-  display: block;
-  margin: 1.5rem auto;
-  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
-  grid-gap: 0.5em;
-  background-color: var(--accion);
-  padding: 0.7em 1em;
-  text-align: center;
-  font-size: 1rem;
-  border-right: 1px solid var(--blanco);
-  box-shadow: 0px 2px 5px rgba(64, 64, 64, 0.3);
-  border-radius: 5px;
-  color: var(--blanco);
-  transition: 0.2s ease-in;
+#markdown-toc::before {
+  content: "Contenido:";
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 3;
 }
 
-.articulo a:hover {
-  background-color: var(--complemento2);
+#markdown-toc li {
+  list-style: circle;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
 }
 
-.articulo li {
-  line-height: 1.5rem;
-  margin: 1.5rem 0;
+#markdown-toc li a{
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-decoration-color: var(--principal);
+  color: var(--secundario);
 }
 
-.articulo li a {
-  background: none;
-  color: var(--accion);
-  box-shadow: none;
+.articulo{
+  display: grid;
+  grid-gap: 1.5rem;
+}
+
+.articulo li{
+  list-style: disc;
+  margin-left: 1.5rem;
+}
+
+.articulo p a:not(.boton),
+.referencias li a{
+  display: inline-block;
+  color: var(--secundario);
   text-decoration: underline;
   text-decoration-color: var(--principal);
-  text-decoration-thickness: 0.2rem;
+  text-decoration-thickness: 3px;
 }
 
-.relacionados {
-  padding: 0 1em;
-  position: relative;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(auto, 40vw));
-  grid-gap: 1rem;
-  align-items: center;
-  justify-content: center;
+.articulo table tr td{
+  border: 1px solid var(--complemento1);
+  padding: 0.5rem;
 }
 
-.relacionados h3 {
-  font-family: var(--fuenteTitulos);
-  color: var(--secundario);
-  line-height: 1.1em;
-  grid-column: span 2;
+.articulo table tr td a{
+  display: block;
+  margin: 0.5rem auto;
+  font-size: 0.9rem;
 }
 
-.relacionados .sugerencia img {
-  width: 100%;
-}
-
-.relacionados .sugerencia {
-  position: relative;
-}
-
-.relacionados .sugerencia h4 {
-  font-family: var(--fuenteTitulos);
+.boton {
+  width: fit-content;
+  transition: all .2s ease-in-out;
+  background: var(--secundario);
+  border-radius: var(--radius);
+  text-align: center;
+  text-decoration: none;
   color: var(--blanco);
-  font-weight: 800;
-  position: absolute;
-  left: 0.7rem;
-  bottom: 0.7rem;
+  padding: 0.5rem 0.7rem;
+  box-shadow: var(--shadow),
+    0 0 0 1px var(--blanco),
+    0 0 0 2px var(--secundario);
 }
 
-#disqus_thread {
-  padding: 2em;
-}
-
-@media screen and (min-width: 600px) {
-
-  main,
-  .relacionados {
-    padding: 0 2em;
-  }
-}
-
-@media screen and (min-width: 767px) {
-
-  main,
-  .relacionados,
-  #disqus_thread {
-    padding: 0 5em;
-  }
-
-  .relacionados {
-    grid-template-columns: repeat(auto-fill, minmax(auto, 25vw));
-    grid-gap: 2rem;
-  }
-
-  .relacionados h3 {
-    grid-column: span 4;
-  }
-}
-
-@media screen and (min-width: 992px) {
-
-  main,
-  .relacionados,
-  #disqus_thread {
-    padding: 0 10em;
-  }
-
-  .relacionados {
-    grid-template-columns: repeat(auto-fill, minmax(auto, 20vw));
-  }
-
-  .relacionados h3 {
-    grid-column: span 5;
-  }
-}
-
-@media screen and (min-width: 1200px) {
-
-  main,
-  .relacionados,
-  #disqus_thread {
-    padding: 2em 20em;
-  }
-
-  .relacionados {
-    grid-template-columns: repeat(auto-fill, minmax(auto, 15vw));
-  }
-
-  .relacionados h3 {
-    grid-column: span 5;
-  }
+.boton:hover {
+  transform: scale(1.1);
 }

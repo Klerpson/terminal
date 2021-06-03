@@ -1,48 +1,35 @@
 ---
-layout: articulo
-title: Políticas de Privacidad | Colombia Viajera
-description: Políticas de privacidad al utilizar la página de la Agencia de Viajes Colombia Viajera
+layout: pagina
+title: Políticas de Privacidad | Terminal de transporte
+description: Políticas de privacidad al utilizar la página Terminal de Transporte para buscar tu terminal favorita de Colombia
 noindex: true
 ---
-# Política de Privacidad
+El presente documento de Política de Privacidad establece los términos en que **{{site.name}}** usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
 
-**{{site.name}}** le solicita por favor, leer detenidamente esta política de privacidad antes de suministrarnos información personal sobre usted. También por favor, observe que esta Política no se aplica a nuestros procedimientos de información personal en nombre de y sujeto a las instrucciones de terceros, como aerolíneas, empresas de alquiler de automóviles y otros prestadores de servicios, empresas que organizan u ofrecen la posibilidad de acordar diferentes paquetes de viajes, socios de comercialización, o bien, clientes.
+## Información Que Es Recogida
 
-## Información personal que recopilamos
+Nuestro sitio web podrá recoger información personal por ejemplo: Nombre,  información de contacto como  su dirección de correo electrónica e información demográfica. Así mismo cuando sea necesario podrá ser requerida información específica para procesar algún pedido o realizar una entrega o facturación.
 
-En cada punto de contacto o interacción con el huésped, podemos recopilar información personal. Además de cualquier otro dato que eligiera brindarnos, se puede incluir: su nombre e información de contacto, fecha de nacimiento, métodos de comunicación preferidos, nombre comercial, título y dirección comercial, datos de la tarjeta de crédito, incluso el código de seguridad de tres dígitos que aparece al dorso de su tarjeta de crédito, número de asociado, fecha de llegada y partida, preferencias de habitación y de vacaciones, antecedentes de viajes y datos sobre hoteles. También podríamos registrar datos de acompañantes.
+## Uso De La Información Recogida
 
-## Uso de la información personal recopilada acerca de usted.
+Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios.  Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.
 
-Utilizamos su información personal para proveer los servicios que le solicite a **{{site.name}}** para facilitar, reservas, compra de paquetes, la reserva del pasaje aéreo o terrestre. También utilizamos la información personal para proporcionarle datos acerca de la planificación de reuniones. Además, puede usarse para: mejorar los servicios de nuestra empresa, brindarle el nivel de hospitalidad esperado y asegurarnos de que el sitio sea de su interés. También usamos los datos para enviarle boletines informativos, promociones y servicios especiales, y para realizar encuestas en línea, sorteos, designación de premios y otros concursos vía correo electrónico, teléfono o correo postal.
+**{{site.name}}** está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.
 
-## Cómo compartimos la información personal
+## Cookies
 
-Como empresa, podemos compartir su información personal con hoteles y prestadores de servicios, con el único fin de procurar su mayor satisfacción.
+Una cookie se refiere a un fichero que es enviado con la finalidad de solicitar permiso para almacenarse en su ordenador, al aceptar dicho fichero se crea y la cookie sirve entonces para tener información respecto al tráfico web, y también facilita las futuras visitas a una web recurrente. Otra función que tienen las cookies es que con ellas las web pueden reconocerte individualmente y por tanto brindarte el mejor servicio personalizado de su web.
 
-Aunque las leyes sobre seguridad para la protección de datos de diversos países podrían no ser tan completas como las de su propio país, **{{site.name}}**, tomará los recaudos necesarios para asegurar que su información personal sea manejada según se menciona en la presente Política. Podemos compartir la información personal con proveedores de servicios en el lugar. Además podemos revelar información personal con o sin previa notificación a usted, para: (i) cumplir con todas las leyes vigentes; (ii) responder a las inquietudes gubernamentales o a las solicitudes de las autoridades públicas; (iii) cumplir con el procedimiento legal válido; (iv) proteger los derechos, la privacidad, la seguridad o la propiedad de **{{site.name}}**, a los huéspedes, a los visitantes, a los empleados o el público; (v) permitirnos buscar soluciones disponibles o limitar los daños que podríamos sufrir; (vi) hacer cumplir nuestro acuerdo de uso del sitio; y (vii) responder a emergencias.
+Nuestro sitio web emplea las cookies para poder identificar las páginas que son visitadas y su frecuencia. Esta información es empleada únicamente para análisis estadístico y después la información se elimina de forma permanente. Usted puede eliminar las cookies en cualquier momento desde su ordenador. Sin embargo las cookies ayudan a proporcionar un mejor servicio de los sitios web, estás no dan acceso a información de su ordenador ni de usted, a menos de que usted así lo quiera y la proporcione directamente, visitas a una web . Usted puede aceptar o negar el uso de cookies, sin embargo la mayoría de navegadores aceptan cookies automáticamente pues sirve para tener un mejor servicio web. También usted puede cambiar la configuración de su ordenador para declinar las cookies. Si se declinan es posible que no pueda utilizar algunos de nuestros servicios.
 
-## Información de índole confidencial
+## Enlaces A Terceros
 
-El término "información de índole confidencial" se refiere a información relacionada con su salud, raza u origen étnico, sus opiniones políticas, creencias religiosas u otras, antecedentes penales o alguna asociación gremial. Generalmente no recopilamos información de índole confidencial a menos que sea su voluntad. Podemos usar los datos que proporcione sobre su estado de salud, sólo si le sirven para que esté mejor o para satisfacer alguna necesidad suya en particular.
+Este sitio web pudiera contener en laces a otros sitios que pudieran ser de su interés. Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
 
-## Información personal de los niños
+## Control De Su Información Personal
 
-No recopilamos de manera adrede, información personal de personas menores de 18 años de edad. Como padre o tutor legal, por favor no permita que sus niños presenten información personal sin su autorización.
+En cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuestro sitio web.  Cada vez que se le solicite rellenar un formulario, como el de alta de usuario, puede marcar o desmarcar la opción de recibir información por correo electrónico.  En caso de que haya marcado la opción de recibir nuestro boletín o publicidad usted puede cancelarla en cualquier momento.
 
-## Enlaces con sitios Web de terceros
+Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial.
 
-Nuestro sitio puede contener vínculos con sitios Web de terceros. Tenga en cuenta que no somos responsables de la recopilación, uso, mantenimiento, revelación o participación de los datos e información que realicen tales terceros. Si provee información en sitios de terceros, se aplican la política de privacidad y los términos y condiciones del servicio de dichos sitios. Instamos a los clientes a que lean las políticas de los sitios Web que visite antes de brindar información personal.
-
-## Protección de la información personal
-
-**{{site.name}}**, tomará los recaudos necesarios para: (i) proteger la información personal recopilada por medio de un acceso no autorizado, revelación, alteración o destrucción; y (ii) mantener la información personal confiable y actualizada de acuerdo a la ley vigente. También pretendemos exigir que nuestros afiliados y proveedores de servicios realicen el esfuerzo de mantener la confiabilidad de su información personal. Para las transacciones en línea, usamos tecnología de seguridad para proteger la información personal que nos transmita a través de nuestro sitio. Desafortunadamente, sin embargo, ningún sistema de seguridad o de transmisión de datos a través de Internet puede garantizar que sea totalmente seguro.
-Lo instamos, por su propia protección y privacidad, a no incluir, en los mensajes de correo electrónico que nos envíe, la información personal que considere confidencial. No envíe números de tarjetas de crédito ni otros datos personales de índole confidencial a través del correo electrónico.
-
-## Retención de información personal
-
-Retenemos su información personal durante el período necesario para llevar a cabo los objetivos delineados en esta Política, a menos que se requiera una retención más prolongada o sea permitida por ley.
-
-## Modificaciones sobre la Política
-
-Podemos modificar esta Política de vez en cuando. Cuando hagamos cambios significativos a esta política, enviaremos la política revisada a la página de inicio de nuestro sitio. Sabrá cuando esté actualizada esta Política por la fecha que aparezca en el respectivo margen de información. Cualquier cambio a nuestra Política se pondrá en vigencia cuando se envíe la política revisada al sitio. El uso de este sitio a partir de estos cambios constituye su aceptación de la Política revisada que entre en efecto.
+**{{site.name}}** Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
