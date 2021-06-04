@@ -1,7 +1,7 @@
 ---
 layout: articulo
 title: Terminal de transporte de Neiva
-description: Un viaje a un impresionante pasado lleno de arte y cultura en las montañas del Huila
+description: La terminal de transporte de Neiva es la principal empresa de transporte terrestre del departamento del Huila hacia los demás destinos de Colombia
 category: huila
 tags: neiva
 img: img/terminales/neiva/terminal-transporte-neiva.webp
@@ -202,7 +202,7 @@ En este lugar están las empresas que prestan servicio hacia el Caquetá, hacia 
 
 Es el área de llegada donde descienden los pasajeros. Tiene locales comerciales, teléfonos públicos, punto de información turística, la policía de turismo, sala de espera, televisión, sistema de radio parlantes y pantalla de información de llegada y salida de vehículos. Aquí puedes pedir el servicio de taxis urbanos.
 
-## Funcionamiento y noticias de la terminal de Neiva
+## Terminal de Neiva hoy
 
 >Se están transportando a los pasajeros que cumplen alguna de las 46 excepciones del Decreto 1076 del 28 de julio de 2020. Además, se debe tener en cuenta que las terminales de Neiva y Pitalito subieron las tarifas por las circunstancias.
 >La terminal de Neiva ya cumple los protocolos de bioseguridad. Próximamente los municipios reactivarán poco a poco el servicio y ampliarán los horarios de servicio.
