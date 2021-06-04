@@ -35,8 +35,8 @@
 }
 
 .articulo li{
-  list-style: disc;
   margin-left: 1.5rem;
+  list-style: inherit;
 }
 
 .articulo p a:not(.boton),
@@ -75,4 +75,16 @@
 
 .boton:hover {
   transform: scale(1.1);
+}
+
+.relacionados{
+  position: relative;
+}
+
+.relacionados div{
+  width: 320px;
+}
+
+.relacionados a{
+  display: block;
 }

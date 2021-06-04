@@ -34,13 +34,13 @@ El teléfono de la terminal de transporte es:
 
 Para llamar a la terminal de transporte de Neiva solo necesitas hacer clic en cualquiera de los siguientes botones:
 
-{% include boton.html url="tel:+0388731232" title="Teléfono de la terminal de Neiva" texto="0388731232" %}
-{% include boton.html url="tel:+0388705661" title="Teléfono de la terminal de Neiva" texto="0388705661" %}
+{% include boton.html url="tel:0388731232" title="Teléfono de la terminal de Neiva" texto="0388731232" %}
+{% include boton.html url="tel:0388705661" title="Teléfono de la terminal de Neiva" texto="0388705661" %}
 {% include boton.html url="tel:+573158488834" title="Teléfono de la terminal de Neiva" texto="+573158488834" %}
 
 ## Dirección de la terminal de tranporte de Neiva
 
-La dirección de la terminal de Neiva es **Transversal 5 No. 5 - 312, Neiva**. Puedes llegar hasta allí siguiendo este mapa:
+La dirección de la terminal de Neiva es **Transversal 5 No. 5 - 312, Neiva**. Puedes llegar hasta allí siguiendo este mapa.
 
 ### Terminal de Neiva en Google Maps y Waze
 
@@ -73,31 +73,31 @@ Estos son los servicios que se prestan en esta terminal:
 
 Hasta la fecha, se registran 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. Solo haz clic en el botón del teléfono de la empresa que necesitas.
 
-| EMPRESA | TELÉFONO |
+| 🚌 EMPRESA | ☎ TELÉFONO |
 | --- | :---: |
-| **Expreso Bolivariano** | {% include boton.html url="tel:+0388731002" title="Teléfono de Expreso Bolivariano en la terminal de Neiva" texto="0388731002" %} |
-| **Coomotor** | {% include boton.html url="tel:+0388733501" title="Teléfono 1 de Coomotor en la terminal de Neiva" texto="0388733501" %} {% include boton.html url="tel:+0388730936" title="Teléfono 2 de Coomotor en la terminal de Neiva" texto="0388730936" %} {% include boton.html url="tel:+0388730937" title="Teléfono 3 de Coomotor en la terminal de Neiva" texto="0388730937" %} {% include boton.html url="tel:+573176394462" title="Teléfono 4 de Coomotor en la terminal de Neiva" texto="3176394462" %} |
+| **Expreso Bolivariano** | {% include boton.html url="tel:0388731002" title="Teléfono de Expreso Bolivariano en la terminal de Neiva" texto="0388731002" %} |
+| **Coomotor** | {% include boton.html url="tel:0388733501" title="Teléfono 1 de Coomotor en la terminal de Neiva" texto="0388733501" %} {% include boton.html url="tel:0388730936" title="Teléfono 2 de Coomotor en la terminal de Neiva" texto="0388730936" %} {% include boton.html url="tel:0388730937" title="Teléfono 3 de Coomotor en la terminal de Neiva" texto="0388730937" %} {% include boton.html url="tel:+573176394462" title="Teléfono 4 de Coomotor en la terminal de Neiva" texto="3176394462" %} |
 | **Cootranshuila** | {% include boton.html url="tel:+573158706465" title="Teléfono de Cootranshuila 1 en la terminal de Neiva" texto="315 870 6465" %} {% include boton.html url="tel:+573102923687" title="Teléfono de Cootranshuila 2 en la terminal de Neiva" texto="310 292 3687" %} |
-| **Coomotor Florencia** | {% include boton.html url="tel:+0388730874" title="Teléfono de Coomotor Florencia en la terminal de Neiva" texto="0388730874" %} |
-| **Cootranscaquetá** | {% include boton.html url="tel:+0388705651" title="Teléfono de Cootransquetá 1 en la terminal de Neiva" texto="0388705651" %} {% include boton.html url="tel:+573158762975" title="Teléfono de Cootransquetá 2 en la terminal de Neiva" texto="315 876 2975" %} |
-| **Transyari** | {% include boton.html url="tel:+0388705651" title="Teléfono de Transyari 1 en la terminal de Neiva" texto="0388705651" %} {% include boton.html url="tel:+573123511685" title="Teléfono de Transyari 2 en la terminal de Neiva" texto="312 351 1685" %} {% include boton.html url="tel:+573213331832" title="Teléfono de Transyari 3 en la terminal de Neiva" texto="321 333 1832" %} |
-| **La Gaitana** | {% include boton.html url="tel:+0388706481" title="Teléfono de La Gaitana 1 en la terminal de Neiva" texto="0388706481" %} {% include boton.html url="tel:+0388730761" title="Teléfono de La Gaitana 2 en la terminal de Neiva" texto="0388730761" %} {% include boton.html url="tel:+0388602828" title="Teléfono de La Gaitana 3 en la terminal de Neiva" texto="0388602828" %} |
-| **Taxis Verdes** | {% include boton.html url="tel:+573133258056" title="Teléfono de Taxis Verdes 1 en la terminal de Neiva" texto="313 325 8056" %} {% include boton.html url="tel:+0388735192" title="Teléfono de Taxis verdes 2 en la terminal de Neiva" texto="0388735192" %} {% include boton.html url="tel:+0388720637" title="Teléfono de taxis verdes 3 en la terminal de Neiva" texto="0388720637" %} |
-| **Flota Magdalena** | {% include boton.html url="tel:+0388731105" title="Teléfono de flota Magdalena en la terminal de Neiva" texto="0388731105" %} |
-| **Flota Huila** | {% include boton.html url="tel:+0388736492" title="Teléfono de flota Huila 1 en la terminal de Neiva" texto="0388736492" %} {% include boton.html url="tel:+0388734959" title="Teléfono de flota Huila 2 en la terminal de Neiva" texto="0388734959" %} {% include boton.html url="tel:+0388731001" title="Teléfono de flota Huila 3 en la terminal de Neiva" texto="0388731001" %} {% include boton.html url="tel:+0388730761" title="Teléfono de flota Huila 4 en la terminal de Neiva" texto="0388730761" %} |
-| **Cootransgigante** | {% include boton.html url="tel:+0388730241" title="Teléfono de cootransgigante en la terminal de Neiva" texto="0388730241" %} |
-| **Cootranslaboyana** | {% include boton.html url="tel:+0388731168" title="Teléfono de cootranslaboyana en la terminal de Neiva" texto="0388731168" %} |
-| **Cootransplateña** | {% include boton.html url="tel:+0388734133" title="Teléfono de cootransplateña en la terminal de Neiva" texto="0388734133" %} |
-| **Cootransgar** | {% include boton.html url="tel:+0388601133" title="Teléfono de cootransgar en la terminal de Neiva" texto="0388601133" %} |
+| **Coomotor Florencia** | {% include boton.html url="tel:0388730874" title="Teléfono de Coomotor Florencia en la terminal de Neiva" texto="0388730874" %} |
+| **Cootranscaquetá** | {% include boton.html url="tel:0388705651" title="Teléfono de Cootransquetá 1 en la terminal de Neiva" texto="0388705651" %} {% include boton.html url="tel:+573158762975" title="Teléfono de Cootransquetá 2 en la terminal de Neiva" texto="315 876 2975" %} |
+| **Transyari** | {% include boton.html url="tel:0388705651" title="Teléfono de Transyari 1 en la terminal de Neiva" texto="0388705651" %} {% include boton.html url="tel:+573123511685" title="Teléfono de Transyari 2 en la terminal de Neiva" texto="312 351 1685" %} {% include boton.html url="tel:+573213331832" title="Teléfono de Transyari 3 en la terminal de Neiva" texto="321 333 1832" %} |
+| **La Gaitana** | {% include boton.html url="tel:0388706481" title="Teléfono de La Gaitana 1 en la terminal de Neiva" texto="0388706481" %} {% include boton.html url="tel:0388730761" title="Teléfono de La Gaitana 2 en la terminal de Neiva" texto="0388730761" %} {% include boton.html url="tel:0388602828" title="Teléfono de La Gaitana 3 en la terminal de Neiva" texto="0388602828" %} |
+| **Taxis Verdes** | {% include boton.html url="tel:+573133258056" title="Teléfono de Taxis Verdes 1 en la terminal de Neiva" texto="313 325 8056" %} {% include boton.html url="tel:0388735192" title="Teléfono de Taxis verdes 2 en la terminal de Neiva" texto="0388735192" %} {% include boton.html url="tel:0388720637" title="Teléfono de taxis verdes 3 en la terminal de Neiva" texto="0388720637" %} |
+| **Flota Magdalena** | {% include boton.html url="tel:0388731105" title="Teléfono de flota Magdalena en la terminal de Neiva" texto="0388731105" %} |
+| **Flota Huila** | {% include boton.html url="tel:0388736492" title="Teléfono de flota Huila 1 en la terminal de Neiva" texto="0388736492" %} {% include boton.html url="tel:0388734959" title="Teléfono de flota Huila 2 en la terminal de Neiva" texto="0388734959" %} {% include boton.html url="tel:0388731001" title="Teléfono de flota Huila 3 en la terminal de Neiva" texto="0388731001" %} {% include boton.html url="tel:0388730761" title="Teléfono de flota Huila 4 en la terminal de Neiva" texto="0388730761" %} |
+| **Cootransgigante** | {% include boton.html url="tel:0388730241" title="Teléfono de cootransgigante en la terminal de Neiva" texto="0388730241" %} |
+| **Cootranslaboyana** | {% include boton.html url="tel:0388731168" title="Teléfono de cootranslaboyana en la terminal de Neiva" texto="0388731168" %} |
+| **Cootransplateña** | {% include boton.html url="tel:0388734133" title="Teléfono de cootransplateña en la terminal de Neiva" texto="0388734133" %} |
+| **Cootransgar** | {% include boton.html url="tel:0388601133" title="Teléfono de cootransgar en la terminal de Neiva" texto="0388601133" %} |
 | **Cootransmaría** | {% include boton.html url="tel:+573132047344" title="Teléfono de cootransmaría en la terminal de Neiva" texto="313 204 7344" %} |
-| **Coointrasur** | {% include boton.html url="tel:+0388732082" title="Teléfono de coointrasur en la terminal de Neiva" texto="0388732082" %} |
-| **Velotax** | {% include boton.html url="tel:+0388721424" title="Teléfono de velotax en la terminal de Neiva" texto="0388721424" %} |
-| **Rápido Tolima** | {% include boton.html url="tel:+573105629119" title="Teléfono de rápido Tolima 1 en la terminal de Neiva" texto="310 562 9119" %} {% include boton.html url="tel:+0388730850" title="Teléfono de rápido Tolima 2 en la terminal de Neiva" texto="0388730850" %} |
-| **Cootranscaguán** | {% include boton.html url="tel:+0388704592" title="Teléfono de Cootranscaguán en la terminal de Neiva" texto="0388704592" %} |
-| **Sootransvega** | {% include boton.html url="tel:+0388600773" title="Teléfono de Sootransvega 1 en la terminal de Neiva" texto="0388600773" %} {% include boton.html url="tel:+0388700730" title="Teléfono de Sootransvega 2 en la terminal de Neiva" texto="0388700730" %} |
-| **Pony Express** | {% include boton.html url="tel:+0388704907" title="Teléfono de Pony Express 1 en la terminal de Neiva" texto="0388704907" %} {% include boton.html url="tel:+0388600840" title="Teléfono de Pony Express 2 en la terminal de Neiva" texto="0388600840" %} {% include boton.html url="tel:+0388708066" title="Teléfono de Pony Express 3 en la terminal de Neiva" texto="0388708066" %} |
-| **Cootransmayo** | {% include boton.html url="tel:+0388731113" title="Teléfono de Cootransmayo en la terminal de Neiva" texto="0388731113" %} |
-| **Transipiales** | {% include boton.html url="tel:+573168328825" title="Teléfono de Transipiales 1 en la terminal de Neiva" texto="316 832 8825" %} {% include boton.html url="tel:+0388733444" title="Teléfono de Transipiales 2 en la terminal de Neiva" texto="0388733444" %} |
+| **Coointrasur** | {% include boton.html url="tel:0388732082" title="Teléfono de coointrasur en la terminal de Neiva" texto="0388732082" %} |
+| **Velotax** | {% include boton.html url="tel:0388721424" title="Teléfono de velotax en la terminal de Neiva" texto="0388721424" %} |
+| **Rápido Tolima** | {% include boton.html url="tel:+573105629119" title="Teléfono de rápido Tolima 1 en la terminal de Neiva" texto="310 562 9119" %} {% include boton.html url="tel:0388730850" title="Teléfono de rápido Tolima 2 en la terminal de Neiva" texto="0388730850" %} |
+| **Cootranscaguán** | {% include boton.html url="tel:0388704592" title="Teléfono de Cootranscaguán en la terminal de Neiva" texto="0388704592" %} |
+| **Sootransvega** | {% include boton.html url="tel:0388600773" title="Teléfono de Sootransvega 1 en la terminal de Neiva" texto="0388600773" %} {% include boton.html url="tel:0388700730" title="Teléfono de Sootransvega 2 en la terminal de Neiva" texto="0388700730" %} |
+| **Pony Express** | {% include boton.html url="tel:0388704907" title="Teléfono de Pony Express 1 en la terminal de Neiva" texto="0388704907" %} {% include boton.html url="tel:0388600840" title="Teléfono de Pony Express 2 en la terminal de Neiva" texto="0388600840" %} {% include boton.html url="tel:0388708066" title="Teléfono de Pony Express 3 en la terminal de Neiva" texto="0388708066" %} |
+| **Cootransmayo** | {% include boton.html url="tel:0388731113" title="Teléfono de Cootransmayo en la terminal de Neiva" texto="0388731113" %} |
+| **Transipiales** | {% include boton.html url="tel:+573168328825" title="Teléfono de Transipiales 1 en la terminal de Neiva" texto="316 832 8825" %} {% include boton.html url="tel:0388733444" title="Teléfono de Transipiales 2 en la terminal de Neiva" texto="0388733444" %} |
 
 ## Rutas desde la terminal de Neiva
 
@@ -225,4 +225,6 @@ Legalmente, queda constituida de la siguiente manera:
 * Actividad: Actividades de estaciones, vías y servicios complementarios para el transporte terrestre
 * NIT: 8911028243
 
-Para ver su política de confidencialidad y condiciones, puede consultar su [página web oficial.](#fuentes)
+{% include relacionados.html link="_posts\valle-del-cauca\2021-05-09-terminal-transporte-cali.md" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
+
+Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)

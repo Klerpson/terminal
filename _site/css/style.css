@@ -439,14 +439,16 @@ nav li {
   width: 300px;
 }
 
-.terminales-section article img{
+.terminales-section article img,
+.relacionados a img{
   max-width: 100%;
   display: inline-block;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
 
-.terminales-section article h4{
+.terminales-section article h4,
+.relacionados div h4{
 position: absolute;
 bottom: 0.4rem;
 right: 0;
@@ -582,8 +584,8 @@ font-size: 1rem;
 }
 
 .articulo li{
-  list-style: disc;
   margin-left: 1.5rem;
+  list-style: inherit;
 }
 
 .articulo p a:not(.boton),
@@ -623,90 +625,18 @@ font-size: 1rem;
 .boton:hover {
   transform: scale(1.1);
 }
-/*Sección de la Galería de Páginas*/
-.galeria {
+
+.relacionados{
   position: relative;
-  width: 100vw;
-  /* cantidad de columnas */
-  -moz-column-count: 2;
-  column-count: 2;
-  /* Espacio entre columnas */
-  -moz-column-gap: 0.7rem;
-  column-gap: 0.7rem;
-  -moz-column-span: all;
-  column-span: all;
 }
 
-.galeria > a {
+.relacionados div{
+  width: 320px;
+}
+
+.relacionados a{
   display: block;
-  position: relative;
-  overflow: hidden;
-  /*Evitamos que se corte al cambiar de columna*/
-  -moz-column-break-inside: avoid;
-  break-inside: avoid;
-  page-break-inside: avoid;
-  transition: transform 0.5s;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-  border-radius: 5px;
-  margin: 0 0 0.7rem 0;
-  background: none;
-  padding: 0;
 }
-
-.galeria a img{
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.light-box{
-  position: fixed;
-  top: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.5);
-  width: 100vw;
-  height: 100vh;
-  z-index: 3;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transition: transform 0.3s ease-in-out;
-  transform: scale(0);
-}
-
-.light-box img{
-  max-width: 100%;
-  max-height: 90%;
-}
-
-.light-box:target{
-  transform: scale(0.8);
-}
-
-.galeria .light-box .close{
-  display: block;
-  position: absolute;
-  top: calc(100% - 100%);
-  right: 10px;
-  margin: 3px;
-  background: var(--accion);
-  color: var(--blanco);
-  width: 40px;
-  height: 40px;
-  text-align: center;
-  line-height: 40px;
-  font-weight: 700;
-  border-radius: 50%;
-}
-
-@media screen and (min-width: 767px){
-  .galeria {
-    -moz-column-count: 3;
-    column-count: 3;
-  }
-}
-
 footer {
   position: relative;
   color: var(--accion);

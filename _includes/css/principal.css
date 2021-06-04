@@ -37,14 +37,16 @@
   width: 300px;
 }
 
-.terminales-section article img{
+.terminales-section article img,
+.relacionados a img{
   max-width: 100%;
   display: inline-block;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
 
-.terminales-section article h4{
+.terminales-section article h4,
+.relacionados div h4{
 position: absolute;
 bottom: 0.4rem;
 right: 0;

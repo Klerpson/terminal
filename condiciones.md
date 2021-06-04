@@ -1,47 +1,42 @@
 ---
 layout: articulo
-title: Codiciones de Uso | Colombia Viajera
-description: Condiciones de uso de la página de la agencia de viajes Colombia Viajera
+title: Términos y Codiciones de Uso | Terminal de Transporte
+description: Condiciones de uso de la página Terminal de Transporte
 noindex: true
 ---
 ## INFORMACIÓN RELEVANTE
 
-Es requisito necesario para la adquisición de los productos que se ofrecen en este sitio, que lea y acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros servicios así como la compra de nuestros productos implicará que usted ha leído y aceptado los Términos y Condiciones de Uso en el presente documento. Todas los productos  que son ofrecidos por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una página web tercera y en tal caso estarían sujetas a sus propios Términos y Condiciones. En algunos casos, para adquirir un producto, será necesario el registro por parte del usuario, con ingreso de datos personales fidedignos y definición de una contraseña.
+El uso de nuestros servicios así como el uso de toda la información presentada en esta página web implicará que usted ha leído y aceptado los Términos y Condiciones de Uso en el presente documento.
 
-El usuario puede elegir y cambiar la clave para su acceso de administración de la cuenta en cualquier momento, en caso de que se haya registrado y que sea necesario para la compra de alguno de nuestros productos. **Terminal de Transporte** no asume la responsabilidad en caso de que entregue dicha clave a terceros.
+**La página web Terminal de Transporte no tiene ninguna vinculación con las empresas y marcas mencionadas en el sitio web.** Toda la información que aparece en la página web Terminal de Transporte ha sido extraída de sitios de internet de acceso publico y gratuito.
 
-Todas las compras y transacciones que se lleven a cabo por medio de este sitio web, están sujetas a un proceso de confirmación y verificación, el cual podría incluir la verificación del stock y disponibilidad de producto, validación de la forma de pago, validación de la factura (en caso de existir) y el cumplimiento de las condiciones requeridas por el medio de pago seleccionado. En algunos casos puede que se requiera una verificación por medio de correo electrónico.
+## INFORMACIÓN DE HORARIOS
 
-Los precios de los productos ofrecidos en esta Tienda Online es válido solamente en las compras realizadas en este sitio web.
+La información publicada respecto a horarios de las distintas empresas está sujeta a cambios sin previo aviso y deben ser confirmadas directamente en los sitios web de cada una de las empresas.
+
+## INFORMACIÓN DE PRECIOS
+
+La información publicada respecto a precios de cualquier servicio brindado por las terminales, empresas que trabajan allí, etc. o de las distintas empresas mencionadas en esta la página web terminal de transporte, están basadas en la información disponible en los sitios web oficiales. El usuario de este sitio web debe confirmar los precios directamente con cada una de las empresas ya mencionadas.
 
 ## LICENCIA
 
-**Terminal de Transporte** a través de su sitio web concede una licencia para que los usuarios utilicen los productos que son vendidos en este sitio web de acuerdo a los Términos y Condiciones que se describen en este documento.
+**Terminal de Transporte** a través de su sitio web concede una licencia para que los usuarios utilicen los productos o la información contenido en esta página web.
 
 ## USO NO AUTORIZADO
 
-En caso de que aplique (para venta de software, templetes, u otro producto de diseño y programación) usted no puede colocar uno de nuestros productos, modificado o sin modificar, en un CD, sitio web o ningún otro medio y ofrecerlos para la redistribución o la reventa de ningún tipo.
+En caso de que aplique (para venta de software, templetes, u otro producto de diseño y programación) usted no puede colocar uno de nuestros productos, modificado o sin modificar, en un CD, sitio web o ningún otro medio y ofrecerlos para la redistribución o la reventa de ningún tipo. Tampoco está permitido el uso de la información contenida en este sitio con fines lucrativos. La publicidad que aparece en el sitio generada por terceros tiene sus propios términos legales y condiciones. Debe consultar en el sitio que las origina.
 
 ## PROPIEDAD
 
-Usted no puede declarar propiedad intelectual o exclusiva a ninguno de nuestros productos, modificado o sin modificar. Todos los productos son propiedad  de los proveedores del contenido. En caso de que no se especifique lo contrario, nuestros productos se proporcionan  sin ningún tipo de garantía, expresa o implícita. En ningún esta compañía será  responsables de ningún daño incluyendo, pero no limitado a, daños directos, indirectos, especiales, fortuitos o consecuentes u otras pérdidas resultantes del uso o de la imposibilidad de utilizar nuestros productos.
-
-## POLÍTICA DE REEMBOLSO Y GARANTÍA
-
-En el caso de productos que sean  mercancías irrevocables no-tangibles, no realizamos reembolsos después de que se envíe el producto, usted tiene la responsabilidad de entender antes de comprarlo.  Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones con esta regla cuando la descripción no se ajusta al producto. Hay algunos productos que pudieran tener garantía y posibilidad de reembolso pero este será especificado al comprar el producto. En tales casos la garantía solo cubrirá fallas de fábrica y sólo se hará efectiva cuando el producto se haya usado correctamente. La garantía no cubre averías o daños ocasionados por uso indebido. Los términos de la garantía están asociados a fallas de fabricación y funcionamiento en condiciones normales de los productos y sólo se harán efectivos estos términos si el equipo ha sido usado correctamente. Esto incluye:
-
-* De acuerdo a las especificaciones técnicas indicadas para cada producto.
-* En condiciones ambientales acorde con las especificaciones indicadas por el fabricante.
-* En uso específico para la función con que fue diseñado de fábrica.
-* En condiciones de operación eléctricas acorde con las especificaciones y tolerancias indicadas.
+Usted no puede declarar propiedad intelectual o exclusiva a ninguno de nuestros productos, modificado o sin modificar. Todos los productos son propiedad  de los proveedores del contenido. En caso de que no se especifique lo contrario, toda la información se proporciona sin ningún tipo de garantía, expresa o implícita. En ningún caso el propietario de esta página web será responsable de ningún daño, incluyendo, pero no limitado a, daños directos, indirectos, especiales, fortuitos o consecuentes u otras pérdidas resultantes del uso o de la imposibilidad de utilizar este sitio web.
 
 ## COMPROBACIÓN ANTIFRAUDE
 
-La compra del cliente puede ser aplazada para la comprobación antifraude. También puede ser suspendida por más tiempo para una investigación más rigurosa, para evitar transacciones fraudulentas.
+Las compras del cliente realizadas con cualquier empresa mencionada en esta página web puede ser aplazada para la comprobación antifraude. También puede ser suspendida por más tiempo para una investigación más rigurosa, para evitar transacciones fraudulentas. Ni la página web Terminal de Transporte ni su propietario tiene responsabilidad alguna en todas las transacciones que se puedan derivar por la información obtenida en esta página web.
 
 ## PRIVACIDAD
 
-En este sitio web con dominio **Terminal de Transporte**.com se garantiza que la información personal que usted envía cuenta con la seguridad necesaria. Los datos ingresados por usuario o en el caso de requerir una validación de los pedidos no serán entregados a terceros, salvo que deba ser revelada en cumplimiento a una orden judicial o requerimientos legales.
+En este sitio web con dominio **Terminal de Transporte.com** se garantiza que la información personal que usted envía cuenta con la seguridad necesaria. Los datos ingresados por el usuario o en el caso de requerir una validación por email, es confidencial y está protegida. Salvo que deba ser revelada en cumplimiento a una orden judicial o requerimientos legales. En ningún caso está sujeta a ventas ni transacciones comerciales. Consulte más información sobre este punto en la sección de [Privacidad](https://terminaldetransporte.com/privacidad)
 
 La suscripción a boletines de correos electrónicos publicitarios es voluntaria y podría ser seleccionada al momento de crear su cuenta.
 
