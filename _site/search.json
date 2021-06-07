@@ -2,8 +2,18 @@
   
     {
 
+      "title"    : "Terminal de transporte de Bogotá",
+      "url"      : "/terminal-de-bogota",
+      "category" : "Mira más en: Cundinamarca",
+      "url-cat"  : "/#cundinamarca",
+      "tags"     : "bogota"
+
+    } ,
+  
+    {
+
       "title"    : "Terminal de transporte de San Agustín",
-      "url"      : "/terminal-transporte-san-agustin",
+      "url"      : "/terminal-de-san-agustin",
       "category" : "Mira más en: Huila",
       "url-cat"  : "/#huila",
       "tags"     : "san-agustín"
@@ -13,7 +23,7 @@
     {
 
       "title"    : "Terminal de transporte de Neiva",
-      "url"      : "/terminal-transporte-neiva",
+      "url"      : "/terminal-de-neiva",
       "category" : "Mira más en: Huila",
       "url-cat"  : "/#huila",
       "tags"     : "neiva"
@@ -33,7 +43,7 @@
     {
 
       "title"    : "Terminal de transporte de Cali",
-      "url"      : "/terminal-transporte-cali",
+      "url"      : "/terminal-de-cali",
       "category" : "Mira más en: Valle",
       "url-cat"  : "/#valle",
       "tags"     : "cali"

@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>terminalesdetransporte.com/terminal-transporte-san-agustin</loc>
+        <loc>terminalesdetransporte.com/terminal-de-bogota</loc>
     </url>
     
     <url>
-        <loc>terminalesdetransporte.com/terminal-transporte-neiva</loc>
+        <loc>terminalesdetransporte.com/terminal-de-san-agustin</loc>
+    </url>
+    
+    <url>
+        <loc>terminalesdetransporte.com/terminal-de-neiva</loc>
     </url>
     
     <url>
@@ -14,7 +18,7 @@
     </url>
     
     <url>
-        <loc>terminalesdetransporte.com/terminal-transporte-cali</loc>
+        <loc>terminalesdetransporte.com/terminal-de-cali</loc>
     </url>
     
 

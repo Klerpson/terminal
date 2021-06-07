@@ -19,6 +19,12 @@
     grid-template-columns: 1fr 1fr;
   }
 
+  .terminales-section article div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
   .terminales-section article a{
     margin-right: 1.5rem;
     margin-bottom: 0;

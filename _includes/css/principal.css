@@ -21,9 +21,17 @@
 }
 
 .terminales-section{
-  display: grid;
-  grid-gap: 2rem;
-  place-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-content: center;
+  justify-items: center;
+}
+
+.terminales-section article div{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .terminales-section article h3{
