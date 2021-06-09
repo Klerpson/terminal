@@ -100,6 +100,7 @@ Las empresas de transporte que trabajan en la terminal de Neiva están avaladas 
 | **Pony Express** | {% include boton.html url="tel:0388704907" title="Teléfono de Pony Express 1 en la terminal de Neiva" texto="0388704907" %} {% include boton.html url="tel:0388600840" title="Teléfono de Pony Express 2 en la terminal de Neiva" texto="0388600840" %} {% include boton.html url="tel:0388708066" title="Teléfono de Pony Express 3 en la terminal de Neiva" texto="0388708066" %} |
 | **Cootransmayo** | {% include boton.html url="tel:0388731113" title="Teléfono de Cootransmayo en la terminal de Neiva" texto="0388731113" %} |
 | **Transipiales** | {% include boton.html url="tel:+573168328825" title="Teléfono de Transipiales 1 en la terminal de Neiva" texto="316 832 8825" %} {% include boton.html url="tel:0388733444" title="Teléfono de Transipiales 2 en la terminal de Neiva" texto="0388733444" %} |
+| **Coflonorte** | {% include boton.html url="tel:0388754900" title="Teléfono de Coflonorte 1 en la terminal de Neiva" texto="0388754900" %} |
 
 ## Rutas desde la terminal de Neiva
 

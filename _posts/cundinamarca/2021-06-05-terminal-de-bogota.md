@@ -103,25 +103,12 @@ Las empresas de transporte que trabajan en la terminal de transporte de Bogotá 
 | **Coflonorte** | {% include boton.html url="tel:0317705815" title="Teléfono 1 de Coflonorte en la terminal de Bogotá" texto="0317705815" %} {% include boton.html url="tel:0317700792" title="Teléfono 2 de Coflonorte en la terminal de Bogotá" texto="0317700792" %} |
 | **Cointrasur** | {% include boton.html url="tel:0312951273" title="Teléfono de Cointrasur 1 en la terminal de Bogotá" texto="0312951273" %} {% include boton.html url="tel:0317759060" title="Teléfono de Cointrasur 2 en la terminal de Bogotá" texto="0317759060" %} |
 | **CoomofU** | {% include boton.html url="tel:0318260319" title="Teléfono de Coomofu 1 en la terminal de Bogotá" texto="0318260319" %} {% include boton.html url="tel:0318261628" title="Teléfono de CoomofU 2 en la terminal de Bogotá" texto="0318261628" %} |
-| **Taxis Verdes** | {% include boton.html url="tel:XCXXXXXXXXXXXXXXXXXXXX" title="Teléfono de Taxis Verdes 1 en la terminal de Bogotá" texto="XCXXXXXXXXXXXXXXXXXXXX" %} {% include boton.html url="tel:ZZZZZZZZZZZZZZZZZZZZZZZZ" title="Teléfono de Taxis Verdes 2 en la terminal de Bogotá" texto="ZZZZZZZZZZZZZZZZZZZZZZZZ" %} |
-| **Coomofu Ltda** | {% include boton.html url="tel:XCXXXXXXXXXXXXXXXXXXXX" title="Teléfono de Coomofu 1 en la terminal de Bogotá" texto="XCXXXXXXXXXXXXXXXXXXXX" %} {% include boton.html url="tel:ZZZZZZZZZZZZZZZZZZZZZZZZ" title="Teléfono de Cointrasur 2 en la terminal de Bogotá" texto="ZZZZZZZZZZZZZZZZZZZZZZZZ" %} |
+| **Taxis Verdes** | {% include boton.html url="tel:0314111152" title="Teléfono de Taxis Verdes 1 en la terminal de Bogotá" texto="0314111152" %} {% include boton.html url="tel:0313555555" title="Teléfono de Taxis Verdes 2 en la terminal de Bogotá" texto="0313555555" %} |
+| **Continental Bus** | {% include boton.html url="tel:0314249340" title="Teléfono de Continental Bus en la terminal de Bogotá" texto="0314249340 Ext 302" %} |
+| **Coflonorte** | {% include boton.html url="tel:0388754900" title="Teléfono de Coflonorte en la terminal de Bogotá" texto="0388754900" %} {% include boton.html url="tel:018000910293" title="Teléfono de Coflonorte 2 en la terminal de Bogotá" texto="018000910293" %} |
+| **AAAAAAAAAAA** | {% include boton.html url="tel:BBBBBBBBBBBBBBBB" title="Teléfono de AAAAAAAAAAAAA en la terminal de Bogotá" texto="BBBBBBBBBBBBBBBB" %} {% include boton.html url="tel:CCCCCCCCCCCCCCCCCCCC" title="Teléfono de AAAAAAAAAAAAAAr 2 en la terminal de Bogotá" texto="CCCCCCCCCCCCCCCCCCCC" %} |
+| **AAAAAAAAAAA** | {% include boton.html url="tel:BBBBBBBBBBBBBBBB" title="Teléfono de AAAAAAAAAAAAA en la terminal de Bogotá" texto="BBBBBBBBBBBBBBBB" %} {% include boton.html url="tel:CCCCCCCCCCCCCCCCCCCC" title="Teléfono de AAAAAAAAAAAAAAr 2 en la terminal de Bogotá" texto="CCCCCCCCCCCCCCCCCCCC" %} |
 
-Compañía Taxis Verdes S.A.
-Venta Offline
- 411-1152 / 355-5555
- taxisverdes@taxisverdescol.com
-CONTINENTAL BUS
-COMPRAR
-Continental Bus S.A.
- 4249340 EXT 302
- derlin.mira@bolivariano.com
-Coflonorte
-COMPRAR
-Coflonorte - Cooperativa de Motoristas del Huila y Caquetá Ltda.
- 01-8000-91-0293 / Neiva 875-4900
- gerencia@Coflonorte.com.co
-florencia
-COMPRAR
 Coflonorte Florencia
  422-7140 / 422-7783
  gerencia@Coflonorteflorencia.com
