@@ -71,7 +71,9 @@ Estos son los servicios que se prestan en esta terminal:
 
 ## Comprar pasajes en la terminal de Neiva
 
-Hasta la fecha, se registran 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. Solo haz clic en el botón del teléfono de la empresa que necesitas.
+Hasta la fecha, se registran mas de 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. **Solo haz clic en el botón del teléfono de la empresa que necesitas para comprar tu pasaje o tiquete de viaje.**
+
+Las empresas de transporte que trabajan en la terminal de Neiva están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | --- | :---: |

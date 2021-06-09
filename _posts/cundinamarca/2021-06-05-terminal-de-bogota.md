@@ -93,253 +93,18 @@ Desde el año 2017 esta **es la sede que presta los servicios para los departame
 
 ## Compra tu pasaje en la Terminal de Transporte de Bogotá
 
-Los servicios en el terminal del Sur de Bogotá:
-Servicios de taxisterminal del sur bogota
-Parqueadero público: cuenta con 59 espacios
-Cicloparqueo: este servicio gratis que cuenta con 35 espacios para parquear las bicicletas.
-Baños y duchas: 4 baterías de baños para hombres y mujeres compuestas por duchas, sanitarios, lavamanos y orinales.
-Guarda equipaje: servicio prestado a los usuarios para dejar almacenados su equipaje por corto tiempo.
-Carros portaequipajes: disponible para el tránsito de equipajes por las diferentes áreas de la Terminal.
-Prehospitalario: servicio para casos de emergencia de las personas que hacen uso de la Terminal.
-Infraestructura: Bahías de ascenso y descenso de pasajeros, zona de taquillas y amplias salas de esperera.
-Sector financiero. Entidades bancarias y cajeros electrónicos con horarios extendidos.
+Hasta la fecha, se registran mas de 90 empresas trabajando en las 3 sedes de la terminal de Bogotá. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. **Solo haz clic en el botón del teléfono de la empresa que necesitas para comprar tu pasaje o tiquete de viaje.**
 
-CORREO ELECTRÓNICO INSTITUCIONAL
-Correo Institucional terminalbogota@terminaldetransporte.gov.co
-Defensor al ciudadano defensor.ciudadano@terminaldetransporte.gov.co
-Notificaciones judiciales notificacionesjudiciales@terminaldetransporte.gov.co
+Las empresas de transporte que trabajan en la terminal de transporte de Bogotá están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
-### Ubicación del Terminal de Transporte de Cali en Google Maps y en Waze
+| 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
+| --- | :---: |
+| **Líneas las Acacias** | {% include boton.html url="tel:0315414667" title="Teléfono de Líneas las Acacias en la terminal de Bogotá" texto="0315414667" %} |
+| **Coflonorte** | {% include boton.html url="tel:0317705815" title="Teléfono 1 de Coflonorte en la terminal de Bogotá" texto="0317705815" %} {% include boton.html url="tel:0317700792" title="Teléfono 2 de Coflonorte en la terminal de Bogotá" texto="0317700792" %} |
+| **Cointrasur** | {% include boton.html url="tel:0312951273" title="Teléfono de Cointrasur 1 en la terminal de Bogotá" texto="0312951273" %} {% include boton.html url="tel:0317759060" title="Teléfono de Cointrasur 2 en la terminal de Bogotá" texto="0317759060" %} |
+| **Coomofu Ltda** | {% include boton.html url="tel:0318260319" title="Teléfono de Coomofu 1 en la terminal de Bogotá" texto="0318260319" %} {% include boton.html url="tel:0318261628" title="Teléfono de Cointrasur 2 en la terminal de Bogotá" texto="0318261628" %} |
+| **Coomofu Ltda** | {% include boton.html url="tel:XCXXXXXXXXXXXXXXXXXXXX" title="Teléfono de Coomofu 1 en la terminal de Bogotá" texto="XCXXXXXXXXXXXXXXXXXXXX" %} {% include boton.html url="tel:ZZZZZZZZZZZZZZZZZZZZZZZZ" title="Teléfono de Cointrasur 2 en la terminal de Bogotá" texto="ZZZZZZZZZZZZZZZZZZZZZZZZ" %} |
 
-{% include boton.html url="https://goo.gl/maps/dsKmEKd7quYCAQDc8" title="Ubicación en Google Maps de la terminal de Cali" texto="Ubicación en Google Maps" %}
-
-Terminales actuales
-
-
-
-
-### Servicios de la terminal de transporte Salitre
-
-Terminal Saltire en BogotaTerminal Salitre
-
-TERMINAL SALITRE
-Servicios
-Servicios Bancarios
-
-En la Terminal puede encontrar las siguientes entidades bancarias: Banco de Bogotá, Bancolombia, Davivienda, BBVA. Se les recomienda a aquellos usuarios que retiran grandes cantidades de dinero solicitar el apoyo de la Policía Nacional para garantizar su seguridad e integridad.
-
-Personal 24 Horas
-
-La Terminal cuenta con personal operativo y de servicio las 24 horas del día, los 365 días del año, debidamente capacitados para las condiciones propias de operación.
-
-Parqueaderos
-
-Existe un parqueadero ubicado en frente del módulo 5 el cual presta servicio de 4 am a 11 pm.  Tarifas/ Carros Minuto: 69 pesos Hora: 4.100 Tarifa plena: 18.700 Mensualidad: 108.700 Mensualidad/ carro pesado: 164.700/ Motos: Minuto: 48 pesos Hora: 2.900 Tarifa plena: 9.300 Mensualidad: 53.900
-
-Primeros Auxilios
-
-Contamos con asistencia para urgencias y emergencias las 24 horas del día a través de la Cruz Roja Colombiana, además la Terminal Salitre cuenta con ambulancia de manera permanente al interior de la entidad.
-
-Carros Maleteros
-
-Existe un total aproximado de 480 carros maleteros disponibles a todos los visitantes de manera gratuita, la Terminal Bogotá Copropiedad, es quien administra este servicio.
-
-Circuito Cerrado TV
-
-La Terminal cuenta con 296 cámaras de última tecnología, que permite monitorear todas las áreas de la Terminal, garantizando la seguridad de los usuarios.
-
-Silla De Ruedas
-
-Para la comodidad de las personas con algún tipo de discapacidad o con movilidad reducida contamos con 12 sillas de ruedas en los módulos y zonas de descenso. Si requiere hacer uso de ellas ubique al personal del Departamento de Servicio al Ciudadano en cada módulo.
-
-Asignación De Taxis Seguros
-
-La Terminal de Transporte Salitre, ofrece el servicio de asignación de taxis las 24 horas del día con el propósito de brindar mayor seguridad y comodidad al usuario
-
-Policía
-
-Este equipo de trabajo está conformado por: Policía de Vigilancia, Policía de Infancia y Adolescencia, Policía Ambiental, Policía de Turismo, Policía de Carreteras, Policía de Tránsito y Transporte.
-
-Guarda Equipaje
-
-encontrará el servicio de guardaequipaje que es administrado por la Terminal Bogotá Copropiedad, y los precios son fijados por ellos, por las 24 horas, el valor debe ser cancelado al momento de retirar el equipaje o elementos que haya guardado en estos espacios asignados.
-
-Wifi Gratis
-
-Queremos que te conectes con tus seres queridos mientras esperas tu viaje, por eso encuentra servicio de Wi-fi gratis en zonas de espera y taquillas.
-
-Duchas
-
-podrá encontrar el servicio de baño con duchas, que le garantiza un kit con los siguientes elementos de aseo personal: una toalla, un jabón, un shampoo y un cepillo de dientes con su correspondiente crema dental. Este servicio está disponible al usuario las 24 horas del día y es administrado por la Terminal Copropiedad.
-
-Restaurantes
-
-En La Terminal puede encontrar restaurantes, cafeterías y variedad de locales comerciales para satisfacer sus necesidades. Ubicados en todos los módulos.
-
-Capilla
-
-Para aquellos viajeros y visitantes que deseen hacer una oración o elevar una plegaria en el segundo piso del módulo 3 encontrará la Capilla.
-
-Encomiendas
-
-Este servicio cubre el 80% del territorio nacional y se pueden hacer giros y encomiendas, encuéntralo en el modulo 5. Servicio de atención: 6:00 am a 10:00 pm.
-
-Espacios Comerciales
-
-La Terminal cuenta con áreas susceptibles de explotación comercial para que empresas privadas o dedicadas a la actividad publicitaria hagan uso de ellas. Así mismo, con espacios digitales como: Página Web y Pantallas Digitales, donde su marca puede ser visualizada.
-
-Vacunación
-
-Fiebre amarilla: Si usted vive o piensa viajar a zonas selváticas que se encuentren por debajo de los 1800 metros sobre el nivel del mar, deberá vacunarse contra la fiebre amarilla un mínimo de diez (10) días antes de si viaje. Sarampión y Rubeola
-Opening hours: 07:00 am to 06:00 pm
-
-
-Servicios
-Desde aquí salen autobuses y taxis hacia todos los destinos de la geografía colombiana occidente y norte del país. La Terminal está dividida en cinco módulos: Amarillo (1): Rutas al sur del país. Azul (2): Rutas al este y oeste del país. Rojo (3): Rutas al norte del país y a toda Sudamerica Verde (4): Servicio de taxis intermunicipales e interdepartamentales. Morado (5): Llegada de pasajeros y abordaje de taxis y buses de servicio urbano.
-Contacto
-Sitio web: www.terminaldetransporte.gov.co/ Facebook: www.facebook.com/terminalBogota Twitter: @terminalBogota
-
-La Terminal está dividida en cinco módulos:
-
-Amarillo: Rutas al sur del país.
-Azul: Rutas al este y oeste del país.
-Rojo: Rutas al norte del país
-Verde: Servicio de taxis intermunicipales e interdepartamentales.
-Morado: Llegada de pasajeros y abordaje de taxis y buses de servicio urbano.
-Terminal satélite del sur
-Fue inaugurada en 2008,1​ está ubicada en el cruce de la Avenida Bosa con la Autopista NQS, en la localidad de Bosa al suroccidente de la capital, presta sus servicios a destinos al suroccidente del departamento de Cundinamarca (excepto la provincia de Soacha, que se presta a las empresas que usan el Corredor de Transporte), y destinos hacia los departamentos de Tolima, Huila, Caquetá, Putumayo, Risaralda, Quindío, Valle del Cauca, Cauca y Nariño.
-El Terminal Salitre fue inaugurado en el año 1984 y se encuentra en el sector occidente de Bogotá, en Ciudad Salitre, con 86 empresas de buses activas. Desde el Terminal Salitre salen y llegan  buses con todos los destinos y orígenes nacionales (occidente y norte) e internacionales, dividiéndose en cinco sectores:
-
-Módulo 1, Amarillo, para las rutas al sur del país
-Módulo 2,  Azul, para las rutas al este y oeste del país
-Módulo 3, Rojo, para las rutas al norte del país
-Módulo 4, Verde, para servicios de taxis
-Módulo 5, Morado, para Llegada de pasajeros
-Las principales empresas que operan en el Terminal Salitre son Coomotor, Expreso Bolivariano, Expreso Brasilia y Copetran, entre otras.
-
-Terminal del sur bogotaTerminal del Sur
-
-TERMINAL DEL SUR
-Servicios
-Parqueadero
-
-Contamos con 59 espacios para vehículos y motos, abierto las 24 horas del día, así mismo contamos con ciclo-parqueadero gratuito. Tarifas Motos Minuto: 54 pesos Hora: 3.240 Tarifa plena 12 horas: 13.200 Mensualidad: 73.700 Tarifas Carros Minuto: 78 pesos Hora: 4.700 Tarifa Plena 12 horas: 24.200 Mensualidad: 145.200 
-
-Servicios Bancarios
-
-La Terminal del Sur, cuenta con cajeros de Bancolombia, ATH y Servibanca, también podrás encontrar Banco Caja Social, ubicado en la Zona de taquillas.
-
-Personal 24 Horas
-
-Cuenta con personal dispuesto las 24 horas del día, los 365 días del año, para la orientación a visitantes y viajeros sobre las empresas transportadoras y destinos, así como los demás servicios, podrás distinguirlos por su chaleco azul.
-
-Primeros Auxilios
-
-Contamos con asistencia para urgencias y emergencias las 24 horas del día a través de la Cruz Roja Colombiana.
-
-Servicio De Ambulancia
-
-Este servicio es garantizado a través de la Cruz Roja Colombiana en situación de emergencia.
-
-Carritos Maleteros
-
-Contamos con 200 carros maleteros a disposición de los usuarios los cuales son de uso gratuito y se encuentran ubicados en las áreas de servicio.
-
-Circuito Cerrado TV
-
-La Terminal del Sur cuenta con  97 cámaras de vigilancia que cubren el 100% de las áreas, brindando mayor seguridad a los usuarios.
-
-Silla De Ruedas
-
-Si requieres trasladarte por la Terminal Bogotá en silla de ruedas, solicítala en los puntos de información, este servicio es completamente gratuito.
-
-Asignación De Taxis Seguros
-
-Contamos con una base de datos de alta tecnología en la cual queda registrada la información del viajero y del conductor, garantizando así la seguridad de los usuarios de taxis las 24 horas del día.
-
-Policía
-
-La Terminal Sur cuenta con estación de Policía al interior de la entidad.
-
-Guarda Equipaje
-
-Este servicio tiene un costo que cubre hasta las 24 horas de servicio, encuéntralo en el área de taquillas frente al banco Caja Social las 24 horas del día.
-
-Wifi Gratis
-
-Queremos que te conectes con tus seres queridos mientras esperas tu viaje, servicio de Wifi gratis en zonas de espera y taquillas.
-
-Duchas
-
-Se prestan las baterías de baño en el sótano y área operativa. Se dispone como servicio adicional un kit completo de aseo personal.
-
-Restaurantes
-
-
-Las principales empresas que operan en la Terminal del Sur son Coomotor, Expreso Bolivariano, Expreso Brasilia, Expreso Palmira y Copetran, entre otras.
-
-Los servicios en el terminal del Norte son:
-24 taquillas de ventas de tiquetes
-Servicios de taxis
-Parqueadero público
-19 plataformas para el ascenso de pasajeros
-baterías de baños para hombres y mujeres compuestas por duchas, sanitarios, lavamanos y orinales.
-Guarda equipaje
-2 cajeros electrónicos y oficinas administrativas
-Locales Comerciales
-
-Terminal del Norte BogotaTerminal del Norte
-
-TERMINAL DEL NORTE
-Servicios
-Parqueaderos
-
-Tiene una capacidad de 20 espacios para carros y motos, de igual manera también hay un cicloparqueadero, estos servicios son gratuitos.
-
-Cajeros Automáticos
-
-Contamos con un Servibanca ubicado en área de taquillas.
-
-Personal 24 Horas
-
-Cuenta con personal operativo y de servicio las 24 horas del día los 365 días del año, debidamente capacitados para las condiciones propias de operación de la Terminal.
-
-Primeros Auxilios
-
-Contamos con asistencia para urgencias y emergencias las 24 horas del día a través de la Cruz Roja Colombiana.
-
-Servicio De Ambulancia
-
-Este servicio está garantizado a través de la Cruz Roja Colombiana en caso de emergencia.
-También llamado Terminal de Operaciones Satélite del Norte comenzó sus operaciones en febrero del año 2017 y está ubicada sobre la Autopista Norte con Calle 192 en Bogotá. Funciona como un punto intermedio para buses que provienen desde distintos puntos de la ciudad hacia el norte de ella.
-Principales operadores de autobuses en Terminal Salitre
-Taxmeta
-Cootranscaqueza
-Transipiales
-Transportes purificacion
-Rapido Tolima
-Las principales empresas que operan en la Terminal del Norte son Coomotor, Expreso Bolivariano, Expreso Brasilia, Expreso Palmira y Copetran, entre otras.
-Auto Fusa S.A
- 416-3213, 416-3224
- gerencia@autofusa.com
-
-acacias
-COMPRAR
-Auto Líneas Las Acacias
- 541-4667
- concejo@cootranstequedama.com
-coflonorte
-Coflonorte Los Libertadores
-Venta Offline
- 770-5815 / 770-0792
- secretaria@coflonorte.com
-intrasur
-COMPRAR
-Cointrasur
- 2951273 -7759060
- cointrasur@hotmail.com
-fu
-COMPRAR
 Comofu Ltda
  826-0319 / 826-1628
  Info@coomofu.com
@@ -353,16 +118,16 @@ COMPRAR
 Continental Bus S.A.
  4249340 EXT 302
  derlin.mira@bolivariano.com
-coomotor
+Coflonorte
 COMPRAR
-Coomotor - Cooperativa de Motoristas del Huila y Caquetá Ltda.
+Coflonorte - Cooperativa de Motoristas del Huila y Caquetá Ltda.
  01-8000-91-0293 / Neiva 875-4900
- gerencia@coomotor.com.co
+ gerencia@Coflonorte.com.co
 florencia
 COMPRAR
-Coomotor Florencia
+Coflonorte Florencia
  422-7140 / 422-7783
- gerencia@coomotorflorencia.com
+ gerencia@Coflonorteflorencia.com
 coonorte
 COMPRAR
 Coonorte Ltda Cooperativa Norteña de Transportes
@@ -398,7 +163,7 @@ Cootransgirardot Ltda.
  831-2909 / 831-2911 / 832-3650
  cootransgirardotltda@yahoo.es
 huila
-Cootranshuila
+Cointrasur
  875-9048 / 875-6365
  gerencia@coontranhuila.com
 mayo
@@ -923,6 +688,229 @@ Pasajes de Bus Bogota a Bogota
 Pasajes de Bus Bogota a Bogota
 Pasajes de Bus Bogota a Bogota
 
+### Servicios de la terminal de transporte Salitre
+
+Terminal Saltire en BogotaTerminal Salitre
+
+TERMINAL SALITRE
+Servicios
+Servicios Bancarios
+
+En la Terminal puede encontrar las siguientes entidades bancarias: Banco de Bogotá, Bancolombia, Davivienda, BBVA. Se les recomienda a aquellos usuarios que retiran grandes cantidades de dinero solicitar el apoyo de la Policía Nacional para garantizar su seguridad e integridad.
+
+Personal 24 Horas
+
+La Terminal cuenta con personal operativo y de servicio las 24 horas del día, los 365 días del año, debidamente capacitados para las condiciones propias de operación.
+
+Parqueaderos
+
+Existe un parqueadero ubicado en frente del módulo 5 el cual presta servicio de 4 am a 11 pm.  Tarifas/ Carros Minuto: 69 pesos Hora: 4.100 Tarifa plena: 18.700 Mensualidad: 108.700 Mensualidad/ carro pesado: 164.700/ Motos: Minuto: 48 pesos Hora: 2.900 Tarifa plena: 9.300 Mensualidad: 53.900
+
+Primeros Auxilios
+
+Contamos con asistencia para urgencias y emergencias las 24 horas del día a través de la Cruz Roja Colombiana, además la Terminal Salitre cuenta con ambulancia de manera permanente al interior de la entidad.
+
+Carros Maleteros
+
+Existe un total aproximado de 480 carros maleteros disponibles a todos los visitantes de manera gratuita, la Terminal Bogotá Copropiedad, es quien administra este servicio.
+
+Circuito Cerrado TV
+
+La Terminal cuenta con 296 cámaras de última tecnología, que permite monitorear todas las áreas de la Terminal, garantizando la seguridad de los usuarios.
+
+Silla De Ruedas
+
+Para la comodidad de las personas con algún tipo de discapacidad o con movilidad reducida contamos con 12 sillas de ruedas en los módulos y zonas de descenso. Si requiere hacer uso de ellas ubique al personal del Departamento de Servicio al Ciudadano en cada módulo.
+
+Asignación De Taxis Seguros
+
+La Terminal de Transporte Salitre, ofrece el servicio de asignación de taxis las 24 horas del día con el propósito de brindar mayor seguridad y comodidad al usuario
+
+Policía
+
+Este equipo de trabajo está conformado por: Policía de Vigilancia, Policía de Infancia y Adolescencia, Policía Ambiental, Policía de Turismo, Policía de Carreteras, Policía de Tránsito y Transporte.
+
+Guarda Equipaje
+
+encontrará el servicio de guardaequipaje que es administrado por la Terminal Bogotá Copropiedad, y los precios son fijados por ellos, por las 24 horas, el valor debe ser cancelado al momento de retirar el equipaje o elementos que haya guardado en estos espacios asignados.
+
+Wifi Gratis
+
+Queremos que te conectes con tus seres queridos mientras esperas tu viaje, por eso encuentra servicio de Wi-fi gratis en zonas de espera y taquillas.
+
+Duchas
+
+podrá encontrar el servicio de baño con duchas, que le garantiza un kit con los siguientes elementos de aseo personal: una toalla, un jabón, un shampoo y un cepillo de dientes con su correspondiente crema dental. Este servicio está disponible al usuario las 24 horas del día y es administrado por la Terminal Copropiedad.
+
+Restaurantes
+
+En La Terminal puede encontrar restaurantes, cafeterías y variedad de locales comerciales para satisfacer sus necesidades. Ubicados en todos los módulos.
+
+Capilla
+
+Para aquellos viajeros y visitantes que deseen hacer una oración o elevar una plegaria en el segundo piso del módulo 3 encontrará la Capilla.
+
+Encomiendas
+
+Este servicio cubre el 80% del territorio nacional y se pueden hacer giros y encomiendas, encuéntralo en el modulo 5. Servicio de atención: 6:00 am a 10:00 pm.
+
+Espacios Comerciales
+
+La Terminal cuenta con áreas susceptibles de explotación comercial para que empresas privadas o dedicadas a la actividad publicitaria hagan uso de ellas. Así mismo, con espacios digitales como: Página Web y Pantallas Digitales, donde su marca puede ser visualizada.
+
+Vacunación
+
+Fiebre amarilla: Si usted vive o piensa viajar a zonas selváticas que se encuentren por debajo de los 1800 metros sobre el nivel del mar, deberá vacunarse contra la fiebre amarilla un mínimo de diez (10) días antes de si viaje. Sarampión y Rubeola
+Opening hours: 07:00 am to 06:00 pm
+
+
+Servicios
+Desde aquí salen autobuses y taxis hacia todos los destinos de la geografía colombiana occidente y norte del país. La Terminal está dividida en cinco módulos: Amarillo (1): Rutas al sur del país. Azul (2): Rutas al este y oeste del país. Rojo (3): Rutas al norte del país y a toda Sudamerica Verde (4): Servicio de taxis intermunicipales e interdepartamentales. Morado (5): Llegada de pasajeros y abordaje de taxis y buses de servicio urbano.
+Contacto
+Sitio web: www.terminaldetransporte.gov.co/ Facebook: www.facebook.com/terminalBogota Twitter: @terminalBogota
+
+La Terminal está dividida en cinco módulos:
+
+Amarillo: Rutas al sur del país.
+Azul: Rutas al este y oeste del país.
+Rojo: Rutas al norte del país
+Verde: Servicio de taxis intermunicipales e interdepartamentales.
+Morado: Llegada de pasajeros y abordaje de taxis y buses de servicio urbano.
+Terminal satélite del sur
+Fue inaugurada en 2008,1​ está ubicada en el cruce de la Avenida Bosa con la Autopista NQS, en la localidad de Bosa al suroccidente de la capital, presta sus servicios a destinos al suroccidente del departamento de Cundinamarca (excepto la provincia de Soacha, que se presta a las empresas que usan el Corredor de Transporte), y destinos hacia los departamentos de Tolima, Huila, Caquetá, Putumayo, Risaralda, Quindío, Valle del Cauca, Cauca y Nariño.
+El Terminal Salitre fue inaugurado en el año 1984 y se encuentra en el sector occidente de Bogotá, en Ciudad Salitre, con 86 empresas de buses activas. Desde el Terminal Salitre salen y llegan  buses con todos los destinos y orígenes nacionales (occidente y norte) e internacionales, dividiéndose en cinco sectores:
+
+Módulo 1, Amarillo, para las rutas al sur del país
+Módulo 2,  Azul, para las rutas al este y oeste del país
+Módulo 3, Rojo, para las rutas al norte del país
+Módulo 4, Verde, para servicios de taxis
+Módulo 5, Morado, para Llegada de pasajeros
+Las principales empresas que operan en el Terminal Salitre son Coflonorte, Expreso Bolivariano, Expreso Brasilia y Copetran, entre otras.
+
+Terminal del sur bogotaTerminal del Sur
+
+TERMINAL DEL SUR
+
+Los servicios en el terminal del Sur de Bogotá:
+Servicios de taxisterminal del sur bogota
+Parqueadero público: cuenta con 59 espacios
+Cicloparqueo: este servicio gratis que cuenta con 35 espacios para parquear las bicicletas.
+Baños y duchas: 4 baterías de baños para hombres y mujeres compuestas por duchas, sanitarios, lavamanos y orinales.
+Guarda equipaje: servicio prestado a los usuarios para dejar almacenados su equipaje por corto tiempo.
+Carros portaequipajes: disponible para el tránsito de equipajes por las diferentes áreas de la Terminal.
+Prehospitalario: servicio para casos de emergencia de las personas que hacen uso de la Terminal.
+Infraestructura: Bahías de ascenso y descenso de pasajeros, zona de taquillas y amplias salas de esperera.
+Sector financiero. Entidades bancarias y cajeros electrónicos con horarios extendidos.
+
+CORREO ELECTRÓNICO INSTITUCIONAL
+Correo Institucional terminalbogota@terminaldetransporte.gov.co
+Defensor al ciudadano defensor.ciudadano@terminaldetransporte.gov.co
+Notificaciones judiciales notificacionesjudiciales@terminaldetransporte.gov.co
+
+Servicios
+Parqueadero
+
+Contamos con 59 espacios para vehículos y motos, abierto las 24 horas del día, así mismo contamos con ciclo-parqueadero gratuito. Tarifas Motos Minuto: 54 pesos Hora: 3.240 Tarifa plena 12 horas: 13.200 Mensualidad: 73.700 Tarifas Carros Minuto: 78 pesos Hora: 4.700 Tarifa Plena 12 horas: 24.200 Mensualidad: 145.200 
+
+Servicios Bancarios
+
+La Terminal del Sur, cuenta con cajeros de Bancolombia, ATH y Servibanca, también podrás encontrar Banco Caja Social, ubicado en la Zona de taquillas.
+
+Personal 24 Horas
+
+Cuenta con personal dispuesto las 24 horas del día, los 365 días del año, para la orientación a visitantes y viajeros sobre las empresas transportadoras y destinos, así como los demás servicios, podrás distinguirlos por su chaleco azul.
+
+Primeros Auxilios
+
+Contamos con asistencia para urgencias y emergencias las 24 horas del día a través de la Cruz Roja Colombiana.
+
+Servicio De Ambulancia
+
+Este servicio es garantizado a través de la Cruz Roja Colombiana en situación de emergencia.
+
+Carritos Maleteros
+
+Contamos con 200 carros maleteros a disposición de los usuarios los cuales son de uso gratuito y se encuentran ubicados en las áreas de servicio.
+
+Circuito Cerrado TV
+
+La Terminal del Sur cuenta con  97 cámaras de vigilancia que cubren el 100% de las áreas, brindando mayor seguridad a los usuarios.
+
+Silla De Ruedas
+
+Si requieres trasladarte por la Terminal Bogotá en silla de ruedas, solicítala en los puntos de información, este servicio es completamente gratuito.
+
+Asignación De Taxis Seguros
+
+Contamos con una base de datos de alta tecnología en la cual queda registrada la información del viajero y del conductor, garantizando así la seguridad de los usuarios de taxis las 24 horas del día.
+
+Policía
+
+La Terminal Sur cuenta con estación de Policía al interior de la entidad.
+
+Guarda Equipaje
+
+Este servicio tiene un costo que cubre hasta las 24 horas de servicio, encuéntralo en el área de taquillas frente al banco Caja Social las 24 horas del día.
+
+Wifi Gratis
+
+Queremos que te conectes con tus seres queridos mientras esperas tu viaje, servicio de Wifi gratis en zonas de espera y taquillas.
+
+Duchas
+
+Se prestan las baterías de baño en el sótano y área operativa. Se dispone como servicio adicional un kit completo de aseo personal.
+
+Restaurantes
+
+
+Las principales empresas que operan en la Terminal del Sur son Coflonorte, Expreso Bolivariano, Expreso Brasilia, Expreso Palmira y Copetran, entre otras.
+
+Los servicios en el terminal del Norte son:
+24 taquillas de ventas de tiquetes
+Servicios de taxis
+Parqueadero público
+19 plataformas para el ascenso de pasajeros
+baterías de baños para hombres y mujeres compuestas por duchas, sanitarios, lavamanos y orinales.
+Guarda equipaje
+2 cajeros electrónicos y oficinas administrativas
+Locales Comerciales
+
+Terminal del Norte BogotaTerminal del Norte
+
+TERMINAL DEL NORTE
+Servicios
+Parqueaderos
+
+Tiene una capacidad de 20 espacios para carros y motos, de igual manera también hay un cicloparqueadero, estos servicios son gratuitos.
+
+Cajeros Automáticos
+
+Contamos con un Servibanca ubicado en área de taquillas.
+
+Personal 24 Horas
+
+Cuenta con personal operativo y de servicio las 24 horas del día los 365 días del año, debidamente capacitados para las condiciones propias de operación de la Terminal.
+
+Primeros Auxilios
+
+Contamos con asistencia para urgencias y emergencias las 24 horas del día a través de la Cruz Roja Colombiana.
+
+Servicio De Ambulancia
+
+Este servicio está garantizado a través de la Cruz Roja Colombiana en caso de emergencia.
+También llamado Terminal de Operaciones Satélite del Norte comenzó sus operaciones en febrero del año 2017 y está ubicada sobre la Autopista Norte con Calle 192 en Bogotá. Funciona como un punto intermedio para buses que provienen desde distintos puntos de la ciudad hacia el norte de ella.
+Principales operadores de autobuses en Terminal Salitre
+Taxmeta
+Cootranscaqueza
+Transipiales
+Transportes purificacion
+Rapido Tolima
+Las principales empresas que operan en la Terminal del Norte son Coflonorte, Expreso Bolivariano, Expreso Brasilia, Expreso Palmira y Copetran, entre otras.
+Auto Fusa S.A
+ 416-3213, 416-3224
+ gerencia@autofusa.com
+
+
 Direcciones a Terminal De Transporte De Bogotá - El Salitre (Fontibón) en transporte público
 Las siguientes líneas de transporte tienen rutas que pasan cerca de Terminal De Transporte De Bogotá - El Salitre
 
@@ -1095,7 +1083,7 @@ La información de este artículo puede cambiar frecuentemente. Por favor, no ag
 Terminal de Soacha
 Proyectada en el sector de Maiporé en el municipio de Soacha (Autopista NQS Calle 30 sur, Comuna 1 Compartir), prestaría sus servicios para rutas que vayan con destino a esta última ciudad como medida de descongestionamiento de la Terminal Satélite del Sur, en el cual incluirá una zona específica de carga y futuro acceso a la estación Terminal Soacha 3M de TransMilenio.4​
 
-La Terminal de Transporte de Bogotá es la empresa público privada con recursos propios que administra la mayor parte del servicio de autobuses y terminales en Bogotá e inicio sus operaciones el año 1984, bajo el liderazgo del sr. Antonio Vargas Valle. Administra los tres principales terminales de la capital, el Terminal Salitre,  el Terminal del Sur y el Terminal del Norte. Dentro de sus funciones se encuentra asegurar el buen funcionamiento y la calidad del servicio de los terminales y las empresas de buses que operan en ellos. En los terminales ofrece una amplia gama de servicios, tales como oficinas , asignación de taxis, baños y duchas, puntos de despacho, salas de espera, locales comerciales, taquillas, espacios de exhibiciones, áreas publicitarias y parqueaderos, entre otros. Con respecto a los servicios de transporte, Transporte de Bogotá vela por el correcto funcionamiento de los servicios que prestan las empresas de buses, haciendo énfasis en la calidad, seguridad y horario de estos. Las principales empresas de buses que trabajan en los terminales  son Copetran, Expreso Bolivariano, Coomotor, Expreso Brasilia, Expreso Palmira, Rápido Ochoa, Flota Magdalena, Flota Occidental, entre otras.
+La Terminal de Transporte de Bogotá es la empresa público privada con recursos propios que administra la mayor parte del servicio de autobuses y terminales en Bogotá e inicio sus operaciones el año 1984, bajo el liderazgo del sr. Antonio Vargas Valle. Administra los tres principales terminales de la capital, el Terminal Salitre,  el Terminal del Sur y el Terminal del Norte. Dentro de sus funciones se encuentra asegurar el buen funcionamiento y la calidad del servicio de los terminales y las empresas de buses que operan en ellos. En los terminales ofrece una amplia gama de servicios, tales como oficinas , asignación de taxis, baños y duchas, puntos de despacho, salas de espera, locales comerciales, taquillas, espacios de exhibiciones, áreas publicitarias y parqueaderos, entre otros. Con respecto a los servicios de transporte, Transporte de Bogotá vela por el correcto funcionamiento de los servicios que prestan las empresas de buses, haciendo énfasis en la calidad, seguridad y horario de estos. Las principales empresas de buses que trabajan en los terminales  son Copetran, Expreso Bolivariano, Coflonorte, Expreso Brasilia, Expreso Palmira, Rápido Ochoa, Flota Magdalena, Flota Occidental, entre otras.
 
 Contacto de la Terminal de Transporte de Bogotá
 
