@@ -1,7 +1,7 @@
 ---
 layout: articulo
 title: Terminal de transporte de Bogotá
-description: La terminal de transporte de Bogotá es una terminal con 2 terminales satélites. Aquí consigues toda la información que necesitas para tu beneficio
+description: La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad
 category: cundinamarca
 tags: bogota
 img: img/terminales/cundinamarca/terminal-transporte-bogota-cundinamarca.webp
@@ -14,66 +14,100 @@ referencias:
   - Página web de la empresa Arauca: https://empresaarauca.com.co
   - Página web de la empresa Bolivariano: https://bolivariano.com.co
 ---
-**La Terminal de transporte de Bogotá está ubicada al Occidente de Bogotá, cerca de Ciudad Salitre. Por esto se conoce como la Terminal de Salitre. Desde y hacia este punto de la ciudad, sale y llega todo el transporte terrestre nacional y a destinos de Suramérica.**
+**La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad de Bogotá.**
 
 <!-- excerpt -->
+
+Debido a la cantidad de personas que utilizan esta la terminal de Bogotá, esta se multiplicó a 3 sedes:
+
+1. Terminal Salitre
+2. Terminal del Sur de Bogotá
+3. Terminal del Norte de Bogotá
 
 En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Bogotá.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Teléfono de la Terminal de Transporte de Bogotá
+## Teléfono de la Terminal de Bogotá
 
 **El número de teléfono de la terminal de transporte de Bogotá es 0314233630**. Para llamar, solo necesitas hacer clic en el siguiente botón:
 
 {% include boton.html url="tel:0314233630" title="Teléfono de la terminal de Bogotá" texto="0314233630" %}
 
-**El número de teléfono PBX de la terminal de Bogotá es 0314233600**. Para llamar, solo necesitas hacer clic en el siguiente botón:
+**El número de teléfono PBX de la terminal de Bogotá es 0314233600**. Solo necesitas hacer clic en el siguiente botón:
 
 {% include boton.html url="tel:0314233600" title="Teléfono pbx de la terminal de Bogotá" texto="0314233600" %}
 
-**El número de FAX de la terminal de Bogotá es 0314851616, línea 195**. Para llamar, solo necesitas hacer clic en el siguiente botón:
+**El número de FAX de la terminal de transporte de Bogotá es 4851616, línea 195**.
 
-{% include boton.html url="tel:0314851616" title="Teléfono FAX de la terminal de Bogotá" texto="0314851616" %}
+## Terminal Salitre
 
-## Terminal de Transporte Salitre
+**La terminal de Salitre es la sede central de la Terminal de Transporte de Bogotá, sede administrativa y centro de operaciones de las terminales de Bogotá**. Su nombre se debe a que se ubica en Ciudad Salitre Occidental, en Fontibón. Esta terminal, además del servicio de transporte de pasajeros, también ofrece transporte de carga y servicio de envío de encomiendas.
 
-La terminal de Salitre es la cede central. Fue inaugurada en 1984. Su nombre se debe a que se ubica en Ciudad Salitre Occidental, en Fontibón.
+### Dirección de la terminal Salitre de Bogotá
 
+**La dirección de la terminal Salitre es Diagonal 23 # 69 - 11**. Allí también está la oficina de atención al público, en la sede administrativa. La dirección es Diagonal 23 # 69 - 60, oficina 502.
 
- cuyas vías de acceso son las Avenidas 68, Esperanza, Boyacá y Centenario. Desde allí salen autobuses y taxis hacia todos los destinos de la geografía colombiana (occidente y norte del país), además de prestar los servicios de transporte de carga y encomienda. Cuenta con cinco módulos que cubren diferentes regiones del país y servicios de transporte.
+#### Ubicación del Terminal de Transporte Salitre en Google Maps y en Waze
 
-Servicios
-Desde aquí salen autobuses y taxis hacia todos los destinos de la geografía colombiana occidente y norte del país. La Terminal está dividida en cinco módulos: Amarillo (1): Rutas al sur del país. Azul (2): Rutas al este y oeste del país. Rojo (3): Rutas al norte del país y a toda Sudamerica Verde (4): Servicio de taxis intermunicipales e interdepartamentales. Morado (5): Llegada de pasajeros y abordaje de taxis y buses de servicio urbano.
-Contacto
-Sitio web: www.terminaldetransporte.gov.co/ Facebook: www.facebook.com/terminalBogota Twitter: @terminalBogota
+{% include boton.html url="https://goo.gl/maps/HYup8wM2tLUUmczA6" title="Ubicación en Google Maps de la terminal de Salitre de Bogotá" texto="Ubicación en Google Maps" %}
 
-La Terminal está dividida en cinco módulos:
+{% include boton.html url="https://ul.waze.com/ul?place=ChIJG8KxnpebP44ROO1kfNsbtwM&ll=4.65323860%2C-74.11462880&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación en waze de la terminal Salitre de Bogotá" texto="Ubicación en Waze" %}
 
-Amarillo: Rutas al sur del país.
-Azul: Rutas al este y oeste del país.
-Rojo: Rutas al norte del país
-Verde: Servicio de taxis intermunicipales e interdepartamentales.
-Morado: Llegada de pasajeros y abordaje de taxis y buses de servicio urbano.
-Terminal satélite del sur
-Fue inaugurada en 2008,1​ está ubicada en el cruce de la Avenida Bosa con la Autopista NQS, en la localidad de Bosa al suroccidente de la capital, presta sus servicios a destinos al suroccidente del departamento de Cundinamarca (excepto la provincia de Soacha, que se presta a las empresas que usan el Corredor de Transporte), y destinos hacia los departamentos de Tolima, Huila, Caquetá, Putumayo, Risaralda, Quindío, Valle del Cauca, Cauca y Nariño.
+## Terminal del Sur de Bogotá
+
+Desde el año 2008, **la Terminal del Sur presta sus servicios para la alta demanda de pasajeros desde Bogotá hacia el sur de Colombia**. Es una sede con locales comerciales, parqueadero y servicios varios. Más adelante tienes más información.
+
+### Teléfono de la Terminal Sur de Bogotá
+
+**Para llamar a la Terminal de Transporte del Sur de Bogotá puedes marcar los números 4233951 y 4233630, línea 145**.  Para llamar, solo necesitas hacer clic en los siguientes botones:
+
+{% include boton.html url="tel:0314233951" title="Teléfono de la terminal de Bogotá" texto="0314233951" %}
+
+{% include boton.html url="tel:0314233630" title="Teléfono de la terminal de Bogotá" texto="0314233630" %}
+
+### Dirección de la terminal Sur de Bogotá
+
+**La dirección de la terminal Sur de Bogotá es en el cruce de la Av. Bosa con la Autopista NQS, Calle 57Q #75F - 82**. Para facilitar su ubicación, haz clic en los siguientes botones de Google Maps y de Waze.
+
+#### Ubicación del Terminal de Transporte Sur en Google Maps y en Waze
+
+{% include boton.html url="https://goo.gl/maps/LswxZmJTGBMmcHxu8" title="Ubicación en Google Maps de la terminal de transporte sur de Bogotá" texto="Ubicación en Google Maps" %}
+
+{% include boton.html url="https://ul.waze.com/ul?place=EjJUZXJtaW5hbCBEZSBUcmFuc3BvcnRlcyBEZWwgU3VyLCBCb2dvdMOhLCBDb2xvbWJpYSIuKiwKFAoSCRWAWi9Xnj-OETjprRclLy0eEhQKEglnT5JgmwA_jhEEcRxZOMpfVQ&ll=4.59713890%2C-74.17626420&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación en waze de la terminal de transporte sur de Bogotá" texto="Ubicación en Waze" %}
+
+## Terminal del Norte de Bogotá
+
+Desde el año 2017 esta **es la sede que presta los servicios para los departamentos del norte del país**. 
+
+### Dirección del Terminal del Norte Bogotá
+
+**La dirección de la terminal Norte de Bogotá es en la Autopista norte con calle 192 # 19-43.** Puedes llegar fácilmente siguiendo la guía de Google Maps o Waze. Solo haz clic en los siguientes botones.
+
+#### Ubicación del Terminal del Norte Bogotá en Google Maps y en Waze
+
+{% include boton.html url="https://goo.gl/maps/RqqtGsV7D7i2guYq8" title="Ubicación en Google Maps de la terminal de transporte del norte de Bogotá" texto="Ubicación en Google Maps" %}
+
+{% include boton.html url="https://ul.waze.com/ul?place=ChIJXe4Q-u2FP44Ruav9tnwPAEk&ll=4.77021410%2C-74.04218340&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación en waze de la terminal de transporte del norte de Bogotá" texto="Ubicación en Waze" %}
+
+## Compra tu pasaje en la Terminal de Transporte de Bogotá
+
+Los servicios en el terminal del Sur de Bogotá:
+Servicios de taxisterminal del sur bogota
+Parqueadero público: cuenta con 59 espacios
+Cicloparqueo: este servicio gratis que cuenta con 35 espacios para parquear las bicicletas.
+Baños y duchas: 4 baterías de baños para hombres y mujeres compuestas por duchas, sanitarios, lavamanos y orinales.
+Guarda equipaje: servicio prestado a los usuarios para dejar almacenados su equipaje por corto tiempo.
+Carros portaequipajes: disponible para el tránsito de equipajes por las diferentes áreas de la Terminal.
+Prehospitalario: servicio para casos de emergencia de las personas que hacen uso de la Terminal.
+Infraestructura: Bahías de ascenso y descenso de pasajeros, zona de taquillas y amplias salas de esperera.
+Sector financiero. Entidades bancarias y cajeros electrónicos con horarios extendidos.
 
 CORREO ELECTRÓNICO INSTITUCIONAL
 Correo Institucional terminalbogota@terminaldetransporte.gov.co
 Defensor al ciudadano defensor.ciudadano@terminaldetransporte.gov.co
 Notificaciones judiciales notificacionesjudiciales@terminaldetransporte.gov.co
-
-CORREO FÍSICO O POSTAL
-Diagonal 23 # 69 - 60 Of. 502 Barrio El Salitre
-
-Cod. Postal: 110931 Bogotá, Colombia
-
-## Teléfono de la Terminal de Bogotá
-
-## Dirección de la Terminal de Transporte de Cali
-
-**La dirección de la Terminal de Cali Calle 30 N 2an - 29, barrio Fátima. La oficina principal de atención es en el segundo piso, oficina 312**. Haz clic en los siguientes botones para tener una ruta en tu aplicación de preferencia:
 
 ### Ubicación del Terminal de Transporte de Cali en Google Maps y en Waze
 
@@ -82,25 +116,9 @@ Cod. Postal: 110931 Bogotá, Colombia
 Terminales actuales
 
 
-Terminal satélite del norte
-El 27 de febrero de 2017 entró en funcionamiento la terminal satélite del norte ubicada sobre la Autopista Norte con calle 192. Cuenta con nueve bahías de parqueo, 24 taquillas y una capacidad para despachar a 540 buses cada día. La terminal solo permite abordar pasajeros que salen de Bogotá hacia los departamentos de Santander, Boyacá, Municipios de Cundinamarca como Pacho, Cogua, Yacopí, San Cayetano, La Palma, Tibirita, Machetá, Guasca, Nemocón, Gachancipá, Villapinzón, Ubaté y Tausa. Quienes ingresen a la ciudad por el norte deben ir hasta la terminal principal del Salitre donde finalizan el recorrido las rutas de los buses intermunicipales. Las flotas que van y vienen de Zipaquirá, Chía y Cajicá tampoco pueden usar este nuevo terminal, por lo tanto tienen que movilizarse por el portal Norte de TransMilenio.2​Desde el 27 de julio de 2019 funcionan los Intermunicipales de Tenjo, Guatavita, Gachancipá, Sesquilé, Sopo, Parque Jaime Duque y Suesca.3​
 
-Futuras terminales
-	
-Esta sección se refiere o está relacionada con una infraestructura de transporte público futura o en desarrollo.
-La información de este artículo puede cambiar frecuentemente. Por favor, no agregues datos especulativos y recuerda colocar referencias a fuentes fiables para dar más detalles.
 
-Terminal de Soacha
-Proyectada en el sector de Maiporé en el municipio de Soacha (Autopista NQS Calle 30 sur, Comuna 1 Compartir), prestaría sus servicios para rutas que vayan con destino a esta última ciudad como medida de descongestionamiento de la Terminal Satélite del Sur, en el cual incluirá una zona específica de carga y futuro acceso a la estación Terminal Soacha 3M de TransMilenio.4​
-
-La Terminal de Transporte de Bogotá es la empresa público privada con recursos propios que administra la mayor parte del servicio de autobuses y terminales en Bogotá e inicio sus operaciones el año 1984, bajo el liderazgo del sr. Antonio Vargas Valle. Administra los tres principales terminales de la capital, el Terminal Salitre,  el Terminal del Sur y el Terminal del Norte. Dentro de sus funciones se encuentra asegurar el buen funcionamiento y la calidad del servicio de los terminales y las empresas de buses que operan en ellos. En los terminales ofrece una amplia gama de servicios, tales como oficinas , asignación de taxis, baños y duchas, puntos de despacho, salas de espera, locales comerciales, taquillas, espacios de exhibiciones, áreas publicitarias y parqueaderos, entre otros. Con respecto a los servicios de transporte, Transporte de Bogotá vela por el correcto funcionamiento de los servicios que prestan las empresas de buses, haciendo énfasis en la calidad, seguridad y horario de estos. Las principales empresas de buses que trabajan en los terminales  son Copetran, Expreso Bolivariano, Coomotor, Expreso Brasilia, Expreso Palmira, Rápido Ochoa, Flota Magdalena, Flota Occidental, entre otras.
-
-Contacto de la Terminal de Transporte de Bogotá
-
-Sitio web de la terminal de transporte Bogotá
-Facebook: @TerminalBogota
-Twitter: @terminalbogota
-Correo electrónico
+### Servicios de la terminal de transporte Salitre
 
 Terminal Saltire en BogotaTerminal Salitre
 
@@ -176,6 +194,20 @@ Fiebre amarilla: Si usted vive o piensa viajar a zonas selváticas que se encuen
 Opening hours: 07:00 am to 06:00 pm
 
 
+Servicios
+Desde aquí salen autobuses y taxis hacia todos los destinos de la geografía colombiana occidente y norte del país. La Terminal está dividida en cinco módulos: Amarillo (1): Rutas al sur del país. Azul (2): Rutas al este y oeste del país. Rojo (3): Rutas al norte del país y a toda Sudamerica Verde (4): Servicio de taxis intermunicipales e interdepartamentales. Morado (5): Llegada de pasajeros y abordaje de taxis y buses de servicio urbano.
+Contacto
+Sitio web: www.terminaldetransporte.gov.co/ Facebook: www.facebook.com/terminalBogota Twitter: @terminalBogota
+
+La Terminal está dividida en cinco módulos:
+
+Amarillo: Rutas al sur del país.
+Azul: Rutas al este y oeste del país.
+Rojo: Rutas al norte del país
+Verde: Servicio de taxis intermunicipales e interdepartamentales.
+Morado: Llegada de pasajeros y abordaje de taxis y buses de servicio urbano.
+Terminal satélite del sur
+Fue inaugurada en 2008,1​ está ubicada en el cruce de la Avenida Bosa con la Autopista NQS, en la localidad de Bosa al suroccidente de la capital, presta sus servicios a destinos al suroccidente del departamento de Cundinamarca (excepto la provincia de Soacha, que se presta a las empresas que usan el Corredor de Transporte), y destinos hacia los departamentos de Tolima, Huila, Caquetá, Putumayo, Risaralda, Quindío, Valle del Cauca, Cauca y Nariño.
 El Terminal Salitre fue inaugurado en el año 1984 y se encuentra en el sector occidente de Bogotá, en Ciudad Salitre, con 86 empresas de buses activas. Desde el Terminal Salitre salen y llegan  buses con todos los destinos y orígenes nacionales (occidente y norte) e internacionales, dividiéndose en cinco sectores:
 
 Módulo 1, Amarillo, para las rutas al sur del país
@@ -243,10 +275,18 @@ Se prestan las baterías de baño en el sótano y área operativa. Se dispone co
 
 Restaurantes
 
-En la Terminal Sur cuenta con diferentes establecimientos comerciales tipo minimarket, en los cuales podrás encontrar variedad de productos.
-La Terminal del Sur fue inaugurada el año 2008 y está ubicada en el cruce de la Av. Bosa con la Autopista NQS en el sur-occidente de  Bogotá. También llamada Terminal de Operaciones Satélite del Sur, actualmente opera con 26 empresas distintas de buses y posee 59 espacios de parqueo. El terminal satisface gran parte de la demanda de buses hacia y desde el sector sur del país.
 
 Las principales empresas que operan en la Terminal del Sur son Coomotor, Expreso Bolivariano, Expreso Brasilia, Expreso Palmira y Copetran, entre otras.
+
+Los servicios en el terminal del Norte son:
+24 taquillas de ventas de tiquetes
+Servicios de taxis
+Parqueadero público
+19 plataformas para el ascenso de pasajeros
+baterías de baños para hombres y mujeres compuestas por duchas, sanitarios, lavamanos y orinales.
+Guarda equipaje
+2 cajeros electrónicos y oficinas administrativas
+Locales Comerciales
 
 Terminal del Norte BogotaTerminal del Norte
 
@@ -1035,6 +1075,34 @@ Sus instalaciones están ubicadas entre la avenida 68 y la avenida Boyacá, y en
 Entre los argumentos para construir laTerminal de Transportes de Bogotá, se consideró que en 1965 funcionaban 60 empresas, habia 6.570 buses y por dia se transportaban 60 mil pasajeros. Con base en ese balance, se aumentó el número de vigilantes y se ordenó la modernización de las terminales.
 
 Posteriormente, en 1975, una misión técnica aupiciada por la Organización de Naciones Unidas (ONU) ubicó el terreno, sobre un lote de 40 hectáreas. Al correr 1979 el Gobierno Nacional constituyó la empresa Terminal de Transporte, conformada por el Ministerio de Obras Públicas, el Distrito, el Idu, el Intra, la Corporación Financiera, los Ferrocarriles Nacionales y Corabastos. Su capital inicial de inversión fue de 546 millones de pesos ($546’000.000).
+
+Terminal satélite del norte
+El 27 de febrero de 2017 entró en funcionamiento la terminal satélite del norte ubicada sobre la Autopista Norte con calle 192. Cuenta con nueve bahías de parqueo, 24 taquillas y una capacidad para despachar a 540 buses cada día. La terminal solo permite abordar pasajeros que salen de Bogotá hacia los departamentos de Santander, Boyacá, Municipios de Cundinamarca como Pacho, Cogua, Yacopí, San Cayetano, La Palma, Tibirita, Machetá, Guasca, Nemocón, Gachancipá, Villapinzón, Ubaté y Tausa. Quienes ingresen a la ciudad por el norte deben ir hasta la terminal principal del Salitre donde finalizan el recorrido las rutas de los buses intermunicipales. Las flotas que van y vienen de Zipaquirá, Chía y Cajicá tampoco pueden usar este nuevo terminal, por lo tanto tienen que movilizarse por el portal Norte de TransMilenio.2​Desde el 27 de julio de 2019 funcionan los Intermunicipales de Tenjo, Guatavita, Gachancipá, Sesquilé, Sopo, Parque Jaime Duque y Suesca.3​
+
+las rutas hacia los departamentos de Boyacá, Santander, Tolima y la Costa Caribe, entre otros destinos fuera de Bogotá y Cundinamarca.
+
+
+
+Los Principales destinos desde la terminal del Norte de Bogotá son: Barbosa, Barranquilla, Bucaramanga, Cartagena, Chiquinquirá, Duitama, Cúcuta, Montería, Valledupar, Santa Marta, Sincelejo, Zipaquirá, entre otras ciudades de los departamentos de Boyacá, Santander, Tolima, Cundinamarca y la Costa Caribe.
+
+Contacto y ubicación de la terminal Norte Bogotá
+
+Futuras terminales
+	
+Esta sección se refiere o está relacionada con una infraestructura de transporte público futura o en desarrollo.
+La información de este artículo puede cambiar frecuentemente. Por favor, no agregues datos especulativos y recuerda colocar referencias a fuentes fiables para dar más detalles.
+
+Terminal de Soacha
+Proyectada en el sector de Maiporé en el municipio de Soacha (Autopista NQS Calle 30 sur, Comuna 1 Compartir), prestaría sus servicios para rutas que vayan con destino a esta última ciudad como medida de descongestionamiento de la Terminal Satélite del Sur, en el cual incluirá una zona específica de carga y futuro acceso a la estación Terminal Soacha 3M de TransMilenio.4​
+
+La Terminal de Transporte de Bogotá es la empresa público privada con recursos propios que administra la mayor parte del servicio de autobuses y terminales en Bogotá e inicio sus operaciones el año 1984, bajo el liderazgo del sr. Antonio Vargas Valle. Administra los tres principales terminales de la capital, el Terminal Salitre,  el Terminal del Sur y el Terminal del Norte. Dentro de sus funciones se encuentra asegurar el buen funcionamiento y la calidad del servicio de los terminales y las empresas de buses que operan en ellos. En los terminales ofrece una amplia gama de servicios, tales como oficinas , asignación de taxis, baños y duchas, puntos de despacho, salas de espera, locales comerciales, taquillas, espacios de exhibiciones, áreas publicitarias y parqueaderos, entre otros. Con respecto a los servicios de transporte, Transporte de Bogotá vela por el correcto funcionamiento de los servicios que prestan las empresas de buses, haciendo énfasis en la calidad, seguridad y horario de estos. Las principales empresas de buses que trabajan en los terminales  son Copetran, Expreso Bolivariano, Coomotor, Expreso Brasilia, Expreso Palmira, Rápido Ochoa, Flota Magdalena, Flota Occidental, entre otras.
+
+Contacto de la Terminal de Transporte de Bogotá
+
+Sitio web de la terminal de transporte Bogotá
+Facebook: @TerminalBogota
+Twitter: @terminalbogota
+Correo electrónico
 
 Preguntas Frecuentes
  

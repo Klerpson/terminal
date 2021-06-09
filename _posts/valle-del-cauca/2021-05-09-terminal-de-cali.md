@@ -30,9 +30,9 @@ En esta página te contamos todo lo que necesitas sobre la terminal de transport
 
 {% include boton.html url="tel:0326683655" title="Teléfono de la terminal de Cali" texto="0326683655" %}
 
-## Dirección de la Terminal de Transporte de Cali
+## Cómo llegar a la Terminal de Transporte de Cali
 
-**La dirección de la Terminal de Cali Calle 30 N 2an - 29, barrio Fátima. La oficina principal de atención es en el segundo piso, oficina 312**. Haz clic en los siguientes botones para tener una ruta en tu aplicación de preferencia:
+Sólo debes buscar la **dirección de la Terminal de Cali: Calle 30 N 2an - 29, barrio Fátima. Allí está también la oficina principal de atención al público: en el segundo piso, oficina 312**. Haz clic en los siguientes botones para tener una ruta en tu aplicación de preferencia:
 
 ### Ubicación del Terminal de Transporte de Cali en Google Maps y en Waze
 

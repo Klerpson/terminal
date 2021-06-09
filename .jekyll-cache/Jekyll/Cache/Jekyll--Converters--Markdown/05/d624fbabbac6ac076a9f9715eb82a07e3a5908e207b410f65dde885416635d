@@ -1,4 +1,4 @@
-I"R]<p><strong>La terminal de Neiva es la principal empresa de transporte terrestre del departamento del Huila. Con empresesas como Coomotor, Bolivariano, Flota Magdalena, etc; cubre importantes rutas hacia otras ciudades principales, tales como Bogotá, Medellín, Cali, Pereira, Ibagué, Armenia, Manizales, entre otras; y poblaciones más pequeñas.</strong></p>
+I"�_<p><strong>La terminal de Neiva es la principal empresa de transporte terrestre del departamento del Huila. Con empresesas como Coomotor, Bolivariano, Flota Magdalena, etc; cubre importantes rutas hacia otras ciudades principales, tales como Bogotá, Medellín, Cali, Pereira, Ibagué, Armenia, Manizales, entre otras; y poblaciones más pequeñas.</strong></p>
 
 <!-- excerpt -->
 
@@ -11,7 +11,7 @@
     </ul>
   </li>
   <li><a href="#servicios-de-la-terminal-de-neiva" id="markdown-toc-servicios-de-la-terminal-de-neiva">Servicios de la terminal de Neiva</a></li>
-  <li><a href="#empresas-de-buses-de-la-terminal-de-neiva" id="markdown-toc-empresas-de-buses-de-la-terminal-de-neiva">Empresas de buses de la terminal de Neiva</a></li>
+  <li><a href="#comprar-pasajes-en-la-terminal-de-neiva" id="markdown-toc-comprar-pasajes-en-la-terminal-de-neiva">Comprar pasajes en la terminal de Neiva</a></li>
   <li><a href="#rutas-desde-la-terminal-de-neiva" id="markdown-toc-rutas-desde-la-terminal-de-neiva">Rutas desde la terminal de Neiva</a></li>
   <li><a href="#módulos-de-la-terminal-de-neiva" id="markdown-toc-módulos-de-la-terminal-de-neiva">Módulos de la terminal de Neiva</a>    <ul>
       <li><a href="#módulo-centenario" id="markdown-toc-módulo-centenario">Módulo Centenario</a></li>
@@ -23,6 +23,7 @@
   </li>
   <li><a href="#terminal-de-neiva-hoy" id="markdown-toc-terminal-de-neiva-hoy">Terminal de Neiva hoy</a></li>
   <li><a href="#datos-e-historia-de-la-terminal-de-transporte-de-neiva" id="markdown-toc-datos-e-historia-de-la-terminal-de-transporte-de-neiva">Datos e historia de la terminal de transporte de Neiva</a></li>
+  <li><a href="#más-terminales-de-transporte-de-colombia" id="markdown-toc-más-terminales-de-transporte-de-colombia">Más terminales de Transporte de Colombia</a></li>
 </ul>
 
 <h2 id="teléfono-del-terminal-de-neiva">Teléfono del terminal de Neiva</h2>
@@ -75,14 +76,14 @@
   <li>Pantalla de información de salida y llegada de vehículos</li>
 </ol>
 
-<h2 id="empresas-de-buses-de-la-terminal-de-neiva">Empresas de buses de la terminal de Neiva</h2>
+<h2 id="comprar-pasajes-en-la-terminal-de-neiva">Comprar pasajes en la terminal de Neiva</h2>
 
 <p>Hasta la fecha, se registran 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. Solo haz clic en el botón del teléfono de la empresa que necesitas.</p>
 
 <table>
   <thead>
     <tr>
-      <th>🚌 EMPRESA</th>
+      <th>🚌 EMPRESA DE BUSES</th>
       <th style="text-align: center">☎ TELÉFONO</th>
     </tr>
   </thead>
@@ -314,12 +315,22 @@ La situación de los bloqueos por las protestas han detenido casi en su totalida
   <li>NIT: 8911028243</li>
 </ul>
 
-<h3>Más terminales de Colombia</h3>
+<h2 id="más-terminales-de-transporte-de-colombia">Más terminales de Transporte de Colombia</h2>
+
 <section class="relacionados">
   <a href="" title="Artículo de la terminal de transporte de Cali">
     <div class="sugerencia">
       <img src="/img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" />
       <h4>Terminal de Cali</h4>
+    </div>
+  </a>
+</section>
+
+<section class="relacionados">
+  <a href="" title="Artículo de la terminal de transporte de Bogotá">
+    <div class="sugerencia">
+      <img src="/img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" />
+      <h4>Terminal de Bogotá</h4>
     </div>
   </a>
 </section>

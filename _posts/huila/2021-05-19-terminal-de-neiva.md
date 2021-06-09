@@ -69,11 +69,11 @@ Estos son los servicios que se prestan en esta terminal:
 11. Televisión
 12. Pantalla de información de salida y llegada de vehículos
 
-## Empresas de buses de la terminal de Neiva
+## Comprar pasajes en la terminal de Neiva
 
 Hasta la fecha, se registran 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. Solo haz clic en el botón del teléfono de la empresa que necesitas.
 
-| 🚌 EMPRESA | ☎ TELÉFONO |
+| 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | --- | :---: |
 | **Expreso Bolivariano** | {% include boton.html url="tel:0388731002" title="Teléfono de Expreso Bolivariano en la terminal de Neiva" texto="0388731002" %} |
 | **Coomotor** | {% include boton.html url="tel:0388733501" title="Teléfono 1 de Coomotor en la terminal de Neiva" texto="0388733501" %} {% include boton.html url="tel:0388730936" title="Teléfono 2 de Coomotor en la terminal de Neiva" texto="0388730936" %} {% include boton.html url="tel:0388730937" title="Teléfono 3 de Coomotor en la terminal de Neiva" texto="0388730937" %} {% include boton.html url="tel:+573176394462" title="Teléfono 4 de Coomotor en la terminal de Neiva" texto="3176394462" %} |
@@ -225,6 +225,10 @@ Legalmente, queda constituida de la siguiente manera:
 * Actividad: Actividades de estaciones, vías y servicios complementarios para el transporte terrestre
 * NIT: 8911028243
 
-{% include relacionados.html link="_posts\valle-del-cauca\2021-05-09-terminal-transporte-cali.md" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
+## Más terminales de Transporte de Colombia
+
+{% include relacionados.html link="_posts\valle-del-cauca\2021-05-09-terminal-de-cali.md" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
+
+{% include relacionados.html link="_posts\cundinamarca\2021-05-09-terminal-de-bogota.md" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
 
 Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)

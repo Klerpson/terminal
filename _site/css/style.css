@@ -591,6 +591,10 @@ font-size: 1rem;
   grid-gap: 1.5rem;
 }
 
+.articulo h2{
+  text-align: center;
+}
+
 .articulo li{
   margin-left: 1.5rem;
   list-style: inherit;
