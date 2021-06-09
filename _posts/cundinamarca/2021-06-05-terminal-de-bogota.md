@@ -102,13 +102,10 @@ Las empresas de transporte que trabajan en la terminal de transporte de Bogotá 
 | **Líneas las Acacias** | {% include boton.html url="tel:0315414667" title="Teléfono de Líneas las Acacias en la terminal de Bogotá" texto="0315414667" %} |
 | **Coflonorte** | {% include boton.html url="tel:0317705815" title="Teléfono 1 de Coflonorte en la terminal de Bogotá" texto="0317705815" %} {% include boton.html url="tel:0317700792" title="Teléfono 2 de Coflonorte en la terminal de Bogotá" texto="0317700792" %} |
 | **Cointrasur** | {% include boton.html url="tel:0312951273" title="Teléfono de Cointrasur 1 en la terminal de Bogotá" texto="0312951273" %} {% include boton.html url="tel:0317759060" title="Teléfono de Cointrasur 2 en la terminal de Bogotá" texto="0317759060" %} |
-| **Coomofu Ltda** | {% include boton.html url="tel:0318260319" title="Teléfono de Coomofu 1 en la terminal de Bogotá" texto="0318260319" %} {% include boton.html url="tel:0318261628" title="Teléfono de Cointrasur 2 en la terminal de Bogotá" texto="0318261628" %} |
+| **CoomofU** | {% include boton.html url="tel:0318260319" title="Teléfono de Coomofu 1 en la terminal de Bogotá" texto="0318260319" %} {% include boton.html url="tel:0318261628" title="Teléfono de CoomofU 2 en la terminal de Bogotá" texto="0318261628" %} |
+| **Taxis Verdes** | {% include boton.html url="tel:XCXXXXXXXXXXXXXXXXXXXX" title="Teléfono de Taxis Verdes 1 en la terminal de Bogotá" texto="XCXXXXXXXXXXXXXXXXXXXX" %} {% include boton.html url="tel:ZZZZZZZZZZZZZZZZZZZZZZZZ" title="Teléfono de Taxis Verdes 2 en la terminal de Bogotá" texto="ZZZZZZZZZZZZZZZZZZZZZZZZ" %} |
 | **Coomofu Ltda** | {% include boton.html url="tel:XCXXXXXXXXXXXXXXXXXXXX" title="Teléfono de Coomofu 1 en la terminal de Bogotá" texto="XCXXXXXXXXXXXXXXXXXXXX" %} {% include boton.html url="tel:ZZZZZZZZZZZZZZZZZZZZZZZZ" title="Teléfono de Cointrasur 2 en la terminal de Bogotá" texto="ZZZZZZZZZZZZZZZZZZZZZZZZ" %} |
 
-Comofu Ltda
- 826-0319 / 826-1628
- Info@coomofu.com
-verdes
 Compañía Taxis Verdes S.A.
 Venta Offline
  411-1152 / 355-5555
