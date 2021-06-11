@@ -35,7 +35,9 @@ El teléfono de la terminal de transporte es:
 Para llamar a la terminal de transporte de Neiva solo necesitas hacer clic en cualquiera de los siguientes botones:
 
 {% include boton.html url="tel:0388731232" title="Teléfono de la terminal de Neiva" texto="0388731232" %}
+
 {% include boton.html url="tel:0388705661" title="Teléfono de la terminal de Neiva" texto="0388705661" %}
+
 {% include boton.html url="tel:+573158488834" title="Teléfono de la terminal de Neiva" texto="+573158488834" %}
 
 ## Dirección de la terminal de tranporte de Neiva

@@ -13,6 +13,7 @@ referencias:
   - Fotografías de la Terminal de Transporte de Cali en Google Maps: https://www.google.com/maps/place/Terminal+Cali/@3.4659348,-76.5213706,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOxbkzyXU63ACerlA4Hse22oS-kSLKdZve8oIv7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOxbkzyXU63ACerlA4Hse22oS-kSLKdZve8oIv7%3Dw160-h120-k-no!7i3264!8i2448!4m5!3m4!1s0x8e30a63e532273bb:0x9b1904376e4740f7!8m2!3d3.4656371!4d-76.521846
   - Página web de la empresa Arauca: https://empresaarauca.com.co
   - Página web de la empresa Bolivariano: https://bolivariano.com.co
+  - Página web de la Terminal de Cali: https://www.terminalcali.com/
 ---
 
 La terminal de transporte de Cali es un punto vital y muy concurrido en la ciudad. Aquí se dan muchas actividades comerciales. También pasa mucho turista nacional y extranjero. Además, vienen de todo el país ciudadanos que solo están de paso hacia sus destinos en los municipios cercanos.
@@ -339,3 +340,11 @@ Haz clic en cualquiera de los botones para visitar sus redes sociales o su sitio
 {% include boton.html url="https://www.youtube.com/channel/UCnu6tkUT33pirHC8RgTBiOA" title="YouTube de la terminal de transporte de Cali" texto="YouTube" %}
 
 {% include boton.html url="https://terminalcali.com" title="YouTube de la terminal de transporte de Cali" texto="Página web" %}
+
+## Más terminales de Transporte de Colombia
+
+{% include relacionados.html link="_posts\valle-del-cauca\2021-05-09-terminal-de-cali.md" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
+
+{% include relacionados.html link="_posts\cundinamarca\2021-05-09-terminal-de-bogota.md" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
+
+Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)
