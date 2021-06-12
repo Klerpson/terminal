@@ -2,16 +2,6 @@
   
     {
 
-      "title"    : "Terminal de transporte de Bogotá",
-      "url"      : "/terminal-de-bogota",
-      "category" : "Mira más en: Cundinamarca",
-      "url-cat"  : "/#cundinamarca",
-      "tags"     : "bogota"
-
-    } ,
-  
-    {
-
       "title"    : "Terminal de transporte de Neiva",
       "url"      : "/terminal-de-neiva",
       "category" : "Mira más en: Huila",
@@ -23,9 +13,9 @@
     {
 
       "title"    : "Terminal de transporte de Barranquilla",
-      "url"      : "/terminal-transporte-barranquilla",
-      "category" : "Mira más en: Atlántico",
-      "url-cat"  : "/#atlántico",
+      "url"      : "/terminal-de-barranquilla",
+      "category" : "Mira más en: Atlantico",
+      "url-cat"  : "/#atlantico",
       "tags"     : "barranquilla"
 
     } ,
@@ -37,6 +27,16 @@
       "category" : "Mira más en: Valle",
       "url-cat"  : "/#valle",
       "tags"     : "cali"
+
+    } ,
+  
+    {
+
+      "title"    : "Terminal de transporte de Bogotá",
+      "url"      : "/terminal-de-bogota",
+      "category" : "Mira más en: Cundinamarca",
+      "url-cat"  : "/#cundinamarca",
+      "tags"     : "bogota"
 
     } 
   

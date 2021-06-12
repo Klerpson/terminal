@@ -6,7 +6,6 @@ category: valle
 tags: cali
 img: img/terminales/valle/terminal-transporte-cali.webp
 alt: Terminal de Transporte de Cali
-copyright: Julian Andres Franco Bedoya
 principal: true
 excerpt_separator: <!-- excerpt -->
 referencias:
@@ -49,8 +48,6 @@ Los horarios de atención al público en los puntos de información son **de lun
 
 Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la instalación. Aquí te dejamos los datos de contacto para que puedas comprar tus pasajes hoy mismo.
 
-Las empresas de transporte que trabajan en la terminal de Cali están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
-
 | 🚌 EMPRESA | ☎ TELÉFONO |
 | --- | :---: |
 | **Expreso Florida** | {% include boton.html url="tel:0326688820" title="Teléfono 1 de Expreso Florida en la terminal de Cali" texto="0326688820" %} {% include boton.html url="tel:0326688800" title="Teléfono 2 de Expreso Florida en la terminal de Cali" texto="0326688800" %} |
@@ -78,6 +75,8 @@ Las empresas de transporte que trabajan en la terminal de Cali están avaladas p
 | **Transipiales** | {% include boton.html url="tel:+573104539544" title="Teléfono de Transipiales 1 en la terminal de Cali" texto="3104539544" %} |
 | **Flota Ospina** | {% include boton.html url="tel:0323860045" title="Teléfono de Flota Ospina en la terminal de Cali" texto="0323860045" %} |
 | **Taxcentral** | {% include boton.html url="tel:0326616310" title="Teléfono de Taxcentral en la terminal de Cali" texto="0326616310" %} |
+
+Las empresas de transporte que trabajan en la terminal de Cali están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
 Los mayoría de los vehículos tienen una capacidad de 17, 19 ,21, 23 y 25 asientos. Por norma, ningún pasajero puede ir de pie.
 
@@ -343,8 +342,8 @@ Haz clic en cualquiera de los botones para visitar sus redes sociales o su sitio
 
 ## Más terminales de Transporte de Colombia
 
-{% include relacionados.html link="_posts\valle-del-cauca\2021-05-09-terminal-de-cali.md" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
+{% include relacionados.html link="terminal-de-neiva" titlelink="Artículo de la terminal de transporte de Neiva" img="img/terminales/huila/terminal-transporte-neiva.webp" alt="Terminal de Transporte de Neiva" title="Foto del terminal de Neiva" h4="Terminal de Neiva" %}
 
-{% include relacionados.html link="_posts\cundinamarca\2021-05-09-terminal-de-bogota.md" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
+{% include relacionados.html link="terminal-de-bogota" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
 
 Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)

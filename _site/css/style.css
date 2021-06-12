@@ -79,6 +79,10 @@ h3 {
   font-size: var(--sizeH3);
 }
 
+p{
+  word-wrap: break-word;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;

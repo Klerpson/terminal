@@ -6,7 +6,6 @@ category: huila
 tags: neiva
 img: img/terminales/neiva/terminal-transporte-neiva.webp
 alt: Terminal de Transporte de Neiva Huila
-copyright: Julian Andres Franco Bedoya
 principal: true
 excerpt_separator: <!-- excerpt -->
 referencias:
@@ -75,8 +74,6 @@ Estos son los servicios que se prestan en esta terminal:
 
 Hasta la fecha, se registran mas de 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. **Solo haz clic en el botón del teléfono de la empresa que necesitas para comprar tu pasaje o tiquete de viaje.**
 
-Las empresas de transporte que trabajan en la terminal de Neiva están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
-
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | --- | :---: |
 | **Expreso Bolivariano** | {% include boton.html url="tel:0388731002" title="Teléfono de Expreso Bolivariano en la terminal de Neiva" texto="0388731002" %} |
@@ -103,6 +100,8 @@ Las empresas de transporte que trabajan en la terminal de Neiva están avaladas 
 | **Cootransmayo** | {% include boton.html url="tel:0388731113" title="Teléfono de Cootransmayo en la terminal de Neiva" texto="0388731113" %} |
 | **Transipiales** | {% include boton.html url="tel:+573168328825" title="Teléfono de Transipiales 1 en la terminal de Neiva" texto="316 832 8825" %} {% include boton.html url="tel:0388733444" title="Teléfono de Transipiales 2 en la terminal de Neiva" texto="0388733444" %} |
 | **Coflonorte** | {% include boton.html url="tel:0388754900" title="Teléfono de Coflonorte 1 en la terminal de Neiva" texto="0388754900" %} |
+
+Las empresas de transporte que trabajan en la terminal de Neiva están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
 ## Rutas desde la terminal de Neiva
 
@@ -232,8 +231,8 @@ Legalmente, queda constituida de la siguiente manera:
 
 ## Más terminales de Transporte de Colombia
 
-{% include relacionados.html link="_posts\valle-del-cauca\2021-05-09-terminal-de-cali.md" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
+{% include relacionados.html link="terminal-de-cali" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
 
-{% include relacionados.html link="_posts\cundinamarca\2021-05-09-terminal-de-bogota.md" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
+{% include relacionados.html link="terminal-de-bogota" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
 
 Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)

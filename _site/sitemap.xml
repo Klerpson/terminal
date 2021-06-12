@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>terminalesdetransporte.com/terminal-de-bogota</loc>
-    </url>
-    
-    <url>
         <loc>terminalesdetransporte.com/terminal-de-neiva</loc>
     </url>
     
     <url>
-        <loc>terminalesdetransporte.com/terminal-transporte-barranquilla</loc>
+        <loc>terminalesdetransporte.com/terminal-de-barranquilla</loc>
     </url>
     
     <url>
         <loc>terminalesdetransporte.com/terminal-de-cali</loc>
+    </url>
+    
+    <url>
+        <loc>terminalesdetransporte.com/terminal-de-bogota</loc>
     </url>
     
 
