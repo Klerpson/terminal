@@ -36,7 +36,7 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
         {% for post in site.categories[category_name] %}
         {% if post.principal %}
         <a href="{{site.baseurl}}{{ post.url }}" title="{{post.title}}">
-          <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}" width="300" height="200">
+          <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}" width="300" height="200" title="Fotografía de la {{post.title}}">
           <h4>{{ post.title }}</h4>
         </a>
         {% endif %}
