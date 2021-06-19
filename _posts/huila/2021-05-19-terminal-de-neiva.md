@@ -4,6 +4,7 @@ title: Terminal de transporte de Neiva
 description: La terminal de transporte de Neiva es la principal empresa de transporte terrestre del departamento del Huila hacia los demás destinos de Colombia
 category: huila
 tags: neiva
+h1: Terminal de Neiva
 img: img/terminales/neiva/terminal-transporte-neiva.webp
 alt: Terminal de Transporte de Neiva Huila
 principal: true
@@ -103,6 +104,36 @@ Hasta la fecha, se registran mas de 23 empresas trabajando en esta terminal de t
 
 Las empresas de transporte que trabajan en la terminal de Neiva están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
+## Módulos de la terminal de Neiva
+
+La terminal de transporte de Neiva recibe aproximadamente 4000 buses a diario. Por lo anterior, y después de terminar las ampliaciones, la terminal de transporte quedó organizada de esta manera:
+
+### Módulo Centenario
+
+Este módulo ofrece los servicios de lujo de algunas empresas. Estas son: Coomotor, Contrashuila, y Expreso Bolivariano. También es para destinos nacionales seleccionados: Bogotá, Cali y Medellín. También, en este módulo se encuentran las oficinas administrativas de la terminal.
+
+### Módulo Regional
+
+Es el módulo dedicado a las empresas con destino a los municipios del Departamento del Huila. Además, encontrará los servicios de colectivos, taxis, busetas de la ciudad. También incluye los locales comerciales, las bodegas de guardar equipajes, la capilla católica y el servicio de baños públicos.
+
+### Módulo Antiguo
+
+Aquí tiene las antiguas taquillas que se dirigne a todos los destinos nacionales. También tiene zona comercial, restaurantes, cafeterías, casinos, salas VIP y la estación de la policía nacional.
+
+### Sala de vehículos mixtos
+
+En este lugar están las empresas que prestan servicio hacia el Caquetá, hacia distintos lugares del Huila y hacia el municipio de Santa María. También tiene baños públicos, locales comerciales, restaurantes y cafeterías.
+
+### Módulo de descenso
+
+Es el área de llegada donde descienden los pasajeros. Tiene locales comerciales, teléfonos públicos, punto de información turística, la policía de turismo, sala de espera, televisión, sistema de radio parlantes y pantalla de información de llegada y salida de vehículos. Aquí puedes pedir el servicio de taxis urbanos.
+
+## Terminal de Neiva hoy
+
+>Se están transportando a los pasajeros que cumplen alguna de las 46 excepciones del Decreto 1076 del 28 de julio de 2020. Además, se debe tener en cuenta que las terminales de Neiva y Pitalito subieron las tarifas por las circunstancias.
+>La terminal de Neiva ya cumple los protocolos de bioseguridad. Próximamente los municipios reactivarán poco a poco el servicio y ampliarán los horarios de servicio.
+>La situación de los bloqueos por las protestas han detenido casi en su totalidad el funcionamiento de la terminal de tranporte de Neiva.
+
 ## Rutas desde la terminal de Neiva
 
 Estos son los destinos a los que puedes viajar desde la terminal de Neiva:
@@ -181,36 +212,6 @@ Estos son los destinos a los que puedes viajar desde la terminal de Neiva:
 * Terminal de Neiva a Terminal de Villagarzón
 * Terminal de Neiva a Terminal del Sur (Bogotá)
 * Terminal de Neiva a Terminal Salitre
-
-## Módulos de la terminal de Neiva
-
-La terminal de transporte de Neiva recibe aproximadamente 4000 buses a diario. Por lo anterior, y después de terminar las ampliaciones, la terminal de transporte quedó organizada de esta manera:
-
-### Módulo Centenario
-
-Este módulo ofrece los servicios de lujo de algunas empresas. Estas son: Coomotor, Contrashuila, y Expreso Bolivariano. También es para destinos nacionales seleccionados: Bogotá, Cali y Medellín. También, en este módulo se encuentran las oficinas administrativas de la terminal.
-
-### Módulo Regional
-
-Es el módulo dedicado a las empresas con destino a los municipios del Departamento del Huila. Además, encontrará los servicios de colectivos, taxis, busetas de la ciudad. También incluye los locales comerciales, las bodegas de guardar equipajes, la capilla católica y el servicio de baños públicos.
-
-### Módulo Antiguo
-
-Aquí tiene las antiguas taquillas que se dirigne a todos los destinos nacionales. También tiene zona comercial, restaurantes, cafeterías, casinos, salas VIP y la estación de la policía nacional.
-
-### Sala de vehículos mixtos
-
-En este lugar están las empresas que prestan servicio hacia el Caquetá, hacia distintos lugares del Huila y hacia el municipio de Santa María. También tiene baños públicos, locales comerciales, restaurantes y cafeterías.
-
-### Módulo de descenso
-
-Es el área de llegada donde descienden los pasajeros. Tiene locales comerciales, teléfonos públicos, punto de información turística, la policía de turismo, sala de espera, televisión, sistema de radio parlantes y pantalla de información de llegada y salida de vehículos. Aquí puedes pedir el servicio de taxis urbanos.
-
-## Terminal de Neiva hoy
-
->Se están transportando a los pasajeros que cumplen alguna de las 46 excepciones del Decreto 1076 del 28 de julio de 2020. Además, se debe tener en cuenta que las terminales de Neiva y Pitalito subieron las tarifas por las circunstancias.
->La terminal de Neiva ya cumple los protocolos de bioseguridad. Próximamente los municipios reactivarán poco a poco el servicio y ampliarán los horarios de servicio.
->La situación de los bloqueos por las protestas han detenido casi en su totalidad el funcionamiento de la terminal de tranporte de Neiva.
 
 ## Datos e historia de la terminal de transporte de Neiva
 

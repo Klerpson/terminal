@@ -2,6 +2,16 @@
   
     {
 
+      "title"    : "Terminales de transporte de Medellín",
+      "url"      : "/terminal-de-medellin",
+      "category" : "Mira más en: Antioquia",
+      "url-cat"  : "/#antioquia",
+      "tags"     : "medellin"
+
+    } ,
+  
+    {
+
       "title"    : "Terminal de transporte de Neiva",
       "url"      : "/terminal-de-neiva",
       "category" : "Mira más en: Huila",
@@ -32,7 +42,7 @@
   
     {
 
-      "title"    : "Terminal de transporte de Bogotá",
+      "title"    : "Terminales de transporte de Bogotá",
       "url"      : "/terminal-de-bogota",
       "category" : "Mira más en: Cundinamarca",
       "url-cat"  : "/#cundinamarca",

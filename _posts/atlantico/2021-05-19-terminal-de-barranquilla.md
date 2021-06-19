@@ -4,6 +4,7 @@ title: Terminal de transporte de Barranquilla
 description: La terminal de transporte de Barranquilla presta el servicio de Terminal a las empresas de transporte terrestre automotor del Atlántico y Colombia
 category: atlantico
 tags: barranquilla
+h1: Terminal de Barranquilla
 img: img/terminales/atlantico/terminal-transporte-barranquilla.webp
 alt: Terminal de Transporte de Barranquilla
 principal: true
@@ -40,7 +41,7 @@ En esta página te contamos todo lo que necesitas sobre la terminal de transport
 
 ## Dirección de la Terminal de Barranquilla
 
-**La dirección de la terminal de transporte de Barranquilla es Carrera 14 # 54 - 98.** La atención al públicos es en el módulo C, piso 2. Además, te dejamos el código postal de la zona: 083004.
+**La dirección de la terminal de transporte de Barranquilla es Carrera 14 # 54 - 98.** La atención al público es en el módulo C, piso 2. Además, te dejamos el código postal de la zona: 083004.
 
 ### Ubicación del Terminal de Transporte de Barranquilla en Google Maps y en Waze
 
@@ -77,6 +78,60 @@ La terminal de transporte de Barranquilla atiende más de 60 destinos nacionales
 | **Unitransco** | {% include boton.html url="tel:#502" title="Teléfono de Unitransco en la terminal de Barranquilla" texto="#502" %}  |
 
 Las empresas de transporte que trabajan en la terminal de Barranquilla están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
+
+## Servicios de la Terminal de Barranquilla
+
+La terminal de Transporte de Barranquilla te ofrece los siguientes servicios:
+
+* **Cómodas salas de espera**: Salas con mueblería y equipos adecuados para hacer más amena la espera de la salida del vehículo de transporte.
+* **CAI**: La Policía Nacional está al tanto de la seguridad del lugar.
+* **Comercio**: Locales con ofertas de restaurantes, cafeterías y más variedad.
+* **Bahía de taxis**: Solicita el servicio de taxi con la confianza de ser un vehículo seguro para llegar a tu destino.
+* **Guardaequipajes**: Bodegas disponibles para dejar tus pertenencias por un corto espacio de tiempo.
+* **Punto de Información**: Puedes pedir orientación de viajes o turismo. También puedes solicitar atención a solicitudes o urgencias.
+* **Baños**
+* **Cajeros electrónicos**
+* **Servicio de parqueadero privado**: consulta tarifas en el lugar.
+* **Servicio de Vigilancia Privada**: Circuito cerrado de vigilancia más el personal que vela por tu seguridad.
+* **Servicio de giros y encomiendas**: Pregunta en las taquillas de las empresas que ofrecen el servicio por tarifas y condiciones.
+* **Sala VIP**
+* **Capilla católica**
+
+### Datos de Contacto de la Terminal de Barranquilla
+
+Haz clic en el botón que más te sirva para ponerte en contacto con la terminal de trasnporte de Barranquilla.
+
+#### Correo electrónico de la Terminal de Barranquilla
+
+**El correo electrónico de la terminal de transporte de Barranquilla es info@ttbaq.com.co o contacto@ttbaq.com.co**. Haz clic en el botón para escribirles un e-mail.
+
+{% include boton.html url="mailto:info@ttbaq.com.co" title="Email de la terminal de transporte de Barranquilla" texto="E-mail Info" %}
+
+{% include boton.html url="mailto:contacto@ttbaq.com.co" title="Email de la terminal de transporte de Barranquilla" texto="E-mail Contacto" %}
+
+Para enviar un radicado, tienen habilitado el correo electrónico ventanillaunicaderadicacion@ttbaq.com.co. Haz clic en el botón para escribir a este correo, si lo necesitas.
+
+{% include boton.html url="mailto:ventanillaunicaderadicacion@ttbaq.com.co" title="Email de radicados de la terminal de transporte de Barranquilla" texto="E-mail" %}
+
+Si necesitas enviar **notificaciones judiciales a la terminal de barranquilla, utiliza el correo electrónico notificacionesjudiciales@ttbaq.com.co**. En el siguiente botón puedes escribir a este e-mail.
+
+{% include boton.html url="mailto:notificacionesjudiciales@ttbaq.com.co" title="Email de radicados de la terminal de transporte de Barranquilla" texto="E-mail" %}
+
+#### Facebook de la Terminal de Barranquilla
+
+**La página de Facebook de la Terminal de transporte de Barranquilla es @terminalbaq**. Haz clic en el botón para visitar su fanpage.
+
+{% include boton.html url="https://www.facebook.com/terminalbaq/" title="Facebook de la terminal de transporte de Barranquilla" texto="Facebook" %}
+
+#### Instagram de la Terminal de Barranquilla
+
+**El perfil de instagram de la Terminal de transporte de Barranquilla es @terminaldetransportes**. Haz clic en el botón para visitar su perfil.
+
+{% include boton.html url="https://www.instagram.com/terminaldetransportes/?hl=es-la" title="Instagram de la terminal de transporte de Barranquilla" texto="Facebook" %}
+
+Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)
+
+Para peticiones, quejas y reclamos, [haz clic en el enlace del formulario](#fuentes) al final de este artículo.
 
 ## Destinos desde la Terminal de Barranquilla
 
@@ -238,60 +293,6 @@ Las empresas de transporte que trabajan en la terminal de Barranquilla están av
 * Terminal de Barranquilla a Yarumal
 * Terminal de Barranquilla a Zapatoca
 * Terminal de Barranquilla a Zambrano
-
-## Servicios de la Terminal de Barranquilla
-
-La terminal de Transporte de Barranquilla te ofrece los siguientes servicios:
-
-* **Cómodas salas de espera**: Salas con mueblería y equipos adecuados para hacer más amena la espera de la salida del vehículo de transporte.
-* **CAI**: La Policía Nacional está al tanto de la seguridad del lugar.
-* **Comercio**: Locales con ofertas de restaurantes, cafeterías y más variedad.
-* **Bahía de taxis**: Solicita el servicio de taxi con la confianza de ser un vehículo seguro para llegar a tu destino.
-* **Guardaequipajes**: Bodegas disponibles para dejar tus pertenencias por un corto espacio de tiempo.
-* **Punto de Información**: Puedes pedir orientación de viajes o turismo. También puedes solicitar atención a solicitudes o urgencias.
-* **Baños**
-* **Cajeros electrónicos**
-* **Servicio de parqueadero privado**: consulta tarifas en el lugar.
-* **Servicio de Vigilancia Privada**: Circuito cerrado de vigilancia más el personal que vela por tu seguridad.
-* **Servicio de giros y encomiendas**: Pregunta en las taquillas de las empresas que ofrecen el servicio por tarifas y condiciones.
-* **Sala VIP**
-* **Capilla católica**
-
-### Datos de Contacto de la Terminal de Barranquilla
-
-Haz clic en el botón que más te sirva para ponerte en contacto con la terminal de trasnporte de Barranquilla.
-
-#### Correo electrónico de la Terminal de Barranquilla
-
-**El correo electrónico de la terminal de transporte de Barranquilla es info@ttbaq.com.co o contacto@ttbaq.com.co**. Haz clic en el botón para escribirles un e-mail.
-
-{% include boton.html url="mailto:info@ttbaq.com.co" title="Email de la terminal de transporte de Barranquilla" texto="E-mail Info" %}
-
-{% include boton.html url="mailto:contacto@ttbaq.com.co" title="Email de la terminal de transporte de Barranquilla" texto="E-mail Contacto" %}
-
-Para enviar un radicado, tienen habilitado el correo electrónico ventanillaunicaderadicacion@ttbaq.com.co. Haz clic en el botón para escribir a este correo, si lo necesitas.
-
-{% include boton.html url="mailto:ventanillaunicaderadicacion@ttbaq.com.co" title="Email de radicados de la terminal de transporte de Barranquilla" texto="E-mail" %}
-
-Si necesitas enviar **notificaciones judiciales a la terminal de barranquilla, utiliza el correo electrónico notificacionesjudiciales@ttbaq.com.co**. En el siguiente botón puedes escribir a este e-mail.
-
-{% include boton.html url="mailto:notificacionesjudiciales@ttbaq.com.co" title="Email de radicados de la terminal de transporte de Barranquilla" texto="E-mail" %}
-
-#### Facebook de la Terminal de Barranquilla
-
-**La página de Facebook de la Terminal de transporte de Barranquilla es @terminalbaq**. Haz clic en el botón para visitar su fanpage.
-
-{% include boton.html url="https://www.facebook.com/terminalbaq/" title="Facebook de la terminal de transporte de Barranquilla" texto="Facebook" %}
-
-#### Instagram de la Terminal de Barranquilla
-
-**El perfil de instagram de la Terminal de transporte de Barranquilla es @terminaldetransportes**. Haz clic en el botón para visitar su fanpage.
-
-{% include boton.html url="https://www.instagram.com/terminaldetransportes/?hl=es-la" title="Instagram de la terminal de transporte de Barranquilla" texto="Facebook" %}
-
-Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)
-
-Para peticiones, quejas y reclamos, [haz clic en el enlace del formulario](#fuentes) al final de este artículo.
 
 ## Preguntas frecuentes sobre la Terminal de Barranquilla
 

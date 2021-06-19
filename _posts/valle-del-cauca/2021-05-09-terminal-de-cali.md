@@ -4,6 +4,7 @@ title: Terminal de transporte de Cali
 description: La terminal de transporte de Cali es una moderna construcción que trae miles de visitantes a diario. Aquí te damos la información que necesitas.
 category: valle
 tags: cali
+h1: Terminal de Cali
 img: img/terminales/valle/terminal-transporte-cali.webp
 alt: Terminal de Transporte de Cali
 principal: true
@@ -95,6 +96,94 @@ Los siguientes son los servicios que ofrece la terminal de transporte de Cali:
 9. También hay un módulo de Atención Inmediata de Información Turística
 10. Tiene rampas eléctricas, escaleras eléctricas y ascensores
 11. En el terminal hay personas ofreciendo servicios de lustre de botas y ventas de loterías
+
+## Hoteles cerca a la terminal de Cali
+
+Cerca a la terminal de transporte de Cali tienes una buena oferta de hoteles. Esta lista te ofrece los datos de algunos de los mejores calificados en buscadors de hoteles.
+
+### Chipichape
+
+La dirección es Avenida 9 NORTE # 27-65. Este hotel incluye desayuno en sus servicios. Está a 10 minutos de la terminal de Cali en carro y 16 minutos caminando. **La distancia a la Terminal de Transportes de Cali es de 1,2km.**
+
+### Windsor Plaza
+
+La dirección es Carrera 39A # 5E - 25. El hotel ofrece estación de café en sus servicios. Está a 10 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 1,8km.**
+
+### Chipichape Inn
+
+La dirección es Av 8 Norte # 17AN - 12. Este hotel incluye desayuno en sus servicios. Está a 14 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 1,9km.**
+
+### Las Vegas Granada
+
+La dirección es Av 6 # 16-53. El hotel incluye desayuno en sus servicios. Está a 12 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 2,0km.**
+
+### Ibiza
+
+La dirección es Carrera 6A # 11-48. El hotel incluye desayuno en sus servicios. Está a 10 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 2,0km.**
+
+### Jaba Santiago de Cali
+
+La dirección es Carrera 4 # 8-73. El hotel incluye desayuno en sus servicios. Está a 12 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 2,5km.**
+
+### Americana
+
+La dirección es Calle 15 # 37-44. El hotel incluye kit de aseo en sus servicios. Está a 13 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 2,6km.**
+
+### Hotel MR
+
+La dirección es Calle 7 # 36A Bis – 30. El hotel incluye desayuno en sus servicios. Está a 12 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 3,5km.**
+
+### La Sultana
+
+La dirección es Calle 5B 3 BIS #38-32. El hotel incluye desayuno en sus servicios. Está a 15 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 5,8km.**
+
+### Los Maderos
+
+La dirección es Calle 5 A # 40 - 41. El hotel ofrece restaurante en sus servicios. Está a 17 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 6km.**
+
+### Casa Tequendama
+
+La dirección es Carrera 65A # 9-127. El hotel incluye desayuno en sus servicios. Está a 17 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 6,3km.**
+
+### Eco Suite
+
+La dirección es Carrera 66A # 10 - 177. El hotel ofrece estación de café en sus servicios. Está a 17 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 8,7km.**
+
+### Ruta 65
+
+La dirección es Calle 16 # 85b -42. El hotel incluye aire acondicionado en sus servicios. Está a 16 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 8,9km.**
+
+### Depeapan
+
+La dirección es Carrera 85A # 14-62. El hotel incluye room service en sus servicios. Está a 22 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 10km.**
+
+### Caney Sede Ingenio
+
+La dirección es Calle 25 # 125 - 60, Via Panamericana Cali- Jamundí. El hotel incluye desayuno en sus servicios. Está a 22 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 10,2km.**
+
+### Prados del Sur
+
+La dirección es Calle 17 Norte # 4N - 65. El hotel incluye piscina en sus servicios. Está a 31 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 14,5km.**
+
+## Del Aeropuerto de Cali al terminal de transporte
+
+El aeropuerto internacional Alfonso Bonilla Aragón dispone de rutas de buses hasta el terminal de transporte. Hay un servicio de minibuses del Aeropuerto a la terminal y luego al centro de la ciudad de Cali, y termina en la ciudad de Palmira. La ruta circula cada 10 minutos.
+
+El tiempo de la ruta es de 30 a 40 minutos. El horario de funcionamiento es de 6a.m. a 10p.m.
+
+La empresa de transporte Líneas Cónsul también opera esta ruta. Puedes solicitar sus servicios al número de teléfono 0326687450. También lo hace Expreso Palmira. Su número de servicio es 0326684351.
+
+## Transporte público hasta la terminal de Cali
+
+Estas son las rutas de buses que pasan cerca de Terminal de Transportes: **Autobús A05, E21, E27, P21A, P52D y T31, T42**.
+
+Además, puedes disponer del servicio desde las siguientes estaciones:
+
+* Estación Avenida 3 con Calle 23dn, ruta P2. Distancia en tiempo de 5 minutos a pie.
+* Estación Avenida 3 con Calle 23dn, ruta P1. Distancia en tiempo de 6 minutos a pie.
+* Estación Avenida 2f entre Avenida 3 y calle 25. Distancia en tiempo de 6 minutos a pie.
+* Estación Las Americas. Distancia en tiempo de 8 minutos a pie.
+* Estación Piloto. Distancia en tiempo de 17 minutos a pie.
 
 ## Rutas desde la terminal de transporte de Cali
 
@@ -204,94 +293,6 @@ Estos son los destinos a los que puedes viajar desde la terminal de Cali. Ten en
 * Terminal de Cali a Tuluá
 * Terminal de Cali a Valledupar
 * Terminal de Cali a Yarumal
-
-## Hoteles cerca a la terminal de Cali
-
-Cerca a la terminal de transporte de Cali tienes una buena oferta de hoteles. Esta lista te ofrece los datos de algunos de los mejores calificados en buscadors de hoteles.
-
-### Chipichape
-
-La dirección es Avenida 9 NORTE # 27-65. Este hotel incluye desayuno en sus servicios. Está a 10 minutos de la terminal de Cali en carro y 16 minutos caminando. **La distancia a la Terminal de Transportes de Cali es de 1,2km.**
-
-### Windsor Plaza
-
-La dirección es Carrera 39A # 5E - 25. El hotel ofrece estación de café en sus servicios. Está a 10 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 1,8km.**
-
-### Chipichape Inn
-
-La dirección es Av 8 Norte # 17AN - 12. Este hotel incluye desayuno en sus servicios. Está a 14 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 1,9km.**
-
-### Las Vegas Granada
-
-La dirección es Av 6 # 16-53. El hotel incluye desayuno en sus servicios. Está a 12 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 2,0km.**
-
-### Ibiza
-
-La dirección es Carrera 6A # 11-48. El hotel incluye desayuno en sus servicios. Está a 10 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 2,0km.**
-
-### Jaba Santiago de Cali
-
-La dirección es Carrera 4 # 8-73. El hotel incluye desayuno en sus servicios. Está a 12 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 2,5km.**
-
-### Americana
-
-La dirección es Calle 15 # 37-44. El hotel incluye kit de aseo en sus servicios. Está a 13 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 2,6km.**
-
-### Hotel MR
-
-La dirección es Calle 7 # 36A Bis – 30. El hotel incluye desayuno en sus servicios. Está a 12 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 3,5km.**
-
-### La Sultana
-
-La dirección es Calle 5B 3 BIS #38-32. El hotel incluye desayuno en sus servicios. Está a 15 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 5,8km.**
-
-### Los Maderos
-
-La dirección es Calle 5 A # 40 - 41. El hotel ofrece restaurante en sus servicios. Está a 17 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 6km.**
-
-### Casa Tequendama
-
-La dirección es Carrera 65A # 9-127. El hotel incluye desayuno en sus servicios. Está a 17 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 6,3km.**
-
-### Eco Suite
-
-La dirección es Carrera 66A # 10 - 177. El hotel ofrece estación de café en sus servicios. Está a 17 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 8,7km.**
-
-### Ruta 65
-
-La dirección es Calle 16 # 85b -42. El hotel incluye aire acondicionado en sus servicios. Está a 16 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 8,9km.**
-
-### Depeapan
-
-La dirección es Carrera 85A # 14-62. El hotel incluye room service en sus servicios. Está a 22 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 10km.**
-
-### Caney Sede Ingenio
-
-La dirección es Calle 25 # 125 - 60, Via Panamericana Cali- Jamundí. El hotel incluye desayuno en sus servicios. Está a 22 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 10,2km.**
-
-### Prados del Sur
-
-La dirección es Calle 17 Norte # 4N - 65. El hotel incluye piscina en sus servicios. Está a 31 minutos en carro. **La distancia a la Terminal de Transporte de Cali es de 14,5km.**
-
-## Del Aeropuerto de Cali al terminal de transporte
-
-El aeropuerto internacional Alfonso Bonilla Aragón dispone de rutas de buses hasta el terminal de transporte. Hay un servicio de minibuses del Aeropuerto a la terminal y luego al centro de la ciudad de Cali, y termina en la ciudad de Palmira. La ruta circula cada 10 minutos.
-
-El tiempo de la ruta es de 30 a 40 minutos. El horario de funcionamiento es de 6a.m. a 10p.m.
-
-La empresa de transporte Líneas Cónsul también opera esta ruta. Puedes solicitar sus servicios al número de teléfono 0326687450. También lo hace Expreso Palmira. Su número de servicio es 0326684351.
-
-## Transporte público hasta la terminal de Cali
-
-Estas son las rutas de buses que pasan cerca de Terminal de Transportes: **Autobús A05, E21, E27, P21A, P52D y T31, T42**.
-
-Además, puedes disponer del servicio desde las siguientes estaciones:
-
-* Estación Avenida 3 con Calle 23dn, ruta P2. Distancia en tiempo de 5 minutos a pie.
-* Estación Avenida 3 con Calle 23dn, ruta P1. Distancia en tiempo de 6 minutos a pie.
-* Estación Avenida 2f entre Avenida 3 y calle 25. Distancia en tiempo de 6 minutos a pie.
-* Estación Las Americas. Distancia en tiempo de 8 minutos a pie.
-* Estación Piloto. Distancia en tiempo de 17 minutos a pie.
 
 ## Información de la terminal de transporte de Cali
 

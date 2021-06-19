@@ -1,9 +1,10 @@
 ---
 layout: articulo
-title: Terminal de transporte de Bogotá
+title: Terminales de transporte de Bogotá
 description: La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad
 category: cundinamarca
 tags: bogota
+h1: Terminal Salitre, terminal del Sur y terminal del Norte de Bogotá
 img: img/terminales/cundinamarca/terminal-transporte-bogota-cundinamarca.webp
 alt: Terminal de Transporte de Bogotá
 principal: true
@@ -408,6 +409,97 @@ Velotax Ltda.
  261-2110
  gerencia.general@velotax.com.co -->
 
+## Información de la Terminal de Transporte de Bogotá
+
+Cada una de las 3 sedes de la Terminal de Bogotá ofrece servicios especiales. A continuación podrás encontrar qué puedes encontrar en cada una de las terminales:
+
+### Servicios de la Terminal de Transporte Salitre
+
+**La Terminal de Salitre opera con los vehículos que salen hacia los destinos del norte y del occidente de Colombia.** De esta manera, presta su servicios a más de 600 destinos nacionales y más de 5 destinos internacionales, con más de 90 empresas de transporte autorizadas. Por esta terminal transitan cerca de 5000 buses en un solo día, en un día común.
+
+Esta terminal de tranporte se divide en 5 módulos. Está identificados con 5 colores diferentes:
+
+1. **Módulo Amarillo**: En esta sección atienden las empresas de transporte que viajan hacia el sur del país. Está ubicado en la Diagonal 23 No 69 - 55. Este módulo ofrece servicio de guarda equipajes y tiene servicio gratuito de carros maleteros.
+2. **Módulo Azul**: Esta sección atiende las rutas del este y de oeste de Colombia. Tiene servicio gratuito de carros maleteros. Por otra parte, *si pierdes alguna pertenencia dentro de la terminal, puedes dirigirte a la oficina 202* del módulo azul y preguntar si algún funcionario lo encontró y lo llevó hasta allí.
+3. **Módulo Rojo**: Este módulo es especial. Primero, se encarga de las rutas del norte del país. También, es el módulo de donde salen los transportes hacia algunos países de Sudamerica como Ecuador, Perú, Chile, Argentina, Bolivia y Brasil. Además, ofrece una variedad de restaurantes, cafeterías, servicios gubernamentales, entidadea financieras, una capilla, bodega guardaequipajes y servicio gratuito de carros maleteros.
+4. **Módulo Verde**: Encuentras el servicio de taxis intermunicipales e interdepartamentales.
+5. **Módulo Morado**: A este módulo llegan los pasajeros y encuentra el servicio de taxis y buses de servicio urbano. También están las oficinas y bodegas de las empresas que ofrecen el servicio de encomiendas. Normalmente atienden entre las 6 a.m. y 10 p.m. Además, tiene servicio de parqueadero.
+
+#### Oficinas de Bancos en la Terminal Salitre
+
+Los bancos están ubicados de la siguiente manera:
+
+* Banco de Bogotá en el módulo amarillo
+* Banco Caja Social en el módulo rojo
+* Bancolombia en el módulo verde
+* Davivienda, BBVA en el módulo azul
+
+La Terminal Salitre también disponde de los siguientes cajeros electrónicos: Servibanca, Bancolombia, Caja Social, Davivienda, BBVA y Grupo Aval. Recuerda tomar todas las medidas de seguridad al retirar dinero de estas entidades bancarias.
+
+#### Servicio de personal de la Terminal Salitre 24 Horas
+
+Todo el personal de la Terminal está capacitado para servirte. Podrás encontrar estos funcionarios todo el día, todos los días del año. Puedes identificarlos por su uniforme de seguridad o por el chaleco azul con franjas reflectivas. Si necesitas ayuda que requiera seguridad, acude a la policía nacional.
+
+#### Servicio de parqueaderos de la Terminal Salitre
+
+Es un servicio con horario de 4a.m. a 11p.m. y tienen tarifas por tiempo, desde una hora hasta el mes completo, y por tamaño del vehículo. Las tarifas están sujetas a las condiciones de la empresa prestadora de servicio.
+
+#### Servicio de primeros auxilios de la Terminal Salitre
+
+La Cruz Roja Colombiana está presente para atender cualquier urgencia médica. También, la Terminal Salitre una ambulancia permantemente al servicio de la comunidad.
+
+#### Servicio de circuito cerrado de vigilancia de la Terminal Salitre
+
+Con más de 250 cámaras, la seguridad de la terminal monitorea todas las áreas de la Terminal para brindarte más seguridad.
+
+#### Servicio de sillas de ruedas de la Terminal Salitre
+
+La terminal tiene personal del Departamento de Servicio al Ciudadano en cada módulo con sillas ruedas disponibles para ayudar a quienes tienen limitaciones.
+
+#### Servicio de asignación de taxis de la Terminal Salitre
+
+Las 24 horas del día tienes disponible este servicio para mayor seguridad al llegar a tu destino.
+
+#### Policía en la Terminal Salitre
+
+Es un esquema completo compuesto por la Policía de Vigilancia, Policía de Infancia y Adolescencia, Policía Ambiental, Policía de Turismo, Policía de Carreteras, Policía de Tránsito y Transporte.
+
+#### Servicio de guarda equipaje de la Terminal Salitre
+
+La empresa Terminal Bogotá Copropiedad es la encargada de este serivicio, disponible las 24 horas. Las tarifas son administradas por esta empresa.
+
+#### Servicio de wifi gratis de la Terminal Salitre
+
+Es un servicio gratuito disponible en las zonas de espera y en las taquillas.
+
+#### Servicio de duchas de la Terminal Salitre
+
+La empresa Terminal Bogotá Copropiedad ofrece este servicio con un kit de aseo: toalla, jabón, shampoo, cepillo de dientes y crema dental.
+
+#### Restaurantes de la Terminal Salitre
+
+En todos los módulos de la Terminal Salitre encuentras restaurantes, cafeterías y variedad de locales comerciales.
+
+#### Servicio de vacunación de la Terminal Salitre
+
+Si tu viajes es hacia zonas de altas temperaturas (mucho calor), debes vacunarte contra la fiebre amarilla hasta 10 días antes del viaje. En la terminal te pueden brindar este servicio. También, puedes vacunarte contra el Sarampión y Rubeola. El horario de atención es entre las 07:00 a.m. hasta las 06:00 p.m.
+
+### Servicios de la Terminal del Sur de Bogotá
+
+La terminal Sur de Bogotá presta sus servicios desde el año 2008. Atiende los destinos del sur y del occidente del país. Abarca departamentos como Tolima, Huila, Caquetá, Putumayo, Risaralda, Quindío, Valle del Cauca, Cauca y Nariño.
+
+Esta terminal ofrece los mismo servicios de la terminal Salitre dentro de sus instalaciones. También dispone de los cajeros electrónicos de Bancolombia, Banco Popular, Banco Caja Social y Servibanca.
+
+### Servicios de la Terminal del Norte de bogotá
+
+Su nombre completo es **Terminal de Operaciones Satélite del Norte**. Presta sus servicios desde el año 2017. Su función principal es ser el punto intermedio para los buses que provienen desde distintos puntos de la ciudad hacia el norte de ella.
+
+Esta terminal tiene 24 taquillas de ventas de pasajes para agilizar tus diligencias. Cuenta con 19 plataformas de salida de pasajeros y ofrece todos los servicios de las sedes ya mencionadas. Atiende principalmente a los pasajeros que salen de Bogotá hacia los departamentos de Santander, Boyacá, y municipios de Cundinamarca como Pacho, Cogua, Yacopí, San Cayetano, La Palma, Tibirita, Machetá, Guasca, Nemocón, Gachancipá, Villapinzón, Ubaté y Tausa.
+
+Si tu viaje ingresa por el norte de la ciudad, no puedes parar en esta terminal. El vehículo de transporte público debe ir hasta la terminal principal del Salitre.
+
+Esta terminal ofrece los mismo servicios de la terminal Salitre dentro de sus instalaciones. **Solamente que no ofrece el servicio de envío de encomiendas**. Además, solo dispone de cajero electrónico de Servibanca.
+
 ## Destinos desde la terminal de transporte de Bogotá
 
 Los destinos a los que la terminal de Bogotá atiendes desde sus 3 sedes son los siguientes:
@@ -587,97 +679,6 @@ Los destinos a los que la terminal de Bogotá atiendes desde sus 3 sedes son los
 * Terminal de transporte de Bogotá a Yopal
 * Terminal de transporte de Bogotá a Zambrano
 * Terminal de transporte de Bogotá a Zapatoca
-
-## Información de la Terminal de Transporte de Bogotá
-
-Cada una de las 3 sedes de la Terminal de Bogotá ofrece servicios especiales. A continuación podrás encontrar qué puedes encontrar en cada una de las terminales:
-
-### Servicios de la Terminal de Transporte Salitre
-
-**La Terminal de Salitre opera con los vehículos que salen hacia los destinos del norte y del occidente de Colombia.** De esta manera, presta su servicios a más de 600 destinos nacionales y más de 5 destinos internacionales, con más de 90 empresas de transporte autorizadas. Por esta terminal transitan cerca de 5000 buses en un solo día, en un día común.
-
-Esta terminal de tranporte se divide en 5 módulos. Está identificados con 5 colores diferentes:
-
-1. **Módulo Amarillo**: En esta sección atienden las empresas de transporte que viajan hacia el sur del país. Está ubicado en la Diagonal 23 No 69 - 55. Este módulo ofrece servicio de guarda equipajes y tiene servicio gratuito de carros maleteros.
-2. **Módulo Azul**: Esta sección atiende las rutas del este y de oeste de Colombia. Tiene servicio gratuito de carros maleteros. Por otra parte, *si pierdes alguna pertenencia dentro de la terminal, puedes dirigirte a la oficina 202* del módulo azul y preguntar si algún funcionario lo encontró y lo llevó hasta allí.
-3. **Módulo Rojo**: Este módulo es especial. Primero, se encarga de las rutas del norte del país. También, es el módulo de donde salen los transportes hacia algunos países de Sudamerica como Ecuador, Perú, Chile, Argentina, Bolivia y Brasil. Además, ofrece una variedad de restaurantes, cafeterías, servicios gubernamentales, entidadea financieras, una capilla, bodega guardaequipajes y servicio gratuito de carros maleteros.
-4. **Módulo Verde**: Encuentras el servicio de taxis intermunicipales e interdepartamentales.
-5. **Módulo Morado**: A este módulo llegan los pasajeros y encuentra el servicio de taxis y buses de servicio urbano. También están las oficinas y bodegas de las empresas que ofrecen el servicio de encomiendas. Normalmente atienden entre las 6 a.m. y 10 p.m. Además, tiene servicio de parqueadero.
-
-#### Oficinas de Bancos en la Terminal Salitre
-
-Los bancos están ubicados de la siguiente manera:
-
-* Banco de Bogotá en el módulo amarillo
-* Banco Caja Social en el módulo rojo
-* Bancolombia en el módulo verde
-* Davivienda, BBVA en el módulo azul
-
-La Terminal Salitre también disponde de los siguientes cajeros electrónicos: Servibanca, Bancolombia, Caja Social, Davivienda, BBVA y Grupo Aval. Recuerda tomar todas las medidas de seguridad al retirar dinero de estas entidades bancarias.
-
-#### Servicio de personal de la Terminal Salitre 24 Horas
-
-Todo el personal de la Terminal está capacitado para servirte. Podrás encontrar estos funcionarios todo el día, todos los días del año. Puedes identificarlos por su uniforme de seguridad o por el chaleco azul con franjas reflectivas. Si necesitas ayuda que requiera seguridad, acude a la policía nacional.
-
-#### Servicio de parqueaderos de la Terminal Salitre
-
-Es un servicio con horario de 4a.m. a 11p.m. y tienen tarifas por tiempo, desde una hora hasta el mes completo, y por tamaño del vehículo. Las tarifas están sujetas a las condiciones de la empresa prestadora de servicio.
-
-#### Servicio de primeros auxilios de la Terminal Salitre
-
-La Cruz Roja Colombiana está presente para atender cualquier urgencia médica. También, la Terminal Salitre una ambulancia permantemente al servicio de la comunidad.
-
-#### Servicio de circuito cerrado de vigilancia de la Terminal Salitre
-
-Con más de 250 cámaras, la seguridad de la terminal monitorea todas las áreas de la Terminal para brindarte más seguridad.
-
-#### Servicio de sillas de ruedas de la Terminal Salitre
-
-La terminal tiene personal del Departamento de Servicio al Ciudadano en cada módulo con sillas ruedas disponibles para ayudar a quienes tienen limitaciones.
-
-#### Servicio de asignación de taxis de la Terminal Salitre
-
-Las 24 horas del día tienes disponible este servicio para mayor seguridad al llegar a tu destino.
-
-#### Policía en la Terminal Salitre
-
-Es un esquema completo compuesto por la Policía de Vigilancia, Policía de Infancia y Adolescencia, Policía Ambiental, Policía de Turismo, Policía de Carreteras, Policía de Tránsito y Transporte.
-
-#### Servicio de guarda equipaje de la Terminal Salitre
-
-La empresa Terminal Bogotá Copropiedad es la encargada de este serivicio, disponible las 24 horas. Las tarifas son administradas por esta empresa.
-
-#### Servicio de wifi gratis de la Terminal Salitre
-
-Es un servicio gratuito disponible en las zonas de espera y en las taquillas.
-
-#### Servicio de duchas de la Terminal Salitre
-
-La empresa Terminal Bogotá Copropiedad ofrece este servicio con un kit de aseo: toalla, jabón, shampoo, cepillo de dientes y crema dental.
-
-#### Restaurantes de la Terminal Salitre
-
-En todos los módulos de la Terminal Salitre encuentras restaurantes, cafeterías y variedad de locales comerciales.
-
-#### Servicio de vacunación de la Terminal Salitre
-
-Si tu viajes es hacia zonas de altas temperaturas (mucho calor), debes vacunarte contra la fiebre amarilla hasta 10 días antes del viaje. En la terminal te pueden brindar este servicio. También, puedes vacunarte contra el Sarampión y Rubeola. El horario de atención es entre las 07:00 a.m. hasta las 06:00 p.m.
-
-### Servicios de la Terminal del Sur de Bogotá
-
-La terminal Sur de Bogotá presta sus servicios desde el año 2008. Atiende los destinos del sur y del occidente del país. Abarca departamentos como Tolima, Huila, Caquetá, Putumayo, Risaralda, Quindío, Valle del Cauca, Cauca y Nariño.
-
-Esta terminal ofrece los mismo servicios de la terminal Salitre dentro de sus instalaciones. También dispone de los cajeros electrónicos de Bancolombia, Banco Popular, Banco Caja Social y Servibanca.
-
-### Servicios de la Terminal del Norte de bogotá
-
-Su nombre completo es **Terminal de Operaciones Satélite del Norte**. Presta sus servicios desde el año 2017. Su función principal es ser el punto intermedio para los buses que provienen desde distintos puntos de la ciudad hacia el norte de ella.
-
-Esta terminal tiene 24 taquillas de ventas de pasajes para agilizar tus diligencias. Cuenta con 19 plataformas de salida de pasajeros y ofrece todos los servicios de las sedes ya mencionadas. Atiende principalmente a los pasajeros que salen de Bogotá hacia los departamentos de Santander, Boyacá, y municipios de Cundinamarca como Pacho, Cogua, Yacopí, San Cayetano, La Palma, Tibirita, Machetá, Guasca, Nemocón, Gachancipá, Villapinzón, Ubaté y Tausa.
-
-Si tu viaje ingresa por el norte de la ciudad, no puedes parar en esta terminal. El vehículo de transporte público debe ir hasta la terminal principal del Salitre.
-
-Esta terminal ofrece los mismo servicios de la terminal Salitre dentro de sus instalaciones. **Solamente que no ofrece el servicio de envío de encomiendas**. Además, solo dispone de cajero electrónico de Servibanca.
 
 ## Rutas de buses o transmilenio que pasan cerca a las sedes de la terminal de Bogotá
 

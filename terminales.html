@@ -10,7 +10,7 @@ description: La teminal de transporte de cada ciudad la estamos incluyendo en es
     {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <article>
-      <h3 id="{{ category_name}}">Terminales de tranporte del {{ category_name | capitalize}}
+      <h3 id="{{ category_name}}">Terminales de tranporte {{ category_name | capitalize}}
       </h3>
       <div>
         {% for post in site.categories[category_name] %}
