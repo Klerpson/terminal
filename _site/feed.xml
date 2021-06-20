@@ -4,7 +4,7 @@
      <link href="terminaldetransporte.com/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="terminaldetransporte.com" rel="alternate" type="text/html"/>
      <id>terminaldetransporte.com</id>
-     <updated>2021-06-20T07:31:12-05:00</updated>
+     <updated>2021-06-20T07:33:11-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Terminales de transporte de Medellín</title>
+   <title>Terminal Norte y Terminal Sur de Medellín</title>
    <link href="terminaldetransporte.com/terminal-de-medellin"/>
    <id>terminaldetransporte.com/terminal-de-medellin</id>
    <updated>2021-06-17T00:00:00-05:00</updated>
@@ -21,35 +21,43 @@
  </entry>
  
  <entry>
-   <title>Terminal de transporte de Neiva</title>
+   <title>Terminal de Neiva</title>
    <link href="terminaldetransporte.com/terminal-de-neiva"/>
    <id>terminaldetransporte.com/terminal-de-neiva</id>
    <updated>2021-05-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La terminal de Neiva es la principal empresa de transporte terrestre del departamento del Huila. Con empresesas como Coomotor, Bolivariano, Flota Magdalena, etc; cubre importantes rutas hacia otras ciudades principales, tales como Bogotá, Medellín, Cali, Pereira, Ibagué, Armenia, Manizales, entre otras; y poblaciones más pequeñas.&lt;/strong&gt;&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;En esta...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;La terminal de Neiva es la principal empresa de transporte terrestre del departamento del Huila. Con empresesas como Coomotor, Bolivariano, Flota Magdalena, etc; cubre importantes rutas hacia otras ciudades principales, tales como Bogotá, Medellín, Cali, Pereira, Ibagué, Armenia, Manizales, entre otras; y poblaciones más pequeñas.&lt;/strong&gt;&lt;/p&gt;
+
+</content>
  </entry>
  
  <entry>
-   <title>Terminal de transporte de Barranquilla</title>
+   <title>Terminal de Barranquilla</title>
    <link href="terminaldetransporte.com/terminal-de-barranquilla"/>
    <id>terminaldetransporte.com/terminal-de-barranquilla</id>
    <updated>2021-05-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La Terminal de Barranquilla es una empresa de economía mixta que ofrece el servicio de terminal para el transporte público terrestre intermunicipal, interdepartamental e internacional que llega y sale desde Barranquilla y su área metropolitana.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Funciona desde el municipio de Soledad a 1,5 kilómetros de Barranquilla. Su...</content>
+   <content type="html">&lt;p&gt;La Terminal de Barranquilla es una empresa de economía mixta que ofrece el servicio de terminal para el transporte público terrestre intermunicipal, interdepartamental e internacional que llega y sale desde Barranquilla y su área metropolitana.&lt;/p&gt;
+
+</content>
  </entry>
  
  <entry>
-   <title>Terminal de transporte de Cali</title>
+   <title>Terminal de Cali</title>
    <link href="terminaldetransporte.com/terminal-de-cali"/>
    <id>terminaldetransporte.com/terminal-de-cali</id>
    <updated>2021-05-09T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La terminal de transporte de Cali es un punto vital y muy concurrido en la ciudad. Aquí se dan muchas actividades comerciales. También pasa mucho turista nacional y extranjero. Además, vienen de todo el país ciudadanos que solo están de paso hacia sus destinos en los municipios cercanos.&lt;/p&gt; &lt;!-- excerpt...</content>
+   <content type="html">&lt;p&gt;La terminal de transporte de Cali es un punto vital y muy concurrido en la ciudad. Aquí se dan muchas actividades comerciales. También pasa mucho turista nacional y extranjero. Además, vienen de todo el país ciudadanos que solo están de paso hacia sus destinos en los municipios cercanos.&lt;/p&gt;
+
+</content>
  </entry>
  
  <entry>
-   <title>Terminales de transporte de Bogotá</title>
+   <title>Terminal Salitre, terminal del Sur y terminal del Norte de Bogotá</title>
    <link href="terminaldetransporte.com/terminal-de-bogota"/>
    <id>terminaldetransporte.com/terminal-de-bogota</id>
    <updated>2021-05-05T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad de Bogotá.&lt;/strong&gt;&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Debido a la cantidad de personas que utilizan esta la terminal de Bogotá, esta se multiplicó a 3 sedes:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Terminal...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad de Bogotá.&lt;/strong&gt;&lt;/p&gt;
+
+</content>
  </entry>
  
 
