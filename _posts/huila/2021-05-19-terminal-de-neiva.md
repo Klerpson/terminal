@@ -16,7 +16,7 @@ json: '{
     "@type": "PostalAddress",
     "addressLocality": "Neiva",
     "addressRegion": "Huila",
-    "postalCode": "410010 ",
+    "postalCode": "410010",
     "streetAddress": "Transversal 5 No. 5 - 312"
   },
   "aggregateRating": {

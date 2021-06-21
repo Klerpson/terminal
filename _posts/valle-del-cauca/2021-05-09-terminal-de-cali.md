@@ -9,6 +9,25 @@ img: img/terminales/valle/terminal-transporte-cali.webp
 alt: Terminal de Transporte de Cali
 principal: true
 excerpt_separator: <!-- excerpt -->
+json: '{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Cali",
+    "addressRegion": "Valle del Cauca",
+    "postalCode": "760036",
+    "streetAddress": "Calle 30 N 2an - 29"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "26570"
+  },
+  "description": "La terminal de transporte de Cali es una moderna construcción que trae miles de visitantes a diario. Aquí te damos la información que necesitas",
+  "name": "Terminal de transporte de Cali",
+  "telephone": "032-668-3655"
+}'
 referencias:
   - Fotografías de la Terminal de Transporte de Cali en Google Maps: https://www.google.com/maps/place/Terminal+Cali/@3.4659348,-76.5213706,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOxbkzyXU63ACerlA4Hse22oS-kSLKdZve8oIv7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOxbkzyXU63ACerlA4Hse22oS-kSLKdZve8oIv7%3Dw160-h120-k-no!7i3264!8i2448!4m5!3m4!1s0x8e30a63e532273bb:0x9b1904376e4740f7!8m2!3d3.4656371!4d-76.521846
   - Página web de la empresa Arauca: https://empresaarauca.com.co

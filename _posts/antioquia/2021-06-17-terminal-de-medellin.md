@@ -9,6 +9,25 @@ img: img/terminales/antioquia/terminal-transporte-medellin.webp
 alt: Terminal de Transporte de Medellín
 principal: true
 excerpt_separator: <!-- excerpt -->
+json: '{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Medellín",
+    "addressRegion": "Antioquia",
+    "postalCode": "050040",
+    "streetAddress": "Carrera 64C No. 78 – 580"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "2503"
+  },
+  "description": "Las terminales de Medellín se dividen en 2 terminales de transporte. La primera comenzó en el norte de la ciudad. La segunda al sur de Medellín",
+  "name": "Terminal de transporte de Medellín",
+  "telephone": "034-444-8020"
+}'
 referencias:
   - Fotografías de la Terminal de Transporte de Medellín en Google Maps: https://www.google.com/maps/place/Terminales+Medell%C3%ADn+-+Norte/@6.279879,-75.571231,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPbiI0rnt9mMavK-JwxCVV0bSd_3svI6TUSj-XN!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPbiI0rnt9mMavK-JwxCVV0bSd_3svI6TUSj-XN%3Dw529-h298-k-no!7i1920!8i1080!4m11!1m2!2m1!1sterminal+norte+medellin!3m7!1s0x8e4428d778c62ff7:0x14b3b886bb9997e3!8m2!3d6.279879!4d-75.571231!14m1!1BCgIgAQ!15sChd0ZXJtaW5hbCBub3J0ZSBtZWRlbGxpbpIBFnRyYW5zcG9ydGF0aW9uX3NlcnZpY2U
   - Formulario para solicitudes, quejas y reclamos PQR: http://www.terminalesmedellin.com/transparencia/atencion-al-ciudadano/pqrs-peticiones-quejas-reclamos-y-sugerencias/

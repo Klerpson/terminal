@@ -9,6 +9,25 @@ img: img/terminales/cundinamarca/terminal-transporte-bogota-cundinamarca.webp
 alt: Terminal de Transporte de Bogotá
 principal: true
 excerpt_separator: <!-- excerpt -->
+json: '{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bogotá",
+    "addressRegion": "Cundinamarca",
+    "postalCode": "110931",
+    "streetAddress": "Diagonal 23 # 69 - 11"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "1913"
+  },
+  "description": "La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad",
+  "name": "Terminal de transporte Salitre",
+  "telephone": "031-423-3630"
+}'
 referencias:
   - Fotografías de la Terminal de Transporte de Bogotá en Wiki Commons: https://commons.wikimedia.org/w/index.php?search=terminal+de+bogota&title=Special:MediaSearch&go=Go&type=image
   - Formulario Migrantes a Fronteras: https://www.terminaldetransporte.gov.co/node/35041
