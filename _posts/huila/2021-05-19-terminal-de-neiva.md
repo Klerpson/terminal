@@ -9,6 +9,25 @@ img: img/terminales/neiva/terminal-transporte-neiva.webp
 alt: Terminal de Transporte de Neiva Huila
 principal: true
 excerpt_separator: <!-- excerpt -->
+json: '{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Neiva",
+    "addressRegion": "Huila",
+    "postalCode": "410010 ",
+    "streetAddress": "Transversal 5 No. 5 - 312"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "reviewCount": "5665"
+  },
+  "description": "La terminal de transporte de Neiva es la principal empresa de transporte terrestre del departamento del Huila hacia los demás destinos de Colombia",
+  "name": "Terminal de transporte de Neiva",
+  "telephone": "038-873-1232"
+}'
 referencias:
   - Fotografía de portada Terminal de Transporte de Neiva: https://pbs.twimg.com/media/Cpx2rWGWIAEwJbC?format=jpg&name=medium
   - Página oficial de la terminal de Neiva: https://www.elterminalneiva.com
