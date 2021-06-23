@@ -4,13 +4,23 @@
      <link href="https://terminaldetransporte.com/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://terminaldetransporte.com" rel="alternate" type="text/html"/>
      <id>https://terminaldetransporte.com</id>
-     <updated>2021-06-21T13:47:06-05:00</updated>
+     <updated>2021-06-23T13:34:14-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
        <email>info@terminaldetransporte.com</email>
      </author>
 
+ 
+ <entry>
+   <title>La Terminal de Cartagena</title>
+   <link href="https://terminaldetransporte.com/terminal-de-cartagena"/>
+   <id>https://terminaldetransporte.com/terminal-de-cartagena</id>
+   <updated>2021-06-19T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;La Terminal de Cartagena es la empresa que controla la actividad transportadora intermunicipal de la ciudad. La encuentras en un sector de Cartagena conocido como Doña Manuela, por la carretera de la Cordialidad que de esta ciudad conduce a Barranquilla.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Terminal Norte y Terminal Sur de Medellín</title>

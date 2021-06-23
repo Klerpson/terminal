@@ -2,6 +2,16 @@
   
     {
 
+      "title"    : "Terminal de transporte de Cartagena",
+      "url"      : "/terminal-de-cartagena",
+      "category" : "Mira más en: Bolívar",
+      "url-cat"  : "/#Bolívar",
+      "tags"     : "Cartagena"
+
+    } ,
+  
+    {
+
       "title"    : "Terminales de transporte de Medellín",
       "url"      : "/terminal-de-medellin",
       "category" : "Mira más en: Antioquia",

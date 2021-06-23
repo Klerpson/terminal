@@ -616,6 +616,11 @@ font-size: 1rem;
   text-decoration-thickness: 3px;
 }
 
+.articulo table tr th{
+  text-transform: uppercase;
+  font-family: var(--fuenteTitulos);
+}
+
 .articulo table tr td{
   border: 1px solid var(--complemento1);
   padding: 0.5rem;
