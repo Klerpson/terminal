@@ -33,6 +33,8 @@ referencias:
   - Página web de la empresa Arauca: https://empresaarauca.com.co
   - Página web de la empresa Bolivariano: https://bolivariano.com.co
   - Página web de la Terminal de Cali: https://www.terminalcali.com/
+noticias:
+  - Desde el lunes 21 de junio, la terminal de Cali está operando en absoluta normalidad. Están saliendo los buses al todos los destinos. Hoy llegan a 16 departamentos de forma directa. Hoy están despachando cerca de 2.500 buses, con casi 15 mil usuarios:  https://www.proclamadelcauca.com/terminal-de-cali-vuelve-a-cubrir-el-100-de-sus-destinos-nacionales/
 ---
 
 La terminal de transporte de Cali es un punto vital y muy concurrido en la ciudad. Aquí se dan muchas actividades comerciales. También pasa mucho turista nacional y extranjero. Además, vienen de todo el país ciudadanos que solo están de paso hacia sus destinos en los municipios cercanos.
@@ -59,6 +61,8 @@ Sólo debes buscar la **dirección de la Terminal de Cali: Calle 30 N 2an - 29, 
 {% include boton.html url="https://goo.gl/maps/dsKmEKd7quYCAQDc8" title="Ubicación en Google Maps de la terminal de Cali" texto="Ubicación en Google Maps" %}
 
 {% include boton.html url="https://www.waze.com/es-419/live-map/directions/terminal-de-neiva-carrera-7a-neiva?place=w.186581021.1865941284.17891237&utm_campaign=waze_website&utm_medium=website_menu&utm_source=waze_website" title="Ubicación en waze de la terminal de Cali" texto="Ubicación en Waze" %}
+
+{% include noticias.html %}
 
 ## Horarios de atención en la terminal de Cali
 

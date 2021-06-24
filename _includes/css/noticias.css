@@ -1,0 +1,30 @@
+.noticias{
+  background: var(--complemento1);
+  box-shadow: var(--shadow),
+    0 0 0 2px var(--blanco),
+    0 0 0 4px var(--complemento1);
+  padding: 1rem;
+  color: var(--blanco);
+  margin: 1.5rem 0;
+  border-radius: var(--radius);
+}
+
+.noticias h2{
+  margin-bottom: 1.5rem;
+}
+
+.noticias a{
+  text-decoration: none;
+  /* color: var(--grisFuentes); */
+  color: var(--blanco);
+}
+
+.noticias a:hover{
+  text-decoration: underline;
+  text-decoration-color: var(--principal);
+  text-decoration-thickness: 3px;
+}
+
+.noticias li{
+  margin-bottom: 1.5rem;
+}
