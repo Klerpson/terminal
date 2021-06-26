@@ -5,7 +5,7 @@ description: La terminal de transporte de Neiva es la principal empresa de trans
 category: huila
 tags: neiva
 h1: Terminal de Neiva
-img: img/terminales/neiva/terminal-transporte-neiva.webp
+img: img/terminales/huila/terminal-transporte-neiva.webp
 alt: Terminal de Transporte de Neiva Huila
 principal: true
 excerpt_separator: <!-- excerpt -->
