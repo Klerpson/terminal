@@ -45,6 +45,18 @@
   <meta name="msapplication-TileImage" content="{{ site.baseurl}}/img/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#018a31ff">
 
+  <!-- OpenGraph -->
+  <meta property="og:locale" content="es_CO"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:title" content="{%if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}"/>
+  <meta property="og:url" content="{{ page.url}}"/>
+  <meta property="og:image" content="{{ site.url}}{{ page.img}}"/>
+  <meta property="og:site_name" content="Terminal de Transporte"/>
+  <meta property="article:publisher" content="https://www.instagram.com/terminaldetransporte/"/>
+  <meta property="article:author" content="https://www.instagram.com/terminaldetransporte/"/>
+  <meta property="article:published_time" content="{{ page.date}}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description}}{% else %}{{ page.title}}{% endif %}"/>
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9E44PNRNK"></script>
 <script>
