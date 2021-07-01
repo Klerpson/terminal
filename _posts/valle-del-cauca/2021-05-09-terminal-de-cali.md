@@ -35,6 +35,7 @@ referencias:
   - Página web de la Terminal de Cali: https://www.terminalcali.com/
 noticias:
   - Desde el lunes 21 de junio, la terminal de Cali está operando en absoluta normalidad. Están saliendo los buses al todos los destinos. Hoy llegan a 16 departamentos de forma directa. Hoy están despachando cerca de 2.500 buses, con casi 15 mil usuarios:  https://www.proclamadelcauca.com/terminal-de-cali-vuelve-a-cubrir-el-100-de-sus-destinos-nacionales/
+  - Desde el jueves 1 de julio la terminal funciona sin bloqueos en Cali, y se normalizan los viajes públicos e interurbanos. Con el levantamiento de los bloqueos, que cumplieron dos meses en la ciudad de Cali y en el departamento del Valle, el transporte público e interurbano, volvió a funcionar con normalidad, saliendo de la Terminal de Transportes de Cali, alrededor de 2.500 buses diarios y acomodando a unos 18.000 pasajeros: https://www.proclamadelcauca.com/sin-bloqueos-en-cali-se-normaliza-el-transporte-publico-e-intermunicipal/
 ---
 
 La terminal de transporte de Cali es un punto vital y muy concurrido en la ciudad. Aquí se dan muchas actividades comerciales. También pasa mucho turista nacional y extranjero. Además, vienen de todo el país ciudadanos que solo están de paso hacia sus destinos en los municipios cercanos.

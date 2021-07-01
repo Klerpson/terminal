@@ -2,6 +2,16 @@
   
     {
 
+      "title"    : "Terminal de transporte de Manizales",
+      "url"      : "/terminal-de-manizales",
+      "category" : "Mira más en: Caldas",
+      "url-cat"  : "/#Caldas",
+      "tags"     : "Manizales"
+
+    } ,
+  
+    {
+
       "title"    : "Terminal de transporte de Cartagena",
       "url"      : "/terminal-de-cartagena",
       "category" : "Mira más en: Bolívar",
