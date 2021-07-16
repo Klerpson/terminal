@@ -2,7 +2,7 @@
 layout: articulo
 title: Terminal de transporte de Cali
 description: La terminal de transporte de Cali es una moderna construcción que trae miles de visitantes a diario. Aquí te damos la información que necesitas.
-category: valle
+category: valle del Cauca
 tags: cali
 h1: Terminal de Cali
 img: img/terminales/valle/terminal-transporte-cali.webp
@@ -59,6 +59,20 @@ En esta página te contamos todo lo que necesitas sobre la terminal de transport
 ## Cómo llegar a la Terminal de Transporte de Cali
 
 Sólo debes buscar la **dirección de la Terminal de Cali: Calle 30 N 2an - 29, barrio Fátima. Allí está también la oficina principal de atención al público: en el segundo piso, oficina 312**. Haz clic en los siguientes botones para tener una ruta en tu aplicación de preferencia:
+
+## Otros datos de contacto de la terminal de Cali
+
+Haz clic en cualquiera de los botones para visitar sus redes sociales o su sitio web oficial.
+
+{% include boton.html url="https://www.facebook.com/MiTerminalCali/" title="Facebook de la terminal de transporte de Cali" texto="Facebook" %}
+
+{% include boton.html url="https://www.instagram.com/miterminalcali/" title="Instagram de la terminal de transporte de Cali" texto="Instagram" %}
+
+{% include boton.html url="https://twitter.com/MiTerminalCali" title="Twitter de la terminal de transporte de Cali" texto="Twitter" %}
+
+{% include boton.html url="https://www.youtube.com/channel/UCnu6tkUT33pirHC8RgTBiOA" title="YouTube de la terminal de transporte de Cali" texto="YouTube" %}
+
+{% include boton.html url="https://terminalcali.com" title="YouTube de la terminal de transporte de Cali" texto="Página web" %}
 
 ### Ubicación del Terminal de Transporte de Cali en Google Maps y en Waze
 
@@ -365,20 +379,6 @@ A la fecha de mayo de 2021, **la Terminal de Cali moviliza diariamente más de 3
 12. **¿La terminal tiene servicio de agencias de viajes?** En el costado norte, en el primer piso, está la agencia “On Vacation”. Saliendo por el pasillo No.1, al frente de la terminal, y por los alrededores de La Terminal, específicamente por la Avenida Estación, encontrarás más agencias.
 13. **¿Hay casas de cambios de divisa en la terminal de Cali?** Está las oficinas de Giros y Finanzas agente de Western Union. La encuentras en el segundo piso al costado norte.
 14. **¿Hay WiFi libre en la Terminal?** No. Algunas empresas de transporte y locales comerciales ofrecen el servicio a sus clientes.
-
-## Datos de contacto de la terminal de Cali
-
-Haz clic en cualquiera de los botones para visitar sus redes sociales o su sitio web oficial.
-
-{% include boton.html url="https://www.facebook.com/MiTerminalCali/" title="Facebook de la terminal de transporte de Cali" texto="Facebook" %}
-
-{% include boton.html url="https://www.instagram.com/miterminalcali/" title="Instagram de la terminal de transporte de Cali" texto="Instagram" %}
-
-{% include boton.html url="https://twitter.com/MiTerminalCali" title="Twitter de la terminal de transporte de Cali" texto="Twitter" %}
-
-{% include boton.html url="https://www.youtube.com/channel/UCnu6tkUT33pirHC8RgTBiOA" title="YouTube de la terminal de transporte de Cali" texto="YouTube" %}
-
-{% include boton.html url="https://terminalcali.com" title="YouTube de la terminal de transporte de Cali" texto="Página web" %}
 
 ## Más terminales de Transporte de Colombia
 
