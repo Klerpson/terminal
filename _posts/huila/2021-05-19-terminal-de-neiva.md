@@ -42,6 +42,9 @@ En esta página te contamos todo lo que necesitas sobre la terminal de transport
 * Do not remove this line (it will not be displayed)
 {:toc}
 
+{% include img.html img="terminales/huila/terminal-de-transporte-neiva.webp" img-mini="terminales/huila/terminal-transporte-neiva.webp" alt="Terminal de transporte de Neiva" title="Terminal de Neiva" %}
+*Terminal de transporte de Neiva - Fotografía de [Google Maps](#fuentes)*
+
 ## Teléfono del terminal de Neiva
 
 El teléfono de la terminal de transporte es:
@@ -90,6 +93,9 @@ Estos son los servicios que se prestan en esta terminal:
 11. Televisión
 12. Pantalla de información de salida y llegada de vehículos
 
+{% include img.html img="terminales/huila/interior-terminal-neiva.webp" img-mini="terminales/huila/interior-terminal-neiva-huila.webp" alt="Casetas de tiquetes de la terminal de transporte de Neiva" title="Ventas de tiquetes de la terminal de Neiva" %}
+*Módulos de la terminal de Neiva - Fotografía de [Google Maps](#fuentes)*
+
 ## Comprar pasajes en la terminal de Neiva
 
 Hasta la fecha, se registran mas de 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. **Solo haz clic en el botón del teléfono de la empresa que necesitas para comprar tu pasaje o tiquete de viaje.**
@@ -121,6 +127,9 @@ Hasta la fecha, se registran mas de 23 empresas trabajando en esta terminal de t
 | **Transipiales** | {% include boton.html url="tel:+573168328825" title="Teléfono de Transipiales 1 en la terminal de Neiva" texto="316 832 8825" %} {% include boton.html url="tel:0388733444" title="Teléfono de Transipiales 2 en la terminal de Neiva" texto="0388733444" %} |
 | **Coflonorte** | {% include boton.html url="tel:0388754900" title="Teléfono de Coflonorte 1 en la terminal de Neiva" texto="0388754900" %} |
 
+{% include img.html img="terminales/huila/empresas-transporte-terminal-neiva.webp" img-mini="terminales/huila/empresas-transporte-terminal-neiva-huila.webp" alt="Buses de la terminal de transporte de Neiva" title="Buses de transporte de la terminal de Neiva" %}
+*Empresas de transporte de la terminal de Neiva - Fotografía de [Google Maps](#fuentes)*
+
 Las empresas de transporte que trabajan en la terminal de Neiva están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
 ## Módulos de la terminal de Neiva
@@ -149,9 +158,7 @@ Es el área de llegada donde descienden los pasajeros. Tiene locales comerciales
 
 ## Terminal de Neiva hoy
 
->Se están transportando a los pasajeros que cumplen alguna de las 46 excepciones del Decreto 1076 del 28 de julio de 2020. Además, se debe tener en cuenta que las terminales de Neiva y Pitalito subieron las tarifas por las circunstancias.
->La terminal de Neiva ya cumple los protocolos de bioseguridad. Próximamente los municipios reactivarán poco a poco el servicio y ampliarán los horarios de servicio.
->La situación de los bloqueos por las protestas han detenido casi en su totalidad el funcionamiento de la terminal de tranporte de Neiva.
+{% include noticias.html %}
 
 ## Rutas desde la terminal de Neiva
 
@@ -231,6 +238,9 @@ Estos son los destinos a los que puedes viajar desde la terminal de Neiva:
 * Terminal de Neiva a Terminal de Villagarzón
 * Terminal de Neiva a Terminal del Sur (Bogotá)
 * Terminal de Neiva a Terminal Salitre
+
+{% include img.html img="terminales/huila/terminal-neiva.webp" img-mini="terminales/huila/terminal-neiva-huila.webp" alt="Vista aérea de la Terminal de transporte de Neiva" title="Terminal de Neiva Huila" %}
+*Foto de la Terminal de transporte de Neiva - Fotografía de [Google Maps](#fuentes)*
 
 ## Datos e historia de la terminal de transporte de Neiva
 
