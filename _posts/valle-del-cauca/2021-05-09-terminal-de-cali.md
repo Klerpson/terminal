@@ -44,6 +44,9 @@ La terminal de transporte de Cali es un punto vital y muy concurrido en la ciuda
 
 En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Cali.
 
+{% include img.html img="terminales/valle/terminal-transporte-cali-valle.webp" img-mini="terminales/valle/terminal-transporte-cali.webp" alt="Fotografía de la terminal de transporte de Cali" title="Entrada de la terminal de Cali" %}
+*Entrada a la terminal de Cali - Fotografía de [Google Maps](#fuentes)*
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
@@ -68,6 +71,9 @@ Sólo debes buscar la **dirección de la Terminal de Cali: Calle 30 N 2an - 29, 
 ## Horarios de atención en la terminal de Cali
 
 Los horarios de atención al público en los puntos de información son **de lunes a viernes de 7:30 a.m. a 12:30 p.m. y de 1:00 a 5:00 p.m.** El horario de funcionamiento de la terminal de transporte es todos los días a partir de las 6 a.m. hasta las 12 m.
+
+{% include img.html img="terminales/valle/terminal-cali.webp" img-mini="terminales/valle/terminal-cali-valle.webp" alt="Fotografía desde el segundo piso de la terminal de transporte de Cali" title="Interior de la terminal de Cali" %}
+*Interior de la terminal de Cali - Fotografía de [Google Maps](#fuentes)*
 
 ## Comprar tiquetes de bus en terminal de Cali
 
@@ -101,6 +107,9 @@ Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empres
 | **Flota Ospina** | {% include boton.html url="tel:0323860045" title="Teléfono de Flota Ospina en la terminal de Cali" texto="0323860045" %} |
 | **Taxcentral** | {% include boton.html url="tel:0326616310" title="Teléfono de Taxcentral en la terminal de Cali" texto="0326616310" %} |
 
+{% include img.html img="terminales/valle/buses-terminal-de-cali.webp" img-mini="terminales/valle/buses-terminal-de-cali-valle.webp" alt="Fotografía de empresas de transporte que trabajan en la terminal de transporte de Cali" title="Buses de la terminal de Cali" %}
+*Empresas de transporte de la terminal de Cali - Fotografía de [Google Maps](#fuentes)*
+
 Las empresas de transporte que trabajan en la terminal de Cali están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
 Los mayoría de los vehículos tienen una capacidad de 17, 19 ,21, 23 y 25 asientos. Por norma, ningún pasajero puede ir de pie.
@@ -120,6 +129,9 @@ Los siguientes son los servicios que ofrece la terminal de transporte de Cali:
 9. También hay un módulo de Atención Inmediata de Información Turística
 10. Tiene rampas eléctricas, escaleras eléctricas y ascensores
 11. En el terminal hay personas ofreciendo servicios de lustre de botas y ventas de loterías
+
+{% include img.html img="terminales/valle/terminal-de-cali.webp" img-mini="terminales/valle/terminal-de-cali-valle.webp" alt="Fotografía de la estructura arquitectónica de la terminal de transporte de Cali" title="Arquitectura de la terminal de Cali" %}
+*Arquitectura de la terminal de Cali - Fotografía de [Google Maps](#fuentes)*
 
 ## Hoteles cerca a la terminal de Cali
 
@@ -317,6 +329,9 @@ Estos son los destinos a los que puedes viajar desde la terminal de Cali. Ten en
 * Terminal de Cali a Tuluá
 * Terminal de Cali a Valledupar
 * Terminal de Cali a Yarumal
+
+{% include img.html img="terminales/valle/letrero-terminal-de-cali.webp" img-mini="terminales/valle/letrero-terminal-de-cali-valle.webp" alt="Fotografía del letrero de la terminal de transporte de Cali" title="Letrero de la terminal de Cali" %}
+*Letrero de la terminal de Cali - Fotografía de [Google Maps](#fuentes)*
 
 ## Información de la terminal de transporte de Cali
 

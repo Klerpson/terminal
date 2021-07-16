@@ -38,6 +38,13 @@
   text-align: center;
 }
 
+.articulo picture img{
+  display: block;
+  justify-self: center;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
 .articulo li{
   margin-left: 1.5rem;
   list-style: inherit;

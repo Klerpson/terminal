@@ -9,6 +9,7 @@ layout: compress
   <!-- End Google Tag Manager (noscript) -->
   {% include nav.html %}
   {{ content }}
+  <a href="">{% include boton-up.html %}</a>
 </body>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -27,15 +28,15 @@ layout: compress
 <!-- Ads -->
 <script data-ad-client="ca-pub-3100194943394350" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
-<!-- Configuration -->
-<script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '{{site.baseurl}}/search.json'
-  })
-</script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9E44PNRNK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-Q9E44PNRNK');
+  </script>
 
 </html>
