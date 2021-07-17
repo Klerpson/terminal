@@ -37,6 +37,9 @@ La Terminal de Barranquilla es una empresa de economía mixta que ofrece el serv
 
 <!-- excerpt -->
 
+{% include img.html img="terminales/atlantico/terminal-barranquilla.webp" img-mini="terminales/atlantico/terminal-barranquilla-atlantico.webp" alt="Foto de la zona de espera de la terminal de transporte de Barranquilla" title="Terminal de Barranquilla Atlántico" %}
+*Zona de espera de la terminal de Barranquilla - Fotografía de [Google Maps](#fuentes)*
+
 Funciona desde el municipio de Soledad a 1,5 kilómetros de Barranquilla. Su ubicación es privilegiada. Está a solo 45 minutos del Centro de Eventos Puerta de Oro. También está cerca de la zona hotelera con 45 minutos.
 
 En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Barranquilla.
@@ -68,9 +71,51 @@ En esta página te contamos todo lo que necesitas sobre la terminal de transport
 
 {% include boton.html url="https://ul.waze.com/ul?place=ChIJJSPg3qPN9Y4R4pXFSCPhdGk&ll=10.88879290%2C-74.77651090&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación en waze de la terminal de Barranquilla" texto="Ubicación en Waze" %}
 
+{% include img.html img="terminales/atlantico/terminal-metropolitana-transporte-barranquilla.webp" img-mini="terminales/atlantico/terminal-metropolitana-transporte-barranquilla-atlantico.webp" alt="Letrero de la terminal de transporte de Barranquilla" title="Terminal Metropolitana de transporte de Barranquilla Atlántico" %}
+*Terminal Metropolitana de transporte de Barranquilla - Fotografía de [Google Maps](#fuentes)*
+
+## Datos de Contacto de la Terminal de Barranquilla
+
+Haz clic en el botón que más te sirva para ponerte en contacto con la terminal de trasnporte de Barranquilla.
+
+### Correo electrónico de la Terminal de Barranquilla
+
+**El correo electrónico de la terminal de transporte de Barranquilla es info@ttbaq.com.co o contacto@ttbaq.com.co**. Haz clic en el botón para escribirles un e-mail.
+
+{% include boton.html url="mailto:info@ttbaq.com.co" title="Email de la terminal de transporte de Barranquilla" texto="E-mail Info" %}
+
+{% include boton.html url="mailto:contacto@ttbaq.com.co" title="Email de la terminal de transporte de Barranquilla" texto="E-mail Contacto" %}
+
+Para enviar un radicado, tienen habilitado el correo electrónico ventanillaunicaderadicacion@ttbaq.com.co. Haz clic en el botón para escribir a este correo, si lo necesitas.
+
+{% include boton.html url="mailto:ventanillaunicaderadicacion@ttbaq.com.co" title="Email de radicados de la terminal de transporte de Barranquilla" texto="E-mail" %}
+
+Si necesitas enviar **notificaciones judiciales a la terminal de barranquilla, utiliza el correo electrónico notificacionesjudiciales@ttbaq.com.co**. En el siguiente botón puedes escribir a este e-mail.
+
+{% include boton.html url="mailto:notificacionesjudiciales@ttbaq.com.co" title="Email de radicados de la terminal de transporte de Barranquilla" texto="E-mail" %}
+
+### Facebook de la Terminal de Barranquilla
+
+**La página de Facebook de la Terminal de transporte de Barranquilla es @terminalbaq**. Haz clic en el botón para visitar su fanpage.
+
+{% include boton.html url="https://www.facebook.com/terminalbaq/" title="Facebook de la terminal de transporte de Barranquilla" texto="Facebook" %}
+
+### Instagram de la Terminal de Barranquilla
+
+**El perfil de instagram de la Terminal de transporte de Barranquilla es @terminaldetransportes**. Haz clic en el botón para visitar su perfil.
+
+{% include boton.html url="https://www.instagram.com/terminaldetransportes/?hl=es-la" title="Instagram de la terminal de transporte de Barranquilla" texto="Facebook" %}
+
+Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)
+
+Para peticiones, quejas y reclamos, [haz clic en el enlace del formulario](#fuentes) al final de este artículo.
+
 ## Compra tus pasajes en la Terminal de Barranquilla
 
 La terminal de transporte de Barranquilla atiende más de 60 destinos nacionales. En ella funcionan alrededor de 17 empresas transportadoras de carga y de transporte de pasajeros, con un flujo de 4000 buses diarios aproximadamente.
+
+{% include img.html img="terminales/atlantico/buses-terminal-barranquilla.webp" img-mini="terminales/atlantico/buses-terminal-barranquilla-atlantico.webp" alt="Buses de la terminal de transporte de Barranquilla" title="Empresas transportadores de la Terminal Metropolitana de transporte de Barranquilla" %}
+*Empresas de transporte de la Terminal de Barranquilla - Fotografía de [Google Maps](#fuentes)*
 
 **Solo haz clic en el botón del teléfono de la empresa que necesitas para comprar tu pasaje o tiquete de viaje.**
 
@@ -116,41 +161,8 @@ La terminal de Transporte de Barranquilla te ofrece los siguientes servicios:
 * **Sala VIP**
 * **Capilla católica**
 
-### Datos de Contacto de la Terminal de Barranquilla
-
-Haz clic en el botón que más te sirva para ponerte en contacto con la terminal de trasnporte de Barranquilla.
-
-#### Correo electrónico de la Terminal de Barranquilla
-
-**El correo electrónico de la terminal de transporte de Barranquilla es info@ttbaq.com.co o contacto@ttbaq.com.co**. Haz clic en el botón para escribirles un e-mail.
-
-{% include boton.html url="mailto:info@ttbaq.com.co" title="Email de la terminal de transporte de Barranquilla" texto="E-mail Info" %}
-
-{% include boton.html url="mailto:contacto@ttbaq.com.co" title="Email de la terminal de transporte de Barranquilla" texto="E-mail Contacto" %}
-
-Para enviar un radicado, tienen habilitado el correo electrónico ventanillaunicaderadicacion@ttbaq.com.co. Haz clic en el botón para escribir a este correo, si lo necesitas.
-
-{% include boton.html url="mailto:ventanillaunicaderadicacion@ttbaq.com.co" title="Email de radicados de la terminal de transporte de Barranquilla" texto="E-mail" %}
-
-Si necesitas enviar **notificaciones judiciales a la terminal de barranquilla, utiliza el correo electrónico notificacionesjudiciales@ttbaq.com.co**. En el siguiente botón puedes escribir a este e-mail.
-
-{% include boton.html url="mailto:notificacionesjudiciales@ttbaq.com.co" title="Email de radicados de la terminal de transporte de Barranquilla" texto="E-mail" %}
-
-#### Facebook de la Terminal de Barranquilla
-
-**La página de Facebook de la Terminal de transporte de Barranquilla es @terminalbaq**. Haz clic en el botón para visitar su fanpage.
-
-{% include boton.html url="https://www.facebook.com/terminalbaq/" title="Facebook de la terminal de transporte de Barranquilla" texto="Facebook" %}
-
-#### Instagram de la Terminal de Barranquilla
-
-**El perfil de instagram de la Terminal de transporte de Barranquilla es @terminaldetransportes**. Haz clic en el botón para visitar su perfil.
-
-{% include boton.html url="https://www.instagram.com/terminaldetransportes/?hl=es-la" title="Instagram de la terminal de transporte de Barranquilla" texto="Facebook" %}
-
-Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)
-
-Para peticiones, quejas y reclamos, [haz clic en el enlace del formulario](#fuentes) al final de este artículo.
+{% include img.html img="terminales/atlantico/taxis-terminal-barranquilla.webp" img-mini="terminales/atlantico/taxis-terminal-barranquilla-atlantico.webp" alt="Foto de la zona de taxis de la terminal de transporte de Barranquilla" title="Llegada de taxis en la terminal de transporte de Barranquilla" %}
+*Zona de taxis de la terminal de Barranquilla - Fotografía de [Google Maps](#fuentes)*
 
 ## Destinos desde la Terminal de Barranquilla
 

@@ -39,6 +39,9 @@ La terminal de transporte de Manizales es una solución a la necesidad de transp
 
 Está ubicada al sur de Manizales. Las avenidas importantes importantes de la ciudad llegan hasta aquí. También se puede llegar por el Cable aéreo de Manizales. En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Manizales para planear tu próximo viaje.
 
+{% include img.html img="terminales/caldas/terminal-manizales.webp" img-mini="terminales/caldas/terminal-manizales-caldas.webp" alt="Terminal de transporte de Manizales" title="Terminal de Manizales" %}
+*Terminal de transporte de Manizales - Fotografía de [Google Maps](#fuentes)*
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
@@ -89,6 +92,9 @@ Para ver las políticas legales de la terminal de transporte, puede consultar su
 ## Compra tus pasajes en la Terminal de Manizales
 
 La terminal de transporte de Manizales atiende más de 40 destinos nacionales. En ella funcionan alrededor de 30 empresas transportadoras de carga y de transporte de pasajeros, con un flujo de 2600 buses diarios aproximadamente.
+
+{% include img.html img="terminales/caldas/buses-terminal-manizales.webp" img-mini="terminales/caldas/buses-terminal-manizales-caldas.webp" alt="Buses de la Terminal de transporte de Manizales" title="Buses de la Terminal de Manizales" %}
+*Buses de la Terminal de transporte de Manizales - Fotografía de [Google Maps](#fuentes)*
 
 **Solo haz clic en el botón del teléfono de la empresa de buses de la terminal de Manizales que necesitas para comprar tu pasaje o tiquete de viaje.**
 
@@ -151,6 +157,9 @@ La terminal de Transporte de Manizales te ofrece los siguientes servicios:
 * **Cómodas salas de espera**: Salas con mueblería y equipos adecuados para hacer más amena la espera de la salida del vehículo de transporte, incluyendo la temperatura con aire acondicionado.
 * **Abordaje de taxis y autobuses**: Usa este servicio con la garantía de la seguridad que te ofrece la terminal.
 * **Parqueaderos públicos y privados**: Sujeto a disponibilidad.
+
+{% include img.html img="terminales/caldas/zona-espera-terminal-manizales.webp" img-mini="terminales/caldas/zona-espera-terminal-manizales-caldas.webp" alt="Zona de espera de la terminal de transporte de Manizales" title="Zona de espera de la Terminal de Manizales" %}
+*Zona de espera de la terminal de transporte de Manizales - Fotografía de [Google Maps](#fuentes)*
 
 Recuerda que al utilizar las instalaciones de la terminal de transporte de Manizales no puedes descuidar tus objetos personales. Vigila tus niños pequeños y mascotas. No aceptes ayuda de extraños o de personas ajenas a la Terminal de Transporte.
 
@@ -229,39 +238,26 @@ Las rutas que administra la terminal de Manizales con las empresas de transporte
 
 ## Transporte público hasta la Terminal de Manizales
 
-Puedes tomar cualquier bus que vaya por la carrera 43 o uno que vaya por la calle 65 rumbo al sector Los Cambulos.
+Para llegar a la terminal de Manizales usando transporte público, puedes tomar cualquier bus que vaya por la carrera 43 o uno que vaya por la calle 65 rumbo al sector Los Cambulos.
 
 ## Preguntas frecuentes sobre la Terminal de Manizales
 
-1. **¿Qué empresas de buses viajan de Cartagena a Venezuela?** Lo hacen las empresas Expresos Amerlujo y Expreso Brasilia.
+1. **¿En la terminal de Manizales puedo pagar mi pasaje con tarjetas de crédito o débito?** Sí, ya son varias las empresas que reciben este método de pago. Si la empresa que piensas utilizar no lo recibe, recuerda que puedes usar los cajeros electrónicos de la terminal.
 
-2. **¿En la terminal de Cartagena puedo pagar mi pasaje con tarjetas de crédito o débito?** Sí, ya son varias las empresas que reciben este método de pago. Si la empresa que piensas utilizar no lo recibe, recuerda que puedes usar los cajeros electrónicos de la terminal.
+2. **¿Puedo viajar con mi mascota?** Cada empresa transportadora tiene sus propias normas. Debes asegurarte. Normalmente, te van a exigir un guacal apropiado para la seguridad de tu mascota y la tranquilidad de los pasajeros.
 
-¿Qué requisitos tienen para las mascotas?
-Lo primero es que consultes con la línea que deseas viajar si permite llevar mascotas. En General, las que lo hacen, exigen que las lleves en Guacal. Lo mismo se solicita por parte de la terminal para evitar que los animales sean lastimados o molesten a otras personas.
-¿Todas las empresas de transporte aceptan pago de pasajes con tarjetas?
-Muchas de las principales sí, pero en caso de que viajes con una que no lo haga, no debes preocuparte, en la terminal hay cajeros automáticos que te permitirán hacer retiros en efectivo.
-¿Es segura la terminal de Manizales?
-Sí, además dispone de vigilancia de la policía a toda hora. s conveniente de todas maneras que tomes ciertas precauciones, como no recibir bebidas ni alimentos de personas desconocidas, vigilar constantemente tu equipaje y no dejar a los niños solos en ningún momento.
-¿Cómo puedo expresar mis PQRS?
-La Página de la Terminal de Manizales cuenta con un formulario para este propósito. Puedes acceder en este enlace.
-¿Es seguro viajar por Bus en Colombia?
-Como todos los países en el mundo siempre existe un riesgo al viajar. Colombia es un país seguro para viajar, claro siempre hay lugares que es mejor evitar pero en general los viajes en bus son muy seguros.
-Lo anterior lo complementamos sugiriendo que siempre tomes precauciones como tener tu equipaje a la vista, mantén documentos y objetos de valor guardados en tu equipaje de mano, de ser posible mantente en comunicación con familiares y amigos para que sepan el estado de tu viaje y utiliza siempre taxis de sitios seguros.
-¿Qué formas de contacto tiene la Terminal de Manizales?
-Además de los números telefónicos mencionados también puedes escribir a serviciosadministrativos@terminaldemanizales.com.co para preguntas generales acerca de la terminal.
+3. **¿Cómo puedo contactarme con la Terminal de Manizales?** Al comienzo de este artículo tienes muchas opciones para contactarte con la terminal de Manizales.
+
+{% include img.html img="terminales/caldas/terminal-de-transporte-manizales.webp" img-mini="terminales/caldas/terminal-de-transporte-manizales-caldas.webp" alt="Atardecer en la Terminal de transporte de Manizales" title="Atardecer de la Terminal de Manizales" %}
+*Atardecer en la Terminal de transporte de Manizales - Fotografía de [Google Maps](#fuentes)*
 
 ## Historia de la Terminal de Transporte de Manizales
 
-La antigua terminal de transportes, se encontraba ubicada en el sector de los Agustinos, cerca al centro de la ciudad, fue inaugurada el 25 de mayo de 1988, iniciando operaciones el 28 de junio del mismo año, el crecimiento de la ciudad trajo consigo el incremento de visitantes a a misma, la capacidad instalada, no correspondía a la demanda en acceso de pasajeros y vehículos, por lo que se requería un Terminal con otro diseño, más amplio, con mayores y mejores vías de acceso, con una distribución funcional más organizada, por lo que se planteó construir un nuevo terminal de transportes que finalmente seria inaugurado en el 2009, cesando operaciones el antiguo terminal.2​
+La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 1988. Posteriormente, ante la creciente demanda en acceso de pasajeros y vehículos, se hizo un diseño más amplio, con mejores vías de acceso, y con una mejor distribución de todos las zonas. Por esta razón, se construyo la nueva terminal y se inauguró en el 2009.​
 
-Nuevo Terminal de Transportes
-Las nuevas instalaciones del terminal de transportes fueron inauguradas en el 2009, luego de dos años de construcción y una inversión cercana a los 20 mil millones de pesos, ubicada sobre la Ruta Nacional 50 o denominada en la ciudad Avenida Panamericana. 3​4​
+**La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos**. En la actualidad operca con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes.
 
-La Terminal de Transportes de Manizales, también conocida como estación Los Cámbulos, fue fundada en el año 1988, siendo renovada en el año 2009 en respuesta a la creciente demanda y afluencia de pasajeros en sus instalaciones debido al crecimiento económico de la zona. Actualmente  cuenta con más de 30 empresas operando en sus instalaciones que ofrecen pasajes a más de 300.000 pasajeros cada mes.
-Es un lugar de encuentro entre pasajeros y comercio, lo que lo convierte en uno de los puntos más importantes y concurridos de la ciudad. Su particularidad e importancia no solo radica en las actividades comerciales que se realizan tanto en su interior como en sus alrededores, sino que también es un punto esencial para las actividades económicas que toman lugar en la ciudad de Manizales.
-Las principales empresas que operan en la Terminal de Manizales son Copetran, Expreso Brasilia, Expreso Bolivariano, Expreso Palmira,  Empresa Arauca, Rápido Tolima y Flota Occidental, entre otras.
-Revisa aquí los principales destinos que se ofrecen en la Terminal de Manizales. Más rutas y horarios puedes revisar en la sección respectiva de su página web.
+Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en la ciudad de Manizales, con la prestación del servicio de su auditorio.
 
 ## Más terminales de Transporte de Colombia
 
