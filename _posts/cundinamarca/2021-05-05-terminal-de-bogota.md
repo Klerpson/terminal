@@ -46,6 +46,9 @@ Debido a la cantidad de personas que utilizan esta la terminal de Bogotá, esta 
 
 En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Bogotá.
 
+{% include img.html img="terminales/cundinamarca/terminal-salitre-bogota.webp" img-mini="terminales/cundinamarca/terminal-salitre-bogota-cundinamarca.webp" alt="Terminal de transporte Salitre de Bogotá" title="Terminal Salitre de Bogotá" %}
+*Terminal Salitre de Bogotá - Fotografía de [Google Maps](#fuentes)*
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
