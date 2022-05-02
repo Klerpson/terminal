@@ -2,8 +2,8 @@
 layout: articulo
 title: Terminal de transporte de Cali
 description: La terminal de transporte de Cali es una moderna construcción que trae miles de visitantes a diario. Aquí te damos la información que necesitas.
-category: valle del Cauca
-tags: cali
+category: valle
+tags: terminal
 h1: Terminal de Cali
 img: img/terminales/valle/terminal-transporte-cali.webp
 alt: Terminal de Transporte de Cali
@@ -379,11 +379,5 @@ A la fecha de mayo de 2021, **la Terminal de Cali moviliza diariamente más de 3
 12. **¿La terminal tiene servicio de agencias de viajes?** En el costado norte, en el primer piso, está la agencia “On Vacation”. Saliendo por el pasillo No.1, al frente de la terminal, y por los alrededores de La Terminal, específicamente por la Avenida Estación, encontrarás más agencias.
 13. **¿Hay casas de cambios de divisa en la terminal de Cali?** Está las oficinas de Giros y Finanzas agente de Western Union. La encuentras en el segundo piso al costado norte.
 14. **¿Hay WiFi libre en la Terminal?** No. Algunas empresas de transporte y locales comerciales ofrecen el servicio a sus clientes.
-
-## Más terminales de Transporte de Colombia
-
-{% include relacionados.html link="terminal-de-neiva" titlelink="Artículo de la terminal de transporte de Neiva" img="img/terminales/huila/terminal-transporte-neiva.webp" alt="Terminal de Transporte de Neiva" title="Foto del terminal de Neiva" h4="Terminal de Neiva" %}
-
-{% include relacionados.html link="terminal-de-bogota" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
 
 Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)

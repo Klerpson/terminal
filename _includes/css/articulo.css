@@ -1,106 +1,96 @@
 /* // Adding 'Contents' headline to the TOC */
 
 #markdown-toc {
-  border: 1px solid var(--complemento1);
+  width: 100%;
+  border: 2px solid var(--principal);
   border-radius: var(--radius );
-  padding: 0.7rem;
-  margin: 1rem 0;
+  box-shadow: var(--shadow);
+  padding: 0.7rem 1rem;
   list-style: decimal;
   display: inline-block;
 }
 
 #markdown-toc::before {
-  content: "Contenido:";
+  content: "Sobre esta terminal";
+  text-transform: capitalize;
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: var(--sizeH3);
   line-height: 3;
 }
 
 #markdown-toc li {
-  list-style: circle;
-  margin-bottom: 1.5rem;
-  font-weight: 700;
+  list-style-type: none;
+  list-style-position: inherit;
+  margin-bottom: 0.5rem;
 }
 
 #markdown-toc li a{
-  text-decoration: underline;
-  text-decoration-thickness: 3px;
-  text-decoration-color: var(--principal);
+  text-decoration: none;
   color: var(--secundario);
 }
 
 .articulo{
+  position: relative;
   display: grid;
-  grid-gap: 1.5rem;
+  gap: 3rem;
+  align-items: flex-start;
 }
 
-.articulo h2{
+.articulo article {
+  display: grid;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.articulo article h2{
   text-align: center;
+  text-transform: capitalize;
 }
 
-.articulo picture img{
+.articulo article img{
   display: block;
-  justify-self: center;
+  float: left;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
+  margin: 0 1.5rem 1rem 0;
 }
 
-.articulo li{
-  margin-left: 1.5rem;
-  list-style: inherit;
-}
-
-.articulo p a:not(.boton),
-.referencias li a{
+.articulo article em{
   display: inline-block;
-  color: var(--secundario);
-  text-decoration: underline;
-  text-decoration-color: var(--principal);
-  text-decoration-thickness: 3px;
+  width: 100%;
 }
 
-.articulo table tr th{
-  text-transform: uppercase;
-  font-family: var(--fuenteTitulos);
+.articulo article li{
+  list-style: inherit;
+  list-style: inside;
 }
 
-.articulo table tr td{
-  border: 1px solid var(--complemento1);
-  padding: 0.5rem;
-}
-
-.articulo table tr td a{
-  display: block;
-  margin: 0.5rem auto;
-  font-size: 0.9rem;
-}
-
-.boton {
-  width: fit-content;
-  transition: all .2s ease-in-out;
-  background: var(--secundario);
+.articulo article iframe{
+  box-shadow: var(--shadow);
   border-radius: var(--radius);
-  text-align: center;
-  text-decoration: none;
-  color: var(--blanco);
-  padding: 0.5rem 0.7rem;
-  box-shadow: var(--shadow),
-    0 0 0 1px var(--blanco),
-    0 0 0 2px var(--secundario);
 }
 
-.boton:hover {
-  transform: scale(1.1);
+.articulo article a{
+  color: var(--accion);
 }
 
-.relacionados{
-  position: relative;
-}
-
-.relacionados div{
-  width: 320px;
+.relacionados {
+  display: grid;
+  gap: 2rem;
 }
 
 .relacionados a{
   display: block;
+  width: 300px;
+  text-decoration: none;
+  color: var(--secundario);
+}
+
+.relacionados a div img{
+  display: inline-block;
+  position: relative;
+  float: none;
+  max-width: 300px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }

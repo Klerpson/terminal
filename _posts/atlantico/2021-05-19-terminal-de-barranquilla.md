@@ -2,8 +2,8 @@
 layout: articulo
 title: Terminal de transporte de Barranquilla
 description: La terminal de transporte de Barranquilla presta el servicio de Terminal a las empresas de transporte terrestre automotor del Atlántico y Colombia
-category: atlantico
-tags: barranquilla
+category: atlántico
+tags: terminal
 h1: Terminal de Barranquilla
 img: img/terminales/atlantico/terminal-transporte-barranquilla.webp
 alt: Terminal de Transporte de Barranquilla
@@ -342,9 +342,3 @@ La terminal de Transporte de Barranquilla te ofrece los siguientes servicios:
 **En el año 1991 comenzó a funcionar la terminal de Barranquilla**. Se conoce también como la Terminal Metropolitana de Transportes de Barranquilla.
 
 Por este terminal estratégico pasan constantemente alrededor de 2000 personas diariamente hacia otros destinos del país y hasta la localidad.
-
-## Más terminales de Transporte de Colombia
-
-{% include relacionados.html link="terminal-de-cali" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
-
-{% include relacionados.html link="terminal-de-bogota" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}

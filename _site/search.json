@@ -6,7 +6,7 @@
       "url"      : "/terminal-de-manizales",
       "category" : "Mira más en: Caldas",
       "url-cat"  : "/#Caldas",
-      "tags"     : "Manizales"
+      "tags"     : "terminal"
 
     } ,
   
@@ -14,19 +14,19 @@
 
       "title"    : "Terminal de transporte de Cartagena",
       "url"      : "/terminal-de-cartagena",
-      "category" : "Mira más en: Bolívar",
-      "url-cat"  : "/#Bolívar",
-      "tags"     : "Cartagena"
+      "category" : "Mira más en: Bolivar",
+      "url-cat"  : "/#Bolivar",
+      "tags"     : "terminal"
 
     } ,
   
     {
 
-      "title"    : "Terminales de transporte de Medellín",
+      "title"    : "Terminal del norte y del sur de Medellín",
       "url"      : "/terminal-de-medellin",
       "category" : "Mira más en: Antioquia",
       "url-cat"  : "/#antioquia",
-      "tags"     : "medellin"
+      "tags"     : "terminal"
 
     } ,
   
@@ -36,7 +36,7 @@
       "url"      : "/terminal-de-neiva",
       "category" : "Mira más en: Huila",
       "url-cat"  : "/#huila",
-      "tags"     : "neiva"
+      "tags"     : "terminal"
 
     } ,
   
@@ -44,9 +44,9 @@
 
       "title"    : "Terminal de transporte de Barranquilla",
       "url"      : "/terminal-de-barranquilla",
-      "category" : "Mira más en: Atlantico",
-      "url-cat"  : "/#atlantico",
-      "tags"     : "barranquilla"
+      "category" : "Mira más en: Atlántico",
+      "url-cat"  : "/#atlántico",
+      "tags"     : "terminal"
 
     } ,
   
@@ -54,9 +54,9 @@
 
       "title"    : "Terminal de transporte de Cali",
       "url"      : "/terminal-de-cali",
-      "category" : "Mira más en: Valle del cauca",
-      "url-cat"  : "/#valle del Cauca",
-      "tags"     : "cali"
+      "category" : "Mira más en: Valle",
+      "url-cat"  : "/#valle",
+      "tags"     : "terminal"
 
     } ,
   
@@ -66,7 +66,7 @@
       "url"      : "/terminal-de-bogota",
       "category" : "Mira más en: Cundinamarca",
       "url-cat"  : "/#cundinamarca",
-      "tags"     : "bogota"
+      "tags"     : "terminal"
 
     } 
   

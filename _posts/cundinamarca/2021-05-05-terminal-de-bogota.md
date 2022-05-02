@@ -3,7 +3,7 @@ layout: articulo
 title: Terminales de transporte de Bogotá
 description: La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad
 category: cundinamarca
-tags: bogota
+tags: terminal
 h1: Terminal Salitre, terminal del Sur y terminal del Norte de Bogotá
 img: img/terminales/cundinamarca/terminal-transporte-bogota-cundinamarca.webp
 alt: Terminal de Transporte de Bogotá
@@ -40,14 +40,14 @@ referencias:
 
 Debido a la cantidad de personas que utilizan esta la terminal de Bogotá, esta se multiplicó a 3 sedes:
 
+![Terminal de transporte Salitre de Bogotá]({{site.baseurl}}/img/terminales/cundinamarca/terminal-salitre-bogota-cundinamarca.webp "Terminal Salitre de Bogotá")
+*Terminal Salitre de Bogotá - Fotografía de [Google Maps](#fuentes)*
+
 1. Terminal Salitre
 2. Terminal del Sur de Bogotá
 3. Terminal del Norte de Bogotá
 
 En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Bogotá.
-
-{% include img.html img="terminales/cundinamarca/terminal-salitre-bogota.webp" img-mini="terminales/cundinamarca/terminal-salitre-bogota-cundinamarca.webp" alt="Terminal de transporte Salitre de Bogotá" title="Terminal Salitre de Bogotá" %}
-*Terminal Salitre de Bogotá - Fotografía de [Google Maps](#fuentes)*
 
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -796,13 +796,5 @@ Haz clic en el botón que más te sirva para ponerte en contacto con la terminal
 #### Twitter de la Terminal de Bogotá
 
 {% include boton.html url="https://twitter.com/terminalBogota" title="Twitter de la terminal de transporte de Bogotá" texto="Twitter" %}
-
-## Más terminales de Transporte de Colombia
-
-{% include relacionados.html link="terminal-de-cali" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
-
-{% include relacionados.html link="terminal-de-neiva" titlelink="Artículo de la terminal de transporte de Neiva" img="img/terminales/neiva/terminal-transporte-neiva.webp" alt="Terminal de Transporte de Neiva" title="Foto del terminal de Neiva" h4="Terminal de Neiva" %}
-
-{% include relacionados.html link="terminal-de-barranquilla" titlelink="Artículo de la terminal de transporte de Barranquilla" img="img/terminales/atlantico/terminal-transporte-barranquilla.webp" alt="Terminal de Transporte de Barranquilla" title="Foto del terminal de Barranquilla" h4="Terminal de Barranquilla" %}
 
 Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)

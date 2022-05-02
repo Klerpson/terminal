@@ -1,72 +1,75 @@
 .categorias {
-  display: grid;
-  grid-gap: 1.5rem;
-}
-
-.categorias h3 {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  align-items: center;
 }
 
 .categorias div {
-  margin: 0;
-  display: grid;
-  grid-gap: 1.5rem;
-  grid-template-columns: repeat(auto-fit, minmax(auto, 150px));
-  place-content: center;
+  width: min(100%, 800px);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
 }
 
-.terminales-intro{
-  display: grid;
-  grid-gap: 1.5rem;
-  place-content: center;
+.categorias div a {
+  text-transform: capitalize;
+  width: min(40%, 180px);
 }
 
-.terminales-section{
+.terminales-intro {
+  display: grid;
+  gap: 3rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.terminales-section {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 3rem;
   align-content: center;
   justify-items: center;
 }
 
-.terminales-section article div{
+.terminales-section article div {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.terminales-section article h3{
+.terminales-section article h3 {
   text-transform: uppercase;
 }
 
-.terminales-section article a{
+.terminales-section article a {
   position: relative;
   display: inline-block;
-  margin-bottom: 1.5rem;
   width: 300px;
 }
 
-.terminales-section article img,
-.relacionados a img{
+.terminales-section article img {
   max-width: 100%;
   display: inline-block;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
 
-.terminales-section article h4,
-.relacionados div h4{
-position: absolute;
-bottom: 0.4rem;
-right: 0;
-display: block;
-width: 100%;
-padding: 0.5rem 0.7rem;
-background-color: rgba(255, 254, 246, 0.7);
-color: var(--accion);
-text-decoration: none;
-font-weight: 700;
-border-radius: 0 0 var(--radius) var(--radius);
-overflow: hidden;
-font-size: 1rem;
+.terminales-section article h4 {
+  position: absolute;
+  bottom: .4rem;
+  right: 0;
+  display: block;
+  width: 100%;
+  padding: .5rem .7rem;
+  background-color: rgba(255, 254, 246, .7);
+  color: var(--accion);
+  text-decoration: none;
+  font-weight: 700;
+  border-radius: 0 0 var(--radius) var(--radius);
+  overflow: hidden;
+  font-size: 1rem;
 }

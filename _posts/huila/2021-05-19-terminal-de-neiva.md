@@ -3,7 +3,7 @@ layout: articulo
 title: Terminal de transporte de Neiva
 description: La terminal de transporte de Neiva es la principal empresa de transporte terrestre del departamento del Huila hacia los demás destinos de Colombia
 category: huila
-tags: neiva
+tags: terminal
 h1: Terminal de Neiva
 img: img/terminales/huila/terminal-transporte-neiva.webp
 alt: Terminal de Transporte de Neiva Huila
@@ -258,11 +258,5 @@ Legalmente, queda constituida de la siguiente manera:
 * Razón Social: Terminal de transporte de Neiva S.A.
 * Actividad: Actividades de estaciones, vías y servicios complementarios para el transporte terrestre
 * NIT: 8911028243
-
-## Más terminales de Transporte de Colombia
-
-{% include relacionados.html link="terminal-de-cali" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
-
-{% include relacionados.html link="terminal-de-bogota" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
 
 Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)

@@ -3,7 +3,7 @@ layout: articulo
 title: Terminal de transporte de Manizales
 description: La terminal de transporte de Manizales es una solución a la necesidad de transporte urbano, intermunicipal, interdepartamental y veredal.
 category: Caldas
-tags: Manizales
+tags: terminal
 h1: La Terminal de Manizales
 img: img/terminales/caldas/terminal-transporte-manizales.webp
 alt: Terminal de Transporte de Manizales
@@ -258,11 +258,3 @@ La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 198
 **La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos**. En la actualidad operca con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes.
 
 Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en la ciudad de Manizales, con la prestación del servicio de su auditorio.
-
-## Más terminales de Transporte de Colombia
-
-{% include relacionados.html link="terminal-de-cali" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
-
-{% include relacionados.html link="terminal-de-bogota" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
-
-{% include relacionados.html link="terminal-de-medellin" titlelink="Artículo de la terminal de transporte de Medellín" img="img/terminales/antioquia/terminal-transporte-medellin.webp" alt="Terminal de Transporte de Medellín" title="Foto del terminal de Medellín" h4="Terminal de Medellín" %}

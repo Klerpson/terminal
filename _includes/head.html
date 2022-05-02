@@ -11,7 +11,64 @@
   <!-- Codigo json para google en los articulos -->
   {% if page.json %}
   <script type="application/ld+json">
-    {{ page.json }}
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{page.ciudad}}",
+        "addressRegion": "{{page.depto}}",
+        "postalCode": "{{page.postal}}",
+        "streetAddress": "{{page.direccion}}"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{page.calificacion}}",
+        "reviewCount": "{{page.reviews}}"
+      },
+      "description": "{{page.description}}",
+      "name": "{{page.title}}",
+      "telephone": "{{page.telefono}}"
+    },
+    {
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{page.url}}"
+      },
+      "headline": "{{page.h1}}",
+      "description": "{{page.description}}",
+      "image": "{{page.img}}",
+      "author": {
+        "@type": "Person",
+        "name": "Julian Franco",
+        "url": "https://terminaldetransporte.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Terminal de Transporte",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{https://terminaldetransporte.com/img/logo-terminal-de-transporte-200px.svg}}"
+        }
+      },
+      "datePublished": "{{page.date}}",
+      "dateModified": "{{page.date}}",
+      {
+        "@context": "https://schema.org",
+        "@type": "BusStop",
+        "name": "{{page.h1}}",
+        "openingHours": "Mo-Su",
+        "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "CO",
+        "addressLocality": "{{page.ciudad}}",
+        "addressRegion": "{{page.depto}}"
+        },
+        "latitude": {{page.latitude}},
+        "longitude": {{page.longitude}}
+    }
+    }
   </script>
   {% endif %}
   <title>{{ page.title}}</title>

@@ -2,8 +2,8 @@
 layout: articulo
 title: Terminal de transporte de Cartagena
 description: La Terminal de Cartagena controla el transporte intermunicipal de la ciudad. La encuentras en un sector de Cartagena conocido como Doña Manuela
-category: Bolívar
-tags: Cartagena
+category: Bolivar
+tags: terminal
 h1: La Terminal de Cartagena
 img: img/terminales/bolivar/terminal-transporte-cartagena.webp
 alt: Terminal de Transporte de Cartagena
@@ -301,11 +301,3 @@ También, puedes tomar los siguientes **buses: A114, A117, R26, R2B, R29B, R30B,
 Desde el año 1982 comenzó este importante proyecto. Para el año 1994 se termíno este important punto de Cartagena. Está ubicado en un sector conocido como Doña Manuela de Cartagena.
 
 Un dato bien importante es que **la Terminal de Transporte de Cartagena tiene certificación de calidad ISO 9001 desde el año 2011**.
-
-## Más terminales de Transporte de Colombia
-
-{% include relacionados.html link="terminal-de-cali" titlelink="Artículo de la terminal de transporte de Cali" img="img/terminales/valle/terminal-transporte-cali.webp" alt="Terminal de Transporte de Cali" title="Foto del terminal de Cali" h4="Terminal de Cali" %}
-
-{% include relacionados.html link="terminal-de-bogota" titlelink="Artículo de la terminal de transporte de Bogotá" img="img/terminales/cundinamarca/terminal-transporte-bogota.webp" alt="Terminal de Transporte de Bogotá" title="Foto del terminal de Bogotá" h4="Terminal de Bogotá" %}
-
-{% include relacionados.html link="terminal-de-barranquilla" titlelink="Artículo de la terminal de transporte de Barranquilla" img="img/terminales/atlantico/terminal-transporte-barranquilla.webp" alt="Terminal de Transporte de Barranquilla" title="Foto del terminal de Barranquilla" h4="Terminal de Barranquilla" %}
