@@ -1,4 +1,11 @@
-@media screen and (min-width:767px) {
+@media screen and (min-width:600px) {
+  .articulo article img{
+    display: block;
+    float: left;
+    margin: 0 1.5rem 1rem 0;
+  }
+}
+  @media screen and (min-width:767px) {
   nav {
     grid-template-columns: 3fr 1fr;
     justify-content: space-between;

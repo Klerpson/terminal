@@ -49,10 +49,9 @@
 
 .articulo article img{
   display: block;
-  float: left;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  margin: 0 1.5rem 1rem 0;
+  margin: 2rem auto;
 }
 
 .articulo article em{
@@ -68,10 +67,12 @@
 .articulo article iframe{
   box-shadow: var(--shadow);
   border-radius: var(--radius);
+  max-width: 100%;
 }
 
 .articulo article a{
   color: var(--accion);
+  text-decoration-thickness: 3px;
 }
 
 .relacionados {
@@ -93,4 +94,20 @@
   max-width: 300px;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
+}
+
+.referencias{
+  width: min(90vw, 720px);
+  margin: 0 auto;
+  display: grid;
+  gap: 1rem;
+}
+
+.referencias li{
+  list-style: disc;
+  list-style-position: inside;
+}
+
+.referencias a{
+  color: var(--accion);
 }

@@ -40,9 +40,9 @@ layout: default
     {% endfor %}
   </aside>
 </main>
-<section>
+<section class="referencias">
   <h4 id="fuentes">Créditos y referencias</h4>
-  <div class="referencias">
+  <div>
     {% for link_hash in page.referencias %}
     {% for link in link_hash %}
     <ul>
@@ -54,7 +54,6 @@ layout: default
     {% endfor %}
   </div>
 </section>
-
 
 {% include comentarios.html %}
 {% include footer.html %}

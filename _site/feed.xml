@@ -4,7 +4,7 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-05-02T15:18:17-05:00</updated>
+     <updated>2022-05-02T22:58:41-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
@@ -37,7 +37,7 @@
    <link href="http://localhost:4000/terminal-de-medellin"/>
    <id>http://localhost:4000/terminal-de-medellin</id>
    <updated>2021-06-17T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Las terminales de Medellín se divide en 2&lt;/strong&gt; terminales de transporte. La primera comenzó en el norte de la ciudad, conocida como &lt;strong&gt;Mariano Ospina Pérez o terminal del Norte&lt;/strong&gt;. Pero en poco tiempo se el volumen de viajeros superó su capacidad. Entonces, nace la segunda terminal de transporte al sur...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Las terminales de Medellín se dividen en 2 terminales de transporte&lt;/strong&gt;. La primera comenzó en el norte de la ciudad, conocida como &lt;strong&gt;Mariano Ospina Pérez o terminal del Norte&lt;/strong&gt;. Pero en poco tiempo se el volumen de viajeros superó su capacidad. Entonces, nace la segunda terminal de transporte al sur...</content>
  </entry>
  
  <entry>
