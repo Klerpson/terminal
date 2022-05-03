@@ -16,7 +16,7 @@ direccion: Carrera 64C No. 78 – 580
 calificacion: 4.4
 reviews: 2503
 telefono: 604-444-8020
-latitude: 6.2165971,
+latitude: 6.2165971
 longitude: -75.5908489
 referencias:
   - Fotografías de la Terminal de Transporte de Medellín en Google Maps: https://www.google.com/maps/place/Terminales+Medell%C3%ADn+-+Norte/@6.279879,-75.571231,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPbiI0rnt9mMavK-JwxCVV0bSd_3svI6TUSj-XN!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPbiI0rnt9mMavK-JwxCVV0bSd_3svI6TUSj-XN%3Dw529-h298-k-no!7i1920!8i1080!4m11!1m2!2m1!1sterminal+norte+medellin!3m7!1s0x8e4428d778c62ff7:0x14b3b886bb9997e3!8m2!3d6.279879!4d-75.571231!14m1!1BCgIgAQ!15sChd0ZXJtaW5hbCBub3J0ZSBtZWRlbGxpbpIBFnRyYW5zcG9ydGF0aW9uX3NlcnZpY2U

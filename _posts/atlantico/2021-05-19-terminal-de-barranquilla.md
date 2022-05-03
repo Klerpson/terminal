@@ -7,27 +7,17 @@ tags: terminal
 h1: Terminal de Barranquilla
 img: img/terminales/atlantico/terminal-transporte-barranquilla.webp
 alt: Terminal de Transporte de Barranquilla
-principal: true
 excerpt_separator: <!-- excerpt -->
-json: '{
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Barranquilla",
-    "addressRegion": "Atlántico",
-    "postalCode": "080011",
-    "streetAddress": "Carrera 14 # 54 - 98"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.1",
-    "reviewCount": "184"
-  },
-  "description": "La terminal de transporte de Barranquilla presta el servicio de Terminal a las empresas de transporte terrestre automotor del Atlántico y Colombia",
-  "name": "Terminal de transporte de Barranquilla",
-  "telephone": "035-323-0034"
-}'
+json:  true
+ciudad: Barranquilla
+depto: Atlántico
+postal: 080003
+direccion: 'Carrera 14 # 54 - 98'
+calificacion: 4.1
+reviews: 184
+telefono: 605-323-0034 y 605-393-0043
+latitude: 10.9557867
+longitude: -74.8357789
 referencias:
   - Fotografías de la Terminal de Transporte de Barranquilla en Google Maps: https://www.google.com/maps/place/Terminal+Metropolitana+de+Transportes+de+Barranquilla+S.A/@10.9086319,-74.7938134,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOMz8A7wH9b3815JGrWB6ZgzoZq-hfPlate-zkH!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOMz8A7wH9b3815JGrWB6ZgzoZq-hfPlate-zkH%3Dw203-h270-k-no!7i3000!8i4000!4m11!1m2!2m1!1sterminal+de+barranquilla!3m7!1s0x8ef5d3318eb2823b:0xfe6b61c53291e62f!8m2!3d10.9086319!4d-74.7938134!14m1!1BCgIgAQ!15sChh0ZXJtaW5hbCBkZSBiYXJyYW5xdWlsbGGSARh3YXN0ZV9tYW5hZ2VtZW50X3NlcnZpY2U
   - Formulario para solicitudes, quejas y reclamos PQR: https://www.ttbaq.com.co/formulario-de-peticion-queja-reclamo-sugerencia-o-denuncia/
@@ -49,11 +39,11 @@ En esta página te contamos todo lo que necesitas sobre la terminal de transport
 
 ## Teléfono de la Terminal de Transporte de Barranquilla
 
-**El número de teléfono de la terminal de Barranquilla es 0353230034 y 0353930043**. Para llamar, solo necesitas hacer clic en los siguientes botones:
+**El número de teléfono de la terminal de Barranquilla es 6053230034 y 6053930043**. Para llamar, solo necesitas hacer clic en los siguientes botones:
 
-{% include boton.html url="tel:0353230034" title="Teléfono de la terminal de Barranquilla" texto="0353230034" %}
+{% include boton.html url="tel:6053230034" title="Teléfono de la terminal de Barranquilla" texto="6053230034" %}
 
-{% include boton.html url="tel:0353930043" title="Teléfono de la terminal de Barranquilla" texto="0353930043" %}
+{% include boton.html url="tel:6053930043" title="Teléfono de la terminal de Barranquilla" texto="6053930043" %}
 
 **El número de celular y de WhatsApp de la terminal de Barranquilla 3045329102**. Solo haz clic en los siguientes botones para comunicarte a este contacto.
 

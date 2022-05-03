@@ -7,27 +7,17 @@ tags: terminal
 h1: La Terminal de Manizales
 img: img/terminales/caldas/terminal-transporte-manizales.webp
 alt: Terminal de Transporte de Manizales
-principal: true
 excerpt_separator: <!-- excerpt -->
-json: '{
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Manizales",
-    "addressRegion": "Caldas",
-    "postalCode": "170002",
-    "streetAddress": "Carrera 43 # 65 – 100, barrio Los Cámbulos"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.3",
-    "reviewCount": "5350"
-  },
-  "description": "La terminal de transporte de Manizales es una solución a la necesidad de transporte urbano, intermunicipal, interdepartamental y veredal.",
-  "name": "Terminal de transporte de Manizales",
-  "telephone": "0368785641"
-}'
+json:  true
+ciudad: Manizales
+depto: Caldas
+postal: 170002
+direccion: "Carrera 43 # 65 – 100, barrio Los Cámbulos"
+calificacion: 4.3
+reviews: 5350
+telefono: '606-878-5641'
+latitude: 5.0491627
+longitude: -75.5083867
 referencias:
   - Fotografías de la Terminal de Transporte de Manizales en Google Maps: https://www.google.com/maps/place/Terminal+de+Transportes+de+Manizales/@5.0493324,-75.5058332,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM4lzi2trOLXXfUkTxzTKOosFUWU8RMxy4FCtxH!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM4lzi2trOLXXfUkTxzTKOosFUWU8RMxy4FCtxH%3Dw160-h120-k-no!7i4000!8i3000!4m5!3m4!1s0x8e47654245811437:0xb0ba16140f5c9cc6!8m2!3d5.0491627!4d-75.506198
   - Formulario para solicitudes, quejas y reclamos PQR: https://home.siicoonline.com/pqr-solicitud/9/index-clasificacion-solicitud

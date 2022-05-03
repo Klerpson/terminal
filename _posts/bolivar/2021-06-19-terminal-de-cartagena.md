@@ -7,27 +7,17 @@ tags: terminal
 h1: La Terminal de Cartagena
 img: img/terminales/bolivar/terminal-transporte-cartagena.webp
 alt: Terminal de Transporte de Cartagena
-principal: true
 excerpt_separator: <!-- excerpt -->
-json: '{
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Cartagena",
-    "addressRegion": "Bolívar",
-    "postalCode": "130006",
-    "streetAddress": "Carretera la Cordialidad # 24 - 236"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "3.7",
-    "reviewCount": "6812"
-  },
-  "description": "La Terminal de Cartagena controla el transporte intermunicipal de la ciudad. La encuentras en un sector de Cartagena conocido como Doña Manuela",
-  "name": "Terminal de transporte de Cartagena",
-  "telephone": "035-663-0317"
-}'
+json:  true
+ciudad: Cartagena
+depto: Bolivar
+postal: 130006
+direccion: "Carretera la Cordialidad # 24 - 236"
+calificacion: 3.7
+reviews: 6812
+telefono: '605-663-0317'
+latitude: 10.4003879
+longitude: -75.4610743
 referencias:
   - Fotografías de la Terminal de Transporte de Cartagena en Google Maps: https://www.google.com/maps/uv?pb=!1s0x8ef6244220c58681%3A0xea448a661d47813!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPm4Y5ApWKR5nnssFNif1xBO8MUOsh5IMKQUXyT%3Dw86-h87-n-k-no!5sterminal%20cartagena%20-%20Buscar%20con%20Google!15sCgIgAQ&imagekey=!1e10!2sAF1QipPm4Y5ApWKR5nnssFNif1xBO8MUOsh5IMKQUXyT&hl=es-419
   - Formulario para solicitudes, quejas y reclamos PQR: https://docs.google.com/forms/d/e/1FAIpQLSeXKob3mLLAdzoNjet0HZSvAS4rJ7p_k_Y1_iOlFMe3OA9IbA/viewform
