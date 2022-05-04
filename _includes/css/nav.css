@@ -5,7 +5,6 @@ nav {
   display: grid;
   grid-template-columns: 1fr 2fr;
   background-color: #018a31;
-  color: white;
   padding: .4rem 1rem;
   align-content: center;
   z-index: 2;
@@ -18,7 +17,7 @@ nav ul {
 }
 
 nav ul li a {
-  color: var(--grisFuentes);
+  color: white;
   text-decoration: none;
   font-weight: 700;
   font-family: var(--fuenteTitulos);
@@ -52,6 +51,6 @@ nav ul li a:hover {
 
 .logo h2 {
   display: none;
-  color: var(--grisFuentes);
+  color: white;
   font-size: var(--sizeTexto);
 }
