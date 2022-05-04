@@ -235,7 +235,63 @@ header img{
   max-width: 320px;
 }
 
-nav{position:fixed;top:0;width:100%;display:grid;grid-template-columns:1fr 2fr;background-color:#018a31;padding:.4rem 1rem;align-content:center;z-index:2;}nav ul{display:flex;justify-content:space-evenly;align-items:center;}nav ul li a{color:var(--grisFuentes);text-decoration:none;font-weight:700;font-family:var(--fuenteTitulos);transition:color .3s ease-out;}nav ul li a:hover{color:white;}.active a{color:var(--blanco);text-decoration:underline;-webkit-text-decoration-color:var(--principal);text-decoration-color:var(--principal);text-decoration-thickness:3px;}.logo{margin:0;text-decoration:none;display:flex;align-items:center;gap:.7rem;}.logo img{height:40px;display:inline-block;}.logo h2{display:none;color:var(--grisFuentes);font-size:var(--sizeTexto);}
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  background-color: #018a31;
+  color: white;
+  padding: .4rem 1rem;
+  align-content: center;
+  z-index: 2;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+nav ul li a {
+  color: var(--grisFuentes);
+  text-decoration: none;
+  font-weight: 700;
+  font-family: var(--fuenteTitulos);
+  transition: color .3s ease-out;
+}
+
+nav ul li a:hover {
+  color: white;
+}
+
+.active a {
+  color: var(--blanco);
+  text-decoration: underline;
+  -webkit-text-decoration-color: var(--principal);
+  text-decoration-color: var(--principal);
+  text-decoration-thickness: 3px;
+}
+
+.logo {
+  margin: 0;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: .7rem;
+}
+
+.logo img {
+  height: 40px;
+  display: inline-block;
+}
+
+.logo h2 {
+  display: none;
+  color: var(--grisFuentes);
+  font-size: var(--sizeTexto);
+}
 #search-container{position:relative;width:min(80vw,720px);justify-self:center;display:flex;flex-direction:column;color:var(--accion);}#search-container input{border-color:var(--principal);transition:.1s ease-in-out;}#search-container input:focus{border-color:var(--accion);border:none;}#search-container h2{text-align:center;color:var(--grisFuentes);margin-bottom:1rem;}#results-container div{margin:1rem 0;}#results-container div h3{font-family:var(--fuenteTitulos);color:var(--secundario);text-decoration:underline;-webkit-text-decoration-color:var(--principal);text-decoration-color:var(--principal);text-decoration-thickness:.2rem;}#results-container div a{font-family:var(--fuenteTexto);color:var(--principal);text-decoration:none;}
 .categorias {
   display: flex;
