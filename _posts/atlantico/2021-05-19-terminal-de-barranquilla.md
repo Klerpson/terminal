@@ -332,3 +332,127 @@ La terminal de Transporte de Barranquilla te ofrece los siguientes servicios:
 **En el año 1991 comenzó a funcionar la terminal de Barranquilla**. Se conoce también como la Terminal Metropolitana de Transportes de Barranquilla.
 
 Por este terminal estratégico pasan constantemente alrededor de 2000 personas diariamente hacia otros destinos del país y hasta la localidad.
+<!-- 
+Barranquilla is a city that has maintained its originality, which is why it is considered one of the most important tourist destinations in Colombia. It has a rich history and culture, as well as a beautiful natural environment.
+
+Barranquilla is the second largest city in Colombia after Bogotá, but it's also one of the most vibrant and lively cities in the country. The area has many beaches, mountains and forests, which makes it an ideal destination for anyone looking to relax and enjoy nature.
+
+The best way to get around Barranquilla is by taxi or bus. There are many taxi companies offering different services such as:
+
+- Airport transfer service from Barranquilla Airport (BQN) to your hotel or accommodation in any part of town;
+
+- Private taxi services from/to any place in Barranquilla;
+
+- Taxi tours of the city or surrounding areas;
+
+- Car rental services for tourists visiting Barranquilla on their own or with family members / friends who may want to explore other parts of Colombia during their stay here;
+
+Barranquilla is a city in the country of Colombia. It has a population of about 2 million and is located in northern Colombia. The city was founded in 1752 by José Celestino Mutis who was trying to find a port for the Spanish empire. Today, it is most known as a center for tourism in Colombia, with many beaches nearby and other tourist attractions such as Museo del Oro and Iglesia de San Pedro Claver.
+
+Barranquilla has many different neighborhoods, including La Carihuela, El Centro (the city center), Crespo, Manrique and Pueblo Nuevo. It also has several districts including Villa del Prado (a popular residential area), Santa Bárbara (with its own university) and Castillogrande (where you'll find most of the hotels).
+
+The best way to get around Barranquilla is by taxi because there are no buses or trains which leave from this region of Colombia. Taxis can take you anywhere in town for about $3-$4 USD per ride depending on where you want them to take you! There are also plenty of taxis available outside of each airport terminal so make sure you have some cash on hand before getting into one!
+
+When it comes to travel, Barranquilla is a city that can't be missed.
+
+Situated in northern Colombia, this city has a reputation for being one of the friendliest and most welcoming cities in the country. Its people are known to be warm and friendly, and they're always ready to help you out. If you're going there for business or pleasure, this city will make sure you have everything you need.
+
+Barranquilla is a great place for families who want to take on some touristy activities while they're there. There are plenty of museums and historical sites that children will love. You can also visit some of the nearby beaches if you want something more active—they have some of the best water sports in all of Colombia!
+
+If you're looking for somewhere to stay while you're there, we recommend [hotel name]. They offer great facilities and service at affordable prices so that no matter how much money you have available to spend on accommodations while on vacation, they'll find something perfect for your needs!
+
+Barranquilla, Colombia: A Travel Guide for the Adventurous
+
+If you're looking for a city that has something for everyone, Barranquilla is it. Known as the "Pearl of the South," this vibrant metropolis has been attracting tourists from around the globe since its founding in 1533. Whether you want to see some of the world's most beautiful beaches, or try your hand at ceviche making, Barranquilla has plenty to offer. Here are some of our favorite things to do while visiting this incredible city:
+
+1) Visit the Museo del Oro Precolombino
+
+2) Try some ceviche at one of the many restaurants along Carrera 1a Norte
+
+3) Take a day trip out to Isla de Salamanca and Isla de Baru
+
+Barranquilla is Colombia's second-largest city, and it's located on the Caribbean coast.
+
+It has a population of over 1.5 million people and is famous for its beaches, which are lined with tourists year-round, as well as its nightlife.
+
+Barranquilla also has a thriving cultural scene, with live music and dancing available most nights.
+
+While there are plenty of hotels in Barranquilla, you may want to consider staying in another part of Colombia instead. You'll get better rates on hotels in other cities like Cartagena or Bogota, but if you're looking for fun things to do around the city itself then we recommend checking out these options:
+
+- [name] - [description]
+
+- [name] - [description]
+
+Barranquilla is a city that takes a while to get used to—but once you do, it will become one of your favorite places in Colombia.
+
+The city looks like it's been transported straight out of the 1950s, but with all the modern amenities of today. The city is famous for its nightlife and Carnival celebrations, and it's not hard to see why.
+
+Barranquilla has a number of great hotels as well as Airbnb rentals that can be found within walking distance of the center. If you're staying at an Airbnb, make sure you check out the nearby Parque del Sol!
+
+As far as transportation goes, taxis are very affordable and easy to find—just make sure you agree on the price before getting in the car!
+
+Barranquilla is the capital of Atlántico Department in Colombia. It is the most populous city in the Caribbean Region of Colombia and one of the most important cities in the country. It was founded on March 26, 1533 by Spanish explorer Alonso de Heredia as Santa Marta de Barraquiela, a port on the Magdalena River. The city's name was changed to Barranquilla in 1951.
+
+The city is located on the northern coast of Colombia at a point where its rivers—the Magdalena and Cauca—intersect. It lies between the Caribbean Sea and the Atlantic Ocean, north of Santa Marta and south of Cartagena. The city has been officially recognized as an urban center (city) since 1917 by national law, but it had previously been considered a town since 1832 by presidential decree.
+
+Barranquilla has a tropical climate with warm temperatures throughout most months of the year. Its climate ranges from hot (average high temperature around 28°C) to very hot (average high temperature around 33°C).
+
+Barranquilla is a city in Colombia that has a lot to offer tourists. It's the capital of Atlantico department, and it's located on the northern coast of Colombia.
+
+If you're planning to visit Barranquilla, here are some tips:
+
+- The city is home to many beautiful parks and one of them is Parque del Centenario, which is one of the largest parks in Colombia. It has an area of over 2 square kilometers and it's full of trees, lawns and ponds. There are also many monuments in this park such as the statue of Simón Bolívar and others. You can also find several interesting sculptures there too!
+
+- You should visit the Museo del Oro (Gold Museum) because it contains a large collection of artifacts made from gold and other precious metals from ancient times until now. Some examples include jewelry pieces from different cultures as well as sculptures made from gold by various artists around Colombia over time.
+
+- Another place you should visit while staying in Barranquilla is El Museo de Arte Moderno de Colombia (MAMCO), which has artworks by famous artists like Fernando Botero (one of his paintings hangs on display there) among others).
+
+- If you want to
+
+Barranquilla, Colombia is an exciting city with a history that dates back to the 16th century. The city has become a popular destination for tourists looking for fun and adventure, and its recently developed infrastructure makes it easy to get around.
+
+One of the best ways to get around Barranquilla is by taxi. Taxis are readily available in most areas of the city, and they can be flagged down by standing on a corner or calling one directly. Most taxi drivers speak English well enough to understand basic requests.
+
+If you're planning on staying in Barranquilla for more than three days, it may be worth looking into renting an apartment or condo instead of booking a hotel room every night. This will allow you more freedom to explore without having to worry about making reservations every time you want dinner at a restaurant or drinks at a bar, which can get expensive!
+
+Barranquilla is a beautiful coastal city in Colombia, situated on the Caribbean Sea. It's known for its vibrant nightlife and culture, as well as its famous beaches.
+
+Here are seven things you should know before you visit Barranquilla:
+
+1. The city has great food!
+
+2. There are many taxis available throughout the city that can take you anywhere you need to go. However, they may not always be readily available or easy to find. Be sure to ask your hotel concierge or hostel staff where they recommend taking a taxi from if you don't want to walk too far or wait too long for one.
+
+3. There are also many buses that run through Barranquilla and can get you anywhere within its limits quickly and cheaply (about $0.60 USD). Just be sure not to get on one without checking its final destination first! Some buses only go as far as certain towns outside of Barranquilla proper so make sure there's one nearby if that's what you're looking for because otherwise it won't take them where most people want to go anyway so it won't matter either way really
+
+Barranquilla is a vibrant city with a rich history and plenty of attractions for tourists. It's also one of the largest cities in Colombia, so it can be hard to know where to start when you're planning your trip. We've got some tips to help make your trip a success!
+
+The first thing you'll want to do is get acclimated to the Barranquilla weather. The average temperature in July is 82 degrees Fahrenheit, but it can get up into the 90s during the day. You'll want to pack light clothes that are easy to layer if you're going out at night or plan on spending time outdoors during the day.
+
+If you're staying in Barranquilla long-term, consider renting an apartment or house instead of staying in a hotel. You'll have more space and privacy than you would in a hotel room, and you'll also save money because there won't be any cleaning fees included in your rent payment each month (which can add up quickly).
+
+Barranquilla is a beautiful city with a rich history and deep culture, but even though its population is growing quickly, it's still not difficult to find your way around. The city is divided into two parts—the new part of the city (Barrio San Antonio) and the old part (Barrio San Diego).
+
+The new part of the city has most of what you'll need for an enjoyable stay: hotels, restaurants, bars, nightlife, shopping centers. You'll also find some great places to eat in this area—my favorite spot for lunch is La Chiva (a chain restaurant), where you can get an incredible plate of fried chicken and rice for less than $5 USD!
+
+If you're looking for something more upscale or trendy, head over to Barrio San Diego—it's full of high-end bars and restaurants as well as beautiful colonial buildings. If you're looking for something more low-key and authentic, I recommend Barrio San Antoino instead—it's right next door to Barrio San Antonio but offers a completely different vibe!
+
+One thing that won't change no matter which neighborhood you choose: taxis are expensive in Barranquilla. It's
+
+Barranquilla is the second-largest city in Colombia, and it's a must-see for any traveler.
+
+The city is known for its beaches, which include Playa Blanca, where you can enjoy swimming and snorkeling. The Hotel Playa Blanca offers accommodations right on the beach—it's a great place to stay if you want to be close to this popular tourist destination.
+
+Barranquilla also has a lot of culture: there are many museums, theaters, and art galleries throughout the city. If you'd like to get out of the heat of summertime and explore some historical sites while staying in Barranquilla, check out the Museo del Oro Precolombino y Colonial (Museum of Pre-Columbian Gold and Colonial Artifacts). This museum is dedicated to all things gold—it contains pieces from ancient civilizations around the world who used precious metals in their artisanship. The Museo del Oro Precolombino y Colonial also has exhibits on colonial history as well as modern day Colombian culture through its permanent collection of paintings by renowned artists like Fernando Botero and Alejandro Obregón Salazar.
+
+And if you're looking for something more active than just walking around town or taking
+
+Barranquilla is a city that has a lot to offer. It's the capital of Atlántico, Colombia's northernmost department, and it features a beautiful coastline, good food and music, and a vibrant nightlife scene.
+
+If you're planning to visit this city soon, here are some tips:
+
+-Don't miss the city's famous seafood restaurants.
+
+-Take advantage of the beaches; they're some of the best in the country!
+
+-Visit Centro Turistico Barranquilla during Carnival season (February) or Semana Santa (March/April). -->
