@@ -3,6 +3,7 @@ layout: articulo
 title: Términos y Codiciones de Uso | Terminal de Transporte
 description: Condiciones de uso de la página Terminal de Transporte
 noindex: true
+tags: terminal
 ---
 ## Aviso legal para sitio web de Terminal de Transporte
 

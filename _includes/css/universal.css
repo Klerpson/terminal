@@ -150,33 +150,6 @@ li {
   list-style: none;
 }
 
-blockquote {
-  position: relative;
-  font-family: var(--fuenteTexto);
-  box-shadow: var(--shadow);
-  padding: 1.5rem;
-  margin: 3rem 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 3rem;
-  justify-content: space-between;
-  align-items: center;
-  border: 1px solid var(--gris1);
-  font-size: var(--sizeH3);
-  font-weight: 700;
-}
-
-blockquote a{
-  display: block;
-  width: 100%;
-  text-decoration: none;
-  text-align: right;
-}
-
-blockquote img{
-  max-width: 100%;
-}
-
 .boton {
   display: grid;
   place-content: center;

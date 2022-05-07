@@ -1,9 +1,10 @@
 @media screen and (min-width:600px) {
-  .articulo article img{
+  .articulo article img:not(blockquote p img){
     display: block;
     float: left;
     margin: 0 1.5rem 1rem 0;
   }
+
 }
   @media screen and (min-width:767px) {
   nav {
@@ -18,6 +19,16 @@
 
   .boton-up {
     bottom: 15px
+  }
+
+  blockquote p{
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    font-size: var(--sizeH3);
+  }
+
+  blockquote p img{
+    grid-row: span 2;
   }
 
 }
