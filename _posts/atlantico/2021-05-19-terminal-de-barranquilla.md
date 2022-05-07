@@ -91,11 +91,11 @@ Los autobuses salen cada cinco minutos en las horas punta (de 6 a 9 de la mañan
 ![Zona de espera de la terminal de Barranquilla]({{'img/terminales/atlantico/zonas-espera-terminal-barranquilla.webp' | relative_url}} "Zona de servicios de la terminal de Barranquilla")
 La terminal de autobuses de Barranquilla se encuentra cerca de la estación principal de autobuses. Ha sido renovada varias veces a lo largo de su historia y ahora cuenta con modernas comodidades. Estas incluyen acceso a Wi-Fi y zonas de asientos, donde los viajeros pueden relajarse mientras esperan la llegada o salida de su autobús.
 
-La mejor manera de conocer Barranquilla es utilizando **los servicios de taxi o de bus de la terminal de Barranquilla**. Hay muchas compañías ofreciendeo diferentes servicios como:
+La mejor manera de **conocer Barranquilla es utilizando los servicios de taxi o de bus de la terminal de Barranquilla**. Hay muchas compañías ofreciendeo diferentes servicios como:
 
-* Servicio de transporte entre el aeropuerto de Barranquilla hasta la terminal. O de la terminal de Barranquilla hasta tu lugar de hospedaje en cualquier hotel de la ciudad
-* Servicio de taxis privados desde y hacia cualquier lugar de Barranquilla
-* City tours en taxi en Barranquilla y sus alrededores
+* Servicio de transporte entre el aeropuerto de Barranquilla hasta la terminal. O de la terminal de Barranquilla hasta tu lugar de hospedaje en cualquier hotel de la ciudad.
+* Servicio de taxis privados desde y hacia cualquier lugar de Barranquilla.
+* City tours en taxi en Barranquilla y sus alrededores.
 * Servicios de renta de carros para los turistas que visitan Barranquilla con los miembros de su familia o amigos y que quieren explorar otros lugares de Colombia.
 
 Por otra parte, dentro de la terminal de Transporte tienes disponibles los siguientes servicios:
@@ -123,7 +123,7 @@ Puede comprar los billetes en cualquiera de las terminales o taquillas de la ciu
 
 Barranquilla es una ciudad con grandes atracciones turísticas, pero puede ser difícil moverse sin un coche. **La ciudad cuenta con varias rutas de autobús** que recorren el área metropolitana y llegan a otras ciudades como [Cartagena]({{'terminal-de-cartagena' | relative_url}}), Santa Marta y [Medellín]({{'terminal-de-medellin' | relative_url}}).
 
-**La principal atracción de Barranquilla es el Parque del Centenario**, construido para las celebraciones del centenario en 1984. Cuenta con dos lagos, jardines y esculturas que representan diferentes aspectos de la cultura colombiana, como la música y la danza. También hay un museo dedicado al arte colombiano que alberga más de 1.500 obras de artistas famosos como Fernando Botero, Alejandro Obregón y Fernando
+**La principal atracción de Barranquilla es el Parque del Centenario**, construido para las celebraciones del centenario en 1984. Cuenta con dos lagos, jardines y esculturas que representan diferentes aspectos de la cultura colombiana, como la música y la danza. También hay un museo dedicado al arte colombiano que alberga más de 1.500 obras de artistas famosos como Fernando Botero, Alejandro Obregón, entre otros.
 
 Por ser una ciudad costera, ofrece un montón de cosas que hacer: excursiones y lugares para comer, atracciones como playas, museos, parques y mucho más. También hay varias cosas interesantes que hacer allí, como visitar el zoo o participar en uno de los muchos festivales que se celebran a lo largo del año.
 
