@@ -4,7 +4,7 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-05-07T11:47:06-05:00</updated>
+     <updated>2022-05-07T12:11:59-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
@@ -55,7 +55,7 @@
    <link href="http://localhost:4000/terminal-de-barranquilla"/>
    <id>http://localhost:4000/terminal-de-barranquilla</id>
    <updated>2021-05-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Llegar por la terminal de Barranquilla es llegar a sus playas, repletas de hoteles y hostales que la convierten en un destino popular para los viajeros que buscan relajarse en sus vacaciones.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;La terminal de Transcaribe está situada cerca de la Avenida Caracas&lt;/strong&gt;, en el centro histórico de Barranquilla, y...</content>
+   <content type="html">&lt;p&gt;Llegar por la terminal de Barranquilla es llegar a sus playas, repletas de hoteles y hostales que la convierten en un destino popular para los viajeros que buscan relajarse en sus vacaciones.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;La terminal de Transcaribe está situada cerca de la Avenida Caracas&lt;/strong&gt;, en el centro histórico de Barranquilla. Sirve...</content>
  </entry>
  
  <entry>
