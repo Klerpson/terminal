@@ -52,8 +52,8 @@ Su ubicación es privilegiada. Está a solo 45 minutos del Centro de Eventos Pue
 
 Por otra parte, la terminal también tiene contacto por WhatsApp. **El número de celular y de WhatsApp de la terminal de Barranquilla es [3045329102](https://wa.me/573045329102 "Número celular de la terminal de Barranquilla")**.
 
->![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
-[Descargar]({{'assets/pdf-terminal-barranquilla.pdf' | relative_url}} "Números de teléfono de la terminal de Barranquilla")
+>![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }}) Descarga los teléfonos de las empresas de buses de {{page.title}}
+[Descargar]({{'assets/pdf-terminal-barranquilla.pdf' | relative_url}} "Números de teléfono de la terminal de Barranquilla"){:target="_blank"}
 
 Otra forma de comunicarte con la terminal es por email. Para escribirles por este medio tienen varias opciones:
 
@@ -71,7 +71,7 @@ Hay varias empresas que ofrecen servicios de transporte intermunicipal **entre c
 Barranquilla es el mayor puerto de Colombia y la segunda ciudad más grande. También **es un centro de transporte intermunicipal, lo que facilita la visita a otras partes del país desde Barranquilla**. Descarga la lista de destinos de la terminal de Barranquilla a continuación.
 
 >![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los destinos de las empresas de buses de {{page.title}}
-[Descargar]({{'assets/pdf-terminal-barranquilla.pdf' | relative_url}} "Números de teléfono de la terminal de Barranquilla")
+[Descargar]({{'assets/pdf-terminal-barranquilla.pdf' | relative_url}} "Números de teléfono de la terminal de Barranquilla"){:target="_blank"}
 
 Hay varias compañías de autobuses que operan en Barranquilla y sus alrededores y que ofrecen un servicio regular entre ciudades como Cartagena (Cartagena-Barranquilla) o Bogotá (Bogotá-Barranquilla).
 

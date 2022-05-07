@@ -92,7 +92,7 @@ Desde luego, la zona de alimentos es uno de los puntos más importantes de la te
 * **Zonas de Estacionamiento Regulado**: Es un servicio de operación de las zonas de estacionamiento en la vía pública de la ciudad de  Terminales de Transporte de S.A. es la empresa encargado de la administración y orden de las Zonas de Estacionamiento Regulado en la ciudad de  Para más información, visita la sección de [ZER de la terminal de Medellín](#fuentes).
 
 >![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
-[Descargar]({{'assets/pdf-terminal-medellin.pdf' | relative_url}} "Números de teléfono de la terminal del Norte y del Sur de Medellín")
+[Descargar]({{'assets/pdf-terminal-medellin.pdf' | relative_url}} "Números de teléfono de la terminal del Norte y del Sur de Medellín"){:target="_blank"}
 
 ### Rutas de la terminal del Norte de Medellín
 
@@ -132,7 +132,7 @@ Con los buses turísticos, **llega a lugares de interés como las minas de oro c
 Recuerda que aquí puedes descargar la lista con **los teléfonos y contactos de las empresas de buses de la terminal del Norte y Sur de Medellín**.
 
 >![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
-[Descargar](# "Números de teléfono de la terminal del Norte y del Sur de Medellín")
+[Descargar]({{'assets/pdf-terminal-medellin.pdf' | relative_url}} "Números de teléfono de la terminal del Norte y del Sur de Medellín"){:target="_blank"}
 
 La terminales de transporte de Medellín atiende más de 60 destinos nacionales. En ella funcionan alrededor de 17 empresas transportadoras de carga y de transporte de pasajeros, con un flujo de 4000 buses diarios aproximadamente.
 
