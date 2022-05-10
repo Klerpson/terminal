@@ -104,6 +104,7 @@ La terminal del norte de Medellín es un centro de conexiones entre trenes, taxi
 
 ## Terminal del Sur de Medellín
 
+![Terminal del sur de Medellín]({{'img/terminales/antioquia/terminal-sur-medellin.webp' | relative_url}} "Terminal del sur Medellín"){:width="300"}
 La terminal Sur de Medellín presta los servicios de transporte hacia el sur y el oriente de Medellín, y hacia las principales ciudades del Eje cafetero y del sur de Colombia.
 
 ### Dirección de la Terminal Sur de Medellín
@@ -125,6 +126,7 @@ Para **solicitar el auditorio de la terminal Norte de Medellín**, tienen habili
 
 ## Las empresas de buses de la terminal Medellín
 
+![Buses en la terminal del sur de Medellín]({{'img/terminales/antioquia/terminal-medellin-buses.webp' | relative_url}} "Buses en la terminal del sur Medellín"){:width="300"}
 Con mejoras continuas en su infraestructura y sistemas de monitereo, la terminal ha incrementado su capacidad de atención hasta 2,000 pasajeros por movilidad sin sacrificar calidad y velocidad.
 
 Con los buses turísticos, **llega a lugares de interés como las minas de oro cercanas, a Montería, a Barichara y al Parque Nacional Natural Los Nevados**.
@@ -142,6 +144,7 @@ La terminales de transporte de Medellín atiende más de 60 destinos nacionales.
 
 El terminal del norte y el terminal del sur son de los sitios turisticos mas visitados. Por sus zonas comerciales y ubicaciones estratégicas puedes encontrar todos los servicios que puedas imaginar, así como la garantía de un fin de semana divertido junto a tus familiares o amigos.
 
+![Panorámica de la terminal del sur de Medellín]({{'img/terminales/antioquia/panoramica-terminal-medellin.webp' | relative_url}} "Panorámica de la terminal del sur Medellín"){:width="300"}
 ¿Preparado para **recorrer Medellín desde la terminal del norte**, de forma cómoda y segura? Conéctese con los serviciales representantes de esta estación. Te proporcionan servicios de cambio, compra y venta de dinero. Hay también un cajero automático que está disponible las 24 horas del día.
 
 Desde la terminal puedes comprar billetes del sistema de transporte público general -el metro-, así como obtener información sobre los lugares de interés situados cerca de ella.
