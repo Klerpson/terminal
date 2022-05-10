@@ -1,13 +1,7 @@
-.contacto li{
-  margin: 1.2rem 0;
+.contacto p,
+.contacto h2{
+  margin-bottom: 2rem;
 }
-
-.contacto li a {
-  color: var(--secundario);
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
 .form{
   width: 90%;
   margin: 2rem auto;

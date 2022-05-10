@@ -172,7 +172,8 @@ li {
 
 .categorias,
 .terminales-intro,
-.articulo {
+.articulo,
+.contacto {
   width: min(90vw, 1024px);
   margin: 0 auto 5rem;
 }

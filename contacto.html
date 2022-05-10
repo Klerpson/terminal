@@ -1,17 +1,18 @@
 ---
 layout: default
 title: Sitio web de la terminal de transporte
-description: Estamos haciendo el mejor esfuerzo por brindarte la información completa sobre la terminal de transporte que tú necesitas. ¿Podemos mejorar? ¿Tienes sugerencias? Escríbenos
+h1: Escríbe a tu terminal de transporte
+description: Estamos haciendo el mejor esfuerzo por brindarte la información más completa sobre la terminal de transporte que tú necesitas de Colombia. ¿Podemos mejorar? ¿Tienes sugerencias? Escríbenos.
 ---
 {% include header.html %}
 
 <main class="contacto">
   <p>{{page.description}}</p>
-  <ul>
-    <li>✔️ Selecciona para seguirnos en nuestras redes sociales:</li>
-    <li><a href="https://www.instagram.com/terminaldetransporte/" target="_blank" title="Red social de la página web terminal de transporte en TikTok"><img src="{{site.baseurl}}/img/tiktok-logo.svg" alt="Logo de tiktok" title="Perfil de la página Terminal de Transporte en TikTok"></a> <a href="https://www.instagram.com/terminaldetransporte/" target="_blank" title="Red social de la página web terminal de transporte en Instagram"><img src="{{site.baseurl}}/img/instagram-logo.svg" alt="Logo de Instagram" title="Perfil de la página Terminal de Transporte en Instagram"></a></li>
-    <li>✔️ Envíanos tus preguntas y comentarios directamente en nuestro email en el siguiente formulario:</li>
-  </ul>
+  <p>Recuerda que tu información personal brindada se manejará según la política de datos registrada en este sitio web.
+  </p>
   {% include formulario.html %}
+  <h2>Tu terminal de transporte más cerca de ti</h2>
+  <p>También puedes seguirnos en instagram. Aquí te estamos compartiendo noticias y tips de viaje que te ayudarán mucho al utiliar las terminales terrestres de Colombia.</p>
+  {% include instagram.html username="terminaldetransporte" %}
 </main>
 {% include footer.html %}
