@@ -27,7 +27,7 @@ Llegar por la terminal de Barranquilla es llegar a sus playas, repletas de hotel
 
 **La terminal de Transcaribe está situada cerca de la Avenida Caracas**, en el centro histórico de Barranquilla. Sirve de centro de transporte intermunicipal para toda la región de la costa caribeña colombiana; conecta Barranquilla con otras ciudades importantes como Cartagena, Santa Marta, entre otras.
 
-![Foto de la zona de espera de la terminal de Barranquilla]({{'img/terminales/atlantico/terminal-barranquilla-atlantico.webp' | relative_url}} "Terminal de Barranquilla Atlántico")
+![Foto de la zona de espera de la terminal de Barranquilla]({{'img/terminales/atlantico/terminal-barranquilla-atlantico.webp' | relative_url}} "Terminal de Barranquilla Atlántico"){:width="300"}
 Si estás planeando tomar un autobús desde Barranquilla a otra ciudad o pueblo, o viceversa, **entonces tal vez quieras consultar este artículo sobre el transporte intermunicipal en Barranquilla.**
 
 <!-- excerpt -->
@@ -66,7 +66,7 @@ Otra forma de comunicarte con la terminal es por email. Para escribirles por est
 
 Hay varias empresas que ofrecen servicios de transporte intermunicipal **entre ciudades como Cartagena, Santa Marta, Santa Fe de Antioquia, Medellín y Bogotá**. Estos autobuses suelen tener aire acondicionado. Cuentan con cómodos asientos que se reclinan, al menos hasta la mitad del respaldo, para que pueda dormir cómodamente mientras viaja en ellos si lo necesita.
 
-![Letrero de la terminal de transporte de Barranquilla]({{'img/terminales/atlantico/terminal-metropolitana-transporte-barranquilla-atlantico.webp' | relative_url}} "Terminal Metropolitana de transporte de Barranquilla Atlántico") Si sale de Barranquilla en uno de estos autobuses, **asegúrese de llevar algo de dinero en efectivo**. Ya no aceptan tarjetas de crédito o débito debido a problemas de seguridad con ese tipo de transacciones.
+![Letrero de la terminal de transporte de Barranquilla]({{'img/terminales/atlantico/terminal-metropolitana-transporte-barranquilla-atlantico.webp' | relative_url}} "Terminal Metropolitana de transporte de Barranquilla Atlántico"){:width="300"} Si sale de Barranquilla en uno de estos autobuses, **asegúrese de llevar algo de dinero en efectivo**. Ya no aceptan tarjetas de crédito o débito debido a problemas de seguridad con ese tipo de transacciones.
 
 Barranquilla es el mayor puerto de Colombia y la segunda ciudad más grande. También **es un centro de transporte intermunicipal, lo que facilita la visita a otras partes del país desde Barranquilla**. Descarga la lista de destinos de la terminal de Barranquilla a continuación.
 
@@ -81,14 +81,14 @@ Hay varias compañías de autobuses que operan en Barranquilla y sus alrededores
 
 Lo segundo que hay que saber es que hay dos líneas principales: una que va de norte a sur por el centro de la ciudad, y otra que va de este a oeste por la ciudad.
 
-![Buses de la terminal de transporte de Barranquilla]({{'img/terminales/atlantico/buses-terminal-barranquilla-atlantico.webp' | relative_url}} "Empresas transportadores de la Terminal Metropolitana de transporte de Barranquilla")
+![Buses de la terminal de transporte de Barranquilla]({{'img/terminales/atlantico/buses-terminal-barranquilla-atlantico.webp' | relative_url}} "Empresas transportadores de la Terminal Metropolitana de transporte de Barranquilla"){:width="300"}
 Hay varias compañías de autobuses que ofrecen servicio desde la terminal de Barranquilla: **Expreso Bolivariano, Transmetrovia, Expreso las Palmas San José de Cúcuta, Expreso Norte Santander Medellín; Alianza Bolivariana - Transcámbrico Alianza Bolivariana - Transcámbrico; Alianza Bolivariana - Transcámbrico; Alianza Bolivariana - Transcámbrico; Transportes Urbanos de Barranquilla (TUB) - Ruta #1 (Hospital Molina); Transportes Urbanos de Barranquilla, etc.**
 
 Los autobuses salen cada cinco minutos en las horas punta (de 6 a 9 de la mañana y de 4 a 7 de la tarde) y cada 10 minutos en las horas valle (de 10 a 3 de la mañana y de 7 a 11 de la tarde).
 
 ### Servicios de la Terminal de Barranquilla
 
-![Zona de espera de la terminal de Barranquilla]({{'img/terminales/atlantico/zonas-espera-terminal-barranquilla.webp' | relative_url}} "Zona de servicios de la terminal de Barranquilla")
+![Zona de espera de la terminal de Barranquilla]({{'img/terminales/atlantico/zonas-espera-terminal-barranquilla.webp' | relative_url}} "Zona de servicios de la terminal de Barranquilla"){:width="300"}
 La terminal de autobuses de Barranquilla se encuentra cerca de la estación principal de autobuses. Ha sido renovada varias veces a lo largo de su historia y ahora cuenta con modernas comodidades. Estas incluyen acceso a Wi-Fi y zonas de asientos, donde los viajeros pueden relajarse mientras esperan la llegada o salida de su autobús.
 
 La mejor manera de **conocer Barranquilla es utilizando los servicios de taxi o de bus de la terminal de Barranquilla**. Hay muchas compañías ofreciendeo diferentes servicios como:
@@ -118,7 +118,7 @@ Por otra parte, dentro de la terminal de Transporte tienes disponibles los sigui
 
 La forma más fácil de moverse por Barranquilla es el autobús. Hay docenas de compañías de autobuses que operan en toda la ciudad, por lo que no debería tener problemas para encontrar uno que vaya a donde usted quiere ir. **La mayoría de los autobuses funcionan desde las 5:30 de la mañana hasta las 11 de la noche, dependiendo de la ruta.**
 
-![Foto de la zona de taquillas de la terminal de Barranquilla]({{'img/terminales/atlantico/taquillas-terminal-barranquilla.webp' | relative_url}} "Taquillas de la terminal de Barranquilla")
+![Foto de la zona de taquillas de la terminal de Barranquilla]({{'img/terminales/atlantico/taquillas-terminal-barranquilla.webp' | relative_url}} "Taquillas de la terminal de Barranquilla"){:width="300"}
 Puede comprar los billetes en cualquiera de las terminales o taquillas de la ciudad. Hay cuatro terminales principales: Norte, Sur, Centro y Oeste. Cada una tiene sus propias rutas y destinos; asegúrese de saber qué terminal sirve a su destino antes de comprar el billete.
 
 Barranquilla es una ciudad con grandes atracciones turísticas, pero puede ser difícil moverse sin un coche. **La ciudad cuenta con varias rutas de autobús** que recorren el área metropolitana y llegan a otras ciudades como [Cartagena]({{'terminal-de-cartagena' | relative_url}}), Santa Marta y [Medellín]({{'terminal-de-medellin' | relative_url}}).
@@ -129,7 +129,7 @@ Por ser una ciudad costera, ofrece un montón de cosas que hacer: excursiones y 
 
 Barranquilla también ofrece grandes opciones de vida nocturna. Así que si buscas un buen lugar para salir de fiesta, ¡aquí es donde debes estar! Puedes explorar la ciudad en autobús o en taxi, pero asegúrate de que tienen licencia antes de subirte a uno de estos medios de transporte.
 
-![Foto de la zona de taxis de la terminal de Barranquilla]({{'img/terminales/atlantico/taxis-terminal-barranquilla-atlantico.webp' | relative_url}} "Llegada de taxis en la terminal de transporte de Barranquilla")
+![Foto de la zona de taxis de la terminal de Barranquilla]({{'img/terminales/atlantico/taxis-terminal-barranquilla-atlantico.webp' | relative_url}} "Llegada de taxis en la terminal de transporte de Barranquilla"){:width="300"}
 Para los que quieran desplazarse por la ciudad después de llegar en autobús o avión, hay taxis locales disponibles en ambas terminales. También hay taxis fuera de la mayoría de los hoteles y restaurantes del centro de la ciudad. Sin embargo, si busca una opción más asequible que los taxis, **puede aprovechar el sistema de transporte intermunicipal llamado Metrobús**. Este sistema de transporte rápido en autobús opera dentro del área metropolitana de Barranquilla, por lo que no tendrá que preocuparse de alquilar un coche mientras esté allí.
 
 **La forma más fácil de moverse por Barranquilla es tomar uno de los muchos autobuses que salen de la Terminal del Caribe**. De aquí salen la mayoría de los autobuses que llegan a la ciudad.

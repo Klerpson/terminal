@@ -25,8 +25,8 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
   <div class="terminales-section">
     {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <article>
-      <h3 id="{{ category_name}}">{{ category_name | capitalize}}
+    <article id="{{ category_name}}">
+      <h3>{{ category_name | capitalize}}
       </h3>
       <div>
         {% for post in site.categories[category_name] %}
