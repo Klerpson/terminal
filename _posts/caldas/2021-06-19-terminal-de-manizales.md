@@ -1,10 +1,10 @@
 ---
 layout: articulo
-title: Terminal de transporte de Manizales
-description: La terminal de transporte de Manizales es una solución a la necesidad de transporte urbano, intermunicipal, interdepartamental y veredal.
+title: Terminal de Manizales
+description: La terminal de Manizales tu conexión con el hermoso departamento del Caldas y el eje cafetero. ¡Además que es hermosa! Conócela y planea tu viaje
 category: Caldas
 tags: terminal
-h1: La Terminal de Manizales
+h1: La terminal de transporte de Manizales
 img: img/terminales/caldas/terminal-transporte-manizales.webp
 alt: Terminal de Transporte de Manizales
 excerpt_separator: <!-- excerpt -->
@@ -248,3 +248,25 @@ La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 198
 **La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos**. En la actualidad operca con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes.
 
 Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en la ciudad de Manizales, con la prestación del servicio de su auditorio.
+<!--
+La terminal se encuentra en el corazón de la ciudad, cerca de las principales avenidas y líneas de colectivos. Cuenta con estacionamiento, caseta de información y centro de información turística.
+ La terminal fue inaugurada el 14 de enero de 2002 y desde entonces presta servicio. El propósito principal de esta terminal es brindar un lugar seguro para los pasajeros del bus y sus pertenencias.
+La ciudad ha recibido muchos apodos debido a su belleza natural y riqueza cultural, entre ellos "la Suiza de Colombia" o "la ciudad de las flores". La terminal está ubicada en las afueras de Manizales, en una vía que se conecta con la carretera entre Bogotá y Medellín.
+
+Manizales es una ciudad del departamento colombiano de Caldas. Es la capital de la comarca del mismo nombre y cuenta con aeropuerto.
+La terminal está ubicada en la zona centro de Manizales, al lado de todo tipo de transporte público. Hay taxis fuera de la terminal que pueden llevarlo a su destino por una pequeña tarifa. También puedes tomar una de las líneas de autobús o caminar para llegar a donde necesites ir.
+
+La terminal tiene dos niveles: uno para llegadas y otro para salidas. El nivel de arribos cuenta con sala de espera, baños, restaurante, tiendas y casas de cambio de moneda. También puede obtener información sobre el transporte a otras ciudades de Colombia en este nivel, así como información sobre los servicios de transporte público dentro de Manizales.
+
+
+La terminal cuenta con un total de 13 andenes, 12 para buses de pasajeros y uno para carga. Los andenes están divididos en dos niveles, uno para salidas y otro para llegadas. La zona de llegadas se encuentra a pie de calle mientras que las salidas se encuentran en un nivel inferior.
+
+La terminal también cuenta con un estacionamiento con capacidad para 800 vehículos en un área de 5 hectáreas.
+
+La terminal de Manizales, Caldas, está ubicada al sur de la ciudad. La terminal tiene una superficie de 3.000 metros cuadrados y consta de dos edificios:
+
+- Edificio Terminal 1: edificio administrativo con oficinas y sala de espera de pasajeros;
+
+- Edificio Terminal 2: edificio de carga con estacionamiento para camiones y buses.
+
+La terminal está ubicada en la ciudad de Manizales, departamento de Caldas. Tiene una capacidad para atender a unos 800 pasajeros por hora y puede recibir hasta 1.200 pasajeros por día.-->
