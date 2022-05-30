@@ -354,22 +354,44 @@ nav ul li a:hover {
 }
 
 #markdown-toc::before {
-  content: "Sobre esta terminal";
-  text-transform: capitalize;
+  content: "Contenido:";
   font-weight: 700;
-  font-size: var(--sizeH3);
+  font-size: 1.5rem;
   line-height: 3;
 }
 
 #markdown-toc li {
-  list-style-type: none;
-  list-style-position: inherit;
-  margin-bottom: 0.5rem;
+  list-style: none;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  counter-increment: steps;
 }
 
-#markdown-toc li a{
-  text-decoration: none;
+#markdown-toc li::before {
+  content: counter(steps);
+  margin-right: 0.5rem;
+  background: var(--principal);
   color: var(--secundario);
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 50%;
+  display: inline-grid;
+  place-items: center;
+  line-height: 1.2em;
+}
+
+#markdown-toc ul {
+  counter-reset: steps;
+}
+
+#markdown-toc ul li::before {
+  margin-left: 0.5rem;
+}
+
+#markdown-toc a {
+  font-weight: 700;
+  color: var(--secundario);
+  text-decoration: none;
 }
 
 .articulo{
@@ -481,6 +503,18 @@ blockquote p img{
   max-width: 100%;
   box-shadow: none;
   margin: 0;
+}
+
+.breadcrumbs{
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin: 1rem auto;
+  font-family: var(--fuenteGraficas);
+}
+
+.breadcrumbs a{
+  color: var(--secundario);
 }
 footer{position:relative;color:var(--accion);width:100%;display:grid;gap:2rem;grid-template-columns:repeat(auto-fit,minmax(300px,40vw));align-items:center;justify-content:center;}footer img{max-width:100%;}footer ul{display:grid;grid-gap:1rem;padding:0;margin:0 0 2rem 0;}footer li a{color:var(--secundario);font-family:var(--fuenteGraficas);transition:.5s;font-weight:700;font-size:1.5rem;}footer div p{margin:.5rem 0;font-size:.9rem;}footer div a{color:var(--accion);text-decoration:none;}
 .boton-up{position:fixed;right:15px;bottom:48px;width:50px;height:50px;display:flex;justify-content:center;align-items:center;background-color:var(--accion);border-radius:var(--radius);box-shadow:var(--shadow);transition:all 300ms ease-in;z-index:5;}.boton-up:hover{transform:scale(1.1);}

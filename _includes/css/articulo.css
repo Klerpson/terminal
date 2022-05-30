@@ -11,22 +11,44 @@
 }
 
 #markdown-toc::before {
-  content: "Sobre esta terminal";
-  text-transform: capitalize;
+  content: "Contenido:";
   font-weight: 700;
-  font-size: var(--sizeH3);
+  font-size: 1.5rem;
   line-height: 3;
 }
 
 #markdown-toc li {
-  list-style-type: none;
-  list-style-position: inherit;
-  margin-bottom: 0.5rem;
+  list-style: none;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  counter-increment: steps;
 }
 
-#markdown-toc li a{
-  text-decoration: none;
+#markdown-toc li::before {
+  content: counter(steps);
+  margin-right: 0.5rem;
+  background: var(--principal);
   color: var(--secundario);
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 50%;
+  display: inline-grid;
+  place-items: center;
+  line-height: 1.2em;
+}
+
+#markdown-toc ul {
+  counter-reset: steps;
+}
+
+#markdown-toc ul li::before {
+  margin-left: 0.5rem;
+}
+
+#markdown-toc a {
+  font-weight: 700;
+  color: var(--secundario);
+  text-decoration: none;
 }
 
 .articulo{
@@ -138,4 +160,16 @@ blockquote p img{
   max-width: 100%;
   box-shadow: none;
   margin: 0;
+}
+
+.breadcrumbs{
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin: 1rem auto;
+  font-family: var(--fuenteGraficas);
+}
+
+.breadcrumbs a{
+  color: var(--secundario);
 }

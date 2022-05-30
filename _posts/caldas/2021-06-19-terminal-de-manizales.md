@@ -23,11 +23,11 @@ referencias:
   - Formulario para solicitudes, quejas y reclamos PQR: https://home.siicoonline.com/pqr-solicitud/9/index-clasificacion-solicitud
   - Página web de la terminal de Transporte de Manizales : https://www.terminaldemanizales.com.co
 ---
-La terminal de transporte de Manizales es una solución a la necesidad de transporte urbano, intermunicipal, interdepartamental y veredal en el municipio de Manizales. Vigila y coordina la prestación del servicio público de transporte terrestre.
+La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.
 
 <!-- excerpt -->
 
-Está ubicada al sur de Manizales. Las avenidas importantes importantes de la ciudad llegan hasta aquí. También se puede llegar por el Cable aéreo de Manizales. En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Manizales para planear tu próximo viaje.
+Las avenidas importantes importantes de la ciudad llegan hasta aquí. También se puede llegar por el Cable aéreo de Manizales. **En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Manizales para planear tu próximo viaje**.
 
 {% include img.html img="terminales/caldas/terminal-manizales.webp" img-mini="terminales/caldas/terminal-manizales-caldas.webp" alt="Terminal de transporte de Manizales" title="Terminal de Manizales" %}
 *Terminal de transporte de Manizales - Fotografía de [Google Maps](#fuentes)*
@@ -249,7 +249,7 @@ La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 198
 
 Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en la ciudad de Manizales, con la prestación del servicio de su auditorio.
 <!--
-La terminal se encuentra en el corazón de la ciudad, cerca de las principales avenidas y líneas de colectivos. Cuenta con estacionamiento, caseta de información y centro de información turística.
+ Cuenta con estacionamiento, caseta de información y centro de información turística.
  La terminal fue inaugurada el 14 de enero de 2002 y desde entonces presta servicio. El propósito principal de esta terminal es brindar un lugar seguro para los pasajeros del bus y sus pertenencias.
 La ciudad ha recibido muchos apodos debido a su belleza natural y riqueza cultural, entre ellos "la Suiza de Colombia" o "la ciudad de las flores". La terminal está ubicada en las afueras de Manizales, en una vía que se conecta con la carretera entre Bogotá y Medellín.
 
