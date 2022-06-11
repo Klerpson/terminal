@@ -1,7 +1,7 @@
 ---
 layout: articulo
 title: Terminales de transporte de Bogotá
-description: La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad
+description: La Terminal de Transportes de Bogotá es una empresa que opera el transporte terrestre nacional y sudamericano desde y hacia la ciudad de Bogotá.
 category: cundinamarca
 tags: terminal
 h1: Terminal Salitre, terminal del Sur y terminal del Norte de Bogotá
@@ -24,75 +24,52 @@ referencias:
   - Formulario para usuarios interesados en viajar según excepciones: https://www.terminaldetransporte.gov.co/node/35041
   - Página web de la terminal de Transporte de Bogotá: http://www.terminaldetransporte.gov.co
 ---
-**La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad de Bogotá.**
+La Terminal de Transportes de Bogotá es una empresa que opera el transporte terrestre nacional y sudamericano desde y hacia la ciudad de Bogotá, en Bogotá Colombia.
 
 <!-- excerpt -->
+![Terminal de transporte Salitre de Bogotá]({{site.baseurl}}/img/terminales/cundinamarca/terminal-salitre-bogota-cundinamarca.webp "Terminal Salitre de Bogotá"){:width="300px" height="200px"}
+**La Terminal de Transporte Terrestre de Bogotá es el principal centro de transporte de la ciudad**, con autobuses que van y vienen de todo el país. Además, se puede aprovechar el fácil acceso de la terminal a los vuelos internacionales de las principales compañías aéreas que viajan entre Colombia y muchos otros países. Debido a la cantidad de personas que utilizan esta la terminal de Bogotá, esta se multiplicó en 3 sedes:
 
-Debido a la cantidad de personas que utilizan esta la terminal de Bogotá, esta se multiplicó a 3 sedes:
-
-![Terminal de transporte Salitre de Bogotá]({{site.baseurl}}/img/terminales/cundinamarca/terminal-salitre-bogota-cundinamarca.webp "Terminal Salitre de Bogotá")
 *Terminal Salitre de Bogotá - Fotografía de [Google Maps](#fuentes)*
 
 1. Terminal Salitre
 2. Terminal del Sur de Bogotá
 3. Terminal del Norte de Bogotá
 
-En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Bogotá.
+**En esta página te contamos todo lo que necesitas sobre la terminal de transporte de Bogotá.**
 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Teléfono de la Terminal de Bogotá
+## Números de teléfonos de la terminal de Bogotá
 
-**El número de teléfono de la terminal de transporte de Bogotá es 0314233630**. Para llamar, solo necesitas hacer clic en el siguiente botón:
-
-{% include boton.html url="tel:0314233630" title="Teléfono de la terminal de Bogotá" texto="0314233630" %}
-
-**El número de teléfono PBX de la terminal de Bogotá es 0314233600**. Solo necesitas hacer clic en el siguiente botón:
-
-{% include boton.html url="tel:0314233600" title="Teléfono pbx de la terminal de Bogotá" texto="0314233600" %}
-
-**El número de FAX de la terminal de transporte de Bogotá es 4851616, línea 195**.
-
-## Horarios de la terminal de Bogotá es
-
-En circunstancias normales, **la terminal de transporte de Bogotá está en servicio las 24 horas del día, durante todo el año.**
+**El número de teléfono de la terminal de transporte de Bogotá es [6014233630](tel:6014233630){:rel="nofollow" target="_blank"}**. El número de teléfono PBX de la terminal de Bogotá es [6014233600](tel:6014233600){:rel="nofollow" target="_blank"}. El número de FAX de la terminal de transporte de Bogotá es [4851616](tel:6014851616){:rel="nofollow" target="_blank"}, línea 195.
 
 ## Terminal Salitre
 
 **La terminal de Salitre es la sede central de la Terminal de Transporte de Bogotá, sede administrativa y centro de operaciones de las terminales de Bogotá**. Su nombre se debe a que se ubica en Ciudad Salitre Occidental, en Fontibón. Esta terminal, además del servicio de transporte de pasajeros, también ofrece transporte de carga y servicio de envío de encomiendas.
 
-### Dirección de la terminal Salitre de Bogotá
+### Como llegar a la terminal Salitre de Bogotá
 
 **La dirección de la terminal Salitre es Diagonal 23 # 69 - 11**. Allí también está la oficina de atención al público en el módulo 4 local 138. La dirección es Diagonal 23 # 69 - 60, oficina 502.
 
-#### Ubicación del Terminal de Transporte Salitre en Google Maps y en Waze
-
-{% include boton.html url="https://goo.gl/maps/HYup8wM2tLUUmczA6" title="Ubicación en Google Maps de la terminal de Salitre de Bogotá" texto="Ubicación en Google Maps" %}
-
-{% include boton.html url="https://ul.waze.com/ul?place=ChIJG8KxnpebP44ROO1kfNsbtwM&ll=4.65323860%2C-74.11462880&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación en waze de la terminal Salitre de Bogotá" texto="Ubicación en Waze" %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127263.36454390438!2d-74.3158956835937!3d4.5975800000000175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9b620a4e9ee9%3A0xacea97a0c2615612!2sTerminal%20Salitre%20Bogota!5e0!3m2!1ses-419!2sco!4v1654925222943!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+*Mapa con la ubicación del terminal Salitre de Bogotá*
 
 ## Terminal del Sur de Bogotá
 
-Desde el año 2008, **la Terminal del Sur presta sus servicios para la alta demanda de pasajeros desde Bogotá hacia el sur de Colombia**. Es una sede con locales comerciales, parqueadero y servicios varios. Más adelante tienes más información.
+Desde el año 2008, **la Terminal del Sur presta sus servicios para la alta demanda de pasajeros desde Bogotá hacia el sur de Colombia**. Es una sede con locales comerciales, parqueadero y servicios varios.
 
 ### Teléfono de la Terminal Sur de Bogotá
 
-**Para llamar a la Terminal de Transporte del Sur de Bogotá puedes marcar los números 4233951 y 4233630, línea 145**.  Para llamar, solo necesitas hacer clic en los siguientes botones:
+Los números de teléfono de la terminal Sur de Bogotá son el [4233951](tel:6014233951){:rel="nofollow" target="_blank"} y [4233630](tel:6014233630){:rel="nofollow" target="_blank"}, línea 145.
 
-{% include boton.html url="tel:0314233951" title="Teléfono de la terminal de Bogotá" texto="0314233951" %}
+### Cómo llegar hasta la terminal Sur de Bogotá
 
-{% include boton.html url="tel:0314233630" title="Teléfono de la terminal de Bogotá" texto="0314233630" %}
+**La dirección de la terminal Sur de Bogotá es en el cruce de la avenida Bosa con la Autopista NQS, Calle 57Q #75F - 82**.
 
-### Dirección de la terminal Sur de Bogotá
-
-**La dirección de la terminal Sur de Bogotá es en el cruce de la avenida Bosa con la Autopista NQS, Calle 57Q #75F - 82**. Para facilitar su ubicación, haz clic en los siguientes botones de Google Maps y de Waze.
-
-#### Ubicación del Terminal de Transporte Sur en Google Maps y en Waze
-
-{% include boton.html url="https://goo.gl/maps/LswxZmJTGBMmcHxu8" title="Ubicación en Google Maps de la terminal de transporte sur de Bogotá" texto="Ubicación en Google Maps" %}
-
-{% include boton.html url="https://ul.waze.com/ul?place=EjJUZXJtaW5hbCBEZSBUcmFuc3BvcnRlcyBEZWwgU3VyLCBCb2dvdMOhLCBDb2xvbWJpYSIuKiwKFAoSCRWAWi9Xnj-OETjprRclLy0eEhQKEglnT5JgmwA_jhEEcRxZOMpfVQ&ll=4.59713890%2C-74.17626420&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación en waze de la terminal de transporte sur de Bogotá" texto="Ubicación en Waze" %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31815.841135976094!2d-74.21083892089844!3d4.5975800000000175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9fff6a04615d%3A0xd16587e38bf0ee53!2sterminal%20del%20sur%20bogota!5e0!3m2!1ses-419!2sco!4v1654925506297!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+*Mapa del terminal sur de Bogotá*
 
 ## Terminal del Norte de Bogotá
 
