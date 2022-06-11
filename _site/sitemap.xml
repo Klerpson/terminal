@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://terminaldetransporte.com/</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
@@ -38,13 +38,17 @@
         <image:title>Terminal de Transporte de Manizales</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
         <image:title>Dibujo de viajero planeando viaje en su dispositivo electrónico</image:title>
       </image:image>
   </url>
   <url>
-    <loc>https://terminaldetransporte.com/terminal-de-manizales</loc>
-    <lastmod>2022-05-07</lastmod>
+    <loc>https://terminaldetransporte.com/terminal-de-medellin</loc>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -52,32 +56,44 @@
         <image:title>Logo de la página web Terminal de Transporte</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin.webp</image:loc>
+        <image:title>Terminal de Transporte de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin-norte.webp</image:loc>
+        <image:title>Terminal del norte de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-medellin-norte.webp</image:loc>
+        <image:title>Terminal norte de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/pdf.svg</image:loc>
+        <image:title>Pdf con teléfonos de Terminal del norte y del sur de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-sur-medellin.webp</image:loc>
+        <image:title>Terminal del sur de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-medellin-buses.webp</image:loc>
+        <image:title>Buses en la terminal del sur de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/panoramica-terminal-medellin.webp</image:loc>
+        <image:title>Panorámica de la terminal del sur de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
         <image:title>Terminal de Transporte de Manizales</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-manizales-caldas.webp</image:loc>
-        <image:title>Terminal de transporte de Manizales</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/buses-terminal-manizales-caldas.webp</image:loc>
-        <image:title>Buses de la Terminal de transporte de Manizales</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/zona-espera-terminal-manizales-caldas.webp</image:loc>
-        <image:title>Zona de espera de la terminal de transporte de Manizales</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-de-transporte-manizales-caldas.webp</image:loc>
-        <image:title>Atardecer en la Terminal de transporte de Manizales</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
         <image:title>Terminal de Transporte de Cartagena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin.webp</image:loc>
-        <image:title>Terminal de Transporte de Medellín</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-transporte-neiva.webp</image:loc>
@@ -88,17 +104,13 @@
         <image:title>Terminal de Transporte de Barranquilla</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/valle/terminal-transporte-cali.webp</image:loc>
-        <image:title>Terminal de Transporte de Cali</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
         <image:title>Dibujo de viajero planeando viaje en su dispositivo electrónico</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-barranquilla</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -138,6 +150,10 @@
         <image:title>Foto de la zona de taxis de la terminal de Barranquilla</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
         <image:title>Terminal de Transporte de Manizales</image:title>
       </image:image>
@@ -154,8 +170,58 @@
         <image:title>Terminal de Transporte de Neiva Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/valle/terminal-transporte-cali.webp</image:loc>
-        <image:title>Terminal de Transporte de Cali</image:title>
+        <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
+        <image:title>Dibujo de viajero planeando viaje en su dispositivo electrónico</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/terminal-de-manizales</loc>
+    <lastmod>2022-06-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/logo-terminal-de-transporte-200px.svg</image:loc>
+        <image:title>Logo de la página web Terminal de Transporte</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
+        <image:title>Terminal de Transporte de Manizales</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-manizales-caldas.webp</image:loc>
+        <image:title>Terminal de transporte de Manizales</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/buses-terminal-manizales-caldas.webp</image:loc>
+        <image:title>Buses de la Terminal de transporte de Manizales</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/zona-espera-terminal-manizales-caldas.webp</image:loc>
+        <image:title>Zona de espera de la terminal de transporte de Manizales</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-de-transporte-manizales-caldas.webp</image:loc>
+        <image:title>Atardecer en la Terminal de transporte de Manizales</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
+        <image:title>Terminal de Transporte de Cartagena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin.webp</image:loc>
+        <image:title>Terminal de Transporte de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-transporte-neiva.webp</image:loc>
+        <image:title>Terminal de Transporte de Neiva Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/atlantico/terminal-transporte-barranquilla.webp</image:loc>
+        <image:title>Terminal de Transporte de Barranquilla</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
@@ -164,7 +230,7 @@
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-neiva</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -188,6 +254,10 @@
         <image:title>Vista aérea de la Terminal de transporte de Neiva</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
         <image:title>Terminal de Transporte de Manizales</image:title>
       </image:image>
@@ -202,60 +272,6 @@
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/atlantico/terminal-transporte-barranquilla.webp</image:loc>
         <image:title>Terminal de Transporte de Barranquilla</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/valle/terminal-transporte-cali.webp</image:loc>
-        <image:title>Terminal de Transporte de Cali</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
-        <image:title>Dibujo de viajero planeando viaje en su dispositivo electrónico</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://terminaldetransporte.com/terminal-de-medellin</loc>
-    <lastmod>2022-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/logo-terminal-de-transporte-200px.svg</image:loc>
-        <image:title>Logo de la página web Terminal de Transporte</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin.webp</image:loc>
-        <image:title>Terminal de Transporte de Medellín</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin-norte.webp</image:loc>
-        <image:title>Terminal del norte de Medellín</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-medellin-norte.webp</image:loc>
-        <image:title>Terminal norte de Medellín</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/pdf.svg</image:loc>
-        <image:title>Pdf con teléfonos de Terminal del norte y del sur de Medellín</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
-        <image:title>Terminal de Transporte de Manizales</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
-        <image:title>Terminal de Transporte de Cartagena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-transporte-neiva.webp</image:loc>
-        <image:title>Terminal de Transporte de Neiva Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/atlantico/terminal-transporte-barranquilla.webp</image:loc>
-        <image:title>Terminal de Transporte de Barranquilla</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/valle/terminal-transporte-cali.webp</image:loc>
-        <image:title>Terminal de Transporte de Cali</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
@@ -264,7 +280,7 @@
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-cali</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -284,12 +300,20 @@
         <image:title>Fotografía de empresas de transporte que trabajan en la terminal de transporte de Cali</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://terminaldetransporte.com/img/pdf.svg</image:loc>
+        <image:title>Pdf con teléfonos de Terminal de transporte de Cali</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/valle/terminal-de-cali-valle.webp</image:loc>
-        <image:title>Fotografía de la estructura arquitectónica de la terminal de transporte de Cali</image:title>
+        <image:title>Estructura arquitectónica de la terminal de transporte de Cali</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/valle/letrero-terminal-de-cali-valle.webp</image:loc>
-        <image:title>Fotografía del letrero de la terminal de transporte de Cali</image:title>
+        <image:title>Letrero de la terminal de transporte de Cali</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
@@ -306,10 +330,6 @@
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-transporte-neiva.webp</image:loc>
         <image:title>Terminal de Transporte de Neiva Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/atlantico/terminal-transporte-barranquilla.webp</image:loc>
-        <image:title>Terminal de Transporte de Barranquilla</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
@@ -318,7 +338,7 @@
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-cartagena</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -328,6 +348,10 @@
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
         <image:title>Terminal de Transporte de Cartagena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
@@ -346,17 +370,13 @@
         <image:title>Terminal de Transporte de Barranquilla</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/valle/terminal-transporte-cali.webp</image:loc>
-        <image:title>Terminal de Transporte de Cali</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
         <image:title>Dibujo de viajero planeando viaje en su dispositivo electrónico</image:title>
       </image:image>
   </url>
   <url>
-    <loc>https://terminaldetransporte.com/terminal-de-bogota</loc>
-    <lastmod>2022-05-07</lastmod>
+    <loc>https://terminaldetransporte.com/terminal-de-popayan</loc>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -364,12 +384,24 @@
         <image:title>Logo de la página web Terminal de Transporte</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/cundinamarca/terminal-transporte-bogota-cundinamarca.webp</image:loc>
-        <image:title>Terminal de Transporte de Bogotá</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/cundinamarca/terminal-salitre-bogota-cundinamarca.webp</image:loc>
-        <image:title>Terminal de transporte Salitre de Bogotá</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/servicios-terminal-popayan.webp</image:loc>
+        <image:title>Servicios de la terminal de Popayán</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/pdf.svg</image:loc>
+        <image:title>Pdf con teléfonos de Terminal de Popayán</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/buses-terminal-popayan.webp</image:loc>
+        <image:title>Buses de la terminal de Popayán</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/taxbelalcazar-terminal-popayan.webp</image:loc>
+        <image:title>Taxbelalcazar en la terminal de Popayán</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
@@ -398,7 +430,7 @@
   </url>
   <url>
     <loc>https://terminaldetransporte.com/contacto</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -406,12 +438,46 @@
         <image:title>Logo de la página web Terminal de Transporte</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/tiktok-logo.svg</image:loc>
-        <image:title>Logo de tiktok</image:title>
+        <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
+        <image:title>Dibujo de viajero planeando viaje en su dispositivo electrónico</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/terminal-de-bogota</loc>
+    <lastmod>2022-06-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/logo-terminal-de-transporte-200px.svg</image:loc>
+        <image:title>Logo de la página web Terminal de Transporte</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/instagram-logo.svg</image:loc>
-        <image:title>Logo de Instagram</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/cundinamarca/terminal-transporte-bogota-cundinamarca.webp</image:loc>
+        <image:title>Terminal de Transporte de Bogotá</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/cundinamarca/terminal-salitre-bogota-cundinamarca.webp</image:loc>
+        <image:title>Terminal de transporte Salitre de Bogotá</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-popayan.webp</image:loc>
+        <image:title>Terminal de Transporte de Popayán</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-transporte-manizales.webp</image:loc>
+        <image:title>Terminal de Transporte de Manizales</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
+        <image:title>Terminal de Transporte de Cartagena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin.webp</image:loc>
+        <image:title>Terminal de Transporte de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-transporte-neiva.webp</image:loc>
+        <image:title>Terminal de Transporte de Neiva Huila</image:title>
       </image:image>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/footer/order.gif</image:loc>
@@ -419,14 +485,32 @@
       </image:image>
   </url>
   <url>
+    <loc>https://terminaldetransporte.com/assets/pdf-terminal-cali.pdf</loc>
+    <lastmod>2022-06-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/cdn-cgi/l/email-protection</loc>
+    <lastmod>2022-06-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://terminaldetransporte.com/assets/pdf-terminal-barranquilla.pdf</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://terminaldetransporte.com/assets/pdf-terminal-medellin.pdf</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-06-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/assets/pdf-terminal-popayan.pdf</loc>
+    <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
