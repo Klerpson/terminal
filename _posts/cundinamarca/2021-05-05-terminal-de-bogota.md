@@ -47,11 +47,14 @@ La Terminal de Transportes de Bogotá es una empresa que opera el transporte ter
 
 **Los números de teléfono de la terminal Sur de Bogotá** son el [4233951](tel:6014233951){:rel="nofollow" target="_blank"} y [4233630](tel:6014233630){:rel="nofollow" target="_blank"}, línea 145.
 
+>![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
+[Descargar]({{'assets/pdf-terminal-bogota.pdf' | relative_url}} "Números de teléfono de la terminal de transporte de Bogotá"){:target="_blank" rel="nofollow"}
+
 También, puedes escribir a la terminal a los siguientes correos electrónicos:
 
-* [Email de la terminal de transporte de Bogotá](mailto:terminalbogota@terminaldetransporte.gov.co){:rel="nofollow"}
-* [Email para notificaciones judiciales de la terminal de transporte de Bogotá](mailto:notificacionesjudiciales@terminaldetransporte.gov.co){:rel="nofollow"}
-* [Email del defensor del ciudadano de la terminal de transporte de Bogotá](mailto:defensor.ciudadano@terminaldetransporte.gov.co){:rel="nofollow"}
+* [Email de la terminal de transporte de Bogotá](mailto:terminalbogota@terminaldetransporte.gov.co){:rel="nofollow" target="_blank"}
+* [Email para notificaciones judiciales de la terminal de transporte de Bogotá](mailto:notificacionesjudiciales@terminaldetransporte.gov.co){:rel="nofollow" target="_blank"}
+* [Email del defensor del ciudadano de la terminal de transporte de Bogotá](mailto:defensor.ciudadano@terminaldetransporte.gov.co){:rel="nofollow" target="_blank"}
 
 ## Terminal Salitre de Bogotá
 
@@ -100,6 +103,9 @@ Otros servicios complementarios son:
 * **Restaurantes**. En todos los módulos de la Terminal Salitre encuentras restaurantes, cafeterías y variedad de locales comerciales.
 * **Servicio de vacunación**. Si tu viajes es hacia zonas de altas temperaturas (mucho calor), debes vacunarte contra la fiebre amarilla hasta 10 días antes del viaje. En la terminal te pueden brindar este servicio. También, puedes vacunarte contra el Sarampión y Rubeola. El horario de atención es entre las 07:00 a.m. hasta las 06:00 p.m.
 
+>![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
+[Descargar]({{'assets/pdf-terminal-bogota.pdf' | relative_url}} "Números de teléfono de la terminal de transporte de Bogotá"){:target="_blank" rel="nofollow"}
+
 ## Terminal del Sur de Bogotá
 
 Desde el año 2008, **la Terminal del Sur presta sus servicios para la alta demanda de pasajeros desde Bogotá hacia el sur de Colombia**. Es una sede con locales comerciales, parqueadero y servicios varios.
@@ -108,7 +114,7 @@ Desde el año 2008, **la Terminal del Sur presta sus servicios para la alta dema
 
 **La dirección de la terminal Sur de Bogotá es en el cruce de la avenida Bosa con la Autopista NQS, Calle 57Q #75F - 82**.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31815.841135976094!2d-74.21083892089844!3d4.5975800000000175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9fff6a04615d%3A0xd16587e38bf0ee53!2sterminal%20del%20sur%20bogota!5e0!3m2!1ses-419!2sco!4v1654925506297!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31815.841135976094!2d-74.21083892089844!3d4.5975800000000175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9fff6a04615d%3A0xd16587e38bf0ee53!2sterminal%20del%20sur%20bogota!5e0!3m2!1ses-419!2sco!4v1654925506297!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 *Ubicación del terminal sur de Bogotá*
 
 ### Servicios de la Terminal del Sur de Bogotá
@@ -125,7 +131,7 @@ Desde el año 2017 esta **es la sede que presta los servicios para los departame
 
 **La dirección de la terminal Norte de Bogotá es la Autopista norte con calle 192 # 19-43.**
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127242.30621550235!2d-74.15005467436717!3d4.714006143644031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f85edfa10ee5d%3A0x49000f7cb6fdabb9!2sTerminal%20del%20Norte%20Bogota!5e0!3m2!1ses-419!2sco!4v1654968394988!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127242.30621550235!2d-74.15005467436717!3d4.714006143644031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f85edfa10ee5d%3A0x49000f7cb6fdabb9!2sTerminal%20del%20Norte%20Bogota!5e0!3m2!1ses-419!2sco!4v1654968394988!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 *Ubicación de la terminal del norte de Bogotá en Google Maps*
 
 ### Servicios de la Terminal del Norte de bogotá
@@ -149,6 +155,9 @@ Las estaciones de buses más cercanas son:
 * Avenida La Esperanza con carrera 69d
 * Avenida Boyacá con calle 23
 * Centro Comercial Los Tres Elefantes Avenida Boyacá con calle 23
+
+>![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
+[Descargar]({{'assets/pdf-terminal-bogota.pdf' | relative_url}} "Números de teléfono de la terminal de transporte de Bogotá"){:target="_blank" rel="nofollow"}
 
 **Las estaciones y rutas del transmilenio cercanas a la Terminal de Transporte Salitre son El Tiempo, Maloka y Normandía**.
 
@@ -194,3 +203,6 @@ La misión principal de esta sería ofrecer los servicios para las empresas que 
 * **¿Puedo comprar pasajes en la Terminal Salitre y tomar el transporte en la Terminal del Sur de Bogotá?** Sí, siempre y cuando viajes al sur del país.
 
 Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)
+
+>![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
+[Descargar]({{'assets/pdf-terminal-bogota.pdf' | relative_url}} "Números de teléfono de la terminal de transporte de Bogotá"){:target="_blank" rel="nofollow"}
