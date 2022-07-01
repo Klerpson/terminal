@@ -5,7 +5,7 @@ description: La terminal de Cúcuta te facilita tu viaje a otras ciudades de Col
 category: Norte Santander
 tags: terminal
 h1: La terminal de Cúcuta
-img: img/terminales/terminal-popayan.webp
+img: img/terminales/terminal-cucuta.webp
 alt: Terminal de Transporte de Cúcuta
 excerpt_separator: <!-- excerpt -->
 json:  true
@@ -19,10 +19,9 @@ telefono: 6075836580
 latitude: 7.9087586
 longitude: -72.5394402
 referencias:
-  - Fotografías de la Terminal de Cúcuta en Google Maps: https://www.google.com/maps/place/CENTRAL+DE+TRANSPORTES+C%C3%9ACUTA/@7.8956965,-72.5080074,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPNRLBwZ12w7evCh0fRiGHOmKSHmpThVXXCLNyL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPNRLBwZ12w7evCh0fRiGHOmKSHmpThVXXCLNyL%3Dw529-h298-k-no!7i4000!8i2250!4m7!3m6!1s0x8e6645707d69c31d:0x1e01d8744f37138f!8m2!3d7.8956965!4d-72.5080074!14m1!1BCgIgAQ
+  - Fotografías de la Terminal de Cúcuta en Google Maps: https://www.google.com/maps/place/CENTRAL+DE+TRANSPORTES+C%C3%9ACUTA/@7.8957343,-72.5078088,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN6EbYoCBpUpMex1n8vlhlao-_IOMf2J9s2b-ZY!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN6EbYoCBpUpMex1n8vlhlao-_IOMf2J9s2b-ZY%3Dw203-h152-k-no!7i4096!8i3072!4m5!3m4!1s0x8e6645707d69c31d:0x1e01d8744f37138f!8m2!3d7.8956965!4d-72.5080074
   - Formulario para solicitudes, quejas y reclamos PQR: https://home.terminalcucuta.gov.co/pqrs/
   - Página web de la terminal de Transporte de Cúcuta : https://home.terminalcucuta.gov.co
-published: no
 ---
 **La Terminal de Cúcuta es una de las centrales de transportes más importantes del país**. Desde esta terminal podrá encontrar los mejores destinos que se ajusten a su presupuesto de viaje y los horarios de su preferencia.
 
@@ -58,11 +57,12 @@ Los usuarios podrán elegir entre los distintos destinos como Valledupar, Bucara
 - Seguridad privada.
 - Personal de atención al cliente.
 
+![Parking en la Terminal de Cúcuta]({{'img/terminales/terminal-cucuta-parqueadero.webp' | relative_url}} "Parking de la terminal de Cúcuta"){:width="360" height="240"}
 En los últimos años la terminal ha pasado por ciertas reparaciones. Así su tiempo su tiempo de espera será más cómodo. El interior de este recinto está hecho para que disfrutes tu tiempo mientras es hora de la salida del bus. Gracias al trabajo de la vigilancia y la policía esta terminal es muy segura.
 
 ## ¿Qué empresas de transporte salen de la terminal de Cúcuta?
 
-Esta terminal **cuenta con más de 25 empresas** que ofrecen sus servicios de transporte a todos los usuarios que visitan este recinto. Por tal motivo, te presentamos una **lista de las mejores empresas de transporte que salen desde esta terminal**, para que elijas la que mejor se ajuste a tu presupuesto.
+![Buses de la terminal de Cúcuta]({{'img/terminales/buses-terminal-cucuta.webp' | relative_url}} "Terminal de Cúcuta"){:width="360" height="240"}Esta terminal **cuenta con más de 25 empresas** que ofrecen sus servicios de transporte a todos los usuarios que visitan este recinto. Por tal motivo, te presentamos una **lista de las mejores empresas de transporte que salen desde esta terminal**, para que elijas la que mejor se ajuste a tu presupuesto.
 
 ### Expreso Bolivariano
 
@@ -84,6 +84,7 @@ Las **rutas principales para transportar a sus pasajeros desde la terminal de C�
 - Bucaramanga.
 - Neiva.
 
+![Expreso Bolivariano en la terminal de Cúcuta]({{'img/terminales/expreso-bolivariano-terminal-cucuta.webp' | relative_url}} "Expreso Bolivariano"){:width="360" height="240"}
 Los precios de **los pasajes van desde 43.200 pesos el más económico**. Obviamente eso dependerá del destino que elija. Si necesita información al respecto, puede dirigirse a la oficina de la empresa en la terminal por los siguientes números telefónicos: [5718075](tel:6075718075){:rel="nofollow" target="_blank"} – [5836818](tel:6075836818){:rel="nofollow" target="_blank"}.
 
 ### Berlinas del Fonce

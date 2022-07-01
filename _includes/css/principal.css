@@ -35,30 +35,36 @@
   justify-items: center;
 }
 
-.terminales-section article div {
+.terminales-section section div {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.terminales-section article h3 {
+.terminales-section section h3 {
   text-transform: uppercase;
 }
 
-.terminales-section article a {
+.terminales-section section div a {
   position: relative;
   display: inline-block;
   width: 300px;
+  transition: all .3s ease-out;
 }
 
-.terminales-section article img {
+/* .terminales-section section div a:hover{
+  box-shadow: var(--shadow);
+  transform: scale(1.05);
+} */
+
+.terminales-section section a article img {
   max-width: 100%;
   display: inline-block;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
 
-.terminales-section article h4 {
+.terminales-section section a article h4 {
   position: absolute;
   bottom: .4rem;
   right: 0;

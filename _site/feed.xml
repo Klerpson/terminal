@@ -4,13 +4,21 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-30T22:27:02-05:00</updated>
+     <updated>2022-07-01T08:23:08-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
        <email>info@terminaldetransporte.com</email>
      </author>
 
+ 
+ <entry>
+   <title>La terminal de Cúcuta</title>
+   <link href="http://localhost:4000/terminal-de-cucuta"/>
+   <id>http://localhost:4000/terminal-de-cucuta</id>
+   <updated>2022-06-30T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;&lt;strong&gt;La Terminal de Cúcuta es una de las centrales de transportes más importantes del país&lt;/strong&gt;. Desde esta terminal podrá encontrar los mejores destinos que se ajusten a su presupuesto de viaje y los horarios de su preferencia.&lt;/p&gt; &lt;p&gt;Si vives en Cúcuta y deseas viajar a otras ciudades de Colombia, aquí...</content>
+ </entry>
  
  <entry>
    <title>La terminal de Pasto</title>

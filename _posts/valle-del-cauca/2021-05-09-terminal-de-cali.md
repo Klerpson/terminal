@@ -2,7 +2,7 @@
 layout: articulo
 title: Terminal de transporte de Cali
 description: La terminal de transporte de Cali es una moderna construcción que trae miles de visitantes a diario. Aquí te damos la información que necesitas.
-category: valle
+category: valle del cauca
 tags: terminal
 h1: Terminal de Cali
 img: img/terminales/valle/terminal-transporte-cali.webp
@@ -125,7 +125,7 @@ Además, puedes disponer del servicio desde las siguientes estaciones del MIO de
 
 La terminal de autobuses de Cali se construyó en 1999 para reemplazar una estructura más antigua que había estado en uso desde 1964. La nueva terminal estaba prevista desde 1987, pero su construcción se retrasó por problemas de financiación hasta 1999. Fue diseñada por el arquitecto Alfonso Jaramillo Uribe con la ayuda de ingenieros y arquitectos locales.
 
-![Letrero de la terminal de transporte de Cali]({{ 'img/terminales/valle/letrero-terminal-de-cali-valle.webp' | relative_url}} "Letrero de la terminal de Cali"){:width="300"}
+![Letrero de la terminal de transporte de Cali]({{ 'img/terminales/valle/letrero-terminal-de-cali-valle.webp' | relative_url}} "Letrero de la terminal de Cali"){:width="300" height="200"}
 En el año 1967 se creó la sociedad anónima “Central de Transportes”. Después pasó a llamarse Centrales de Transportes S.A. De esta manera se intentó solucionar el problema del transporte masivo desde y hacia la ciudad de Cali. Este proyecto se aprobó por Planeación Municipal en 1970, y en el año  1971 comenzó su construcción.
 
 Después de 3 años, el 16 de marzo de 1974, se inauguró. Sin embargo, no comenzó a funcionar sino hasta el 16 de agosto del mismo año. **Es digno de mencionar que la terminal de Cali fue la primera terminal de transporte de Colombia y de Suramérica.**
