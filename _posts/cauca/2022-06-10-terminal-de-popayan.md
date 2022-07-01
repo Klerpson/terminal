@@ -7,7 +7,6 @@ tags: terminal
 h1: La terminal de Popayán
 img: img/terminales/terminal-popayan.webp
 alt: Terminal de Transporte de Popayán
-excerpt_separator: <!-- excerpt -->
 json:  true
 ciudad: Popayán
 depto: Cauca
@@ -22,6 +21,7 @@ referencias:
   - Fotografías de la Terminal de Transporte de Popayán en Google Maps: https://www.google.com/maps/place/Terminal+de+Transportes+Popay%C3%A1n+S.A/@2.4508755,-76.6082611,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPnGjPpbt83wm4uOkOn1Q-y-gwECsbAcI0MSLQ2!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPnGjPpbt83wm4uOkOn1Q-y-gwECsbAcI0MSLQ2%3Dw398-h298-k-no!7i4640!8i3472!4m11!1m2!2m1!1sterminal+popayan!3m7!1s0x8e300312c76b681d:0x73357b2bbefcd8f6!8m2!3d2.4508755!4d-76.6082611!14m1!1BCgIgAQ!15sChB0ZXJtaW5hbCBwb3BheWFuWhIiEHRlcm1pbmFsIHBvcGF5YW6SARZ0cmFuc3BvcnRhdGlvbl9zZXJ2aWNlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU56ZVZCcFVWVjNFQUU
   - Formulario para solicitudes, quejas y reclamos PQR: https://terminalpopayan.com/terminal/atencion-al-ciudadano/
   - Página web de la terminal de Transporte de Popayán : http://www.terminalpopayan.com/
+excerpt_separator: <!-- excerpt -->
 ---
 Para viajar desde el Cauca hacia otro lugar de Colombia, **el Terminal de Popayán es la mejor elección**. Los pasajeros podrán encontrar los precios ajustados a su presupuesto y los horarios más convenientes. Si vives en el Cauca y deseas trasladarte a otro destino colombiano, no dudes en hacerlo con las empresas de transporte que se encuentran allí.
 

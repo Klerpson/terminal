@@ -14,10 +14,10 @@ depto: Norte de Santander
 postal: 540006
 direccion: Transversal 9 No 4N - 125 Oficina 201
 calificacion: 3.4
-reviews: 5628
+reviews: 5630
 telefono: 6075836580
-latitude: 7.9087586
-longitude: -72.5394402
+latitude: 7.8956965
+longitude: -72.5101961
 referencias:
   - Fotografías de la Terminal de Cúcuta en Google Maps: https://www.google.com/maps/place/CENTRAL+DE+TRANSPORTES+C%C3%9ACUTA/@7.8957343,-72.5078088,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN6EbYoCBpUpMex1n8vlhlao-_IOMf2J9s2b-ZY!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN6EbYoCBpUpMex1n8vlhlao-_IOMf2J9s2b-ZY%3Dw203-h152-k-no!7i4096!8i3072!4m5!3m4!1s0x8e6645707d69c31d:0x1e01d8744f37138f!8m2!3d7.8956965!4d-72.5080074
   - Formulario para solicitudes, quejas y reclamos PQR: https://home.terminalcucuta.gov.co/pqrs/
