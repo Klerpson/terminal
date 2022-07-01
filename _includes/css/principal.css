@@ -6,7 +6,7 @@
 }
 
 .categorias div {
-  width: min(100%, 800px);
+  width: min(100%, 920px);
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;

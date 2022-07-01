@@ -4,7 +4,7 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-05-07T16:52:37-05:00</updated>
+     <updated>2022-06-30T22:27:02-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
@@ -13,11 +13,29 @@
 
  
  <entry>
-   <title>La Terminal de Manizales</title>
+   <title>La terminal de Pasto</title>
+   <link href="http://localhost:4000/terminal-de-pasto"/>
+   <id>http://localhost:4000/terminal-de-pasto</id>
+   <updated>2022-06-18T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;La &lt;strong&gt;Terminal de Pasto&lt;/strong&gt; es una construcción relativamente reciente, que data del año de 1994. Aunque su aprobación se dio originalmente en 1963, su edificación tardó 31 años. Y ahora es uno de los principales puntos de llegada de muchos visitantes de la ciudad de Pasto.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>La terminal de Popayán</title>
+   <link href="http://localhost:4000/terminal-de-popayan"/>
+   <id>http://localhost:4000/terminal-de-popayan</id>
+   <updated>2022-06-10T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Para viajar desde el Cauca hacia otro lugar de Colombia, &lt;strong&gt;el Terminal de Popayán es la mejor elección&lt;/strong&gt;. Los pasajeros podrán encontrar los precios ajustados a su presupuesto y los horarios más convenientes. Si vives en el Cauca y deseas trasladarte a otro destino colombiano, no dudes en hacerlo con...</content>
+ </entry>
+ 
+ <entry>
+   <title>La terminal de transporte de Manizales</title>
    <link href="http://localhost:4000/terminal-de-manizales"/>
    <id>http://localhost:4000/terminal-de-manizales</id>
    <updated>2021-06-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La terminal de transporte de Manizales es una solución a la necesidad de transporte urbano, intermunicipal, interdepartamental y veredal en el municipio de Manizales. Vigila y coordina la prestación del servicio público de transporte terrestre.&lt;/p&gt;
+   <content type="html">&lt;p&gt;La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.&lt;/p&gt;
 
 </content>
  </entry>
@@ -63,7 +81,7 @@
    <link href="http://localhost:4000/terminal-de-cali"/>
    <id>http://localhost:4000/terminal-de-cali</id>
    <updated>2021-05-09T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La terminal de transporte de Cali es un punto vital y muy concurrido en la ciudad. Aquí se dan muchas actividades comerciales. También pasa mucho turista nacional y extranjero. Además, vienen de todo el país ciudadanos que solo están de paso hacia sus destinos en los municipios cercanos.&lt;/p&gt;
+   <content type="html">&lt;p&gt;La terminal de transporte de Cali es un punto vital y muy concurrido en la ciudad. Aquí se dan muchas actividades comerciales. Pasan muchos usuarios que vienen de todo el país y que solo están de paso hacia sus destinos en los municipios cercanos.&lt;/p&gt;
 
 </content>
  </entry>
@@ -73,7 +91,7 @@
    <link href="http://localhost:4000/terminal-de-bogota"/>
    <id>http://localhost:4000/terminal-de-bogota</id>
    <updated>2021-05-05T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La terminal de transporte de Bogotá es la empresa encargada del transporte terretre nacional y a destinos de Suramérica, desde y hacia la ciudad de Bogotá.&lt;/strong&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;La Terminal de Transportes de Bogotá es una empresa que opera el transporte terrestre nacional y sudamericano desde y hacia la ciudad de Bogotá, en Bogotá Colombia.&lt;/p&gt;
 
 </content>
  </entry>

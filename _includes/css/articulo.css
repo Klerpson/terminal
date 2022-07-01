@@ -89,7 +89,7 @@
 .articulo article iframe{
   box-shadow: var(--shadow);
   border-radius: var(--radius);
-  max-width: 100%;
+  width: 100%;
 }
 
 .articulo article a{

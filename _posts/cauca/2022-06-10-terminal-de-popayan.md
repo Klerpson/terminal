@@ -11,7 +11,7 @@ excerpt_separator: <!-- excerpt -->
 json:  true
 ciudad: Popayán
 depto: Cauca
-postal: 190001 
+postal: 190001
 direccion: Transversal 9 No 4N - 125 Oficina 201
 calificacion: 4.0
 reviews: 8370

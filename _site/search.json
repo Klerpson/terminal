@@ -2,7 +2,27 @@
   
     {
 
-      "title"    : "Terminal de transporte de Manizales",
+      "title"    : "Terminal de Pasto",
+      "url"      : "/terminal-de-pasto",
+      "category" : "Mira más en: Nariño",
+      "url-cat"  : "/#nariño",
+      "tags"     : "terminal"
+
+    } ,
+  
+    {
+
+      "title"    : "Terminal de Popayán",
+      "url"      : "/terminal-de-popayan",
+      "category" : "Mira más en: Cauca",
+      "url-cat"  : "/#cauca",
+      "tags"     : "terminal"
+
+    } ,
+  
+    {
+
+      "title"    : "Terminal de Manizales",
       "url"      : "/terminal-de-manizales",
       "category" : "Mira más en: Caldas",
       "url-cat"  : "/#Caldas",
