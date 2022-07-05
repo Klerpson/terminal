@@ -223,7 +223,7 @@ nav {
 
 nav ul {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: right;
   align-items: center;
 }
 
