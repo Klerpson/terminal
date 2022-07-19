@@ -4,7 +4,7 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-07-19T14:10:13-05:00</updated>
+     <updated>2022-07-19T14:32:26-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
@@ -63,7 +63,9 @@
    <link href="http://localhost:4000/terminal-de-santa-marta"/>
    <id>http://localhost:4000/terminal-de-santa-marta</id>
    <updated>2021-06-17T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Las terminales de Medellín se dividen en 2 terminales de transporte&lt;/strong&gt;. La primera comenzó en el norte de la ciudad, conocida como &lt;strong&gt;Mariano Ospina Pérez o terminal del Norte&lt;/strong&gt;. Pero en poco tiempo se el volumen de viajeros superó su capacidad. Entonces, nace la segunda terminal de transporte al sur...</content>
+   <content type="html">&lt;p&gt;La terminal de Santa Marta es una central que brinda servicios de traslado terrestre de pasajeros, así como de cargas y encomiendas. Su alcance es internacional e intermunicipal desde y hacia la población de su mismo nombre.&lt;/p&gt;
+
+</content>
  </entry>
  
  <entry>
