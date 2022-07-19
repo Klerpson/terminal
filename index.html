@@ -4,38 +4,82 @@ title: Terminal de Transporte
 h1: Somos la terminal de transporte de Colombia
 description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
 ---
+
 {% include header.html %}
+
+<!-- Anuncio segundo -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3100194943394350"
+     data-ad-slot="4802150713"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- fin anuncio segundo -->
 <section class="categorias">
-  <p><strong>¿Qué terminal de Colombia necesitas?</strong> Aquí las encuentras separadas por departamentos. Haz clic en
-    el botón de la terminal de transporte que estás buscando. Mira su información y prepara tu próximo viaje.</p>
+  <p>
+    <strong>¿Qué terminal de Colombia necesitas?</strong> Aquí las encuentras
+    separadas por departamentos. Haz clic en el botón de la terminal de
+    transporte que estás buscando. Mira su información y prepara tu próximo
+    viaje.
+  </p>
   <div>
-    {% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <a href="{{ site.baseurl }}/#{{ category_name }}" title="Terminales de transporte {{ category_name }}"
-      class="boton">{{ category_name | capitalize | normalize_whitespace }}</a>
+    {% for category in site.categories %} {% capture category_name %}{{ category
+    | first }}{% endcapture %}
+    <a
+      href="{{ site.baseurl }}/#{{ category_name }}"
+      title="Terminales de transporte {{ category_name }}"
+      class="boton"
+      >{{ category_name | capitalize | normalize_whitespace }}</a
+    >
     {% endfor %}
   </div>
 </section>
 <section class="terminales-intro">
   <h2>Principales terminales de transporte del país</h2>
 
-  <p>Haz clic en la terminal que estás buscando para ver su ubicación, horarios y más. También preparamos <strong>un
-      archivo pdf gratis con los teléfonos de las empresas de buses que te llevaran a tu destino</strong>. Haz clic en los
-    botones de descarga de cada terminal.</p>
+  <p>
+    Haz clic en la terminal que estás buscando para ver su ubicación, horarios y
+    más. También preparamos
+    <strong
+      >un archivo pdf gratis con los teléfonos de las empresas de buses que te
+      llevaran a tu destino</strong
+    >. Haz clic en los botones de descarga de cada terminal.
+  </p>
+  <!-- Anuncio primero -->
+  <ins
+    class="adsbygoogle"
+    style="display: block"
+    data-ad-client="ca-pub-3100194943394350"
+    data-ad-slot="4249871973"
+    data-ad-format="auto"
+    data-full-width-responsive="true"
+  ></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <!-- End anuncio primero -->
   <div class="terminales-section">
-    {% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% for category in site.categories %} {% capture category_name %}{{ category
+    | first }}{% endcapture %}
     <section id="{{ category_name}}">
-      <h3>{{ category_name | capitalize}}
-      </h3>
+      <h3>{{ category_name | capitalize}}</h3>
       <div>
         {% for post in site.categories[category_name] %}
         <a href="{{site.baseurl}}{{ post.url }}" title="{{post.title}}">
           <article>
-          <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}" width="300" height="200"
-            title="Fotografía de la {{post.title}}" loading="lazy">
-          <h4>{{ post.title }}</h4>
-        </article>
+            <img
+              src="{{ site.baseurl }}/{{ post.img }}"
+              alt="{{ post.alt }}"
+              width="300"
+              height="200"
+              title="Fotografía de la {{post.title}}"
+              loading="lazy"
+            />
+            <h4>{{ post.title }}</h4>
+          </article>
         </a>
         {% endfor %}
       </div>
@@ -45,24 +89,46 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
   <!-- BUSCADOR -->
   <div id="search-container">
     <h2>Busca la terminal de transporte que necesitas</h2>
-    <input type="text" id="search-input" placeholder="También puedes buscarlo aquí..."
-      style="font-family: var(--fuenteTexto);">
+    <input
+      type="text"
+      id="search-input"
+      placeholder="También puedes buscarlo aquí..."
+      style="font-family: var(--fuenteTexto)"
+    />
     <ul id="results-container"></ul>
   </div>
   <!-- FIN BUSCADOR -->
-  <p>Estas son las terminales de transporte más buscadas en Colombia: <strong>la terminal de Cali, la terminal Salitre, la terminal Sur de Bogotá, la terminal Norte y la terminal Sur de Medellín, la terminal de Santa Marta, la terminal de Manizales, la terminal de Barranquilla y la terminal de Cartagena.</strong> </p>
-  <p>En nuestra página <b>Terminales de Transporte</b> preparamos toda la información que necesitas para tu paso por cada terminal. ¿Te gustaría saber algo más? Visita nuestras redes sociales y escríbenos qué más podemos preparar para que viajes bien informado.</p>
+  <p>
+    Estas son las terminales de transporte más buscadas en Colombia:
+    <strong
+      >la terminal de Cali, la terminal Salitre, la terminal Sur de Bogotá, la
+      terminal Norte y la terminal Sur de Medellín, la terminal de Santa Marta,
+      la terminal de Manizales, la terminal de Barranquilla y la terminal de
+      Cartagena.</strong
+    >
+  </p>
+  <p>
+    En nuestra página <b>Terminales de Transporte</b> preparamos toda la
+    información que necesitas para tu paso por cada terminal. ¿Te gustaría saber
+    algo más? Visita nuestras redes sociales y escríbenos qué más podemos
+    preparar para que viajes bien informado.
+  </p>
 </section>
 
 {% include footer.html %}
 
 <!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+<script
+  src="{{site.baseurl}}/js/search-script.js"
+  type="text/javascript"
+></script>
 <!-- Configuration -->
 <script>
   SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '{{site.baseurl}}/search.json'
-  })
+    searchInput: document.getElementById("search-input"),
+    resultsContainer: document.getElementById("results-container"),
+    json: "{{site.baseurl}}/search.json",
+  });
 </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3100194943394350" crossorigin="anonymous"></script>
+

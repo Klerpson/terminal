@@ -4,7 +4,7 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-07-05T08:55:16-05:00</updated>
+     <updated>2022-07-19T13:54:22-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
@@ -59,6 +59,14 @@
  </entry>
  
  <entry>
+   <title>La terminal de Santa Marta</title>
+   <link href="http://localhost:4000/terminal-de-santa-marta"/>
+   <id>http://localhost:4000/terminal-de-santa-marta</id>
+   <updated>2021-06-17T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Las terminales de Medellín se dividen en 2 terminales de transporte&lt;/strong&gt;. La primera comenzó en el norte de la ciudad, conocida como &lt;strong&gt;Mariano Ospina Pérez o terminal del Norte&lt;/strong&gt;. Pero en poco tiempo se el volumen de viajeros superó su capacidad. Entonces, nace la segunda terminal de transporte al sur...</content>
+ </entry>
+ 
+ <entry>
    <title>Terminal Norte y Terminal Sur de Medellín</title>
    <link href="http://localhost:4000/terminal-de-medellin"/>
    <id>http://localhost:4000/terminal-de-medellin</id>
@@ -90,16 +98,6 @@
    <id>http://localhost:4000/terminal-de-cali</id>
    <updated>2021-05-09T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;La terminal de transporte de Cali es un punto vital y muy concurrido en la ciudad. Aquí se dan muchas actividades comerciales. Pasan muchos usuarios que vienen de todo el país y que solo están de paso hacia sus destinos en los municipios cercanos.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Terminal Salitre, terminal del Sur y terminal del Norte de Bogotá</title>
-   <link href="http://localhost:4000/terminal-de-bogota"/>
-   <id>http://localhost:4000/terminal-de-bogota</id>
-   <updated>2021-05-05T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La Terminal de Transportes de Bogotá es una empresa que opera el transporte terrestre nacional y sudamericano desde y hacia la ciudad de Bogotá, en Bogotá Colombia.&lt;/p&gt;
 
 </content>
  </entry>

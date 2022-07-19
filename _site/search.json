@@ -52,6 +52,16 @@
   
     {
 
+      "title"    : "Terminal de Santa Marta",
+      "url"      : "/terminal-de-santa-marta",
+      "category" : "Mira más en: Magdalena",
+      "url-cat"  : "/#Magdalena",
+      "tags"     : "terminal"
+
+    } ,
+  
+    {
+
       "title"    : "Terminal del norte y del sur de Medellín",
       "url"      : "/terminal-de-medellin",
       "category" : "Mira más en: Antioquia",
