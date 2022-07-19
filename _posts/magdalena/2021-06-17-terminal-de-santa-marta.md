@@ -20,9 +20,8 @@ latitude: 11.2354608
 longitude: -74.2145498
 referencias:
   - Fotografías de la Terminal de transporte de Santa Marta en Google Maps: https://www.google.com/maps/place/Terminal+de+Transportes+de+Santa+Marta/@11.2214836,-74.1808864,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOvc80dalBNPxN-1fPfF8j6P1qbEgJ-C2oLNZCq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOvc80dalBNPxN-1fPfF8j6P1qbEgJ-C2oLNZCq%3Dw397-h298-k-no!7i4000!8i3000!4m11!1m2!2m1!1sterminal+santa+marta!3m7!1s0x8ef4f5afb8da4093:0x4bfa83f8bbebb7df!8m2!3d11.2214836!4d-74.1808864!14m1!1BCgIgAQ!15sChR0ZXJtaW5hbCBzYW50YSBtYXJ0YVoWIhR0ZXJtaW5hbCBzYW50YSBtYXJ0YZIBC2J1c19zdGF0aW9umgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJ4TlhaSU9UUjNSUkFC
-  - Formulario para solicitudes, quejas y reclamos PQR: http://www.terminalesmedellin.com/transparencia/atencion-al-ciudadano/pqrs-peticiones-quejas-reclamos-y-sugerencias/
+  - Formulario para solicitudes, quejas y reclamos PQR: https://terminaldesantamarta.com/entidad/peticiones-quejas
   - Página web de la terminal de transporte de Santa Marta : https://terminaldesantamarta.com/
-  - Página web EnCicla: https://www.encicla.gov.co
 ---
 La terminal de Santa Marta es una central que brinda servicios de traslado terrestre de pasajeros, así como de cargas y encomiendas. Su alcance es internacional e intermunicipal desde y hacia la población de su mismo nombre.
 
