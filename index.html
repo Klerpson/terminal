@@ -4,20 +4,7 @@ title: Terminal de Transporte
 h1: Somos la terminal de transporte de Colombia
 description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
 ---
-
 {% include header.html %}
-
-<!-- Anuncio segundo -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3100194943394350"
-     data-ad-slot="4802150713"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- fin anuncio segundo -->
 <section class="categorias">
   <p>
     <strong>¿Qué terminal de Colombia necesitas?</strong> Aquí las encuentras
@@ -48,19 +35,7 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
       llevaran a tu destino</strong
     >. Haz clic en los botones de descarga de cada terminal.
   </p>
-  <!-- Anuncio primero -->
-  <ins
-    class="adsbygoogle"
-    style="display: block"
-    data-ad-client="ca-pub-3100194943394350"
-    data-ad-slot="4249871973"
-    data-ad-format="auto"
-    data-full-width-responsive="true"
-  ></ins>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
-  <!-- End anuncio primero -->
+  
   <div class="terminales-section">
     {% for category in site.categories %} {% capture category_name %}{{ category
     | first }}{% endcapture %}
@@ -130,5 +105,4 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
     json: "{{site.baseurl}}/search.json",
   });
 </script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3100194943394350" crossorigin="anonymous"></script>
 
