@@ -39,6 +39,18 @@ Si estás planeando tomar un autobús desde Barranquilla a otra ciudad o pueblo,
 
 Barranquilla cuenta con varias terminales de autobuses, como la Estación de Transporte Norte (ETN), la Estación de Transporte Sur (ETS) y la Estación de Transporte Caribe (ETC). Te hablaremos de esta última.
 
+<!-- Anuncio de feed -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gn-g+17-42+8g"
+     data-ad-client="ca-pub-3100194943394350"
+     data-ad-slot="4957035711"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- fin anuncio feed -->
+
 **La dirección de la terminal de Barranquilla es Carrera 14 # 54 - 98, ubicada en el municipio de Soledad a 1,5 kilómetros de la ciudad, sobre la avenida del sol**. La atención al público es en el módulo C, piso 2. Además, te dejamos el código postal de la zona: 083004.
 
 Su ubicación es privilegiada. Está a solo 45 minutos del Centro de Eventos Puerta de Oro. También está cerca de la zona hotelera con 45 minutos de distancia.
@@ -54,6 +66,18 @@ Por otra parte, la terminal también tiene contacto por WhatsApp. **El número d
 
 >![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }}) Descarga los teléfonos de las empresas de buses de {{page.title}}
 [Descargar]({{'assets/pdf-terminal-barranquilla.pdf' | relative_url}} "Números de teléfono de la terminal de Barranquilla"){:target="_blank"}
+
+<!-- Anuncio de feed -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gn-g+17-42+8g"
+     data-ad-client="ca-pub-3100194943394350"
+     data-ad-slot="4957035711"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- fin anuncio feed -->
 
 Otra forma de comunicarte con la terminal es por email. Para escribirles por este medio tienen varias opciones:
 

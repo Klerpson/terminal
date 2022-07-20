@@ -58,6 +58,18 @@ Los horarios de atención al público en la terminal son:
 * Lunes a jueves, de 7am a 12pm y de 12:30pm a 4:30 pm
 * Viernes es de 7am a 12pm y de 12:30 pm a 15:30 pm.
 
+<!-- Anuncio de feed -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gn-g+17-42+8g"
+     data-ad-client="ca-pub-3100194943394350"
+     data-ad-slot="4957035711"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- fin anuncio feed -->
+
 ### Teléfono de la Terminal del Norte de Medellín
 
 La terminal del Norte tiene 2 números de teléfono:
@@ -94,6 +106,18 @@ Desde luego, la zona de alimentos es uno de los puntos más importantes de la te
 >![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
 [Descargar]({{'assets/pdf-terminal-medellin.pdf' | relative_url}} "Números de teléfono de la terminal del Norte y del Sur de Medellín"){:target="_blank" rel="nofollow"}
 
+<!-- Anuncio segundo -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3100194943394350"
+     data-ad-slot="4802150713"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- fin anuncio segundo -->
+
 ### Rutas de la terminal del Norte de Medellín
 
 La Terminal Norte sirve de parada de tránsito **para quienes visitan Medellín, tanto si se dirigen al norte, al otro aeropuerto de la ciudad, El dorado, como al sur, a Cartagena y Santa Marta.**
@@ -121,6 +145,18 @@ El número telefónico es **6044448020 extensión 151**. También disponen del n
 ## Correo electrónico de las Terminales de Medellín
 
 El correo electrónico de la terminal de transporte de Medellín es **{% include boton.html url="mailto:informacion@terminalesmedellin.com" title="Email de la terminal de transporte de Medellín" texto="E-mail Info" %}**.
+
+<!-- Anuncio de feed -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gn-g+17-42+8g"
+     data-ad-client="ca-pub-3100194943394350"
+     data-ad-slot="4957035711"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- fin anuncio feed -->
 
 Para **solicitar el auditorio de la terminal Norte de Medellín**, tienen habilitado el correo electrónico **{% include boton.html url="mailto:mercadeo@terminalesmedellin.com." title="Email de para solicitar el auditorio de la terminal Norte de transporte de Medellín" texto="E-mail auditorio" %}**.
 
