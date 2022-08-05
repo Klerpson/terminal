@@ -30,7 +30,9 @@ La **Terminal de Pasto** es una construcción relativamente reciente, que data d
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Como llegar a la terminal de Pasto
+## Contacta a la terminal de Pasto
+
+**Para llamar a la terminal de Pasto debes marcar el número de teléfono [8231827](tel:6028231827){:rel="nofollow"}**. También puedes contactarlos escribiendo al correo **secretaria@terminalpopayan.com**. También puedes enviar PQR's en la [web oficial de la terminal](#fuentes).
 
 **La terminal de Pasto se encuentra ubicada en la zona suroccidental de la ciudad de Pasto**, con fácil acceso vehicular y a través del transporte público.
 
@@ -41,7 +43,6 @@ La **Terminal de Pasto** es una construcción relativamente reciente, que data d
 
 La ciudad de Pasto también cuenta con 2 terminales mixtas auxiliares, que se dedican no solamente al transporte de pasajeros sino también a envíos y encomiendas.
 
-**Para llamar a la terminal de Pasto debes marcar el número [8231827](tel:6028231827){:rel="nofollow"}**. También puedes contactarlos escribiendo al correo **secretaria@terminalpopayan.com**. También puedes enviar PQR's en la [web oficial de la terminal](#fuentes).
 
 Los horarios de atención al público son de lunes a viernes,  desde las 8:00 a.m. hasta las 12:00 p.m., y de 2:00 p.m. hasta las 6:00 p.m.
 
