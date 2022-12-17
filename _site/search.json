@@ -82,6 +82,16 @@
   
     {
 
+      "title"    : "Terminal de transporte de Pitalito",
+      "url"      : "/terminal-de-pitalito",
+      "category" : "Mira más en: Huila",
+      "url-cat"  : "/#huila",
+      "tags"     : "terminal"
+
+    } ,
+  
+    {
+
       "title"    : "Terminal de transporte de Neiva",
       "url"      : "/terminal-de-neiva",
       "category" : "Mira más en: Huila",

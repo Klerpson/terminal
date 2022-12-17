@@ -66,6 +66,9 @@ Haz clic en estos botones para usar aplicaciones con mapas y saber cómo llegar:
 
 Para llegar al terminal de Neiva puedes tomar el bus que vaya por la transversal quinta o uno que vaya por la calle quinta.
 
+>![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
+[Descargar]({{'assets/pdf-terminal-neiva.pdf' | relative_url}} "Números de teléfono de la terminal del Norte y del Sur de Neiva"){:target="_blank" rel="nofollow"}
+
 ## Servicios de la terminal de Neiva
 
 Estos son los servicios que se prestan en esta terminal:
@@ -88,34 +91,10 @@ Estos son los servicios que se prestan en esta terminal:
 
 ## Comprar pasajes en la terminal de Neiva
 
-Hasta la fecha, se registran mas de 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. **Solo haz clic en el botón del teléfono de la empresa que necesitas para comprar tu pasaje o tiquete de viaje.**
+Hasta la fecha, se registran mas de 23 empresas trabajando en esta terminal de transporte. Esta lista de las empresas de buses contiene el nombre de la empresa y el teléfono. **Solo haz clic en el botón del archivo PDF y busca el teléfono de la empresa que necesitas para comprar tu pasaje o tiquete de viaje.**
 
-| 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
-| --- | :---: |
-| **Expreso Bolivariano** | {% include boton.html url="tel:0388731002" title="Teléfono de Expreso Bolivariano en la terminal de Neiva" texto="0388731002" %} |
-| **Coomotor** | {% include boton.html url="tel:0388733501" title="Teléfono 1 de Coomotor en la terminal de Neiva" texto="0388733501" %} {% include boton.html url="tel:0388730936" title="Teléfono 2 de Coomotor en la terminal de Neiva" texto="0388730936" %} {% include boton.html url="tel:0388730937" title="Teléfono 3 de Coomotor en la terminal de Neiva" texto="0388730937" %} {% include boton.html url="tel:+573176394462" title="Teléfono 4 de Coomotor en la terminal de Neiva" texto="3176394462" %} |
-| **Cootranshuila** | {% include boton.html url="tel:+573158706465" title="Teléfono de Cootranshuila 1 en la terminal de Neiva" texto="315 870 6465" %} {% include boton.html url="tel:+573102923687" title="Teléfono de Cootranshuila 2 en la terminal de Neiva" texto="310 292 3687" %} |
-| **Coomotor Florencia** | {% include boton.html url="tel:0388730874" title="Teléfono de Coomotor Florencia en la terminal de Neiva" texto="0388730874" %} |
-| **Cootranscaquetá** | {% include boton.html url="tel:0388705651" title="Teléfono de Cootransquetá 1 en la terminal de Neiva" texto="0388705651" %} {% include boton.html url="tel:+573158762975" title="Teléfono de Cootransquetá 2 en la terminal de Neiva" texto="315 876 2975" %} |
-| **Transyari** | {% include boton.html url="tel:0388705651" title="Teléfono de Transyari 1 en la terminal de Neiva" texto="0388705651" %} {% include boton.html url="tel:+573123511685" title="Teléfono de Transyari 2 en la terminal de Neiva" texto="312 351 1685" %} {% include boton.html url="tel:+573213331832" title="Teléfono de Transyari 3 en la terminal de Neiva" texto="321 333 1832" %} |
-| **La Gaitana** | {% include boton.html url="tel:0388706481" title="Teléfono de La Gaitana 1 en la terminal de Neiva" texto="0388706481" %} {% include boton.html url="tel:0388730761" title="Teléfono de La Gaitana 2 en la terminal de Neiva" texto="0388730761" %} {% include boton.html url="tel:0388602828" title="Teléfono de La Gaitana 3 en la terminal de Neiva" texto="0388602828" %} |
-| **Taxis Verdes** | {% include boton.html url="tel:+573133258056" title="Teléfono de Taxis Verdes 1 en la terminal de Neiva" texto="313 325 8056" %} {% include boton.html url="tel:0388735192" title="Teléfono de Taxis verdes 2 en la terminal de Neiva" texto="0388735192" %} {% include boton.html url="tel:0388720637" title="Teléfono de taxis verdes 3 en la terminal de Neiva" texto="0388720637" %} |
-| **Flota Magdalena** | {% include boton.html url="tel:0388731105" title="Teléfono de flota Magdalena en la terminal de Neiva" texto="0388731105" %} |
-| **Flota Huila** | {% include boton.html url="tel:0388736492" title="Teléfono de flota Huila 1 en la terminal de Neiva" texto="0388736492" %} {% include boton.html url="tel:0388734959" title="Teléfono de flota Huila 2 en la terminal de Neiva" texto="0388734959" %} {% include boton.html url="tel:0388731001" title="Teléfono de flota Huila 3 en la terminal de Neiva" texto="0388731001" %} {% include boton.html url="tel:0388730761" title="Teléfono de flota Huila 4 en la terminal de Neiva" texto="0388730761" %} |
-| **Cootransgigante** | {% include boton.html url="tel:0388730241" title="Teléfono de cootransgigante en la terminal de Neiva" texto="0388730241" %} |
-| **Cootranslaboyana** | {% include boton.html url="tel:0388731168" title="Teléfono de cootranslaboyana en la terminal de Neiva" texto="0388731168" %} |
-| **Cootransplateña** | {% include boton.html url="tel:0388734133" title="Teléfono de cootransplateña en la terminal de Neiva" texto="0388734133" %} |
-| **Cootransgar** | {% include boton.html url="tel:0388601133" title="Teléfono de cootransgar en la terminal de Neiva" texto="0388601133" %} |
-| **Cootransmaría** | {% include boton.html url="tel:+573132047344" title="Teléfono de cootransmaría en la terminal de Neiva" texto="313 204 7344" %} |
-| **Coointrasur** | {% include boton.html url="tel:0388732082" title="Teléfono de coointrasur en la terminal de Neiva" texto="0388732082" %} |
-| **Velotax** | {% include boton.html url="tel:0388721424" title="Teléfono de velotax en la terminal de Neiva" texto="0388721424" %} |
-| **Rápido Tolima** | {% include boton.html url="tel:+573105629119" title="Teléfono de rápido Tolima 1 en la terminal de Neiva" texto="310 562 9119" %} {% include boton.html url="tel:0388730850" title="Teléfono de rápido Tolima 2 en la terminal de Neiva" texto="0388730850" %} |
-| **Cootranscaguán** | {% include boton.html url="tel:0388704592" title="Teléfono de Cootranscaguán en la terminal de Neiva" texto="0388704592" %} |
-| **Sootransvega** | {% include boton.html url="tel:0388600773" title="Teléfono de Sootransvega 1 en la terminal de Neiva" texto="0388600773" %} {% include boton.html url="tel:0388700730" title="Teléfono de Sootransvega 2 en la terminal de Neiva" texto="0388700730" %} |
-| **Pony Express** | {% include boton.html url="tel:0388704907" title="Teléfono de Pony Express 1 en la terminal de Neiva" texto="0388704907" %} {% include boton.html url="tel:0388600840" title="Teléfono de Pony Express 2 en la terminal de Neiva" texto="0388600840" %} {% include boton.html url="tel:0388708066" title="Teléfono de Pony Express 3 en la terminal de Neiva" texto="0388708066" %} |
-| **Cootransmayo** | {% include boton.html url="tel:0388731113" title="Teléfono de Cootransmayo en la terminal de Neiva" texto="0388731113" %} |
-| **Transipiales** | {% include boton.html url="tel:+573168328825" title="Teléfono de Transipiales 1 en la terminal de Neiva" texto="316 832 8825" %} {% include boton.html url="tel:0388733444" title="Teléfono de Transipiales 2 en la terminal de Neiva" texto="0388733444" %} |
-| **Coflonorte** | {% include boton.html url="tel:0388754900" title="Teléfono de Coflonorte 1 en la terminal de Neiva" texto="0388754900" %} |
+>![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
+[Descargar]({{'assets/pdf-terminal-neiva.pdf' | relative_url}} "Números de teléfono de la terminal del Norte y del Sur de Neiva"){:target="_blank" rel="nofollow"}
 
 {% include img.html img="terminales/huila/empresas-transporte-terminal-neiva.webp" img-mini="terminales/huila/empresas-transporte-terminal-neiva-huila.webp" alt="Buses de la terminal de transporte de Neiva" title="Buses de transporte de la terminal de Neiva" %}
 *Empresas de transporte de la terminal de Neiva - Fotografía de [Google Maps](#fuentes)*
@@ -150,87 +129,11 @@ Es el área de llegada donde descienden los pasajeros. Tiene locales comerciales
 
 {% include noticias.html %}
 
-## Rutas desde la terminal de Neiva
-
-Estos son los destinos a los que puedes viajar desde la terminal de Neiva:
-
-* Terminal de Neiva a Acevedo
-* Terminal de Neiva a Algeciras
-* Terminal de Neiva a Altamira
-* Terminal de Neiva a Alvarado
-* Terminal de Neiva a Belén
-* Terminal de Neiva a Bogotá
-* Terminal de Neiva a Campoalegre
-* Terminal de Neiva a Castilla
-* Terminal de Neiva a Chaparral
-* Terminal de Neiva a Cruce Aipe
-* Terminal de Neiva a Doradal
-* Terminal de Neiva a El Agrado
-* Terminal de Neiva a El Santuario
-* Terminal de Neiva a Florencia
-* Terminal de Neiva a Gallego
-* Terminal de Neiva a Garzón
-* Terminal de Neiva a Gigante
-* Terminal de Neiva a Guadalupe
-* Terminal de Neiva a Guamo
-* Terminal de Neiva a Hobo
-* Terminal de Neiva a Isnos
-* Terminal de Neiva a La Argentina
-* Terminal de Neiva a La Dorada
-* Terminal de Neiva a La Hormiga
-* Terminal de Neiva a La Plata
-* Terminal de Neiva a Natagaima
-* Terminal de Neiva a Marinilla
-* Terminal de Neiva a Mariquita
-* Terminal de Neiva a Melgar
-* Terminal de Neiva a Montañita
-* Terminal de Neiva a Paicol
-* Terminal de Neiva a Puerto Caicedo
-* Terminal de Neiva a Puerto Rico
-* Terminal de Neiva a Puerto Umbría
-* Terminal de Neiva a Saldana
-* Terminal de Neiva a San Agustín
-* Terminal de Neiva a San Miguel
-* Terminal de Neiva a San Vicente del Caguán
-* Terminal de Neiva a Silvania
-* Terminal de Neiva a Suaza
-* Terminal de Neiva a Tesalia
-* Terminal de Neiva a Timaná
-* Terminal de Neiva a Villalobos
-* Terminal de Neiva a Yarumo
-* Terminal de Neiva a Terminal de Aipe
-* Terminal de Neiva a Terminal de Armenia
-* Terminal de Neiva a Terminal de Barranquilla
-* Terminal de Neiva a Terminal de Bucaramanga
-* Terminal de Neiva a Terminal de Buga
-* Terminal de Neiva a Terminal de Cali
-* Terminal de Neiva a Terminal de Espinal
-* Terminal de Neiva a Terminal de Florencia
-* Terminal de Neiva a Terminal de Fusagasugá
-* Terminal de Neiva a Terminal de Garzón
-* Terminal de Neiva a Terminal de Honda
-* Terminal de Neiva a Terminal de Ibagué
-* Terminal de Neiva a Terminal de Leticia
-* Terminal de Neiva a Terminal de Manizales
-* Terminal de Neiva a Terminal de Marinilla
-* Terminal de Neiva a Terminal de Medellín
-* Terminal de Neiva a Terminal de Mocoa
-* Terminal de Neiva a Terminal de Palmira
-* Terminal de Neiva a Terminal de Paujil
-* Terminal de Neiva a Terminal de Pereira
-* Terminal de Neiva a Terminal de Pitalito
-* Terminal de Neiva a Terminal de Popayán
-* Terminal de Neiva a Terminal de Puerto Asís
-* Terminal de Neiva a Terminal de Rionegro
-* Terminal de Neiva a Terminal de Santana
-* Terminal de Neiva a Terminal de Soacha
-* Terminal de Neiva a Terminal de Tuluá
-* Terminal de Neiva a Terminal de Villagarzón
-* Terminal de Neiva a Terminal del Sur (Bogotá)
-* Terminal de Neiva a Terminal Salitre
-
 {% include img.html img="terminales/huila/terminal-neiva.webp" img-mini="terminales/huila/terminal-neiva-huila.webp" alt="Vista aérea de la Terminal de transporte de Neiva" title="Terminal de Neiva Huila" %}
 *Foto de la Terminal de transporte de Neiva - Fotografía de [Google Maps](#fuentes)*
+
+>![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }})Descarga los teléfonos de las empresas de buses de {{page.title}}
+[Descargar]({{'assets/pdf-terminal-neiva.pdf' | relative_url}} "Números de teléfono de la terminal del Norte y del Sur de Neiva"){:target="_blank" rel="nofollow"}
 
 ## Datos e historia de la terminal de transporte de Neiva
 
@@ -249,4 +152,4 @@ Legalmente, queda constituida de la siguiente manera:
 * Actividad: Actividades de estaciones, vías y servicios complementarios para el transporte terrestre
 * NIT: 8911028243
 
-Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial.](#fuentes)
+Para ver las políticas legales de la terminal de transporte, puede consultar su [página web oficial](#fuentes).

@@ -91,6 +91,7 @@
   box-shadow: var(--shadow);
   border-radius: var(--radius);
   width: 100%;
+  aspect-ratio: 16 / 9;
 }
 
 .articulo article a{
