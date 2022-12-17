@@ -274,7 +274,7 @@ nav ul li a:hover {
 }
 
 .categorias div {
-  width: min(100%, 920px);
+  width: min(100%, 1024px);
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
