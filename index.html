@@ -36,22 +36,23 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
       llevaran a tu destino</strong
     >. Haz clic en los botones de descarga de cada terminal.
   </p>
-
-  <div class="terminales-section">
+  
+  
+  <section class="terminales-section">
     {% for category in site.categories %} {% capture category_name %}{{ category
     | first }}{% endcapture %}
-    <section id="{{ category_name}}">
+    <div id="{{ category_name}}">
       <h3>{{ category_name | capitalize}}</h3>
-      <div>
+      <div class="terminales">
         {% for post in site.categories[category_name] %}
-        <a href="{{site.baseurl}}{{ post.url }}" title="{{post.title}}">
+        <a href="{{site.baseurl}}{{ post.url }}" title="{{post.title}}" class="terminal">
           <article>
             <img
-              src="{{ site.baseurl }}/{{ post.img }}"
-              alt="{{ post.alt }}"
-              width="300"
-              height="200"
-              title="Fotografía de la {{post.title}}"
+            src="{{ site.baseurl }}/{{ post.img }}"
+            alt="{{ post.alt }}"
+            width="300"
+            height="200"
+            title="Fotografía de la {{post.title}}"
               loading="lazy"
             />
             <h4>{{ post.title }}</h4>
@@ -59,9 +60,23 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
         </a>
         {% endfor %}
       </div>
-    </section>
+    </div>
     {% endfor %}
+    <div class="terminales-intro">
+      <h2>Terminales de transporte y su importancia para ti</h2>
+    <p><strong>Un terminal de transporte es un lugar donde se concentran diferentes medios de transporte público, como autobuses, trenes o aviones, con el fin de facilitar el traslado de personas y carga de un lugar a otro.</strong> Los terminales de transporte suelen estar ubicados en las afueras de las ciudades o en las áreas de tránsito, y suelen incluir servicios como venta de billetes, taquillas y baños.
+    </p>
+    <img src="{{ 'img/pasajeros-en-terminal-de-transporte.webp' | relative_url }}" alt="Pasajero en una terminal de transporte" loading="lazy">
+    <q>Dibujo de una terminal de transporte Colombiana</q>
+    <p>Hay diferentes tipos de terminales de transporte, dependiendo del tipo de transporte que ofrecen. Por ejemplo, un <strong>terminal de autobuses, que es el tipo de terminal principal de nuestra página web</strong>, es un lugar donde se concentran las rutas de autobuses que van a diferentes destinos, mientras que un terminal ferroviario es un lugar donde se concentran las líneas de tren que van a diferentes ciudades. También hay terminales de aviación, que son lugares donde se concentran los vuelos de avión, y terminales marítimos, que son lugares donde se concentran los barcos de pasajeros o carga.
+    </p>
+    <p>Los terminales de transporte son importantes porque facilitan el traslado de personas y carga de un lugar a otro, y también pueden ser lugares de encuentro y tránsito para muchas personas. Además, los terminales de transporte suelen ser importantes para la economía local, ya que pueden generar empleo y atraer turistas a la región.
+    </p>
+    <img src="{{ 'img/terminal-de-transporte.webp' | relative_url }}" alt="Foto de una terminal de transporte" loading="lazy">
+    <q>Terminal de transporte Colombiana</q>
+
   </div>
+  </section>
   <!-- BUSCADOR -->
   <div id="search-container">
     <h2>Busca la terminal de transporte que necesitas</h2>
@@ -74,20 +89,10 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
     <ul id="results-container"></ul>
   </div>
   <!-- FIN BUSCADOR -->
-  <p>
-    Estas son las terminales de transporte más buscadas en Colombia:
-    <strong
-      >la terminal de Cali, la terminal Salitre, la terminal Sur de Bogotá, la
-      terminal Norte y la terminal Sur de Medellín, la terminal de Santa Marta,
-      la terminal de Manizales, la terminal de Barranquilla y la terminal de
-      Cartagena.</strong
-    >
+  <p>Estas son las terminales de transporte más buscadas en Colombia:
+    <strong>la terminal de Cali, la terminal Salitre, la terminal Sur de Bogotá, la terminal Norte y la terminal Sur de Medellín, la terminal de Santa Marta, la terminal de Manizales, la terminal de Barranquilla y la terminal de Cartagena.</strong>
   </p>
-  <p>
-    En nuestra página <b>Terminales de Transporte</b> preparamos toda la
-    información que necesitas para tu paso por cada terminal. ¿Te gustaría saber
-    algo más? Visita nuestras redes sociales y escríbenos qué más podemos
-    preparar para que viajes bien informado.
+  <p>En nuestra página <strong>Terminales de Transporte</strong> preparamos toda la información que necesitas para tu paso por cada terminal. ¿Te gustaría saber algo más? <a href="/contacto">Visita nuestras redes sociales y escríbenos</a> qué más podemos preparar para que viajes bien informado.
   </p>
 </section>
 
