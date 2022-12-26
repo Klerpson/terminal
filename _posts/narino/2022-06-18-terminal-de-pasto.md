@@ -43,7 +43,6 @@ La **Terminal de Pasto** es una construcción relativamente reciente, que data d
 
 La ciudad de Pasto también cuenta con 2 terminales mixtas auxiliares, que se dedican no solamente al transporte de pasajeros sino también a envíos y encomiendas.
 
-
 Los horarios de atención al público son de lunes a viernes,  desde las 8:00 a.m. hasta las 12:00 p.m., y de 2:00 p.m. hasta las 6:00 p.m.
 
 ## ¿Qué servicios presta el Terminal de Pasto?
@@ -65,7 +64,7 @@ Los servicios que conseguirás dentro del terminal son los siguientes:
 Tu espera se hará placentera, pues, te mantendrás conectado y con todo lo necesario al alcance de tu mano. Todas las áreas del terminal son cómodas y seguras.
 
 >![Pdf con teléfonos de {{page.title}}]({{ 'img/pdf.svg' | relative_url }}){:width="192" height="219"}Descarga los teléfonos de las empresas de buses de {{page.title}}
-[Descargar]({{'assets/pdf-terminal-popayan.pdf' | relative_url}} "Números de teléfono de la terminal de Pasto"){:target="_blank" rel="relnofollow"}
+[Descargar]({{'assets/pdf-terminal-popayan.pdf' | relative_url}} "Números de teléfono de la terminal de Pasto"){:target="_blank" rel="nofollow"}
 
 Si llegas al Terminal de Pasto desde otro destino y requieres de los servicios de un taxi, **dentro del terminal de Pasto encontrarás empresas de taxis seguras**. No te arriesgues buscándolos en la calle. Solicita tu carrera directamente por:
 
