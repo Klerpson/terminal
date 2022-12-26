@@ -155,7 +155,7 @@
                     ! function e(t) {
                         return -1 === [13, 16, 20, 37, 38, 39, 40, 91].indexOf(t)
                     }(t.which) || (j(), C(t.target.value))
-                })
+                }, {passive: true})
             }()
     }
 

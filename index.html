@@ -99,12 +99,9 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
 {% include footer.html %}
 
 <!-- Script pointing to search-script.js -->
-<script
-  src="{{site.baseurl}}/js/search-script.js"
-  type="text/javascript"
-></script>
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" defer></script>
 <!-- Configuration -->
-<script>
+<script defer>
   SimpleJekyllSearch({
     searchInput: document.getElementById("search-input"),
     resultsContainer: document.getElementById("results-container"),
