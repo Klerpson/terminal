@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://terminaldetransporte.com/</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/cundinamarca/terminal-transporte-bogota-cundinamarca.webp</image:loc>
@@ -37,11 +37,19 @@
         <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
         <image:title>Terminal de Transporte de Cartagena</image:title>
       </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/pasajeros-en-terminal-de-transporte.webp</image:loc>
+        <image:title>Pasajero en una terminal de transporte</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminal-de-transporte.webp</image:loc>
+        <image:title>Foto de una terminal de transporte</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-cucuta</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/terminal-cucuta-parqueadero.webp</image:loc>
@@ -62,8 +70,8 @@
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-pitalito</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/terminal-pitalito.webp</image:loc>
@@ -87,27 +95,9 @@
       </image:image>
   </url>
   <url>
-    <loc>https://terminaldetransporte.com/terminal-de-buga</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-buga-interior.webp</image:loc>
-        <image:title>Interior de la terminal de Buga</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-buga-servicios.webp</image:loc>
-        <image:title>Letrero de la terminal de transporte de Cali</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
-        <image:title>Terminal de Transporte de Cartagena</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://terminaldetransporte.com/terminal-de-manizales</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/caldas/terminal-manizales-caldas.webp</image:loc>
@@ -131,31 +121,57 @@
       </image:image>
   </url>
   <url>
-    <loc>https://terminaldetransporte.com/terminal-de-neiva</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://terminaldetransporte.com/terminal-de-buga</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-transporte-neiva.webp</image:loc>
-        <image:title>Terminal de Transporte de Neiva Huila</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-buga-interior.webp</image:loc>
+        <image:title>Interior de la terminal de Buga</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/huila/interior-terminal-neiva-huila.webp</image:loc>
-        <image:title>Casetas de tiquetes de la terminal de transporte de Neiva</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-buga-servicios.webp</image:loc>
+        <image:title>Letrero de la terminal de transporte de Cali</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/huila/empresas-transporte-terminal-neiva-huila.webp</image:loc>
-        <image:title>Buses de la terminal de transporte de Neiva</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
+        <image:title>Terminal de Transporte de Cartagena</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/terminal-de-medellin</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin.webp</image:loc>
+        <image:title>Terminal de Transporte de Medellín</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-neiva-huila.webp</image:loc>
-        <image:title>Vista aérea de la Terminal de transporte de Neiva</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin-norte.webp</image:loc>
+        <image:title>Terminal del norte de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-medellin-norte.webp</image:loc>
+        <image:title>Terminal norte de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-sur-medellin.webp</image:loc>
+        <image:title>Terminal del sur de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-medellin-buses.webp</image:loc>
+        <image:title>Buses en la terminal del sur de Medellín</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/panoramica-terminal-medellin.webp</image:loc>
+        <image:title>Panorámica de la terminal del sur de Medellín</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-barranquilla</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/atlantico/terminal-transporte-barranquilla.webp</image:loc>
@@ -187,39 +203,31 @@
       </image:image>
   </url>
   <url>
-    <loc>https://terminaldetransporte.com/terminal-de-medellin</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://terminaldetransporte.com/terminal-de-neiva</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin.webp</image:loc>
-        <image:title>Terminal de Transporte de Medellín</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-transporte-neiva.webp</image:loc>
+        <image:title>Terminal de Transporte de Neiva Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-transporte-medellin-norte.webp</image:loc>
-        <image:title>Terminal del norte de Medellín</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/huila/interior-terminal-neiva-huila.webp</image:loc>
+        <image:title>Casetas de tiquetes de la terminal de transporte de Neiva</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-medellin-norte.webp</image:loc>
-        <image:title>Terminal norte de Medellín</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/huila/empresas-transporte-terminal-neiva-huila.webp</image:loc>
+        <image:title>Buses de la terminal de transporte de Neiva</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-sur-medellin.webp</image:loc>
-        <image:title>Terminal del sur de Medellín</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/terminal-medellin-buses.webp</image:loc>
-        <image:title>Buses en la terminal del sur de Medellín</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/antioquia/panoramica-terminal-medellin.webp</image:loc>
-        <image:title>Panorámica de la terminal del sur de Medellín</image:title>
+        <image:loc>https://terminaldetransporte.com/img/terminales/huila/terminal-neiva-huila.webp</image:loc>
+        <image:title>Vista aérea de la Terminal de transporte de Neiva</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-cali</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/valle/terminal-transporte-cali.webp</image:loc>
@@ -244,8 +252,8 @@
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-pasto</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/servicios-terminal-popayan.webp</image:loc>
@@ -265,19 +273,9 @@
       </image:image>
   </url>
   <url>
-    <loc>https://terminaldetransporte.com/terminal-de-santa-marta</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-santa-marta.webp</image:loc>
-        <image:title>Terminal de Transporte de Santa Marta</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://terminaldetransporte.com/terminal-de-cartagena</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/bolivar/terminal-transporte-cartagena.webp</image:loc>
@@ -285,9 +283,19 @@
       </image:image>
   </url>
   <url>
+    <loc>https://terminaldetransporte.com/terminal-de-santa-marta</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://terminaldetransporte.com/img/terminales/terminal-santa-marta.webp</image:loc>
+        <image:title>Terminal de Transporte de Santa Marta</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://terminaldetransporte.com/terminal-de-bogota</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/cundinamarca/terminal-transporte-bogota-cundinamarca.webp</image:loc>
@@ -300,8 +308,8 @@
   </url>
   <url>
     <loc>https://terminaldetransporte.com/terminal-de-popayan</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://terminaldetransporte.com/img/terminales/servicios-terminal-popayan.webp</image:loc>
@@ -322,8 +330,32 @@
   </url>
   <url>
     <loc>https://terminaldetransporte.com/contacto</loc>
-    <lastmod>2022-12-17</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/assets/pdf-terminal-buga.pdf</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/assets/pdf-terminal-cali.pdf</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/assets/pdf-terminal-barranquilla.pdf</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://terminaldetransporte.com/assets/pdf-terminal-popayan.pdf</loc>
+    <lastmod>2022-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
