@@ -1,6 +1,6 @@
 /* PAGINA PRINCIPAL DEL BLOG */
 
-.blog-intro{
+.blog-first{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   gap: 1.2rem;
@@ -11,12 +11,12 @@
   padding: 2rem 0;
 }
 
-.blog-intro img{
+.blog-first img{
   max-width: 100%;
   border-radius: var(--radius);
 }
 
-.blog-intro div {
+.blog-first div {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,12 +24,12 @@
   gap: 1rem;
 }
 
-.blog-intro div h3{
+.blog-first div h3{
   font-size: 1.5rem;
   line-height: 1.2;
 }
 
-.blog-intro div a{
+.blog-first div a{
   padding: 8px 32px;
   background-color: var(--principal);
   color: #fefefe;
@@ -39,7 +39,7 @@
   transition: .3s all ease;
 }
 
-.blog-intro div a:active{
+.blog-first div a:active{
   box-shadow: none;
 }
 

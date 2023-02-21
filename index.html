@@ -47,7 +47,7 @@ h1: Principales terminales de transporte de Colombia
   {% assign post1 = site.posts[0] %}
       <article>
         <a href="{{site.baseurl}}{{ post1.url }}">
-          <img src="{{ site.baseurl }}{{ post1.img }}" alt="{{ post1.alt }}" loading="lazy">
+          <img src="{{ site.baseurl }}/img/{{ post1.webps }}" alt="{{ post1.alt }}" loading="lazy">
           <h3>{{ post1.h1 }}</h3>
         </a>
           {{ post1.excerpt | truncate: 100 | markdownify}}
@@ -55,7 +55,7 @@ h1: Principales terminales de transporte de Colombia
       {% assign post2 = site.posts[1] %}
       <article>
         <a href="{{site.baseurl}}{{ post2.url }}">
-          <img src="{{ site.baseurl }}{{ post2.img }}" alt="{{ post2.alt }}" loading="lazy">
+          <img src="{{ site.baseurl }}/img/{{ post2.webps }}" alt="{{ post2.alt }}" loading="lazy">
           <h3>{{ post2.h1 }}</h3>
         </a>
           {{ post2.excerpt | truncate: 100 | markdownify}}
@@ -63,7 +63,7 @@ h1: Principales terminales de transporte de Colombia
       {% assign post3 = site.posts[2] %}
       <article>
         <a href="{{site.baseurl}}{{ post3.url }}">
-          <img src="{{ site.baseurl }}{{ post3.img }}" alt="{{ post3.alt }}" loading="lazy">
+          <img src="{{ site.baseurl }}/img/{{ post3.webps }}" alt="{{ post3.alt }}" loading="lazy">
           <h3>{{ post3.h1 }}</h3>
         </a>
           {{ post3.excerpt | truncate: 100 | markdownify}}
