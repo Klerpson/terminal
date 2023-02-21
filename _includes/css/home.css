@@ -1,0 +1,300 @@
+header {
+  display: grid;
+  gap: 2rem;
+}
+
+header .tooltip {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border-bottom: 1px solid var(--gris1);
+}
+
+header .tooltip span{
+  color: var(--gris2);
+  font-size: clamp(14px, 0.9rem, 18px);
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+nav a{
+  height: min-content;
+  flex: 1 0 80px;
+  text-align: center;
+  font-size: clamp(14px, 0.9rem, 18px);
+  color: var(--principal);
+  text-transform: capitalize;
+  display: grid;
+  place-items: center;
+  transition: all .7s ease;
+}
+
+nav a:hover{
+  color: var(--secundario);
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+nav .active{
+  color: var(--secundario);
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+nav a .svg-icon {
+  width: 32px;
+  height: 32px;
+}
+
+nav a .svg-icon path,
+nav a .svg-icon polygon,
+nav a .svg-icon rect {
+  fill: var(--secundario);
+}
+
+nav a .svg-icon circle {
+  stroke: var(--accion);
+  stroke-width: 1;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  height: 15rem;
+  gap: 1rem;
+}
+
+.gallery a{
+  flex: 1;
+  border-radius: 24px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  transition: all .8s cubic-bezier(.25, .4, .45, 1.4);
+  overflow: hidden;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-end;
+  padding: 1rem;
+  font-family: var(--fuenteTitulos);
+  text-transform: initial;
+  transition: all .4s ease-in;
+  color: var(--accion);
+  box-shadow: var(--shadow);
+}
+
+.gallery a h3{
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+}
+
+.gallery > a:hover{
+  flex: 3;
+}
+
+.item-1 { 
+  background-image: url('/img/terminales/terminal-bogota-600.webp');
+}
+
+.item-2 { 
+  background-image: url('/img/terminales/terminal-medellin-600.webp');
+}
+
+.item-3 { 
+  background-image: url('/img/terminales/terminal-cali-600.webp');
+}
+
+.item-4 { 
+  background-image: url('/img/terminales/terminal-bucaramanga-600.webp');
+}
+
+.item-5 { 
+  background-image: url('/img/terminales/terminal-cartagena-600.webp');
+}
+
+header .title{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+header .title h1{
+  text-transform: initial;
+  width: min(100%, 700px);
+}
+
+header .title a {
+  color: var(--complemento1);
+  text-transform: initial;
+  font-size: .8rem;
+}
+
+.intro{
+  border-radius: 32px;
+background: #9DC5BB;
+box-shadow:  20px 20px 60px #85a79f,
+             -20px -20px 60px #b5e3d7;
+padding: 4rem 16px;
+display: grid;
+place-items: center;
+gap: 1.5rem;
+}
+
+.intro p{
+  width: min(80%, 720px);
+  margin-bottom: 1.2rem;
+  text-align: center;
+}
+
+.intro a{
+  color: var(--principal);
+}
+
+.intro div{
+  width: min(80%, 800px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  line-height: 1;
+}
+
+.tiquetes{
+  position: relative;
+  background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  clip-path: inset(0 -100vmax);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 4rem;
+  padding: 4rem 16px;
+  color: white;
+  overflow: visible;
+}
+
+.tiquetes div{
+  display: grid;
+  gap: 2rem;
+  width: min(100%, 480px);
+}
+
+.tiquetes div img{
+  border-radius: 16px 30%;
+  box-shadow: var(--shadow);
+  max-width: 100%;
+  aspect-ratio: 1/1;
+}
+
+.tiquetes div h2{
+  align-self: flex-end;
+}
+
+.tiquetes div ul{
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap:  1rem;
+}
+
+.tiquetes div a{
+  color: var(--accion);
+}
+
+.tiquetes div ul li{
+  flex: 1 0 120px;
+  background-color: var(--complemento1);
+  display: grid;
+  gap: .5rem;
+  padding: .7rem;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  color: var(--grisFuentes);
+}
+
+.tiquetes div ul li span{
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: var(--fuenteGraficas);
+}
+
+.blog-intro {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(40%, 1fr));
+  gap: 3rem;
+}
+
+.blog-intro a{
+  color: var(--principal);
+}
+
+.blog-intro article img{
+  max-width: 100%;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow)
+}
+
+.conclusion{
+  background-color: var(--complemento1);
+  box-shadow: 0 0 0 100vmax var(--complemento1);
+  clip-path: inset(0 -100vmax);
+  padding: 5rem 0;
+}
+
+.conclusion h2{
+  max-width: 720px;
+}
+
+.conclusion ul{
+  background-color: var(--complemento2);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+  margin: 2rem 0 4rem;
+  border-radius: var(--radius);
+}
+
+.conclusion ul li{
+  padding: .5rem;
+}
+
+.conclusion ul li:not(li:last-child){
+  border-right: 1px solid var(--gris2);
+}
+
+.conclusion ul li span:not(p span){
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: var(--fuenteGraficas);
+}
+
+.conclusion ul li p,
+.conclusion div:last-child p{
+  font-weight: 300;
+}
+
+.conclusion ul li a{
+  color: var(--principal);
+}
+
+.conclusion div:last-child{
+  display: grid;
+  gap: 1rem;
+  place-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.conclusion div:last-child h2{
+margin: 0;
+}
+
+.conclusion div:last-child a{
+  color: var(--accion);
+  }

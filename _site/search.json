@@ -2,131 +2,31 @@
   
     {
 
-      "title"    : "Terminal de transporte de Buga",
-      "url"      : "/terminal-de-buga",
-      "category" : "Mira más en: Valle del cauca",
-      "url-cat"  : "/#valle del cauca",
-      "tags"     : "terminal"
+      "title"    : "La terminal de Manizales",
+      "url"      : "/blog/manizales-luce-su-terminal-de-transporte",
+      "category" : "Mira más en: ",
+      "url-cat"  : "/#",
+      "tags"     : ""
 
     } ,
   
     {
 
-      "title"    : "Terminal de Cúcuta",
-      "url"      : "/terminal-de-cucuta",
-      "category" : "Mira más en: Norte santander",
-      "url-cat"  : "/#Norte Santander",
-      "tags"     : "terminal"
+      "title"    : "Conoce Bucaramanga desde su terminal de transporte",
+      "url"      : "/conoce-bucaramanga-desde-su-terminal-de-transporte",
+      "category" : "Mira más en: Santander",
+      "url-cat"  : "/#santander",
+      "tags"     : ""
 
     } ,
   
     {
 
-      "title"    : "Terminal de Pasto",
-      "url"      : "/terminal-de-pasto",
-      "category" : "Mira más en: Nariño",
-      "url-cat"  : "/#nariño",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal de Popayán",
-      "url"      : "/terminal-de-popayan",
-      "category" : "Mira más en: Cauca",
-      "url-cat"  : "/#cauca",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal de Manizales",
-      "url"      : "/terminal-de-manizales",
-      "category" : "Mira más en: Caldas",
-      "url-cat"  : "/#Caldas",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal de transporte de Cartagena",
-      "url"      : "/terminal-de-cartagena",
-      "category" : "Mira más en: Bolivar",
-      "url-cat"  : "/#Bolivar",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal de Santa Marta",
-      "url"      : "/terminal-de-santa-marta",
-      "category" : "Mira más en: Magdalena",
-      "url-cat"  : "/#Magdalena",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal del norte y del sur de Medellín",
-      "url"      : "/terminal-de-medellin",
-      "category" : "Mira más en: Antioquia",
-      "url-cat"  : "/#antioquia",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal de transporte de Pitalito",
-      "url"      : "/terminal-de-pitalito",
-      "category" : "Mira más en: Huila",
-      "url-cat"  : "/#huila",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal de transporte de Neiva",
-      "url"      : "/terminal-de-neiva",
-      "category" : "Mira más en: Huila",
-      "url-cat"  : "/#huila",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal de buses de Barranquilla",
-      "url"      : "/terminal-de-barranquilla",
-      "category" : "Mira más en: Atlántico",
-      "url-cat"  : "/#atlántico",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminal de transporte de Cali",
-      "url"      : "/terminal-de-cali",
-      "category" : "Mira más en: Valle del cauca",
-      "url-cat"  : "/#valle del cauca",
-      "tags"     : "terminal"
-
-    } ,
-  
-    {
-
-      "title"    : "Terminales de transporte de Bogotá",
-      "url"      : "/terminal-de-bogota",
-      "category" : "Mira más en: Cundinamarca",
-      "url-cat"  : "/#cundinamarca",
-      "tags"     : "terminal"
+      "title"    : "Cúcuta y la terminal de la frontera con Venezuela",
+      "url"      : "/blog/cucuta-y-la-terminal-de-la-frontera-con-venezuela",
+      "category" : "Mira más en: ",
+      "url-cat"  : "/#",
+      "tags"     : ""
 
     } 
   

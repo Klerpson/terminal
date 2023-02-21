@@ -1,6 +1,6 @@
-<picture>
-  <source type="image/webp" srcset="{{ site.baseurl }}/img/{{ include.img }}" width="720" height="360"
-    media="(min-width: 767px)">
-  <img src="{{site.baseurl}}/img/{{include.img-mini}}" width="320" height="200" alt="{{include.alt}}"
-    title="{{include.title}}" loading="lazy">
-</picture>
+<img 
+srcset="{{site.baseurl}}/img/{{include.webps}} 376w, 
+{{site.baseurl}}/img/{{include.webpm}} 600w, 
+{{site.baseurl}}/img/{{include.webpb}} 800w, 
+{{site.baseurl}}/img/{{include.hero}} 1200w" 
+src="{{site.baseurl}}/img/{{include.hero}}" alt="{{include.alt}}" loading="lazy" />

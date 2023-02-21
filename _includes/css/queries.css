@@ -1,59 +1,18 @@
-@media screen and (min-width:600px) {
-  .articulo article img:not(blockquote p img){
-    display: block;
-    float: left;
-    margin: 0 1.5rem 1rem 0;
+@media screen and (min-width: 920px) {
+  .gallery a h3{
+    writing-mode: horizontal-tb;
+    transform: none;
   }
-
 }
-  @media screen and (min-width:767px) {
-  nav {
-    grid-template-columns: 3fr 1fr;
-    justify-content: space-between;
-    padding: 1vh 2rem
-  }
 
-  .logo {
-    justify-self: flex-start
-  }
-
+@media screen and (min-width: 767px) {
   .boton-up {
-    bottom: 15px
+    bottom: 15px;
   }
-
-  blockquote p{
-    grid-template-columns: 1fr 2fr;
-    align-items: center;
-    font-size: var(--sizeH3);
-  }
-
-  blockquote p img{
-    grid-row: span 2;
-  }
-
 }
 
-@media screen and (min-width:1024px) {
-  .logo h2 {
-    display: inline-block;
-    align-self: center
-  }
-
-  header{
-    flex-direction: row-reverse;
-    text-transform: uppercase;
-  }
-
-  .articulo{
-    grid-template-columns: 2fr 1fr;
-  }
-
-  footer div {
+@media screen and (min-width: 1024px) {
+  .terminales section article:first-of-type{
     grid-column: span 2;
-    text-align: center
-  }
-
-  footer img{
-    justify-self: right;
   }
 }

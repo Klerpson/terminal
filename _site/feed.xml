@@ -4,7 +4,7 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-01-14T12:17:14-05:00</updated>
+     <updated>2023-02-20T19:47:23-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
@@ -13,95 +13,28 @@
 
  
  <entry>
-   <title>Terminal de Buga</title>
-   <link href="http://localhost:4000/terminal-de-buga"/>
-   <id>http://localhost:4000/terminal-de-buga</id>
-   <updated>2022-08-04T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La Terminal de Autobuses de Buga es una terminal muy popular en el departamento del Valle del Cauca. Sus destinos son variados y los más comunes se encuentran en el sur de Colombia.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>La terminal de Cúcuta</title>
-   <link href="http://localhost:4000/terminal-de-cucuta"/>
-   <id>http://localhost:4000/terminal-de-cucuta</id>
-   <updated>2022-06-30T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La Terminal de Cúcuta es una de las centrales de transportes más importantes del país&lt;/strong&gt;. Desde esta terminal podrá encontrar los mejores destinos que se ajusten a su presupuesto de viaje y los horarios de su preferencia.&lt;/p&gt; &lt;p&gt;Si vives en Cúcuta y deseas viajar a otras ciudades de Colombia, aquí...</content>
- </entry>
- 
- <entry>
-   <title>La terminal de Pasto</title>
-   <link href="http://localhost:4000/terminal-de-pasto"/>
-   <id>http://localhost:4000/terminal-de-pasto</id>
-   <updated>2022-06-18T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La &lt;strong&gt;Terminal de Pasto&lt;/strong&gt; es una construcción relativamente reciente, que data del año de 1994. Aunque su aprobación se dio originalmente en 1963, su edificación tardó 31 años. Y ahora es uno de los principales puntos de llegada de muchos visitantes de la ciudad de Pasto.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>La terminal de Popayán</title>
-   <link href="http://localhost:4000/terminal-de-popayan"/>
-   <id>http://localhost:4000/terminal-de-popayan</id>
-   <updated>2022-06-10T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Para viajar desde el Cauca hacia otro lugar de Colombia, &lt;strong&gt;el Terminal de Popayán es la mejor elección&lt;/strong&gt;. Los pasajeros podrán encontrar los precios ajustados a su presupuesto y los horarios más convenientes. Si vives en el Cauca y deseas trasladarte a otro destino colombiano, no dudes en hacerlo con...</content>
- </entry>
- 
- <entry>
    <title>La terminal de transporte de Manizales</title>
-   <link href="http://localhost:4000/terminal-de-manizales"/>
-   <id>http://localhost:4000/terminal-de-manizales</id>
-   <updated>2021-06-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.&lt;/p&gt;
-
+   <link href="http://localhost:4000/blog/manizales-luce-su-terminal-de-transporte"/>
+   <id>http://localhost:4000/blog/manizales-luce-su-terminal-de-transporte</id>
+   <updated>2023-02-18T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Manizales ha recibido muchos apodos debido a su belleza natural y riqueza cultural, entre ellos “la Suiza de Colombia” o “la ciudad de las flores”. La terminal está ubicada en las afueras de Manizales, en una vía que se conecta con la carretera entre Bogotá y Medellín.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>La Terminal de Cartagena</title>
-   <link href="http://localhost:4000/terminal-de-cartagena"/>
-   <id>http://localhost:4000/terminal-de-cartagena</id>
-   <updated>2021-06-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La Terminal de Cartagena es la empresa que controla la actividad transportadora intermunicipal de la ciudad. La encuentras en un sector de Cartagena conocido como Doña Manuela, por la carretera de la Cordialidad que de esta ciudad conduce a Barranquilla.&lt;/p&gt;
-
-</content>
+   <title>Ven a conocer Bucaramanga desde su terminal de transporte</title>
+   <link href="http://localhost:4000/conoce-bucaramanga-desde-su-terminal-de-transporte"/>
+   <id>http://localhost:4000/conoce-bucaramanga-desde-su-terminal-de-transporte</id>
+   <updated>2023-02-17T00:00:00-05:00</updated>
+   <content type="html">Bucaramanga, la hermosa ciudad rodeada de montañas y el lugar perfecto para aventurarse en una emocionante experiencia de viaje en autobús</content>
  </entry>
  
  <entry>
-   <title>La terminal de Santa Marta</title>
-   <link href="http://localhost:4000/terminal-de-santa-marta"/>
-   <id>http://localhost:4000/terminal-de-santa-marta</id>
-   <updated>2021-06-17T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La terminal de Santa Marta es una central que brinda servicios de traslado terrestre de pasajeros, así como de cargas y encomiendas. Su alcance es internacional e intermunicipal desde y hacia la población de su mismo nombre.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Terminal Norte y Terminal Sur de Medellín</title>
-   <link href="http://localhost:4000/terminal-de-medellin"/>
-   <id>http://localhost:4000/terminal-de-medellin</id>
-   <updated>2021-06-17T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Las terminales de Medellín se dividen en 2 terminales de transporte&lt;/strong&gt;. La primera comenzó en el norte de la ciudad, conocida como &lt;strong&gt;Mariano Ospina Pérez o terminal del Norte&lt;/strong&gt;. Pero en poco tiempo se el volumen de viajeros superó su capacidad. Entonces, nace la segunda terminal de transporte al sur...</content>
- </entry>
- 
- <entry>
-   <title>Terminal de Pitalito</title>
-   <link href="http://localhost:4000/terminal-de-pitalito"/>
-   <id>http://localhost:4000/terminal-de-pitalito</id>
-   <updated>2021-05-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Ubicado en la ciudad de Pitalito, Colombia, el terminal de transporte es un lugar donde se puede ir de un pueblo a otro en todo el sur del Huila. Es un punto central de transporte de pasajeros y de comunicación para todos los municipios de esa región.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Terminal de Neiva</title>
-   <link href="http://localhost:4000/terminal-de-neiva"/>
-   <id>http://localhost:4000/terminal-de-neiva</id>
-   <updated>2021-05-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La terminal de Neiva es la principal empresa de transporte terrestre del departamento del Huila. Con empresesas como Coomotor, Bolivariano, Flota Magdalena, etc; cubre importantes rutas hacia otras ciudades principales, tales como Bogotá, Medellín, Cali, Pereira, Ibagué, Armenia, Manizales, entre otras; y poblaciones más pequeñas.&lt;/strong&gt;&lt;/p&gt;
-
+   <title>La terminal de Cúcuta y su servicio en la frontera con Venezuela</title>
+   <link href="http://localhost:4000/blog/cucuta-y-la-terminal-de-la-frontera-con-venezuela"/>
+   <id>http://localhost:4000/blog/cucuta-y-la-terminal-de-la-frontera-con-venezuela</id>
+   <updated>2023-02-11T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;La terminal de Cúcuta es una de las centrales de transportes más importantes del país. Desde esta terminal podrá encontrar los mejores destinos que se ajusten a su presupuesto de viaje y los horarios de su preferencia.&lt;/p&gt;
 </content>
  </entry>
  

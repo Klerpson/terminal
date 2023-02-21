@@ -1,20 +1,42 @@
 <footer>
-  <img src="{{site.baseurl}}/img/footer/order.gif" alt="Dibujo de viajero planeando viaje en su dispositivo electrónico"
-    title="Viajero planeando viaje" loading="lazy"></img>
-  <ul>
-    <li><a href="{{site.baseurl}}/">
-      Inicio
-    </a></li>
-    <li><a href="{{site.baseurl}}/contacto">
-        Nosotros
-      </a></li>
-    <li><a href="{{site.baseurl}}/legal">
-        Avisos legales
-      </a></li>
-  </ul>
-  <div>
+  <section>
+    <div>
+      <h4><a href="/">Terminal de transporte</a></h4>
+      <img src="{{'img/logo-terminal-de-transporte-200px.svg'|relative_url}}" alt="Logo de terminaldetransporte.com" width="120" height="120" loading="lazy">
+    </div>
+    <div>
+      <h4>Terminales de Colombia</h4>
+      <a href="{{ site.baseurl }}/terminal-de-bogota">Terminal Bogotá</a>
+      <a href="{{ site.baseurl }}/terminal-de-medellin">Terminal Medellín</a>
+      <a href="{{ site.baseurl }}/terminal-de-cali">Terminal Cali</a>
+      <a href="{{ site.baseurl }}/terminales-de-colombia">Ver todas</a>
+    </div>
+    <div>
+      <h4>Viaja Seguro</h4>
+        {% assign post1 = site.posts[0] %}
+        <a href="{{site.baseurl}}{{ post1.url }}">{{ post1.h1 | truncate: 45}}</a>
+        {% assign post2 = site.posts[0] %}
+        <a href="{{site.baseurl}}{{ post2.url }}">{{ post2.h1 | truncate: 45}}</a>
+        {% assign post3 = site.posts[0] %}
+        <a href="{{site.baseurl}}{{ post3.url }}">{{ post3.h1 | truncate: 45}}</a>
+      <a href="{{site.baseurl}}/blog">Leer más</a>
+    </div>
+    <div>
+      <h4>Síguenos</h4>
+      <a href="{{site.instagram}}">Instagram</a>
+      <a href="{{site.twitter}}">Twitter</a>
+      <a href="{{site.pinterest}}">Pinterest</a>
+    </div>
+    <div>
+      <h4>Legal </h4>
+      <a href="mailto:digitalizaresfacil@gmail.com">E-mail</a> 
+      <a href="{{site.baseurl}}/contacto">Escríbenos</a>
+      <a href="{{site.baseurl}}/legal">Privacidad, términos y condiciones de uso</a>
+    </div>
+  </section>
+  <section>
     <p>Las normas y leyes de transporte son reguladas por <a href="https://www.mintransporte.gov.co/"
-        rel="nofollow noopener noreferrer" target="_blank">El Ministerio de Transporte</a></p>
-    <p>&copy; Terminal de Transporte - {{ "now" | date:"%Y"}} - Todos los derechos reservados</p>
-  </div>
+      rel="nofollow noopener noreferrer" target="_blank">El Ministerio de Transporte</a></p>
+  <p>&copy; Terminal de Transporte - {{ "now" | date:"%Y"}} - Todos los derechos reservados</p>
+  </section>
 </footer>

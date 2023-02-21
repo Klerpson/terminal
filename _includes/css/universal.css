@@ -1,28 +1,21 @@
 :root {
 
   /*** COLORES ***/
-  --principal: #ffed05;
-  --accion: #e81118;
-  --secundario: #018a31;
-  --complemento1: rgb(248, 94, 0);
-  --complemento2: #848484;
+  --principal: #008a30;
+  --accion: #fdeb05;
+  --secundario: #082D0F;
+  --complemento1: #9dc5bb;
+  --complemento2: #DEE5E5;
 
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
-  --grisFuentes: #252323;
-
-  --blanco: #fff;
+  --grisFuentes: #111413;
 
   /*** FUENTES ***/
-  --fuenteTexto: 'Sarala', sans-serif;
-  --fuenteTitulos: 'Trykker', serif;
-  --fuenteGraficas: 'Trirong', serif;
-  --sizeH1: clamp(32px, (2.2rem + 1vw) * 1.8, 2.4rem);
-  --sizeH2: clamp(28px, (1.8rem + 1vw) * 1.4, 2rem);
-  --sizeH3: clamp(24px, (1.4rem + 1vw) * 1.2, 1.5rem);
-  --sizeTexto: clamp(18px, (1rem + 1vw) * 1.1, 1rem);
+  --fuenteTitulos: 'Sarala', sans-serif;
+  --fuenteTexto: 'Trykker', serif;
 
   /* BORDERS */
   --radius: 12px;
@@ -43,6 +36,7 @@ html {
   scroll-behavior: smooth;
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
+  font-size: calc(15px + 0.390625vw)
 }
 
 body {
@@ -53,33 +47,39 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
   font-family: var(--fuenteTitulos);
+  text-transform: initial;
 }
 
 h1 {
-  font-size: var(--sizeH1);
+  font-size: 1.6rem;
 }
 
 h2 {
-  font-size: var(--sizeH2);
+  font-size: 1.4rem;
+  line-height: 1.2;
 }
 
 h3 {
-  font-size: var(--sizeH3);
+  font-size: 1.15rem;
 }
 
-p {
+p, .post-content li {
+  font-size: .9rem;
+  line-height: 1.2;
   word-wrap: break-word;
 }
 
 pre {
   font-family: monospace, monospace;
-  font-size: 1em
 }
 
 a {
   background: transparent;
+  font-family: var(--fuenteTexto);
+  text-decoration-thickness: 2.6px;
 }
 
 abbr[title] {
@@ -150,37 +150,43 @@ li {
   list-style: none;
 }
 
-.boton {
-  display: grid;
-  place-content: center;
-  background: var(--secundario);
-  border-radius: var(--radius);
-  text-align: center;
-  text-decoration: none;
-  color: var(--blanco);
-  padding: 0.5rem 0.7rem;
-  margin: 0 1rem 1rem 0;
-  box-shadow: var(--shadow),
-    0 0 0 1px var(--blanco),
-    0 0 0 2px var(--secundario);
-  transition: all .2s ease-in-out;
-}
-
-.boton:hover {
-  transform: scale(1.1);
-}
-
+header,
+.intro,
+.tiquetes,
+.blog-intro,
+.conclusion,
 .categorias,
-.terminales-intro,
-.articulo,
+.terminales,
+.terminal,
+.terminal_content,
+.blog-main,
 .contacto {
-  width: min(90vw, 1024px);
-  margin: 0 auto 5rem;
+  width: min(90vw, 1200px);
+  margin-inline: auto;
+  margin-bottom: 4rem;
 }
 
-.categorias p,
-.terminales-intro p{
-  align-self: center;
-  text-align: center;
-  max-width: 720px;
+.destacado{
+  background-image: url('/img/underline-text-img.png');
+}
+
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: var(--principal);
+}
+
+.svg-icon circle {
+  stroke: var(--principal);
+  stroke-width: 1;
 }

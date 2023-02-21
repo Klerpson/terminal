@@ -1,5 +1,5 @@
 ---
-layout: articulo
+layout: default
 title: Términos y Codiciones de Uso | Terminal de Transporte
 description: Condiciones de uso de la página Terminal de Transporte
 noindex: true

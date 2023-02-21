@@ -1,111 +1,102 @@
 ---
 layout: default
 title: Terminal de Transporte
-h1: Somos la terminal de transporte de Colombia
 description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
+h1: Principales terminales de transporte de Colombia
 ---
-{% include header.html %}
-<section class="categorias">
-  <p>
-    <strong>¿Qué terminal de Colombia necesitas?</strong> Aquí las encuentras
-    separadas por departamentos. Haz clic en el botón de la terminal de
-    transporte que estás buscando. Mira su información y prepara tu próximo
-    viaje.
+<section class="intro">
+  <p>En nuestra página <strong>Terminal de Transporte</strong> <span class="destacado">aprenderas a viajar</span> por cada terminal de Colombia de forma seguar y con tranquilidad. ¿Te gustaría saber algo más? <a href="/blog">Visita nuestro magazine</a>.
   </p>
+</section>
+
+<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-39.78,26.16 C262.69,228.47 216.42,-18.23 608.07,110.05 L560.10,195.89 L0.00,150.00 Z" style="stroke: none; fill: #082D0F;"></path></svg></div>
+<div>
+<section class="tiquetes" id="tiquetes">
   <div>
-    
-    {% for category in site.categories %} {% capture category_name %}{{ category
-    | first }}{% endcapture %}
-    <a
-      href="{{ site.baseurl }}/#{{ category_name }}"
-      title="Terminales de transporte {{ category_name }}"
-      class="boton"
-      >{{ category_name | capitalize | normalize_whitespace }}</a
-    >
-    {% endfor %}
+    <h2>Comprar tiquetes con Terminal de Transporte es seguro</h2>
+    <p>No somos intermediarios ni te recomendamos ninguno. Comprar tu tiquete directamente con cada empresa es mejor:</p>
+    <ul>
+      <li>
+        <span>01</span>
+        <p>Busca la terminal</p>
+      </li>
+      <li>
+        <span>02</span>
+        <p>Descarga el PDF</p>
+      </li>
+      <li>
+        <span>03</span>
+        <p>Llama y compra</p>
+      </li>
+    </ul>
+  </div>
+  <div>
+    <img
+    srcset="{{'img/descarga-pdf-terminal-de-transporte-2.webp'|relative_url}} 560w,
+    {{'img/descarga-pdf-terminal-de-transporte.webp'|relative_url}} 400w"
+    src="{{'img/descarga-pdf-terminal-de-transporte.webp'|relative_url}}" alt="Descarga de archivos pdf" loading="lazy"/>
+    <a href="{{'terminales-de-colombia'|relative_url}}" title="Terminales de Colombia">Busca la terminal<br> que necesitas</a>
   </div>
 </section>
-<section class="terminales-intro">
-  <h2>Principales terminales de transporte del país</h2>
 
-  <p>
-    Haz clic en la terminal que estás buscando para ver su ubicación, horarios y
-    más. También preparamos
-    <strong
-      >un archivo pdf gratis con los teléfonos de las empresas de buses que te
-      llevaran a tu destino</strong
-    >. Haz clic en los botones de descarga de cada terminal.
-  </p>
-  
-  
-  <section class="terminales-section">
-    {% for category in site.categories %} {% capture category_name %}{{ category
-    | first }}{% endcapture %}
-    <div id="{{ category_name}}">
-      <h3>{{ category_name | capitalize}}</h3>
-      <div class="terminales">
-        {% for post in site.categories[category_name] %}
-        <a href="{{site.baseurl}}{{ post.url }}" title="{{post.title}}" class="terminal">
-          <article>
-            <img
-            src="{{ site.baseurl }}/{{ post.img }}"
-            alt="{{ post.alt }}"
-            width="300"
-            height="200"
-            title="Fotografía de la {{post.title}}"
-              loading="lazy"
-            />
-            <h4>{{ post.title }}</h4>
-          </article>
+<section class="blog-intro">
+  <div>
+    <h2>Usa las terminales de Colombia de forma segura</h2>
+    <p>Aprende cómo hacerlo o manténte al día con <a href="{{'blog'|relative_url}}" title="Blog">nuestro magazine.</a></p>
+  </div>
+  {% assign post1 = site.posts[0] %}
+      <article>
+        <a href="{{site.baseurl}}{{ post1.url }}">
+          <img src="{{ site.baseurl }}{{ post1.img }}" alt="{{ post1.alt }}" loading="lazy">
+          <h3>{{ post1.h1 }}</h3>
         </a>
-        {% endfor %}
-      </div>
-    </div>
-    {% endfor %}
-    <div class="terminales-intro">
-      <h2>Terminales de transporte y su importancia para ti</h2>
-    <p><strong>Un terminal de transporte es un lugar donde se concentran diferentes medios de transporte público, como autobuses, trenes o aviones, con el fin de facilitar el traslado de personas y carga de un lugar a otro.</strong> Los terminales de transporte suelen estar ubicados en las afueras de las ciudades o en las áreas de tránsito, y suelen incluir servicios como venta de billetes, taquillas y baños.
-    </p>
-    <img srcset="{{ 'img/pasajeros-en-terminal-de-transporte-mini.webp' | relative_url }} 420w, {{ 'img/pasajeros-en-terminal-de-transporte.webp' | relative_url }} 720w" src="{{ 'img/pasajeros-en-terminal-de-transporte.webp' | relative_url }}" alt="Pasajero en una terminal de transporte" loading="lazy" />
-    <q>Dibujo de una terminal de transporte Colombiana</q>
-    <p>Hay diferentes tipos de terminales de transporte, dependiendo del tipo de transporte que ofrecen. Por ejemplo, un <strong>terminal de autobuses, que es el tipo de terminal principal de nuestra página web</strong>, es un lugar donde se concentran las rutas de autobuses que van a diferentes destinos, mientras que un terminal ferroviario es un lugar donde se concentran las líneas de tren que van a diferentes ciudades. También hay terminales de aviación, que son lugares donde se concentran los vuelos de avión, y terminales marítimos, que son lugares donde se concentran los barcos de pasajeros o carga.
-    </p>
-    <p>Los terminales de transporte son importantes porque facilitan el traslado de personas y carga de un lugar a otro, y también pueden ser lugares de encuentro y tránsito para muchas personas. Además, los terminales de transporte suelen ser importantes para la economía local, ya que pueden generar empleo y atraer turistas a la región.
-    </p>
-    <img srcset="{{ 'img/terminal-de-transporte-mini.webp' | relative_url }} 420w, {{ 'img/terminal-de-transporte.webp' | relative_url }} 720w" src="{{ 'img/terminal-de-transporte.webp' | relative_url }}" alt="Pasajero en una terminal de transporte" loading="lazy" />
-     <q>Terminal de transporte Colombiana</q>
-
-  </div>
-  </section>
-  <!-- BUSCADOR -->
-  <div id="search-container">
-    <h2>Busca la terminal de transporte que necesitas</h2>
-    <input
-      type="text"
-      id="search-input"
-      placeholder="También puedes buscarlo aquí..."
-      style="font-family: var(--fuenteTexto)"
-    />
-    <ul id="results-container"></ul>
-  </div>
-  <!-- FIN BUSCADOR -->
-  <p>Estas son las terminales de transporte más buscadas en Colombia:
-    <strong>la terminal de Cali, la terminal Salitre, la terminal Sur de Bogotá, la terminal Norte y la terminal Sur de Medellín, la terminal de Santa Marta, la terminal de Manizales, la terminal de Barranquilla y la terminal de Cartagena.</strong>
-  </p>
-  <p>En nuestra página <strong>Terminales de Transporte</strong> preparamos toda la información que necesitas para tu paso por cada terminal. ¿Te gustaría saber algo más? <a href="/contacto">Visita nuestras redes sociales y escríbenos</a> qué más podemos preparar para que viajes bien informado.
-  </p>
+          {{ post1.excerpt | truncate: 100 | markdownify}}
+      </article>
+      {% assign post2 = site.posts[1] %}
+      <article>
+        <a href="{{site.baseurl}}{{ post2.url }}">
+          <img src="{{ site.baseurl }}{{ post2.img }}" alt="{{ post2.alt }}" loading="lazy">
+          <h3>{{ post2.h1 }}</h3>
+        </a>
+          {{ post2.excerpt | truncate: 100 | markdownify}}
+      </article>
+      {% assign post3 = site.posts[2] %}
+      <article>
+        <a href="{{site.baseurl}}{{ post3.url }}">
+          <img src="{{ site.baseurl }}{{ post3.img }}" alt="{{ post3.alt }}" loading="lazy">
+          <h3>{{ post3.h1 }}</h3>
+        </a>
+          {{ post3.excerpt | truncate: 100 | markdownify}}
+      </article>
 </section>
+
+<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
+<section class="conclusion">
+<h2>La terminal de transporte es tu guía segura para viajar por Colombia</h2>
+<ul>
+  <li>
+    <span>01</span>
+    <h3>Fuentes confiables</h3>
+    <p><span class="destacado">Las páginas web de las terminales de transporte</span> son nuestra fuente directa de información.</p>
+  </li>
+  <li>
+    <span>02</span>
+    <h3>Datos actualizados</h3>
+    <p>Estamos al tanto de los últimos cambios para que puedas planear tu viaje con la útlima información disponible.</p>
+  </li>
+  <li>
+    <span>03</span>
+    <h3><a href="{{'blog'|relative_url}}">Consejo útiles</a> para viajar</h3>
+    <p>Viaja de forma segura y confiable por las terminales del país siguiendo los consejos de nuestro magazine.</p>
+  </li>
+</ul>
+<div>
+  <h2>¿Viajas constantemente por Colombia?</h2>
+  <p><span class="destacado">Suscríbete a nuestro magazine</span> para recibas consejos sobre cómo viajar con seguridad, tranquilidad y con los mejores tips de los más expertos.<br><a href="#">Suscribirme</a></p>
+</div>
+</section>
+
 
 {% include footer.html %}
 
-<!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" defer></script>
-<!-- Configuration -->
-<script defer>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById("search-input"),
-    resultsContainer: document.getElementById("results-container"),
-    json: "{{site.baseurl}}/search.json",
-  });
-</script>
 
