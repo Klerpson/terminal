@@ -28,7 +28,7 @@ empresa3_telf: 3176369341
 contacto: https://tuterminalpitalito.com/pqrsf/
 pdf: pdf-terminal-pitalito.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.704746050666!2d-76.03475958476506!3d1.8650436602218987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e250c64941a8b97%3A0x14304ee3accb606c!2sTerminal%20De%20Transporte%20De%20Pitalito%20S.A.!5e0!3m2!1ses!2sco!4v1676734966825!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: "Carrera 4 No 31-15"
 telefono: 3168786984
 telefono2: 6088350773

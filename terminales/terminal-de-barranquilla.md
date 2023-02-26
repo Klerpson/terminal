@@ -28,7 +28,7 @@ empresa3_telf: 3133335669
 contacto: https://www.ttbaq.com.co/formulario-de-peticion-queja-reclamo-sugerencia-o-denuncia/
 pdf: pdf-terminal-barranquilla.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15670.857458219616!2d-74.81055916044922!3d10.9092989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef5d3318eb2823b%3A0xfe6b61c53291e62f!2sTerminal%20Metropolitana%20de%20Transportes%20de%20Barranquilla%20S.A!5e0!3m2!1ses!2sco!4v1676584978335!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: 'Carrera 14 # 54 - 98'
 telefono: 6053230034
 telefono2: 3045329102

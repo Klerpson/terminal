@@ -28,7 +28,7 @@ empresa3_telf: 6012612110
 contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acceso-a-la-informacion-publica/pqrs/
 pdf: pdf-terminal-bogota.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.663314274743!2d-74.11716188255618!3d4.653995899999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9b8e7c594c2d%3A0x2a9c5334cbf14375!2sTerminal%20De%20Transportes%20Bogota!5e0!3m2!1ses!2sco!4v1676585894614!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: "Diagonal 23 # 69 - 11"
 telefono: 6014233630
 telefono2: 6014233951

@@ -2,14 +2,20 @@
 layout: post
 title: La terminal de Manizales
 description: La terminal de Manizales tu conexión con el hermoso departamento del Caldas y el eje cafetero. ¡Además que es hermosa! Conócela y planea tu viaje
+keywords: [manizales, terminal, viaje, caldas]
 autor: terminaldetransporte.com
 h1: La terminal de transporte de Manizales
+h1_alternativo: Conoce Manizales desde su terminal de transporte
+award: La mejor guía para visitar a Manizales
+date: 2023-02-18
+genre: viajes
 jpg: blog/terminal-manizales-caldas.jpg
 hero: blog/terminal-manizales-caldas.webp
 webps: blog/terminal-manizales-caldas-376.webp
 webpm: blog/terminal-manizales-caldas-600.webp
 webpb: blog/terminal-manizales-caldas-800.webp
 alt: Terminal de Transporte de Manizales
+json-post: true
 referencias:
   - Fotografías de la terminal de Manizales en Google Maps: https://www.google.com/maps/place/Terminal+de+Transportes+de+Manizales/@5.0493324,-75.5058332,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM4lzi2trOLXXfUkTxzTKOosFUWU8RMxy4FCtxH!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM4lzi2trOLXXfUkTxzTKOosFUWU8RMxy4FCtxH%3Dw160-h120-k-no!7i4000!8i3000!4m5!3m4!1s0x8e47654245811437:0xb0ba16140f5c9cc6!8m2!3d5.0491627!4d-75.506198
   - Formulario para solicitudes, quejas y reclamos PQR: https://home.siicoonline.com/pqr-solicitud/9/index-clasificacion-solicitud

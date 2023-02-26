@@ -29,7 +29,7 @@ empresa3_telf: 6054301750
 contacto: https://terminaldesantamarta.com/entidad/AtencionCiudadano
 pdf: pdf-terminal-santa-marta.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31308.335972402536!2d-74.21590532089841!3d11.221483600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef4f5afb8da4093%3A0x4bfa83f8bbebb7df!2sTerminal%20de%20Transportes%20de%20Santa%20Marta!5e0!3m2!1ses-419!2sco!4v1658258854241!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: Calle 41 31-17
 telefono: 6054303297
 telefono2: 6054302040

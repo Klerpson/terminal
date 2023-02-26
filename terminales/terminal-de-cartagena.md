@@ -28,7 +28,7 @@ empresa3_telf: 3008651075
 contacto: https://www.terminaldecartagena.com/contacto/
 pdf: pdf-terminal-cartagena.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3924.2665974177035!2d-75.4588856!3d10.4003879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6244220c58681%3A0xea448a661d47813!2sTerminal%20de%20Transporte%20Cartagena!5e0!3m2!1ses!2sco!4v1676654816197!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: "Carretera la Cordialidad # 24 - 236"
 telefono: 6056630317
 email: ttcgena@terminaldecartagena.com

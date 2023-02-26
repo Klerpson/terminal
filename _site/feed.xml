@@ -4,7 +4,7 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-02-21T19:32:49-05:00</updated>
+     <updated>2023-02-26T07:16:42-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
@@ -23,8 +23,8 @@
  
  <entry>
    <title>Ven a conocer Bucaramanga desde su terminal de transporte</title>
-   <link href="http://localhost:4000/conoce-bucaramanga-desde-su-terminal-de-transporte"/>
-   <id>http://localhost:4000/conoce-bucaramanga-desde-su-terminal-de-transporte</id>
+   <link href="http://localhost:4000/blog/conoce-bucaramanga-desde-su-terminal-de-transporte"/>
+   <id>http://localhost:4000/blog/conoce-bucaramanga-desde-su-terminal-de-transporte</id>
    <updated>2023-02-17T00:00:00-05:00</updated>
    <content type="html">Bucaramanga, la hermosa ciudad rodeada de montañas y el lugar perfecto para aventurarse en una emocionante experiencia de viaje en autobús</content>
  </entry>

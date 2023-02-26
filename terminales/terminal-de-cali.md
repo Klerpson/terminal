@@ -28,7 +28,7 @@ empresa3_telf: 3207883235
 contacto: https://cali.com/pqrsd/
 pdf: pdf-terminal-cali.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.8771378474376!2d-75.571231!3d6.279879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4428d778c62ff7%3A0x14b3b886bb9997e3!2sTerminales%20Medell%C3%ADn%20-%20Norte!5e0!3m2!1ses!2sco!4v1676576605595!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: "Calle 30 N 2an - 29"
 telefono: 6026683655
 telefono2: 3227279676

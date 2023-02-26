@@ -28,7 +28,7 @@ empresa3_telf: 3102873762
 contacto: https://terminalpasto.gov.co/contacto/
 pdf: pdf-terminal-pasto.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31911.49066628265!2d-77.29110509663998!3d1.2047589937591794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2ed4bc281c3eeb%3A0xa830730cc08d203a!2sTerminal%20de%20Transportes%20de%20Pasto!5e0!3m2!1ses-419!2sco!4v1656645384018!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion:  'Carrera 6a # 16 D – 50, en el barrio Madrigales'
 telefono: 6027308955
 telefono2: 6028231827

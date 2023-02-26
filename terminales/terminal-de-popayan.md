@@ -28,7 +28,7 @@ empresa3_telf: 6028231999
 contacto: https://terminalpopayan.com/terminal/atencion-al-ciudadano/
 pdf: pdf-terminal-popayan.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15944.783767902!2d-76.62223672670571!3d2.4416917715305066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e300312c76b681d%3A0x73357b2bbefcd8f6!2sTerminal%20de%20Transportes%20Popay%C3%A1n%20S.A!5e0!3m2!1ses-419!2sus!4v1654908500702!5m2!1ses-419!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: Transversal 9 No 4N - 125 Oficina 201
 telefono: 6028231827
 email: secretaria@terminalpopayan.com
@@ -54,9 +54,6 @@ Para viajar desde el Cauca hacia otro lugar de Colombia, **el Terminal de Popay�
 **Para llamar a la terminal de Popayán debes marcar el número [8231827](tel:6028231827){:rel="nofollow"}**. También puedes contactarlos escribiendo al correo ****. También puedes enviar PQR's en la [dirección web oficial de la terminal](#fuentes).
 
 En Popayán, **la dirección de la terminal es Transversal 9 No 4N - 125 Oficina 201**. Puedes tomar un taxi hacia la Terminal de Transporte de Popayán o llegar en transporte público en las rutas que pasan por la transversal novena o por la calle cuarta.
-
-
-*Mapa de la terminal de transporte de Popayán*
 
 Los horarios de atención al público son de lunes a viernes,  desde las 8:00 a.m. hasta las 12:00 p.m., y de 2:00 p.m. hasta las 6:00 p.m.
 

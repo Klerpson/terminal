@@ -16,6 +16,7 @@ h1: Terminales de transporte Colombianas
     <a href="#cundinamarca">Cundinamarca</a>
     <a href="#huila">Huila </a>
     <a href="#magdalena">Magdalena</a>
+    <a href="#meta">Meta</a>
     <a href="#narino">Nariño</a>
     <a href="#norte-santander">Norte de Santander</a>
     <a href="#santander">Santander</a>
@@ -124,6 +125,19 @@ h1: Terminales de transporte Colombianas
     <section>
       {% for terminal in pages %}
       {% if terminal.category == "magdalena" %}
+      <article>
+        <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
+          <h3>{{terminal.h1}}</h3></a>
+      </article>
+      {% endif %}
+      {% endfor %}
+    </section>
+    <!-- META -->
+    <h2 id="meta">Terminales de Meta</h2>
+    <section>
+      {% for terminal in pages %}
+      {% if terminal.category == "meta" %}
       <article>
         <a href="{{terminal.url}}">
         {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}

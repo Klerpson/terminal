@@ -1,6 +1,6 @@
 baseurl: ''
 url: 'https://terminaldetransporte.com'
-name: Terminal de Transporte
+name: 'Terminal de Transporte'
 author: Julian Franco
 email: info@terminalesdetransporte.com
 instagram: https://www.instagram.com/terminaldetransporte/
@@ -9,13 +9,6 @@ twitter: https://twitter.com/bloglaterminal
 markdown: kramdown
 
 permalink: :slug
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-
-paginate: 9
-paginate_path: /blog/page:num/
 
 keep_files: [/img]
 

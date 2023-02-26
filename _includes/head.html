@@ -12,68 +12,108 @@
   <meta http-equiv="Content-Language" content="es"/>
   <meta name="distribution" content="global"/>
   <!-- Codigo json para google en los articulos -->
-  {% if page.json %}
+  {% if page.json-terminal %}
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "{{page.ciudad}}",
-        "addressRegion": "{{page.depto}}",
-        "postalCode": "{{page.postal}}",
-        "streetAddress": "{{page.direccion}}"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "{{page.calificacion}}",
-        "reviewCount": "{{page.reviews}}"
-      },
-      "description": "{{page.description}}",
+      "@type": "BusStop",
+      "@id": "{{page.url}}",
       "name": "{{page.title}}",
-      "priceRange": "$$",
-      "telephone": "{{page.telefono}}"
-    },
-    {
-      "@type": "BlogPosting",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{page.url}}"
+      "openingHours": "Mo-Su",
+      "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "COL",
+          "addressLocality": "{{page.ciudad}}",
+          "addressRegion": "{{page.category}}"
+          "postalCode": "{{page.postal}}",
       },
-      "headline": "{{page.title}}",
-      "description": "{{page.description}}",
-      "image": "{{page.img}}",
-      "author": {
-        "@type": "Person",
-        "name": "Julian Franco",
-        "url": "https://terminaldetransporte.com"
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": {{page.latitude}},
+        "longitude": {{page.longitude}}
       },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Terminal de Transporte",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "{{https://terminaldetransporte.com/img/logo-terminal-de-transporte-200px.svg}}"
+      "image": [
+      "{{site.url}}/img/{{page.jpg}}",
+      "{{site.url}}/img/{{page.webp1}}",
+      "{{site.url}}/img/{{page.empresa_img_1}}"
+       ],
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "{{page.calificacion}}",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "{{site.name}}"
         }
       },
-      "datePublished": "{{page.date}}",
-      "dateModified": "{{page.date}}",
-      {
-        "@context": "https://schema.org",
-        "@type": "BusStop",
-        "name": "{{page.title}}",
-        "openingHours": "Mo-Su",
-        "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "CO",
-        "addressLocality": "{{page.ciudad}}",
-        "addressRegion": "{{page.depto}}"
+      
+      "url": "{{page.url}}",
+      "telephone": "{{page.telefono}}",
+      "email": "{{page,email}}"
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday"
+          ],
+          "opens": "00:00",
+          "closes": "24:00"
         },
-        "latitude": "{{page.latitude}}",
-        "longitude": "{{page.longitude}}"
-    }
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "00:00",
+          "closes": "24:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "00:00",
+          "closes": "24:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Sunday",
+          "opens": "00:00",
+          "closes": "24:00"
+        }
+      ],
     }
   </script>
+  {% endif %}
+  {% if page.json-post %}
+  <script type="application/ld+json">
+    { "@context": "https://schema.org", 
+     "@type": "BlogPosting",
+     "headline": "{{page.h1}}",
+     "alternativeHeadline": "{{page.h1_alternativo}}",
+     "image": "{{site.url}}/img/{{page.jpg}}",
+     "award": "{{page.award}}",
+     "editor": "{{page.autor}}", 
+     "genre": "{{page.genre}}", 
+     "keywords": "{{page.keywords | sort_natural | join: ", "}}", 
+     "wordcount": "{{page.content | number_of_words}}",
+     "publisher": "{{site.name}}",
+     "url": "{{page.url}}",
+     "datePublished": "{{page.date}}",
+     "dateCreated": "{{page.date}}",
+     "dateModified": "{{page.date}}",
+     "description": "{{page.description}}",
+     "articleBody": "{{page.content | strip_html}}",
+       "author": {
+        "@type": "Person",
+        "name": "{{page.autor}}"
+      }
+     }
+    </script>
   {% endif %}
   <title>{{ page.title}}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>

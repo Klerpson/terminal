@@ -5,17 +5,22 @@ description: La terminal de Bucaramanga está ubicada en la Transversal Metropol
 category: santander
 autor: terminaldetransporte.com
 h1: Ven a conocer Bucaramanga desde su terminal de transporte
+h1_alternativo: Conoce Bucaramanga y sus lugares turísticos
+award: La mejor guía para visitar Bucaramanga
+date: 2023-02-17
+genre: viajes
 jpg: blog/terminal-bucaramanga-santander.jpg
 hero: blog/terminal-bucaramanga-santander.webp
 webps: blog/terminal-bucaramanga-santander-376.webp
 webpm: blog/terminal-bucaramanga-santander-600.webp
 webpb: blog/terminal-bucaramanga-santander-800.webp
 alt: Terminal de Bucaramanga
-json:  true
+json-post: true
 referencias:
   - Fotografías de la terminal de Bucaramanga en Google Maps: https://www.google.com/maps/place/Terminal+de+Transporte+Bucaramanga/@7.0877419,-73.1295423,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM9pMPPLh4OFI4npelxozMYqmYQlyZQMpqtJTcj!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM9pMPPLh4OFI4npelxozMYqmYQlyZQMpqtJTcj%3Dw114-h86-k-no!7i2576!8i1932!4m10!1m2!2m1!1sterminal+de+bucaramanga!3m6!1s0x8e683faddaa482e3:0x7525deaf943ac2a2!8m2!3d7.0879932!4d-73.1297069!15sChd0ZXJtaW5hbCBkZSBidWNhcmFtYW5nYZIBCGJ1c19zdG9w4AEA!16s%2Fg%2F11bwc0j513?authuser=0&hl=es
   - Formulario para solicitudes, quejas y reclamos PQR: https://terminalbucaramanga.com/es/cont%C3%A1ctenos
   - Página web de la terminal de Bucaramanga : https://terminalbucaramanga.com/es
+permalink: blog/conoce-bucaramanga-desde-su-terminal-de-transporte
 excerpt: Bucaramanga, la hermosa ciudad rodeada de montañas y el lugar perfecto para aventurarse en una emocionante experiencia de viaje en autobús
 ---
 ¡Bucaramanga, la hermosa ciudad rodeada de montañas y el lugar perfecto para aventurarse en una emocionante experiencia de viaje en autobús!

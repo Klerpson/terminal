@@ -28,7 +28,7 @@ empresa3_telf: 6076375495
 contacto: https://terminalbucaramanga.com/es/cont%C3%A1ctenos
 pdf: pdf-terminal-bucaramanga.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31673.758993357038!2d-73.1429838022356!3d7.100496258388279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e683faddaa482e3%3A0x7525deaf943ac2a2!2sTerminal%20de%20Transporte%20Bucaramanga!5e0!3m2!1ses!2sco!4v1676635260955!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: 'Transversal Metropolitana Modulo 1 Oficina 712'
 telefono: 6076371000
 telefono2: 3176582053

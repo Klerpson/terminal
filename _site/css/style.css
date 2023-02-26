@@ -804,6 +804,10 @@ footer div img{
   box-shadow: none;
 }
 
+.blog-main h2{
+  margin-top: 3rem;
+}
+
 .blog-posts {
   display: flex;
   flex-wrap: wrap;

@@ -28,7 +28,7 @@ empresa3_telf: 6068788340
 contacto: https://www.terminaldemanizales.com.co/Paginas/AU.aspx
 pdf: pdf-terminal-manizales.pdf
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3974.3360190901626!2d-75.50838668255616!3d5.049162700000009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e47654245811437%3A0xb0ba16140f5c9cc6!2sTerminal%20de%20Transportes%20de%20Manizales!5e0!3m2!1ses!2sco!4v1676724631358!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json:  true
+json-terminal: true
 direccion: "Carrera 43 # 65 – 100, barrio Los Cámbulos"
 telefono: 6068785641
 telefono2: 6068787858
