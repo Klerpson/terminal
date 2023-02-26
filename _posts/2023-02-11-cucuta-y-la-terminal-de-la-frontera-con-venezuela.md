@@ -4,12 +4,17 @@ title: Cúcuta y la terminal de la frontera con Venezuela
 description: La terminal de Cúcuta te facilita tu viaje a otras ciudades de Colombia 🚌. Aquí encontrarás varias empresas que te transportarán a tu ciudad de destino
 autor: terminaldetransporte.com
 h1: La terminal de Cúcuta y su servicio en la frontera con Venezuela
+h1_alternativo: Conoce Cúcuta desde su terminal de transporte
+award: La mejor guía para visitar la ciudad de Cúcuta
+date: 2023-02-11
+genre: viajes
 jpg: blog/terminal-cucuta-norte-santander.jpg
 hero: blog/terminal-cucuta-norte-santander.webp
 webps: blog/terminal-cucuta-norte-santander-376.webp
 webpm: blog/terminal-cucuta-norte-santander-600.webp
 webpb: blog/terminal-cucuta-norte-santander-800.webp
 alt: Terminal de Cúcuta
+json-post: true
 referencias:
   - Fotografías de la Terminal de Cúcuta en Google Maps: https://www.google.com/maps/place/Terminal+de+Transporte+C%C3%BAcuta/@7.8957343,-72.5078088,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPJ9-Ivts9fyulI4ShjnEqdpI5SqHcyMedVkGo3!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPJ9-Ivts9fyulI4ShjnEqdpI5SqHcyMedVkGo3%3Dw114-h86-k-no!7i4160!8i3120!4m5!3m4!1s0x8e6645707d69c31d:0x1e01d8744f37138f!8m2!3d7.8956965!4d-72.5080074?authuser=0&hl=es
   - Formulario para solicitudes, quejas y reclamos PQR: https://home.terminalcucuta.gov.co/pqrs/
