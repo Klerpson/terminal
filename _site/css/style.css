@@ -68,7 +68,7 @@ h3 {
 
 p, .post-content li {
   font-size: .9rem;
-  line-height: 1.2;
+  line-height: 1.326;
   word-wrap: break-word;
 }
 
@@ -900,6 +900,9 @@ footer div img{
   margin: 2rem auto;
   font-size: .8rem;
   padding: 1rem;
+  text-align: center;
+  color: var(--secundario);
+  font-weight: 700;
 }
 
 #breadcrumbs a{

@@ -4,13 +4,22 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-02-26T07:18:52-05:00</updated>
+     <updated>2023-02-26T21:35:30-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
        <email>info@terminaldetransporte.com</email>
      </author>
 
+ 
+ <entry>
+   <title>5 consejos para cuidar tu maleta mientras viajas</title>
+   <link href="http://localhost:4000/blog/5-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus"/>
+   <id>http://localhost:4000/blog/consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus</id>
+   <updated>2023-02-26T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;¿Alguna vez te has preocupado por la seguridad de tus pertenencias en un viaje en autobús? Sabemos que es una situación incómoda.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>La terminal de transporte de Manizales</title>
