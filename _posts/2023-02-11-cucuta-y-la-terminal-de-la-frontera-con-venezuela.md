@@ -135,4 +135,4 @@ Lo importante de una estación de transporte tan concurrida es que a cualquier h
 
 Sin embargo, **la principal recomendación que le hacemos a nuestros lectores es que llamen a los teléfonos de las empresas de transporte de la terminal**. Esto con el objetivo de conocer tanto los destinos disponibles como las horas de salida. En caso tal de que no puedas comunicarte con ellos, ve directamente a la terminal para la compra de tu tiquete de bus.
 
-¿Deseas conocer otras ciudades de nuestro país? En [Terminal de Transporte]({{site.baseurl}}) encontrarás toda la información para que viajes de manera económica y conozcas otros destinos de toda Colombia.
+¿Deseas conocer otras ciudades de nuestro país? En [Terminal de Transporte](/) encontrarás toda la información para que viajes de manera económica y conozcas otros destinos de toda Colombia.
