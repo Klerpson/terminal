@@ -227,7 +227,7 @@
 
 .post-content blockquote a {
   margin: 1rem 0 0;
-  display: inline-block;
+  display: block;
   float: right;
 }
 
