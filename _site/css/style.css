@@ -790,7 +790,8 @@ footer div img{
   line-height: 1.2;
 }
 
-.blog-first div a{
+.blog-first div a,
+.post-content blockquote a{
   padding: 8px 32px;
   background-color: var(--principal);
   color: #fefefe;
@@ -976,6 +977,19 @@ footer div img{
 .post-content img{
   width: min(100%, 800px);
   border-radius: var(--radius);
+}
+
+.post-content blockquote{
+  border: .8px solid var(--gris1);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 1.2rem 0;
+}
+
+.post-content blockquote a {
+  margin: 1rem 0 0;
+  display: inline-block;
+  float: right;
 }
 
 #fuentes a{

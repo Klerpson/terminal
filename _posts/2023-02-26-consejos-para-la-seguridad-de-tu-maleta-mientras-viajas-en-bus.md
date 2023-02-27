@@ -55,6 +55,8 @@ Al elegir una cerradura adicional para asegurar tu maleta de viaje en un bus, es
 
 Recuerda, ninguna cerradura es 100% segura. Por esto, es recomendable utilizar más de una cerradura y combinar diferentes tipos para aumentar la seguridad de la maleta.
 
+{% include cta-hotmart1.html %}
+
 Además, es importante utilizar correctamente la cerradura o cierre elegido, siguiendo las instrucciones del fabricante y asegurándose de que esté bien colocado y bloqueado.
 
 Finalmente, es importante recordar que la seguridad de la maleta también depende de otros factores, como mantenerla siempre a la vista y no despachar objetos de valor en ella. Hablemos de esto en los siguientes 2 puntos.
@@ -72,8 +74,6 @@ Durante el viaje en autobús, es recomendable mantener la maleta cerca y a la vi
 Es importante estar atento a posibles situaciones sospechosas, tanto dentro como fuera del autobús, y **alertar al conductor o a la policía en caso de cualquier anomalía**.
 
 Finalmente, recuerda que los ladrones a veces te distraen ofreciendo ayudarte, o fingiendo pedir ayuda, para robarte. *Nunca aceptes ayuda de desconocidos* para cargar o manipular la maleta.
-
->Ya leíste sobre el turismo desde la [Terminal de Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}})
 
 ## Cuida tu maleta de viaje
 
