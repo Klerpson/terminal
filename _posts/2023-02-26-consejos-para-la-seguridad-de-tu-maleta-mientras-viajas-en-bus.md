@@ -77,7 +77,7 @@ Finalmente, recuerda que los ladrones a veces te distraen ofreciendo ayudarte, o
 
 ## Cuida tu maleta de viaje
 
-En conclusión, cuidar la seguridad de tu maleta de viaje en un bus es fundamental para evitar posibles robos o pérdidas de tus pertenencias. Para lograrlo, es importante **elegir una maleta resistente y segura, utilizar cerraduras adicionales y mantener la maleta siempre a la vista durante el viaje**.
+Cuidar la seguridad de tu maleta de viaje en un bus es fundamental para evitar posibles robos o pérdidas de tus pertenencias. Para lograrlo, es importante **elegir una maleta resistente y segura, utilizar cerraduras adicionales y mantener la maleta siempre a la vista durante el viaje**.
 
 Sin embargo, estos consejos son solo el comienzo para asegurar un viaje tranquilo y sin contratiempos. Si quieres seguir aprendiendo sobre cómo viajar seguro por las [terminales de transporte de Colombia]({{'terminales-de-colombia'|relative_url}} "Terminales de transporte"){:target="_blank"}, te recomendamos leer [nuestros artículos del blog]({{'blog'|relative_url}} "Blog de terminalesdetransporte.com"){:target="_blank"}, donde podrás encontrar consejos adicionales y útiles para que puedas disfrutar al máximo de tus aventuras en bus.
 
