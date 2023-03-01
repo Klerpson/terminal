@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
+
   <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ "/feed.xml" | relative_url}}">
   {% if page.noindex %}
   <meta name="robots" content="noindex, nofollow">
