@@ -13,6 +13,7 @@ h1: Terminales de transporte Colombianas
     <a href="#bolivar">Bolivar</a>
     <a href="#caldas">Caldas</a>
     <a href="#cauca">Cauca</a>
+    <a href="#cesar">Cesar</a>
     <a href="#cundinamarca">Cundinamarca</a>
     <a href="#huila">Huila </a>
     <a href="#magdalena">Magdalena</a>
@@ -85,6 +86,20 @@ h1: Terminales de transporte Colombianas
   <section>
     {% for terminal in pages %}
     {% if terminal.category == "cauca" %}
+    <article>
+      <a href="{{terminal.url}}">
+      {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.h1}}</h3></a>
+    </article>
+
+    {% endif %}
+    {% endfor %}
+  </section>
+  <!-- CESAR -->
+  <h2 id="cesar">Terminales de Cesar</h2>
+  <section>
+    {% for terminal in pages %}
+    {% if terminal.category == "cesar" %}
     <article>
       <a href="{{terminal.url}}">
       {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
