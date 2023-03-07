@@ -602,6 +602,10 @@ footer div img{
   position: relative;
 }
 
+.terminal_datos p a{
+  color: var(--accion);
+}
+
 .terminal_header img:not(.terminal_hero img){
   position: relative;
   background-color: var(--complemento2);
