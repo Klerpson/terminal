@@ -2,7 +2,6 @@
 layout: post
 title: La terminal de Manizales
 description: La terminal de Manizales tu conexión con el hermoso departamento del Caldas y el eje cafetero. ¡Además que es hermosa! Conócela y planea tu viaje
-keywords: [manizales, terminal, viaje, caldas]
 autor: terminaldetransporte.com
 h1: La terminal de transporte de Manizales
 h1_alternativo: Conoce Manizales desde su terminal de transporte

@@ -4,13 +4,22 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-03-07T15:57:14-05:00</updated>
+     <updated>2023-03-15T10:36:57-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
        <email>info@terminaldetransporte.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Viajar en bus por Colombia: los 5 beneficios que te darán un gran viaje</title>
+   <link href="http://localhost:4000/blog/viajar-en-bus-5-ventajas-inigualables"/>
+   <id>http://localhost:4000/blog/viajar-en-bus-5-ventajas-inigualables</id>
+   <updated>2023-03-15T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;¿Algunas vez imaginaste que &lt;strong&gt;viajar en bus&lt;/strong&gt; tiene muchos beneficios para ti y para el medio ambiente? En este artículo te contamos algunos de ellos. También te damos algunos consejos para que tu experiencia sea más cómoda y segura.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Viajes en Bus: 7 consejos para disfrutar al máximo tu trayecto</title>

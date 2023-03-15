@@ -2,7 +2,6 @@
 layout: post
 title: 'Viajes en Bus: 7 consejos para disfrutar al máximo tu trayecto'
 description: Descubre cómo disfrutar al máximo tus viajes en bus con nuestros consejos. Encuentra información útil sobre destinos, seguridad y comodidad en nuestras terminales de transporte en España. ¡Planifica tu próximo viaje con confianza y comodidad!
-keywords: [bus, viajes, paseo]
 autor: terminaldetransporte.com
 h1: 'Viajes en Bus: 7 consejos para disfrutar al máximo tu trayecto'
 h1_alternativo: Disfruta tu viaje en bus con estos 7 tips
