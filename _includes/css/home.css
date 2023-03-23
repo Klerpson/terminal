@@ -226,12 +226,24 @@ gap: 1.5rem;
 
 .blog-intro {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(40%, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 3rem;
+}
+
+.blog-intro article{
+  border: 1px solid var(--gris1);
+  border-radius: var(--radius);
 }
 
 .blog-intro a{
   color: var(--principal);
+}
+
+.blog-intro a h3{
+padding: .8rem;
+}
+.blog-intro p{
+  padding: 0 .8rem .8rem;
 }
 
 .blog-intro article img{
