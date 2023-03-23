@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Viajar en bus por Colombia: descubre 5 beneficios económicos y culturales | Terminal de transporte'
-description: '¿Quieres conocer Colombia de una forma económica y auténtica? Descubre los 5 beneficios de viajar en bus: comodidad, flexibilidad, seguridad, conexión con la cultura y ¡mucho más! Planifica tus viajes con la guía de viajes de Colombia. ¡Viaja como un local!'
+title: 'Viaja en bus por Colombia: 5 beneficios que te encantarán!'
+description: 'Viajarías por Colombia en bus? Descubre estos 5 beneficios de hacerlo: * comodidad * flexibilidad * seguridad * conexión cultural * cuidado del planeta'
 autor: terminaldetransporte.com
 h1: 'Viajar en bus por Colombia: los 5 beneficios que te darán un gran viaje'
 h1_alternativo: 'Viajar en bus por Colombia: descubre 5 beneficios económicos y culturales'
@@ -25,6 +25,8 @@ excerpt_separator: <!-- excerpt -->
 {:toc}
 
 ## Los beneficios de viajar en bus
+
+{% include add1.html %}
 
 Si alguna vez te has preguntado si viajar en bus es una buena idea, hoy te contaremos los 5 beneficios de hacerlo que nos parece que te servirán mucho.
 
