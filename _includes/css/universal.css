@@ -63,13 +63,13 @@ h2 {
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.15rem;
 }
 
 p, .post-content li {
-  font-size: 1.02rem;
   line-height: 1.326;
   word-wrap: break-word;
+  font-size: 0.9rem;
 }
 
 pre {
@@ -189,4 +189,12 @@ SVG Icons - svgicons.sparkk.fr
 .svg-icon circle {
   stroke: var(--principal);
   stroke-width: 1;
+}
+
+.add{
+  margin-top: 1rem;
+  background-color: red;
+  width: min(100%, 1200px);
+  margin-inline: auto;
+  height: min-content;
 }

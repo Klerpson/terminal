@@ -4,13 +4,23 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-03-23T09:01:42-05:00</updated>
+     <updated>2023-03-25T16:42:09-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
        <email>info@terminaldetransporte.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Descubre los 5 mejores destinos de Colombia para viajar en bus y experimentar aventuras únicas</title>
+   <link href="http://localhost:4000/blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus"/>
+   <id>http://localhost:4000/blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus</id>
+   <updated>2023-03-24T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Colombia es un país con muchos secretos, y hay muchos lugares interesantes para viajar. Las terminales de transporte en autobús son los principales puntos de acceso para conocer la cultura local y acercarse a la naturaleza.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Viajar en bus por Colombia: los 5 beneficios que te darán un gran viaje</title>

@@ -48,7 +48,7 @@ h1: Principales terminales de transporte de Colombia
       <article>
         <a href="{{site.baseurl}}{{ post1.url }}">
           <img src="{{ site.baseurl }}/img/{{ post1.webps }}" alt="{{ post1.alt }}" loading="lazy">
-          <h3>{{ post1.h1 }}</h3>
+          <h3>{{ post1.h1 | truncate: 68 }}</h3>
         </a>
           {{ post1.excerpt | truncate: 100 | markdownify}}
       </article>
@@ -56,7 +56,7 @@ h1: Principales terminales de transporte de Colombia
       <article>
         <a href="{{site.baseurl}}{{ post2.url }}">
           <img src="{{ site.baseurl }}/img/{{ post2.webps }}" alt="{{ post2.alt }}" loading="lazy">
-          <h3>{{ post2.h1 }}</h3>
+          <h3>{{ post2.h1 | truncate: 68 }}</h3>
         </a>
           {{ post2.excerpt | truncate: 100 | markdownify}}
       </article>
@@ -77,7 +77,7 @@ h1: Principales terminales de transporte de Colombia
       <article>
         <a href="{{site.baseurl}}{{ post3.url }}">
           <img src="{{ site.baseurl }}/img/{{ post3.webps }}" alt="{{ post3.alt }}" loading="lazy">
-          <h3>{{ post3.h1 }}</h3>
+          <h3>{{ post3.h1 | truncate: 68 }}</h3>
         </a>
           {{ post3.excerpt | truncate: 100 | markdownify}}
       </article>
