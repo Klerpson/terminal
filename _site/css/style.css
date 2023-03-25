@@ -193,7 +193,6 @@ SVG Icons - svgicons.sparkk.fr
 
 .add{
   margin-top: 1rem;
-  background-color: red;
   width: min(100%, 1200px);
   margin-inline: auto;
   height: min-content;
@@ -783,7 +782,7 @@ footer div img{
 
 .blog-first{
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.2rem;
   place-items: center;
   background-color: var(--complemento2);
