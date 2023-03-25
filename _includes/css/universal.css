@@ -54,16 +54,17 @@ h4 {
 }
 
 h1 {
-  font-size: 1.75rem;
+  font-size: 2rem;
+  line-height: 1.2;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   line-height: 1.2;
 }
 
 h3 {
-  font-size: 1.15rem;
+  font-size: 1.3rem;
 }
 
 p, .post-content li {
@@ -195,5 +196,4 @@ SVG Icons - svgicons.sparkk.fr
   margin-top: 1rem;
   width: min(100%, 1200px);
   margin-inline: auto;
-  height: min-content;
 }
