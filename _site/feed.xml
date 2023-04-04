@@ -4,13 +4,22 @@
      <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-04-03T23:18:26-05:00</updated>
+     <updated>2023-04-03T23:50:26-05:00</updated>
      <title type="html"></title>
      <author>
        <name>Julian Andres Franco</name>
        <email>info@terminaldetransporte.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Descubre Redbus Colombia: ¡Reserva tu viaje ahora mismo!</title>
+   <link href="http://localhost:4000/blog/red-bus-colombia-reserva-viajes"/>
+   <id>http://localhost:4000/blog/redbus-colombia-reserva-viajes</id>
+   <updated>2023-04-03T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;RedBus Colombia es una plataforma de venta de pasajes en línea que se ha destacado por la calidad de su servicio al cliente y la facilidad de su plataforma.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Descubre los 5 mejores destinos de Colombia para viajar en bus y experimentar aventuras únicas</title>
