@@ -21,3 +21,9 @@ compress_html:
     blanklines: false
     profile: false
     startings: []
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag 
+  - jekyll-redirect-from
