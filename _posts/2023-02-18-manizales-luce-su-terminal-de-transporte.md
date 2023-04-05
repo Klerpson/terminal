@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La terminal de Manizales
+title: Manizales se engalana con su terminal. ¿La conoces?
 description: Manizales ha recibido muchos apodos debido a su belleza natural y riqueza cultural, entre ellos "la Suiza de Colombia" o "la ciudad de las flores"
 autor: terminaldetransporte.com
 h1: La terminal de transporte de Manizales
