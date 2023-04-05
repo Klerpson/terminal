@@ -1,7 +1,7 @@
 ---
 layout: terminal
 title: Terminal de transportes Bucaramanga
-description: La terminal de Bucaramanga está ubicada en la Transversal Metropolitana, en la vía que conduce a Girón cerca al barrio Provenza. Esta terminal es el punto de partida de todos los principales viajes intermunicipales de Santander.
+description: La terminal de Bucaramanga está ubicada en la Transversal Metropolitana, en la vía que conduce a Girón cerca al barrio Provenza.
 category: santander
 h1: La terminal de transporte de Bucaramanga
 jpg: terminales/terminal-bucaramanga.jpg

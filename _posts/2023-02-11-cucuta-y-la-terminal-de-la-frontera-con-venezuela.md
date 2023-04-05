@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cúcuta y la terminal de la frontera con Venezuela
-description: La terminal de Cúcuta te facilita tu viaje a otras ciudades de Colombia 🚌. Aquí encontrarás varias empresas que te transportarán a tu ciudad de destino
+description: La terminal de Cúcuta cuenta con una ubicación estratégica, de fácil acceso. Es uno de los puntos de referencias más icónicos con la redoma del Indio Motilón.
 autor: terminaldetransporte.com
 h1: La terminal de Cúcuta y su servicio en la frontera con Venezuela
 h1_alternativo: Conoce Cúcuta desde su terminal de transporte

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La terminal de Manizales
-description: La terminal de Manizales tu conexión con el hermoso departamento del Caldas y el eje cafetero. ¡Además que es hermosa! Conócela y planea tu viaje
+description: Manizales ha recibido muchos apodos debido a su belleza natural y riqueza cultural, entre ellos "la Suiza de Colombia" o "la ciudad de las flores"
 autor: terminaldetransporte.com
 h1: La terminal de transporte de Manizales
 h1_alternativo: Conoce Manizales desde su terminal de transporte
