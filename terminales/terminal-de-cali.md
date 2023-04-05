@@ -14,7 +14,7 @@ logo: terminal-cali-logo.webp
 webp1: terminales/terminal-cali-exterior-600.webp
 webp2: terminales/terminal-cali-exterior-376.webp
 h2_1: 'Terminal de Cali: teléfono y dirección'
-h2_2: Compra tiquetes con la terminal de Cali
+h2_2: Compra pasajes en la terminal de Cali
 p_1: "La terminal de Cali ha sido vital para el desarrollo de la ciudad. También, ha sido y sigue siendo una fuente de generación de empleo."
 empresa1: Expreso Bolivariano
 empresa2: Expreso Palmira
