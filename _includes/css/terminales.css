@@ -204,7 +204,8 @@
   line-height: 1.4;
 }
 
-.terminal_empresas div a{
+.terminal_empresas div a,
+#boton{
   display: inline-block;
   padding: 16px 32px;
   background-color: var(--accion);
@@ -213,6 +214,8 @@
   text-transform: capitalize;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
+  text-decoration: none;
+  margin-bottom: 1rem;
 }
 
 .terminal_empresas div ul{
@@ -228,4 +231,41 @@
   margin-right: .6rem;
   border-radius: 50%;
   background-color: var(--complemento1);
+}
+
+.terminal-info{
+  background-color: var(--complemento2);
+  width: 100%;
+  padding: 5rem 16px 0;
+}
+
+.terminal-info div{
+  width: min(100%, 1200px);
+  margin-inline: auto;
+  display: grid;
+  gap: .6rem;
+}
+
+.terminal-info div h2{
+  max-width: 720px;
+}
+
+.terminal-info div a{
+  color: var(--principal);
+}
+
+.terminal-info ul li{
+  list-style: disc;
+  margin-left: 2rem;
+}
+
+.telefonos-header{
+  padding: 3rem 0 0;
+  background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  clip-path: inset(0 -100vmax);
+  color: #fefefe;
+  width: min(100%, 1200px);
+  margin-inline: auto;
+  padding: 2rem 16px 0;
 }

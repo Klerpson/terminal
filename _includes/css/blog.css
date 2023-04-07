@@ -218,6 +218,15 @@
   border-radius: var(--radius);
 }
 
+.post-content ol li{
+  list-style: decimal;
+  margin-left: 2rem;
+}
+
+.post-content ol li::marker{
+  font-size: 1.5rem;
+}
+
 .post-content blockquote{
   border: .8px solid var(--gris1);
   border-radius: 8px;
@@ -229,6 +238,13 @@
   margin: 1rem 0 0;
   display: block;
   float: right;
+}
+
+.post-content th, 
+.post-content td {
+  border-bottom: 1.5px solid var(--gris1);
+  border-collapse: collapse;
+  padding: .5rem 0;
 }
 
 #fuentes a{

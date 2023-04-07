@@ -26,7 +26,7 @@ empresa1_telf: 3144855796
 empresa2_telf: 3117288500
 empresa3_telf: 3207883235
 contacto: https://cali.com/pqrsd/
-pdf: pdf-terminal-cali.pdf
+pdf: telefonos-empresa-terminal-cali
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.8771378474376!2d-75.571231!3d6.279879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4428d778c62ff7%3A0x14b3b886bb9997e3!2sTerminales%20Medell%C3%ADn%20-%20Norte!5e0!3m2!1ses!2sco!4v1676576605595!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Calle 30 N 2an - 29"
@@ -42,3 +42,24 @@ latitude: 3.4656371
 longitude: -76.5240347
 permalink: /terminal-de-cali
 ---
+## Más información de la terminal de transporte de Cali
+
+Si estás planeando un viaje y necesitas información sobre la terminal de Cali, hoteles cercanos y cómo comprar pasajes, has venido al lugar correcto.
+
+### Compra tus pasajes en la terminal de Cali
+
+Para comprar pasajes, simplemente **contacta directamente con la empresa o acércate a la taquilla de la empresa de transporte que elijas**. Asegúrate de comprar tu pasaje con suficiente anticipación para evitar sorpresas de última hora.
+
+[Empresas de la terminal de Cali]({{page.pdf}}){:target="_blank" id="boton"}
+
+Si estás planeando un viaje desde la terminal de Cali, es importante tener en cuenta algunos detalles importantes, como reservar un hotel cercano y comprar tus pasajes con suficiente anticipación. Esperamos que esta guía te haya sido útil y que tengas un viaje seguro y agradable. ¡Que disfrutes tu viaje por el sur de Colombia!
+
+### Hoteles cerca de la terminal de Cali
+
+Cuando llegas a la terminal de Cali, es posible que desees pasar la noche antes de partir hacia tu próximo destino. La ubicación de la terminal es excelente *cerca del centro de la ciudad* y cuenta con una gran cantidad de opciones de transporte disponibles.
+
+Es muy fácil moverse desde la terminal a los destinos más populares de la región. Afortunadamente, hay una gran cantidad de opciones de alojamiento disponibles en los alrededores de la terminal.
+
+Haz clic en el siguiente botón para ver **la lista más completa de hoteles cerca a la Terminal de Cali**.
+
+[Hoteles cerca a la terminal](https://www.google.com/maps/search/Hoteles/@10.910865,-74.7979319,15.75z/data=!4m2!2m1!6e3){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}

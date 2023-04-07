@@ -94,6 +94,7 @@ layout: default
     </div>
   </section>
 </header>
+{% if page.h2_1 %}
 <main class="terminal">
   <section class="terminal_datos">
     <div>
@@ -167,11 +168,19 @@ layout: default
           <li><span>2</span>Busca la empresa que necesitas</li>
           <li><span>3</span>Marca el número de la empresa</li>
         </ul>
-        <a href="{{site.baseurl}}/assets/{{page.pdf}}">Descargar lista</a>
+        <a href="{{page.url}}/{{page.pdf}}" title="Teléfonos de las empresas de transporte en {{page.title}}" target="_blank">Ver más empresas</a>
       </div>
     </div>
   </section>
-  <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
+  {% endif %}
+  
+  <section class="terminal-info">
+    <div>
+      {{content}}
+    </div>
+  </section>
+  
+  <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%; background-color: #DEE5E5;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
   <section class="conclusion">
     <h2>{{page.title}}</h2>
     <ul>
@@ -196,5 +205,6 @@ layout: default
     {{page.iframe}}
   </div>
   </section>
+
   
 {% include footer.html %}
