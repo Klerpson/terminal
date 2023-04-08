@@ -10,6 +10,8 @@ permalink: terminal-de-cartagena/telefonos-empresa-terminal-cartagena
 
 ### Compra tus pasajes en la terminal de Cartagena
 
+{% include cta-hotmart1.html %}
+
 Para hacerlo, sigue estos 3 pasos:
 
 1. Elige tu empresa favorita
@@ -39,6 +41,8 @@ Para hacerlo, sigue estos 3 pasos:
 
 ### Servicios de la Terminal de Cartagena
 
+{% include cta-hotmart1.html %}
+
 La terminal de Transporte de Cartagena te ofrece los siguientes servicios:
 
 * Cómodas salas de espera: Salas con mueblería y equipos adecuados para hacer más amena laespera de la salida del vehículo de transporte, incluyendo la temperatura con aire acondicionado.
@@ -58,6 +62,8 @@ La terminal de Transporte de Cartagena te ofrece los siguientes servicios:
 Recuerda que al utilizar las instalaciones de la terminal de transporte de Cartagena no puedesdescuidar tus objetos personales. Vigila tus niños pequeños y mascotas. No aceptes ayuda deextraños o de personas ajenas a la Terminal de Transporte.
 
 ### Destinos desde la Terminal de Cartagena
+
+{% include cta-hotmart1.html %}
 
 Las rutas que administra la terminal de Cartagena con las empresas de transporte por carretera,cumpliendo con todos los requisitos legales del ministerio de transporte, son las siguientes:
 
@@ -119,6 +125,8 @@ Terminal de Cartagena a El Socorro
 Terminal de Cartagena a El Viajano
 Terminal de Cartagena a El Vizo
 Terminal de Cartagena a Facatativá
+{% include cta-hotmart1.html %}
+
 Terminal de Cartagena a Fontibón
 Terminal de Cartagena a Fundación
 Terminal de Cartagena a Guaduas
@@ -175,6 +183,8 @@ Terminal de Cartagena a Sabanalarga
 Terminal de Cartagena a Sahagún
 Terminal de Cartagena a Sampués
 Terminal de Cartagena a San Alberto
+{% include cta-hotmart1.html %}
+
 Terminal de Cartagena a San Antero
 Terminal de Cartagena a San Bernardo
 Terminal de Cartagena a San Gil
@@ -207,6 +217,8 @@ Terminal de Cartagena a Zambrano
 También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal de Cartagena"){:target="_blank"}.
 
 ### Descarga el PDF con los número de la terminal de Cartagena
+
+{% include cta-hotmart1.html %}
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Cartagena, puedes descargar el pdf haciendo clic en el siguiente botón:
 

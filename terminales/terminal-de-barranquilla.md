@@ -49,6 +49,8 @@ La Terminal de Transporte de Barranquilla es el principal punto de conexión par
 
 ### Hoteles cerca de la Terminal de Transporte de Barranquilla
 
+{% include cta-hotmart1.html %}
+
 Si llegas a Barranquilla por la Terminal de Transporte, es posible que desees **buscar un hotel cercano para descansar después del viaje**. Aquí te dejamos una lista de los hoteles más cercanos a la terminal:
 
 * Hotel Genova - A solo 10 minutos de la terminal

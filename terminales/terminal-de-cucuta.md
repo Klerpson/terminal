@@ -48,6 +48,8 @@ La Terminal de Transporte de Cúcuta es uno de los puntos de referencia más imp
 
 ### Pasajes desde la Terminal de Transporte de Cúcuta
 
+{% include cta-hotmart1.html %}
+
 En la terminal encontrarás una gran variedad de empresas de transporte terrestre, que ofrecen diferentes opciones de viaje y tarifas para que puedas elegir la que mejor se adapte a tus necesidades.
 
 Entre las empresas que operan en la Terminal de Transporte de Cúcuta se encuentran **Expreso Brasilia, Fronteras, Berlinas del Fonce, Copetran, Omega, entre otras**.
@@ -69,6 +71,8 @@ Haz clic en el siguiente botón para ver **la lista más completa de hoteles cer
 [Hoteles cerca a la terminal](https://www.google.com/maps/search/Hoteles/@7.8957132,-72.509331,17z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
 ### Servicios de la terminal
+
+{% include cta-hotmart1.html %}
 
 La Terminal de Transporte de Cúcuta es una de las más grandes del país, cuenta con una amplia variedad de servicios para los viajeros, como restaurantes, tiendas, servicios bancarios, cambio de moneda, entre otros.
 

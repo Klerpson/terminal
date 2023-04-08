@@ -10,6 +10,8 @@ permalink: terminal-de-popayan/telefonos-empresa-terminal-popayan
 
 Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresastransportadores que funcionan en la instalación. Aquí te dejamos los datos de contacto para quepuedas comprar tus pasajes hoy mismo.
 
+{% include cta-hotmart1.html %}
+
 | 🚌 EMPRESA | ☎ TELÉFONO |
 | :--- | :--- |
 | Continental Bus | 6028231077 – 3112049307 |
@@ -39,6 +41,8 @@ Las empresas de transporte que trabajan en la terminal de Popayán están avalad
 También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Popayán]({{'terminal-de-popayan'|relative_url}} "Terminal de Popayán"){:target="_blank"}.
 
 ### Descarga el PDF con los número de la terminal de Popayán
+
+{% include cta-hotmart1.html %}
 
 Si necesitas llevar contigo los números de **las empresas que ofrecen sus servicios en la terminal de transporte de Popayán**, puedes descargar el pdf haciendo clic en el siguiente botón:
 

@@ -26,7 +26,7 @@ empresa1_telf: 6044364068
 empresa2_telf: 6042309931
 empresa3_telf: 6042607023
 contacto: https://terminalesmedellin.com/pqrsd/
-pdf: pdf-terminal-medellin.pdf
+pdf: telefonos-empresa-terminal-medellin
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.8771378474376!2d-75.571231!3d6.279879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4428d778c62ff7%3A0x14b3b886bb9997e3!2sTerminales%20Medell%C3%ADn%20-%20Norte!5e0!3m2!1ses!2sco!4v1676576605595!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: Carrera 64C No. 78 – 580

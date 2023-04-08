@@ -10,6 +10,8 @@ La terminal de transporte de Pitalito es un punto central para el transporte de 
 
 ## Empresas de la terminal de transporte de Pitalito
 
+{% include cta-hotmart1.html %}
+
 Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadoras que funcionan en la [terminal de Pitalito]({{'terminal-de-pitalito'|relative_url}} "Terminal de Pitalito"){:target="_blank"}.
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
@@ -53,6 +55,8 @@ Estos son los destinos a los que puedes viajar desde la terminal:
 * Terminal de Pitalito a Manizales
 * Terminal de Pitalito a Medellín
 * Terminal de Pitalito a Mocoa
+{% include cta-hotmart1.html %}
+
 * Terminal de Pitalito a Neiva
 * Terminal de Pitalito a Oporapa
 * Terminal de Pitalito a Pasto
@@ -69,6 +73,8 @@ Estos son los destinos a los que puedes viajar desde la terminal:
 Las empresas de transporte que trabajan en la terminal están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
 ### Descarga el PDF con los número de la terminal
+
+{% include cta-hotmart1.html %}
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Pitalito, puedes descargar el pdf haciendo clic en el siguiente botón:
 

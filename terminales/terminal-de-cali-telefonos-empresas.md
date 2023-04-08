@@ -12,6 +12,8 @@ Encuentra todo en un solo lugar y ahorra tiempo y esfuerzo. No más llamadas per
 
 ## Teléfonos de las empresas de la terminal de transporte de Cali
 
+{% include cta-hotmart1.html %}
+
 Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
@@ -45,6 +47,8 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali"){:target="_blank"}.
 
 ### Descarga el PDF con los número de la terminal de Cali
+
+{% include cta-hotmart1.html %}
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Cali, puedes descargar el pdf haciendo clic en el siguiente botón:
 

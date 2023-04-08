@@ -50,6 +50,8 @@ La Terminal de Popayán es la central para viajar desde el Cauca hacia otro luga
 
 ### Empresas transportistas que realizan los viajes desde el Terminal de Popayán
 
+{% include cta-hotmart1.html %}
+
 **La terminal de Popayán puede recibir aproximadamente 1200 buses al día**. A continuación, encontrarás una lista de las empresas que laboran dentro del Terminal de Popayán y todas sus características, para que elijas la que mejor se adapte a tus necesidades.
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
@@ -83,6 +85,8 @@ Los principales destinos que cubre Coomotor desde la terminal de Popayán son:
 Además de Florencia, Espinal, Pitalito, Mocoa, San Agustín, Doradal, Buga, Honda, Puerto Asís, Garzón. Y los precios de los pasajes, según la ruta, oscilan entre 6$ el de menor costo y 32$ el de mayor costo. Consulta sus horarios, precios, direcciones, promociones y cualquier pregunta referente a tu viaje a través de **los números de teléfono de Coomotor en la terminal de Popayán son**: [01800910293](tel:01800910293){:rel="nofollow"} o al [8231259](tel:6028231259){:rel="nofollow"}.
 
 #### Empresa de autobuses Bolivariano
+
+{% include cta-hotmart1.html %}
 
 **Las ciudades cubiertas por esta línea de autobuses son 41, en 57 rutas**. Su flota de vehículos diarios consta de 246 unidades. Los buses utilizados en esta compañía de transporte son Eurovans, Navette, Navette G7, Navette XL, Servicio 2G, Servicio 2G Gold, Servicio DuoBus, Servicio Ejecutivo, Turquesa. Respecto a los servicios prestados dentro de las unidades, se cuenta con:
 
@@ -128,6 +132,8 @@ Y cinco destinos más: Armenia, Doradal, Girardot y Honda. Sus pasajes los encue
 
 #### Empresa de autobuses Expreso Palmira
 
+{% include cta-hotmart1.html %}
+
 **Esta empresa cubre 22 ciudades y 72 rutas**. La cantidad de unidades diarias con las que cuenta son 350. Clases de autobuses: Navatte, Navette G7, Navette XL, Turquesa. Los servicios con los que se cuenta dentro de las unidades son los mismos que las empresas descritas anteriormente. Sus destinos principales son:
 
 * Bogotá
@@ -162,6 +168,8 @@ Los servicios que conseguirás dentro del terminal son los siguientes:
 * Cajeros automáticos disponibles
 * Baños públicos
 * Vigilancia privada las 24 hora
+
+{% include cta-hotmart1.html %}
 
 Tu espera se hará placentera, pues, te mantendrás conectado y con todo lo necesario al alcance de tu mano. Todas las áreas del terminal son cómodas y seguras.
 

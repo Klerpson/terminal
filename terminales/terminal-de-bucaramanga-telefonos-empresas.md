@@ -10,6 +10,8 @@ Puedes comprar tus tiquetes o pasajes **comunicándote directamente con las empr
 
 ## Teléfonos de las empresas de la terminal de transporte de Bucaramanga
 
+{% include cta-hotmart1.html %}
+
 Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
@@ -42,6 +44,8 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}} "Terminal de Bucaramanga"){:target="_blank"}.
 
 ### Descarga el PDF con los número de la terminal de Bucaramanga
+
+{% include cta-hotmart1.html %}
 
 Si necesitas llevar contigo los números de **las empresas que ofrecen sus servicios en la terminal de transporte de Bucaramanga**, puedes descargar el pdf haciendo clic en el siguiente botón:
 

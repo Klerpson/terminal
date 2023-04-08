@@ -49,6 +49,8 @@ permalink: /terminal-de-bogota
 
 Su ubicación es estratégica en la ciudad de Bogotá. Además, es el punto de partida principal para viajeros que se dirigen a diferentes partes del país.
 
+{% include cta-hotmart1.html %}
+
 Esta terminal cuenta con una amplia variedad de servicios para los viajeros, como restaurantes, baños, cajeros automáticos, locales de venta de souvenirs, zonas wifi y tiendas de conveniencia.
 
 Una de las ventajas de la Terminal de Salitre es su ubicación, ya que **se encuentra cerca de varios puntos de interés en la ciudad**. Por ejemplo, el Centro Comercial Salitre Plaza está ubicado a pocos minutos de la terminal. Otro lugar cercano es el Parque Simón Bolívar, uno de los parques más grandes de la ciudad, que cuenta con varias atracciones turísticas y áreas verdes para disfrutar.
@@ -73,6 +75,8 @@ Haz clic en el siguiente botón para ver una lista más completa de *los diferen
 
 ## Terminal Norte de Bogotá
 
+{% include cta-hotmart1.html %}
+
 La Terminal Norte de Bogotá es una de las terminales más concurridas de la ciudad, ya que es la principal terminal para los viajes hacia el norte del país.
 
 Esta terminal **se encuentra ubicada en la  calle 192 # 19-43**, en la localidad de Suba.
@@ -82,6 +86,8 @@ La Terminal Norte de Bogotá es la segunda terminal más grande de la ciudad, de
 Esta terminal es un punto de partida para muchos viajeros que se dirigen a destinos populares como Zipaquirá, Tunja y Villa de Leyva. También es un punto de llegada para aquellos que vienen de la región del Norte de Bogotá.
 
 ### Compra pasajes en la terminal del Norte de Bogotá
+
+{% include cta-hotmart1.html %}
 
 En la Terminal Norte de Bogotá puedes comprar los pasajes telefónicamente. Hasta puedes [comprar pasajes en línea]({{'blog/red-bus-colombia-reserva-viajes'|relative_url}} "RedBus Colombia"){:target="_blank"}.
 

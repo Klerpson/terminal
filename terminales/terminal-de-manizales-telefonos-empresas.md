@@ -12,6 +12,8 @@ En la terminal de buses de Manizales **funcionan alrededor de 30 empresas transp
 
 Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
 
+{% include cta-hotmart1.html %}
+
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
 | **Arauca** | 6068788340 |
@@ -49,6 +51,8 @@ Las empresas de transporte que trabajan en la terminal de Manizales están avala
 También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Manizales]({{'terminal-de-manizales'|relative_url}} "Terminal de Manizales"){:target="_blank"}.
 
 ### Descarga el PDF con los número de la terminal de Manizales
+
+{% include cta-hotmart1.html %}
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Manizales, puedes descargar el pdf haciendo clic en el siguiente botón:
 

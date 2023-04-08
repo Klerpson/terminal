@@ -51,6 +51,8 @@ La terminal de Bucaramanga es el lugar para tomar un bus y moverte de un lugar a
 
 ### Hoteles cerca a la Terminal de Bucaramanga
 
+{% include cta-hotmart1.html %}
+
 Alrededor de la terminal, encontrarás una gran variedad de hoteles donde puedes hospedarte durante tu visita a Bucaramanga.
 
 Haz clic en el siguiente botón para ver una lista más completa de *los diferentes hoteles cerca a la terminal de Bucaramanga*.

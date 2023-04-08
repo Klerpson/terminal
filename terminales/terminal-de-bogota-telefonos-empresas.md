@@ -12,6 +12,8 @@ Asegúrate de **verificar los horarios y precios de los tiquetes con anticipaci�
 
 ## Terminal de Transporte de Bogotá
 
+{% include cta-hotmart1.html %}
+
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | --- | :--- |
 | Líneas las Acacias | 5414667 - 5414667 |
@@ -98,6 +100,8 @@ Asegúrate de **verificar los horarios y precios de los tiquetes con anticipaci�
 | Velotax Ltda. | 2612110 |
 
 ## Destinos desde la terminal de transporte de Bogotá
+
+{% include cta-hotmart1.html %}
 
 Los destinos a los que la terminal de Bogotá atiendes desde sus 3 sedes son los siguientes:
 
@@ -191,6 +195,8 @@ Los destinos a los que la terminal de Bogotá atiendes desde sus 3 sedes son los
 * Terminal de transporte de Bogotá a Lima
 * Terminal de transporte de Bogotá a Loma de Potrerillo
 * Terminal de transporte de Bogotá a Loma de Bálsamo
+{% include cta-hotmart1.html %}
+
 * Terminal de transporte de Bogotá a Lorica
 * Terminal de transporte de Bogotá a Luruaco
 * Terminal de transporte de Bogotá a Magangué
@@ -268,6 +274,8 @@ Los destinos a los que la terminal de Bogotá atiendes desde sus 3 sedes son los
 * Terminal de transporte de Bogotá a Valledupar
 * Terminal de transporte de Bogotá a Villa de Leyva
 * Terminal de transporte de Bogotá a Villagarzón
+{% include cta-hotmart1.html %}
+
 * Terminal de transporte de Bogotá a Villanueva
 * Terminal de transporte de Bogotá a Villavicencio
 * Terminal de transporte de Bogotá a Villeta

@@ -240,10 +240,10 @@
 }
 
 .terminal-info div{
-  width: min(100%, 1200px);
+  width: min(100%, 992px);
   margin-inline: auto;
   display: grid;
-  gap: .6rem;
+  gap: .8rem;
 }
 
 .terminal-info div h2{

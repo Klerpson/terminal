@@ -48,6 +48,8 @@ La Terminal de Transporte de Cartagena es un punto clave para el transporte en l
 
 ### Compra los pasajes directamente con las empresas de la terminal
 
+{% include cta-hotmart1.html %}
+
 Con **15 líneas de transporte** que ofrecen servicios intermunicipales y departamentales, la terminal es una opción conveniente para aquellos que buscan viajar dentro y fuera de la ciudad.
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.

@@ -12,6 +12,8 @@ Asegúrate de verificar los horarios y precios de los tiquetes con anticipación
 
 ## Teléfonos de las empresas de la terminal de transporte de Barranquilla
 
+{% include cta-hotmart1.html %}
+
 Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
@@ -41,6 +43,8 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Barranquilla]({{'terminal-de-barranquilla'|relative_url}} "Terminal de Barranquilla"){:target="_blank"}.
 
 ## Destinos desde la Terminales de Barranquilla
+
+{% include cta-hotmart1.html %}
 
 *Desde la Terminal de Transporte de Barranquilla puedes viajar a los siguientes destinos de Colombia*:
 
@@ -105,6 +109,8 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 * Terminal de Barranquilla a El Playón
 * Terminal de Barranquilla a El Rodadero
 * Terminal de Barranquilla a El Socorro
+{% include cta-hotmart1.html %}
+
 * Terminal de Barranquilla a El Viajano
 * Terminal de Barranquilla a El Vizo
 * Terminal de Barranquilla a Facatativá
@@ -164,6 +170,8 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 * Terminal de Barranquilla a Ponedera
 * Terminal de Barranquilla a Puerta de Hierro
 * Terminal de Barranquilla a Puerto Araujo
+{% include cta-hotmart1.html %}
+
 * Terminal de Barranquilla a Puerto Berrio
 * Terminal de Barranquilla a Puerto Boyacá
 * Terminal de Barranquilla a Puerto Valdivia

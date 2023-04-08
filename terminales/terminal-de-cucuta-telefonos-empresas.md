@@ -14,6 +14,8 @@ Para hacerlo, sigue estos 3 pasos:
 2. Llama directamente a la empresa, sin intermediarios. (Si algún número no funciona, por favor avísanos en [nuestra página de contacto]({{'contacto'|relative_url}}){:target="_blank"})
 3. Compra directamente con ellos o por su página web.
 
+{% include cta-hotmart1.html %}
+
 |🚌 EMPRESAS | ☎ TELÉFONO |
 | :--- | :--- |
 | EXPRESO BOLIVARIANO | 3204883744 - 3118107689 |
@@ -44,6 +46,8 @@ Para hacerlo, sigue estos 3 pasos:
 Compra los pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Cúcuta]({{'terminal-de-cucuta'|relative_url}} "Terminal de Cúcuta"){:target="_blank"}.
 
 ### Descarga el PDF con los número de la terminal de Cúcuta
+
+{% include cta-hotmart1.html %}
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Cúcuta, puedes descargar el pdf haciendo clic en el siguiente botón:
 

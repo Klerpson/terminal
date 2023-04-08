@@ -49,6 +49,8 @@ Ubicado en la ciudad de Pitalito, Colombia, el terminal de transporte es un luga
 
 ### ¿Cómo comprar pasajes en la terminal de Pitalito?
 
+{% include cta-hotmart1.html %}
+
 Te recomendamos **comprar los pasajes utilizando su [página web oficial](https://tuterminalpitalito.com/comprar-pasajes/){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
 Si necesitas una empresa en particular que trabaje en la terminal de Pitalito, puedes ver la lista que preparamos para ti. Haz clic en el botón que sigue 👇👇👇.
@@ -70,6 +72,8 @@ Cootranslaboyana es la empresa más conocida de la zona. Desde la **[página de 
 También, puedes marcar directamente **el número de teléfono de esta empresa: [6088360508](tel:6088364982){:rel="nofollow noopener noreferrer" target="_blank"}.
 
 ### Servicios de la terminal de Pitalito
+
+{% include cta-hotmart1.html %}
 
 La terminal de transporte de Pitalito Huila es un lugar moderno y cómodo para los viajeros, con una gran variedad de comodidades para los usuarios:
 

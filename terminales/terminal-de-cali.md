@@ -48,6 +48,8 @@ Si estás planeando un viaje y necesitas información sobre la terminal de Cali,
 
 ### Compra tus pasajes en la terminal de Cali
 
+{% include cta-hotmart1.html %}
+
 Para comprar pasajes, simplemente **contacta directamente con la empresa o acércate a la taquilla de la empresa de transporte que elijas**. Asegúrate de comprar tu pasaje con suficiente anticipación para evitar sorpresas de última hora.
 
 [Empresas de la terminal de Cali]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
