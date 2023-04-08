@@ -81,6 +81,14 @@ h1: Principales terminales de transporte de Colombia
         </a>
           {{ post3.excerpt | truncate: 100 | markdownify}}
       </article>
+      {% assign post4 = site.posts[3] %}
+      <article>
+        <a href="{{site.baseurl}}{{ post4.url }}">
+          <img src="{{ site.baseurl }}/img/{{ post4.webps }}" alt="{{ post4.alt }}" loading="lazy">
+          <h3>{{ post4.h1 | truncate: 68 }}</h3>
+        </a>
+          {{ post4.excerpt | truncate: 100 | markdownify}}
+      </article>
 </section>
 
 <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
