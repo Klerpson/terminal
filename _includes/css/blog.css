@@ -240,6 +240,11 @@
   float: right;
 }
 
+.post-content blockquote h4{
+  margin-bottom: .8rem;
+}
+
+
 .post-content th, 
 .post-content td {
   border-bottom: 1.5px solid var(--gris1);

@@ -272,10 +272,14 @@
   background-color: var(--principal);
   color: white;
   padding: 10px 16px;
-  margin-top: 1rem;
+  margin-top: .8rem;
   float: right;
   border-radius: var(--radius);
   text-decoration: none;
+}
+
+.terminal-info blockquote h4{
+  margin-bottom: .8rem;
 }
 
 .telefonos-header{
