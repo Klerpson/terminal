@@ -1,6 +1,6 @@
 ---
 layout: terminal
-title: Terminal de Barranquilla
+title: La terminal de Barranquilla
 description: Barranquilla es el mayor puerto de Colombia y la segunda ciudad más grande. También es un centro de transporte intermunicipal.
 category: atlantico
 h1: La terminal de transporte de Barranquilla
