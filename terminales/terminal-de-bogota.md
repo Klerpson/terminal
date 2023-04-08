@@ -55,6 +55,8 @@ Una de las ventajas de la Terminal de Salitre es su ubicación, ya que **se encu
 
 ### Compra tus tiquetes en la terminal Salitre de Bogotá
 
+{% include cta-hotmart1.html %}
+
 En la Terminal Salitre de Bogotá, puedes comprar boletos para viajar a diferentes destinos nacionales e internacionales.
 
 En [terminaldetransporte.com](/){:target="_blank"} te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
