@@ -49,18 +49,38 @@ Desde la Terminal del Norte de Medellín se pueden tomar buses y colectivos haci
 
 Además, la Terminal del Norte de Medellín cuenta con una amplia variedad de servicios para los usuarios, incluyendo zonas de alimentación, locales comerciales, baños públicos, oficinas de información y más.
 
+### Teléfono de la terminal del Norte
+
+Puedes llamar a la terminal Norte de Medellín al [604 444 8020](tel:6044448020){:rel="nofollow noopener noreferrer" target="_blank"} – Ext. 150.
+
 ### Comprar pasajes en la terminal de transporte del norte de Medellín
 
 En la terminal operan empresas como **Copetran, Expreso Bolivariano, Flota Occidental, Rápido Ochoa, Omega, Expreso Brasilia, entre otras**. Haz clic en el siguiente botón para contactar directamente con estas empresas.
 
 [Empresas terminal Norte de Medellín]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
-Si estás buscando hospedarte cerca de la Terminal del Norte de Medellín, te recomendamos algunos hoteles ubicados en la zona:
+### Hoteles cerca a la terminal del Norte Medellín
 
-Hotel Acqua Express: ubicado a solo 5 minutos caminando de la terminal, este hotel cuenta con habitaciones cómodas y modernas, además de un restaurante y un bar.
+Si estás buscando **hospedarte cerca de la Terminal del Norte de Medellín**, te recomendamos buscar hoteles ubicados en la zona. Para ayudarte a encontrarlos, haz clic en el siguiente botón.
 
-Hotel Dorado La 70: situado a unos 15 minutos de la Terminal del Norte en transporte público, este hotel es una buena opción si buscas una estadía económica y cómoda.
+[Hoteles cerca de la terminal Norte Medellín](https://www.google.com/maps/search/Hoteles/@6.2776731,-75.5729304,16z){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
-Hotel 33 Conquest: este hotel se encuentra a unos 10 minutos de la terminal en transporte público, y ofrece habitaciones sencillas y funcionales a un precio razonable.
+En resumen, la Terminal del Norte de Medellín es un punto de partida clave para viajar hacia distintos destinos dentro y fuera del país. Si necesitas información sobre los servicios de transporte disponibles o si buscas hospedaje cerca de la terminal, no dudes en contactar con el teléfono de la terminal del Norte.
 
-En resumen, la Terminal del Norte de Medellín es un punto de partida clave para viajar hacia distintos destinos dentro y fuera del país. Si necesitas información sobre los servicios de transporte disponibles o si buscas hospedaje cerca de la terminal, no dudes en contactar con el teléfono de atención al cliente o revisar las opciones de hoteles cercanos que te recomendamos.
+## Terminal Sur de Medellín
+
+La Terminal de transporte Sur de Medellín, es uno de los principales puntos de conexión de la ciudad al resto del país.
+
+### Pasajes en la terminal de transporte Sur
+
+La terminal Sur de Medellín opera con casi todas las mismas empresas de la terminal Norte. Utiliza el mismo botón para encontrar los pasajes de tu preferencia.
+
+[Empresas terminal Sur Medellín]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+
+### Hoteles cerca a la terminal Sur Medellín
+
+Si necesitas hospedarte cerca de la terminal, hay varias opciones de hoteles cercanos. Busca en el siguiente botón los **hoteles cerca de la Terminal del Sur de Medellín**:
+
+[Hoteles cerca de la terminal Sur Medellín](https://www.google.com/maps/search/Hoteles/@6.2159067,-75.5904366,16z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+
+Si necesitas más información sobre la Terminal del Sur de Medellín, como horarios de buses o información de contacto, puedes **visitar [su sitio web oficial](https://terminalesmedellin.com/){:rel="nofollow noopener noreferrer" target="_blank"} o llamar al teléfono de atención al cliente [604 444 8020](tel:6044448020){:rel="nofollow noopener noreferrer" target="_blank"} – Ext. 171**.
