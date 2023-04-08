@@ -53,7 +53,7 @@ Te recomendamos **comprar los pasajes utilizando su [página web oficial](https:
 
 Si necesitas una empresa en particular que trabaje en la terminal de Pitalito, puedes ver la lista que preparamos para ti. Haz clic en el botón que sigue 👇👇👇.
 
-[Empresas de la terminal de Pitalito]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Pitalito]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 Esta hermosa terminal recibe miles de pasajeros diariamente, y sus instalaciones incluyen restaurantes, zonas para guardar equipajes y más de doce compañías de autobuses donde los pasajeros pueden tomar asiento para viajar a ciudades de todo el país.
 

@@ -54,7 +54,7 @@ La Terminal de Popayán es la central para viajar desde el Cauca hacia otro luga
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
 
-[Empresas de la terminal de Popayán]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 #### Empresa de autobuses Coomotor
 

@@ -53,7 +53,7 @@ Además, la Terminal del Norte de Medellín cuenta con una amplia variedad de se
 
 En la terminal operan empresas como **Copetran, Expreso Bolivariano, Flota Occidental, Rápido Ochoa, Omega, Expreso Brasilia, entre otras**. Haz clic en el siguiente botón para contactar directamente con estas empresas.
 
-[Empresas terminal Norte de Medellín]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas terminal Norte de Medellín]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 Si estás buscando hospedarte cerca de la Terminal del Norte de Medellín, te recomendamos algunos hoteles ubicados en la zona:
 

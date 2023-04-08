@@ -52,7 +52,7 @@ Con **15 líneas de transporte** que ofrecen servicios intermunicipales y depart
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
 
-[Empresas de la terminal de Cartagena]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Cartagena]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 ### Hoteles cerca a la terminal de buses de Cartagena
 

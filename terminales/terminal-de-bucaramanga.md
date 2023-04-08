@@ -75,6 +75,6 @@ Estas empresas ofrecen una amplia variedad de destinos dentro y fuera de Santand
 
 Haz clic en el siguiente botón para ver sus números y comprar tus pasajes directamente con las empresas, ¡sin intermediarios!
 
-[Empresas de la terminal de Bucaramanga]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Bucaramanga]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 Utiliza toda esta información que preparamos para planear tu viaje, comprar tus tiquetes y disfrutar de tu estadía en Bucaramanga.

@@ -72,4 +72,4 @@ En la Terminal de Transporte de Barranquilla, puedes comprar boletos para viajar
 
 En [terminaldetransporte.com](/){:target="_blank"} te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
 
-[Empresas de la terminal de Barranquilla]({{page.pdf|relative_url}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Barranquilla]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}

@@ -51,7 +51,7 @@ La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur,
 
 La terminal de transporte de Manizales atiende más de 40 destinos nacionales. Para comprar tus pasajes, solo haz clic en **el botón para ver los teléfonos de las empresas de buses de la terminal de Manizales** que necesitas para comprar tu pasaje o tiquete de viaje.
 
-[Empresas de la terminal de Manizales]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Manizales]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 ### Transporte público hasta la Terminal de Manizales
 

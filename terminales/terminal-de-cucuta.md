@@ -54,7 +54,7 @@ Entre las empresas que operan en la Terminal de Transporte de Cúcuta se encuent
 
 Haz clic en el siguiente botón para contactar directamente con estas empresas.
 
-[Empresas de la terminal de Cúcuta]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Cúcuta]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 Encontrarás fácilmente tus **pasajes a Bogotá, a Cali, Medellín y otras ciudades principales de Colombia**.
 
