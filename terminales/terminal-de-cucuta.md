@@ -26,7 +26,7 @@ empresa1_telf: 6044364068
 empresa2_telf: 3107883333
 empresa3_telf: 3204871160
 contacto: https://home.terminalcucuta.gov.co/contacto/
-pdf: pdf-terminal-cucuta.pdf
+pdf: telefonos-empresa-terminal-cucuta
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3951.993980617109!2d-72.5080074!3d7.8956965!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e6645707d69c31d%3A0x1e01d8744f37138f!2sTerminal%20de%20Transporte%20C%C3%BAcuta!5e0!3m2!1ses!2sco!4v1676661631070!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: Transversal 9 No 4N - 125 Oficina 201
