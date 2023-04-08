@@ -259,6 +259,25 @@
   margin-left: 2rem;
 }
 
+.terminal-info blockquote{
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  border: var(--gris2) 1.4px solid;
+  padding: 1.2rem;
+}
+
+.terminal-info blockquote a{
+  display: block;
+  background-color: var(--principal);
+  color: white;
+  padding: 10px 16px;
+  margin-top: 1rem;
+  float: right;
+  border-radius: var(--radius);
+  text-decoration: none;
+}
+
 .telefonos-header{
   padding: 3rem 0 0;
   background-color: var(--secundario);
