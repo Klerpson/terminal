@@ -61,7 +61,7 @@ En la Terminal Salitre de Bogotá, puedes comprar boletos para viajar a diferent
 
 En [terminaldetransporte.com](/){:target="_blank"} te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
 
-[Empresas de la terminal Salitre de Bogotá]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal Salitre de Bogotá]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 ### Hoteles cerca de la Terminal de Salitre
 
@@ -87,7 +87,7 @@ En la Terminal Norte de Bogotá puedes comprar los pasajes telefónicamente. Has
 
 En [terminaldetransporte.com](/){:target="_blank"} te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
 
-[Empresas de la terminal Norte de Bogotá]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal Norte de Bogotá]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 ### Hoteles cerca de la Terminal Norte de Bogotá
 
@@ -115,7 +115,7 @@ Algunas de las empresas de transporte que se pueden encontrar en la Terminal Sur
 
 En la Terminal del Sur de Bogotá puedes comprar los pasajes telefónicamente. Por esto, también te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en esta terminal.
 
-[Empresas de la terminal del Sur de Bogotá]({{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal del Sur de Bogotá]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 ### Hoteles cerca de la Terminal de Transporte Sur de Bogotá
 
