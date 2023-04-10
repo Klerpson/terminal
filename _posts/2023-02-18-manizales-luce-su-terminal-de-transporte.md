@@ -3,9 +3,9 @@ layout: post
 title: Manizales se engalana con su terminal. ¿La conoces?
 description: Manizales ha recibido muchos apodos debido a su belleza natural y riqueza cultural, entre ellos "la Suiza de Colombia" o "la ciudad de las flores"
 autor: terminaldetransporte.com
-h1: La terminal de transporte de Manizales
-h1_alternativo: Conoce Manizales desde su terminal de transporte
-award: La mejor guía para visitar a Manizales
+h1: La terminal de transporte de Manizales - Una hermosa bienvenida a la ciudad
+h1_alternativo: Conoce la hermosa Manizales desde su terminal de transporte
+award: La mejor guía para visitar a Manizales desde su terminal de transporte
 date: 2023-02-18
 genre: viajes
 jpg: blog/terminal-manizales-caldas.jpg
@@ -13,7 +13,7 @@ hero: blog/terminal-manizales-caldas.webp
 webps: blog/terminal-manizales-caldas-376.webp
 webpm: blog/terminal-manizales-caldas-600.webp
 webpb: blog/terminal-manizales-caldas-800.webp
-alt: Terminal de Transporte de Manizales
+alt: Fotografía de la Terminal de Transporte de Manizales
 json-post: true
 referencias:
   - Fotografías de la terminal de Manizales en Google Maps: https://www.google.com/maps/place/Terminal+de+Transportes+de+Manizales/@5.0493324,-75.5058332,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipM4lzi2trOLXXfUkTxzTKOosFUWU8RMxy4FCtxH!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM4lzi2trOLXXfUkTxzTKOosFUWU8RMxy4FCtxH%3Dw160-h120-k-no!7i4000!8i3000!4m5!3m4!1s0x8e47654245811437:0xb0ba16140f5c9cc6!8m2!3d5.0491627!4d-75.506198
@@ -30,7 +30,7 @@ Manizales ha recibido muchos apodos debido a su belleza natural y riqueza cultur
 
 ## LLega fácil a la terminal de Manizales
 
-La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.
+[La terminal de Manizales]({{'terminal-de-manizales'|relative_url}} "Terminal de Manizales"){:target="_blank"} se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.
 
 Las avenidas importantes importantes de la ciudad llegan hasta aquí. **También se puede llegar por el Cable aéreo de Manizales**, como puedes ver en la imagen principal de este artículo.
 
@@ -74,4 +74,4 @@ La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 198
 
 **La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos**. En la actualidad operca con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes.
 
-Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en la ciudad de Manizales, con la prestación del servicio de su auditorio.
+Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en [la ciudad de Manizales](https://es.wikipedia.org/wiki/Manizales){:rel="nofollow noopener noreferrer" target="_blank"}, con la prestación del servicio de su auditorio.
