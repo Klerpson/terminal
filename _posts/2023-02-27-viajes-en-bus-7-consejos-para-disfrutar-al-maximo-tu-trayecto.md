@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Viajes en Bus: 7 consejos para disfrutar al máximo tu trayecto'
-description: Descubre cómo disfrutar al máximo tus viajes en bus con nuestros consejos. Encuentra información útil sobre destinos, seguridad y comodidad en nuestras terminales de transporte en España. ¡Planifica tu próximo viaje con confianza y comodidad!
+title: 'Viajes en Bus: 7 consejos para disfrutarlos al máximo'
+description: Descubre cómo disfrutar al máximo tus viajes en bus con 7 consejos sobre destinos, seguridad y comodidad. ¡Planifica tu próximo viaje con confianza y comodidad!
 autor: terminaldetransporte.com
 h1: 'Viajes en Bus: 7 consejos para disfrutar al máximo tu trayecto'
 h1_alternativo: Disfruta tu viaje en bus con estos 7 tips
@@ -15,7 +15,7 @@ webpm: blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto-600.w
 webpb: blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto-800.webp
 alt: Pasajera viajando en bus
 json-post: true
-permalink: blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto
+permalink: blog/viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto
 excerpt_separator: <!-- excerpt -->
 ---
 ¿Te gustaría saber cómo disfrutar al máximo tus viajes en bus y hacerlos más divertidos y cómodos? Si la respuesta es sí, estás en el lugar indicado.
@@ -68,6 +68,8 @@ Siguiendo este consejo vas a disfrutar de una alimentación sana y equilibrada d
 ### 6. Aprovecha las paradas
 
 Aprovecha las paradas para estirar las piernas, caminar un poco y descansar. Además, podrías aprovechar para conocer algún lugar interesante en la ruta.
+
+Por ejemplo, en [las terminales de Medellín]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín"){:target="_blank"} tienes muchas opciones de turismo urbano cercanas para conocer mejor la ciudad.
 
 ### 7. Descansa bien antes de viajar
 
