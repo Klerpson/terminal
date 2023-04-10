@@ -32,7 +32,7 @@ Si vives en Cúcuta y deseas viajar a otras ciudades de Colombia, aquí encontra
 
 ## ¿Dónde se encuentra ubicada la Terminal de Cúcuta?
 
-**La dirección de la terminal es Avenida 8 #1*25 Barrio Callejón.** La terminal de Cúcuta cuenta con una ubicación estratégica, de fácil acceso que les permite a los pasajeros llegar a la estación sin problemas. Uno de los puntos de referencias más icónicos es la redoma del Indio Motilón.
+**La dirección de la terminal es Avenida 8 #1*25 Barrio Callejón.** [La terminal de Cúcuta]({{'terminal-de-cucuta'|relative_url}} "Terminal de Cúcuta"){:target="_blank"} cuenta con una ubicación estratégica, de fácil acceso que les permite a los pasajeros llegar a la estación sin problemas. Uno de los puntos de referencias más icónicos es la redoma del Indio Motilón.
 
 **La estación de pasajeros tiene un horario de atención al cliente de lunes a viernes desde las 7:30 hasta las 18:00 horas**. Los días sábados la atención se encuentra disponible desde las 8:30 hasta las 16:00 horas. No obstante, **la terminal de Cúcuta funciona las 24 horas del día.**
 

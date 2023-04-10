@@ -60,7 +60,7 @@ Otra forma de comunicarte con la terminal es por email. Para escribirles por est
 
 ## Viaja desde la Terminal de Bucaramanga con las mejores compañías de transporte
 
-Si estás buscando opciones de transporte para viajar desde Bucaramanga, la Terminal de Transporte de Bucaramanga es el lugar perfecto para empezar. Allí encontrarás una amplia variedad de compañías de transporte, entre las que destacan Copetran y Cootransmagdalena, dos de las opciones más populares entre los viajeros que viajan desde la Terminal de Bucaramanga.
+Si estás buscando opciones de transporte para viajar desde Bucaramanga, [la Terminal de Transporte de Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}} "Terminal de Bucaramanga"){:target="_blank"} es el lugar perfecto para empezar. Allí encontrarás una amplia variedad de compañías de transporte, entre las que destacan Copetran y Cootransmagdalena, dos de las opciones más populares entre los viajeros que viajan desde la Terminal de Bucaramanga.
 
 ### Coopetran Terminal Bucaramanga: Compra tus pasajes en línea o por teléfono
 
