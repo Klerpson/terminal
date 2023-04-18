@@ -32,61 +32,15 @@
         "latitude": {{page.latitude}},
         "longitude": {{page.longitude}}
       },
-      "image": [
+      "image": {
       "{{site.url}}/img/{{page.jpg}}",
       "{{site.url}}/img/{{page.webp1}}",
       "{{site.url}}/img/{{page.empresa_img_1}}"
-       ],
-      "review": {
-        "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "{{page.calificacion}}",
-          "reviewCount": "{{page.reviews}}",
-          "bestRating": "5"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "{{site.name}}"
-        }
       },
       
       "url": "{{page.url}}",
       "telephone": "{{page.telefono}}",
-      "email": "{{page.email}}",
-      "openingHoursSpecification": [
-        {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-            "Monday",
-            "Tuesday"
-          ],
-          "opens": "00:00",
-          "closes": "24:00"
-        },
-        {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-            "Wednesday",
-            "Thursday",
-            "Friday"
-          ],
-          "opens": "00:00",
-          "closes": "24:00"
-        },
-        {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": "Saturday",
-          "opens": "00:00",
-          "closes": "24:00"
-        },
-        {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": "Sunday",
-          "opens": "00:00",
-          "closes": "24:00"
-        }
-      ]
+      "email": "{{page.email}}"
     }
     
   </script>
