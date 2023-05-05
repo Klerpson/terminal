@@ -137,7 +137,7 @@
   background-color: var(--complemento1);
   color: var(--principal);
   border-radius: var(--radius);
-  padding: .8rem;
+  padding: .8rem 1.2rem;
   display: flex;
   flex-direction: column;
   max-width: 300px;
@@ -206,16 +206,19 @@
 
 .terminal_empresas div a,
 #boton{
-  display: inline-block;
-  padding: 16px 32px;
-  background-color: var(--accion);
-  color: var(--principal);
-  font-weight: 700;
-  text-transform: capitalize;
   border-radius: var(--radius);
-  box-shadow: var(--shadow);
+  display: block;
   text-decoration: none;
-  margin-bottom: 1rem;
+  padding: 12px 24px;
+  width: min(80%, 280px);
+  text-align: center;
+  font-weight: 700;
+  box-shadow: var(--shadow);
+  margin: 1rem auto;
+  transition: all .2s ease-in;
+  color: white;
+  background-color: var(--principal);
+  box-shadow: 0 2px 8px rgba(245, 245, 245, .3);
 }
 
 .terminal_empresas div ul{
@@ -234,16 +237,16 @@
 }
 
 .terminal-info{
-  background-color: var(--complemento2);
   width: 100%;
   padding: 5rem 16px 0;
+  border-top: var(--gris1) 1px dotted;
 }
 
 .terminal-info div{
   width: min(100%, 992px);
   margin-inline: auto;
   display: grid;
-  gap: .8rem;
+  gap: 2rem;
 }
 
 .terminal-info div h2{
@@ -260,7 +263,6 @@
 }
 
 .terminal-info blockquote{
-  background-color: white;
   border-radius: 12px;
   box-shadow: var(--shadow);
   border: var(--gris2) 1.4px solid;

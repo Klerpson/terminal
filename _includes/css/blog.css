@@ -29,7 +29,6 @@
   line-height: 1.15;
 }
 
-.blog-first div a,
 .post-content blockquote a{
   padding: 8px 32px;
   background-color: var(--principal);
@@ -38,10 +37,6 @@
   text-decoration: none;
   box-shadow: var(--shadow);
   transition: .3s all ease;
-}
-
-.blog-first div a:active{
-  box-shadow: none;
 }
 
 .blog-main h2{
@@ -53,6 +48,8 @@
   flex-wrap: wrap;
   gap: 1.5rem;
   padding: 3rem 0;
+  align-items: flex-start;
+  justify-content: center;
 }
 
 .blog-posts article {
@@ -238,6 +235,9 @@
   margin: 1rem 0 0;
   display: block;
   float: right;
+  box-shadow: none;
+  border-radius: 8px;
+  padding: 12px 24px;
 }
 
 .post-content blockquote h4{

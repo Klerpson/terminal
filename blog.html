@@ -18,7 +18,7 @@ h1: El blog de los viajes en bus por Colombia está en nuestra terminal
       <div>
         <h3>{{ post1.h1 | truncate: 80 }}</h3>
         {{ post1.excerpt | truncate: 180 | markdownify}}
-        <a href="{{site.baseurl}}{{ post1.url }}">Sigue leyendo...</a>
+        <a href="{{site.baseurl}}{{ post1.url }}" class="botones boton-verde">Sigue leyendo...</a>
       </div>
     </article>
     <!-------- TODOS LOS ARTICULOS ---------->
@@ -65,14 +65,14 @@ h1: El blog de los viajes en bus por Colombia está en nuestra terminal
     </li>
     <li>
       <span>03</span>
-      <h3><a href="{{'blog'|relative_url}}">Consejo útiles</a> para viajar</h3>
-      <p>Viaja de forma segura y confiable por las terminales del país siguiendo los consejos de nuestro magazine.</p>
+      <h3><a href="{{'terminales-de-colombia'|relative_url}}">Terminales de Colombia</a></h3>
+      <p>Viaja de forma segura y confiable por Colombia contactando directamente con las terminales de transporte de cada región.</p>
     </li>
   </ul>
-  <div>
+  <!-- <div>
     <h2>¿Viajas constantemente por Colombia?</h2>
     <p><span class="destacado">Suscríbete a nuestro magazine</span> para recibas consejos sobre cómo viajar con seguridad, tranquilidad y con los mejores tips de los más expertos.<br><a href="#">Suscribirme</a></p>
-  </div>
+  </div> -->
   </section>
   {% include footer.html %}
 

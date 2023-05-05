@@ -81,6 +81,12 @@
 <loc>http://localhost:4000/terminal-de-cucuta</loc>
 </url>
 <url>
+<loc>http://localhost:4000/terminal-de-florencia/telefonos-empresa-terminal-florencia</loc>
+</url>
+<url>
+<loc>http://localhost:4000/terminal-de-florencia</loc>
+</url>
+<url>
 <loc>http://localhost:4000/terminal-de-garzon</loc>
 </url>
 <url>
@@ -155,6 +161,10 @@
 <url>
 <loc>http://localhost:4000/assets/pdf-terminal-cucuta.pdf</loc>
 <lastmod>2023-02-17T16:59:25-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdf-terminal-florencia.pdf</loc>
+<lastmod>2023-05-05T12:50:25-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf-terminal-garzon.pdf</loc>

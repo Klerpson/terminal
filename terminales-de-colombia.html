@@ -8,20 +8,21 @@ h1: Terminales de transporte Colombianas
   <h2>¿Qué terminal de transporte colombiana necesitas?</h2>
   <p>Busca las terminales de transporte por departamentos colombianos. Haz clic en el botón de la terminal y prepara tu próximo viaje.</p>
   <div>
-    <a href="#antioquia">Antioquia</a>
-    <a href="#atlantico">Atlántico</a>
-    <a href="#bolivar">Bolivar</a>
-    <a href="#caldas">Caldas</a>
-    <a href="#cauca">Cauca</a>
-    <a href="#cesar">Cesar</a>
-    <a href="#cundinamarca">Cundinamarca</a>
-    <a href="#huila">Huila </a>
-    <a href="#magdalena">Magdalena</a>
-    <a href="#meta">Meta</a>
-    <a href="#narino">Nariño</a>
-    <a href="#norte-santander">Norte de Santander</a>
-    <a href="#santander">Santander</a>
-    <a href="#valle-cauca">Valle del Cauca</a>
+    <a href="#antioquia" style="color: var(--principal)">Antioquia</a>
+    <a href="#atlantico" style="color: var(--principal)">Atlántico</a>
+    <a href="#bolivar" style="color: var(--principal)">Bolivar</a>
+    <a href="#caldas" style="color: var(--principal)">Caldas</a>
+    <a href="#caqueta" style="color: var(--principal)">Caqueta</a>
+    <a href="#cauca" style="color: var(--principal)">Cauca</a>
+    <a href="#cesar" style="color: var(--principal)">Cesar</a>
+    <a href="#cundinamarca" style="color: var(--principal)">Cundinamarca</a>
+    <a href="#huila" style="color: var(--principal)">Huila </a>
+    <a href="#magdalena" style="color: var(--principal)">Magdalena</a>
+    <a href="#meta" style="color: var(--principal)">Meta</a>
+    <a href="#narino" style="color: var(--principal)">Nariño</a>
+    <a href="#norte-santander" style="color: var(--principal)">Norte de Santander</a>
+    <a href="#santander" style="color: var(--principal)">Santander</a>
+    <a href="#valle-cauca" style="color: var(--principal)">Valle del Cauca</a>
   </div>
 </section>
 
@@ -83,6 +84,21 @@ h1: Terminales de transporte Colombianas
       {% endif %}
       {% endfor %}
     </section>
+
+  <!-- CAQUETA -->
+  <h2 id="caqueta">Terminales de Caqueta</h2>
+  <section>
+    {% for terminal in pages %}
+    {% if terminal.category == "caqueta" %}
+    <article>
+      <a href="{{terminal.url}}">
+      {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.h1}}</h3></a>
+    </article>
+    {% endif %}
+    {% endfor %}
+  </section>
+
   <!-- CAUCA -->
   <h2 id="cauca">Terminales de Cauca</h2>
   <section>
