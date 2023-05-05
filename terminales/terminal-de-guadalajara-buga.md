@@ -26,7 +26,7 @@ empresa1_telf: 3204883766
 empresa2_telf: 3147909064
 empresa3_telf: 3122820081
 contacto: https://terminalesmedellin.com/pqrsd/
-pdf: pdf-terminal-buga.pdf
+pdf: telefonos-empresa-terminal-buga
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.584336192619!2d-76.31355378476839!3d3.8988760491722156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e39e65c1a6ff2fd%3A0xe8c4128d6d79b350!2sTerminal%20de%20Transportes%20de%20Buga!5e0!3m2!1ses!2sco!4v1676679332358!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Calle 4 23-91"

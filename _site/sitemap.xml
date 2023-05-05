@@ -93,6 +93,9 @@
 <loc>http://localhost:4000/terminal-de-garzon</loc>
 </url>
 <url>
+<loc>http://localhost:4000/terminal-de-buga/telefonos-empresa-terminal-buga</loc>
+</url>
+<url>
 <loc>http://localhost:4000/terminal-de-buga</loc>
 </url>
 <url>
@@ -108,7 +111,13 @@
 <loc>http://localhost:4000/terminal-de-medellin</loc>
 </url>
 <url>
+<loc>http://localhost:4000/terminal-de-neiva/telefonos-empresa-terminal-neiva</loc>
+</url>
+<url>
 <loc>http://localhost:4000/terminal-de-neiva</loc>
+</url>
+<url>
+<loc>http://localhost:4000/terminal-de-neiva/telefonos-empresa-terminal-neiva</loc>
 </url>
 <url>
 <loc>http://localhost:4000/terminal-de-pasto</loc>
