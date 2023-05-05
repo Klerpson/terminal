@@ -41,3 +41,36 @@ latitude: 3.898876
 longitude: -76.3135591
 permalink: /terminal-de-buga
 ---
+## Terminal de buses de Buga
+
+{% include add1.html %}
+
+Si estás buscando viajar a la hermosa ciudad de Buga, en el departamento de Valle del Cauca, seguramente te interesará saber todo lo que la Terminal de Transportes de Buga tiene para ofrecer.
+
+La Terminal de Transportes de Buga es de las más importantes del Valle del Cauca. Ofrece servicios de transporte a varias ciudades y municipios de Colombia, incluyendo destinos como Cali, Bogotá, Medellín y Popayán.
+
+### Servicios en la Terminal de Transportes de Buga
+
+Mientras estás en la terminal de Buga, puedes utilizar los siguientes servicios:
+
+* 30 taquillas para venta de tiquetes
+* Servicio de encomiendas
+* Parqueadero para vehículos y motos
+* Baños públicos
+* Puntos de información turística
+* Cafeterías y restaurantes
+* Salas de espera
+* Servicio de Wi-Fi gratuito
+
+También, puedes comprar los pasajes directamente con [las empresas de la terminal de Buga]({{'terminal-de-buga/telefonos-empresa-terminal-buga'|relative_url}} "Empresas de la terminal de Buga"). La siguiente lista de precios de los pasajes desde la Terminal de Transportes de Buga son valores promedios:
+
+* Pasaje a Cali: desde $15.000 COP
+* Pasaje a Bogotá: desde $70.000 COP
+* Pasaje a Medellín: desde $75.000 COP
+* Pasaje a Popayán: desde $30.000 COP
+
+Para adquirir pasajes a Buga o desde Buga hacia otras ciudades, puedes visitar las taquillas de las diferentes empresas de transporte que operan en la terminal. Algunas de las compañías de transporte más populares son **Coopetrans, Expreso Bolivariano, y Fronteras**.
+
+{% include add2.html %}
+
+Por todo lo anterior, la Terminal de Transportes de Buga ofrece una amplia gama de servicios y opciones de transporte para aquellos que deseen viajar desde o hacia la ciudad. Con precios razonables y comodidades para los viajeros, la Terminal de Transportes de Buga es la opción ideal para quienes buscan una experiencia de viaje cómoda y segura.

@@ -42,3 +42,40 @@ latitude: 2.9168455
 longitude: -75.2851268
 permalink: /terminal-de-neiva
 ---
+## Terminal de buses de Neiva
+
+La terminal de Neiva, también conocida como Terminal de Transportes de Neiva o Terminal Centenario, es el principal punto de partida y llegada de buses intermunicipales en la ciudad de Neiva, en el departamento de Huila, Colombia.
+
+### Servicios disponibles en la terminal de Neiva
+
+Cuando viajes desde esta terminal de buses, puedes contar con los siguientes servicios:
+
+* Plataforma de ascenso a pasajeros
+* 22 taquillas para venta de tiquetes
+* Bahía de acceso
+* Parqueadero para vehículos y motos
+* Cajero automático
+* Salas de espera
+* Baños públicos
+* Puntos de información turística
+* Vigilancia y seguridad
+
+Las empresas de transporte que operan en la terminal de Neiva han evolucionado en sus servicios a través de los años. Entre ellas destacan empresas como Coomotor, Expreso Bolivariano, Flota Magdalena, Fronteras, Rápido Tolima y Sotracauca.
+
+#### Coomotor
+
+Esta empresa de transporte cuenta con salidas hacia varias ciudades de Colombia, incluyendo Bogotá, Medellín, Cali, Popayán, entre otras.
+
+#### Expreso Bolivariano
+
+Ofrece rutas hacia ciudades como Bogotá, Cali, Pereira, Popayán, entre otras.
+
+#### Flota Magdalena
+
+Tiene rutas hacia ciudades como Medellín, Barranquilla, Bucaramanga, entre otras.
+
+Si necesitas contactar a alguna de estas empresas de transporte para adquirir tus pasajes, aquí te proporcionamos los teléfonos de contacto:
+
+[Empresas de la terminal de Neiva]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+
+Recuerda que la terminal de Neiva cuenta con una amplia variedad de servicios y empresas de transporte que te permitirán llegar a tu destino de manera segura y cómoda.

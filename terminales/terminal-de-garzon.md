@@ -41,3 +41,22 @@ latitude: 2.1954362
 longitude: -75.641602
 permalink: /terminal-de-garzon
 ---
+## Terminal de buses de Garzón Huila
+
+{% include add1.html %}
+
+La Terminal de Transportes de Garzón es un importante centro de transporte terrestre en el departamento de Huila, Colombia. Esta terminal es un punto de partida y llegada para los viajeros que se dirigen a diferentes ciudades del país. Si planeas viajar desde esta terminal, aquí tienes toda la información que necesitas.
+
+### Servicios y comodidades de la Terminal de Transportes de Garzón
+
+* **Plataforma de ascenso a pasajeros**: la terminal cuenta con una plataforma amplia y cómoda para que los pasajeros puedan abordar sus buses fácilmente.
+* **Bahía de acceso**: hay una bahía de acceso para los vehículos que llegan y salen de la terminal.
+* **Taquillas para venta de tiquetes**: hay taquillas disponibles para la compra de tiquetes de diferentes empresas de transporte terrestre.
+* **Parqueadero para vehículos y motos**: la terminal cuenta con un amplio parqueadero para vehículos y motos.
+* **Circuito cerrado de televisión**: se cuenta con cámaras de vigilancia para garantizar la seguridad de los pasajeros.
+* **Servicio de WIFI**: la terminal ofrece servicio de WIFI gratuito para los pasajeros.
+* **Baños públicos**: hay baños públicos disponibles para hombres y mujeres.
+* **Punto de información turística**: la terminal cuenta con un punto de información turística para aquellos que buscan explorar los alrededores.
+* **Vigilancia y seguridad**: se cuenta con personal de seguridad para garantizar la tranquilidad de los pasajeros.
+
+Viajar desde la Terminal de Transportes de Garzón es una experiencia cómoda y segura. Si estás planeando tu próximo viaje, asegúrate de visitar esta terminal y disfrutar de sus servicios y comodidades.
