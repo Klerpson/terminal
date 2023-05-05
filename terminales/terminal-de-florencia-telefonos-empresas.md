@@ -24,7 +24,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 Las empresas de transporte que trabajan en la terminal de Florencia están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
-También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Florencia]({{'terminal-de-Florencia'|relative_url}} "Terminal de Florencia"){:target="_blank"}.
+También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Florencia]({{'terminal-de-florencia'|relative_url}} "Terminal de Florencia"){:target="_blank"}.
 
 ### Descarga el PDF con los número de la terminal de Florencia
 
