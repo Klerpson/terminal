@@ -78,6 +78,8 @@ La Terminal de Transporte de Santa Marta cuenta con varias empresas de transport
 * Rápido Ochoa
 * Unitransco
 
+[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+
 ### Precios y horarios de la Terminal de Transporte de Santa Marta
 
 {% include add1.html %}
