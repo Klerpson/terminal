@@ -22,9 +22,12 @@
         "address": {
             "@type": "PostalAddress",
             "addressCountry": "CO",
-            "addressLocality": "{{page.ciudad}}",
-            "addressRegion": "{{page.depto}}"
+            "addressLocality": "{{page.ciudad}}, Colombia",
+            "addressRegion": "{{page.depto}}",
+            "postalCode": "{{page.postal}}",
+            "streetAddress": "{{page.direccion}}"
         },
+        "telephone": "{{page.telefono}}",
         "latitude": {{page.latitude}},
         "longitude": {{page.longitude}}
       }
@@ -32,28 +35,87 @@
   {% endif %}
   {% if page.json-post %}
   <script type="application/ld+json">
-    { "@context": "https://schema.org", 
-     "@type": "BlogPosting",
-     "headline": "{{page.h1}}",
-     "alternativeHeadline": "{{page.h1_alternativo}}",
-     "image": "{{site.url}}/img/{{page.jpg}}",
-     "award": "{{page.award}}",
-     "editor": "{{page.autor}}", 
-     "genre": "{{page.genre}}", 
-     "keywords": "{{page.keywords | sort_natural | join: ", "}}", 
-     "wordcount": "{{page.content | number_of_words}}",
-     "publisher": "{{site.name}}",
-     "url": "{{page.url}}",
-     "datePublished": "{{page.date}}",
-     "dateCreated": "{{page.date}}",
-     "dateModified": "{{page.date}}",
-     "description": "{{page.description}}",
-     "articleBody": "{{page.content | strip_html}}",
-       "author": {
-        "@type": "Person",
-        "name": "{{page.autor}}"
+    <script type="application/ld+json">
+      {
+          "@context": "https://schema.org/",
+          "@type": "Blog",
+          "@id": "https://terminaldetransporte.com/blog/",
+          "mainEntityOfPage": "https://terminaldetransporte.com/blog",
+          "name": "{{page.title}}",
+          "description": "{{page.description}}",
+          "publisher": {
+              "@type": "Organization",
+              "@id": "https://terminaldetransporte.com",
+              "name": "{{site.name}}",
+              "logo": {
+                  "@type": "ImageObject",
+                  "@id": "https://terminaldetransporte.com/img/logo-terminal-de-transporte-200px.svg",
+                  "url": "https://terminaldetransporte.com/img/logo-terminal-de-transporte-200px.svg",
+                  "width": "200",
+                  "height": "240"
+              }
+          },
+          "blogPost": [
+              {
+                  "@type": "BlogPosting",
+                  "@id": "{{site.url}}{{page.url}}#BlogPosting",
+                  "mainEntityOfPage": "{{site.url}}{{page.url}}",
+                  "headline": "{{page.h1}}",
+                  "name": "{{page.h1}}",
+                  "description": "{{page.description}}",
+                  "datePublished": "{{page.date}}",
+                  "dateModified": "{{page.date}}",
+                  "author": {
+                      "@type": "Organization",
+                      "@id": "{{site.url}}",
+                      "name": "{{site.name}}"
+                  },
+                  "image": {
+                      "@type": "ImageObject",
+                      "@id": "{{site.url}}/img/{{page.jpg}}",
+                      "url": "{{site.url}}/img/{{page.jpg}}",
+                      "height": "1200",
+                      "width": "680"
+                  },
+                  "url": "{{site.url}}{{page.url}}",
+                  "keywords": [
+                      {% for keyword in page.keywords %}
+                      "{{ keyword }}"{% unless forloop.last %},{% endunless -%}
+                      {% endfor %}
+                  ]
+              },
+              {
+                  "@type": "BlogPosting",
+                  {% assign post1 = site.posts[1] %}
+                  "@id": "{{site.url}}{{post1.url}}#BlogPosting",
+                  "mainEntityOfPage": "{{site.url}}{{post1.url}}",
+                  "headline": "{{post1.h1}}",
+                  "name": "{{post1.h1}}",
+                  "description": "{{post1.description | markdownify}}",
+                  "datePublished": "{{post1.date}}",
+                  "dateModified": "{{post1.date}}",
+                  "author": {
+                    "@type": "Organization",
+                    "@id": "{{site.url}}",
+                    "name": "{{site.name}}"
+                  },
+                  "image": {
+                      "@type": "ImageObject",
+                      "@id": "{{site.url}}/img/{{post1.jpg}}",
+                      "url": "{{site.url}}/img/{{post1.jpg}}",
+                      "height": "1200",
+                      "width": "680"
+                  },
+                  "url": "{{site.url}}{{post1.url}}",
+                  "keywords": [
+                      {% for keyword in post1.keywords %}
+                      "{{ keyword }}"{% unless forloop.last %},{% endunless -%}
+                      {% endfor %}
+                  ]
+              }
+          ]
       }
-     }
+      </script>
     </script>
   {% endif %}
   <title>{{ page.title}}</title>

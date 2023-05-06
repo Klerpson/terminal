@@ -7,7 +7,7 @@ h1: 'Descubre Redbus Colombia: ¡Reserva tu viaje ahora mismo!'
 h1_alternativo: 'Descubre Redbus Colombia: ¡Reserva tu viaje ahora mismo!'
 award: 'Página redbus.co para comprar pasajes de bus en línea'
 date: 2023-04-03
-genre: tips
+keywords: [redbus, bus, Colombia, reservar tiquete, telefono redbus, comprar pasaje redbus]
 jpg: blog/redbus-colombia.jpg
 hero: blog/redbus-colombia.webp
 webps: blog/redbus-colombia-376.webp
