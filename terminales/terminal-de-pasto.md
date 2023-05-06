@@ -43,3 +43,44 @@ latitude: 1.1982194
 longitude: -77.2714548
 permalink: /terminal-de-pasto
 ---
+## Terminal de buses de Pasto
+
+{% include add3.html %}
+
+¿Estás planeando un viaje a la hermosa ciudad de Pasto? ¡No busques más allá de la Terminal de Transportes de Pasto, tu punto de partida hacia aventuras emocionantes en el sur de Colombia! Aquí te presentamos todo lo que necesitas saber para viajar desde esta terminal.
+
+La Terminal de Transportes de Pasto es un centro de transporte importante en el departamento de Nariño, que ofrece servicios de transporte a varias ciudades en Colombia y Ecuador. **Con una ubicación privilegiada en el centro de la ciudad**, esta terminal es el lugar perfecto para comenzar tus viajes.
+
+### Servicios de la terminal de Pasto
+
+{% include cta-hotmart1.html %}
+
+Entre los servicios que ofrece la Terminal de Transportes de Pasto se encuentran la **venta de tiquetes, paquetería, información turística, servicios de aseo, baños públicos, restaurantes y locales comerciales**.
+
+* Plataforma de ascenso y descenso de pasajeros.
+* Parqueadero para vehículos y motos.
+* 26 taquillas para la venta de tiquetes.
+* Punto de información turística.
+* Servicio de Wi-Fi gratuito.
+* Cajero automático.
+* Taxis verdes disponibles para transportarte a tu destino final.
+* Vigilancia y seguridad las 24 horas del día.
+
+Además, cuenta con empresas de transporte como Cootransmayo y Bolivariano, que ofrecen servicios de alta calidad y precios asequibles.
+
+[Empresas de la terminal de Pasto]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+
+
+#### Cootransmayo
+
+Esta empresa de transporte ofrece servicios a varias ciudades en Nariño y otros departamentos de Colombia. Puedes comprar tus tiquetes en la taquilla número 23 de la terminal o en línea a través de su sitio web.
+
+#### Bolivariano
+
+Esta empresa de transporte ofrece servicios a varias ciudades en Colombia y Ecuador. Puedes comprar tus tiquetes en la taquilla número 13 de la terminal o en línea a través de su sitio web.
+
+#### Supertaxis
+
+Si necesitas transporte desde la terminal a un lugar específico en la ciudad, Supertaxis está disponible en la terminal para llevarte a tu destino final.
+
+La Terminal de Transportes de Pasto es el lugar perfecto **para comenzar tus aventuras en el sur de Colombia**. Con su amplia gama de servicios y opciones de transporte, puedes estar seguro de que tu viaje será cómodo y seguro. ¡Empaca tus maletas y comienza tu próximo viaje desde la Terminal de Transportes de Pasto!

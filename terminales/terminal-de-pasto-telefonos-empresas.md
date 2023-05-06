@@ -1,134 +1,64 @@
 ---
 layout: telefonos
-title: Empresas de la terminal de transporte de Neiva
-description: Aquí encontrarás los números de teléfono de las empresas de la Terminal de Transporte de Neiva. Obtén información rápida y fácil en nuestra página.
-h1: ¿Necesitas los télefonos de las empresas de transporte de la terminal de Neiva?
-pdf: pdf-terminal-neiva.pdf
-permalink: terminal-de-neiva/telefonos-empresa-terminal-neiva
+title: Empresas de la terminal de transporte de Pasto
+description: Aquí encontrarás los números de teléfono de las empresas de la Terminal de Transporte de Pasto. Obtén información rápida y fácil. Descarga la lista gratis!
+h1: Télefonos de las empresas de buses de la terminal de Pasto
+pdf: pdf-terminal-pasto.pdf
+permalink: terminal-de-pasto/telefonos-empresa-terminal-pasto
 ---
-En la terminal de buses de Neiva **funcionan alrededor de 30 empresas transportadoras de carga y de transporte de pasajeros**, con un flujo de 2600 buses diarios aproximadamente.
+En la terminal de buses de Pasto **funcionan alrededor de 30 empresas transportadoras de carga y de transporte de pasajeros**, con un flujo de 2600 buses diarios aproximadamente.
 
-## Teléfonos de las empresas de la terminal de transporte de Neiva
+## Teléfonos de las empresas de la terminal de transporte de Pasto
 
 {% include cta-hotmart1.html %}
 
-Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas de buses que funcionan en la instalación. Aquí tienes los datos de contacto para que puedas comprar tus pasajes hoy mismo.
+Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la instalación. Aquí tienes los datos de contacto para que puedas comprar tus pasajes hoy mismo.
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
-| :--- | :---: |
-| **Expreso Bolivariano** | 0388731002 |
-| **Coomotor** | 0388733501 - 0388730937 - 3176394462 |
-| **Cootranshuila** | 3158706465 - 3102923687 |
-| **Coomotor Florencia** | 0388730874 |
-| **Cootranscaquetá** | 0388705651 - 3158762975 |
-| **Transyari** | 0388705651 - 3123511685 - 3213331832 |
-| **La Gaitana** | 0388706481 - 0388730761 - 0388602828 |
-| **Taxis Verdes** | 3133258056 - 0388735192 - 0388720637 |
-| **Flota Magdalena** | 0388731105 |
-| **Flota Huila** | 0388736492 - 0388734959 - 0388731001 - 0388730761 |
-| **Cootransgigante** | 0388730241 |
-| **Cootranslaboyana** | 0388731168 |
-| **Cootransplateña** | 0388734133 |
-| **Cootransmaría** | 3132047344 |
-| **Coointrasur** | 0388732082 |
-| **Velotax** | 0388721424 |
-| **Rápido Tolima** | 3105629119 - 0388730850 |
-| **Cootranscaguán** | 0388704592 |
-| **Sootransvega** | 0388600773 - 0388700730 |
-| **Pony Express** | 0388704907- 0388600840 - 0388708066 |
-| **Cootransmayo** | 0388731113 |
-| **Transipiales** | 3168328825 - 0388733444 |
-| **Coflonorte** | 0388754900 |
+| --- | :---: |
+| **AUTOPANAMERICANO** | 3155691971 |
+| **COCHACHAGUI** | 6027330041 - 3146155382 - 3113183471 |
+| **COTAXLUJO** | 6027324507 - 6027324649 - 6027309215 - 3176984846 |
+| **COOTRANAR** | 6027305254 - 6027218989 - 3148300861 |
+| **COOTRASCUMBAL** | 6027798063 - 3154416171 - 3117010194 |
+| **COOTRANSGUACHUCAL** | 3166908008 |
+| **COOTRASGUALMATAN** | 6027790050 - 3156902433 - 3176694218 |
+| **COOTRANSMAYO** | 6027309684 -3112306100 - 3112306089 - 3112306079 - 3104614650 |
+| **TRANSPORTES SOTOMAYOR S.A.S** | 6027287785 - 6027303791 - 3127869651 |
+| **COOTAXTAMBO** | 6027450099 - 6027361301 - 3007849663 |
+| **COOTRANSCARLOSAMA** | 6027752405 - 3122936577 |
+| **COOTRANSCORD** | 6027780029 - 3178173871 |
+| **COOPEXTAN** | 312244857 |
+| **COOTRASTAN** | 3137654488 |
+| **COOTRANDES** | 6027218040 - 3146435558 |
+| **COTRANSSIBUNDOY** | 6024260026 - 3138936621 |
+| **COOINTRANSOCEANIA** | 6027422110 - 3162801637 |
+| **EXPRESO BOLIVARIANO** | 6027300048 - 6027370696 - 3102580531 |
+| **EXPRESO SAN JUAN DE PASTO** | 6027203314 - 3186454361 |
+| **EXPRESO VALLE DE ATRIZ** | 6027300178 - 6027300173 - 3108395928 |
+| **EXPRESO JUANANBU** | 6027330099 -  6027210883 - 3155080730 |
+| **EXPRESO LAS LAJAS** | 6027733953 - 3164929993 |
+| **FLOTA GUAITARA** | 6027200276 - 6027305881 - 3137083992 - 3136501061 |
+| **FLOTA MAGDALENA** | 6027309229 - 6027302418 - 3102873762 |
+| **RUTAS DE COLOMBIA** | 6027420993 - 6027203219 - 3113920477 |
+| **RUTAS DEL SUR** | 6027214119 - 6027304734 - 3146781492 |
+| **SUPER TAXIS DEL SUR** | 6027732100 - 6027309198 - 6027309197 - 313750997 |
+| **TAXBELALCAZAR** | 6028234239 - 6027301391 - 3104284309 |
+| **TAXIS LA SABANA** | 6027778158 - 6027325922 - 3156902433 |
+| **TAXIS LA FRONTERA** | 6027733840 - 6027737363 - 3155805097 |
+| **COOTAXTUQUERRES** | 6027281564 - 6027309209 - 3173814884 - 3176567940 |
+| **TRANSANDONA** | 6027300997 - 6027309211 - 3155826618 - 3162567235 |
+| **TRANSIPIALES** | 6027202637 - 6027302460 - 3166935721 |
+| **TRANSPORTE NEIRA** | 3173669994 |
 
-### Rutas desde la terminal de Neiva
+Las empresas de transporte que trabajan en la terminal de Pasto están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
-{% include add1.html %}
+También puedes comprar tus tiquetes o pasajes comunicándote directamente con la [terminal de Pasto]({{'terminal-de-Pasto'|relative_url}} "Terminal de Pasto"){:target="_blank"}.
 
-Estos son los destinos a los que puedes viajar desde la terminal de Neiva:
-
-* Terminal de Neiva a Acevedo
-* Terminal de Neiva a Algeciras
-* Terminal de Neiva a Altamira
-* Terminal de Neiva a Alvarado
-* Terminal de Neiva a Belén
-* Terminal de Neiva a Bogotá
-* Terminal de Neiva a Campoalegre
-* Terminal de Neiva a Castilla
-* Terminal de Neiva a Chaparral
-* Terminal de Neiva a Cruce Aipe
-* Terminal de Neiva a Doradal
-* Terminal de Neiva a El Agrado
-* Terminal de Neiva a El Santuario
-* Terminal de Neiva a Florencia
-* Terminal de Neiva a Gallego
-* Terminal de Neiva a Garzón
-* Terminal de Neiva a Gigante
-* Terminal de Neiva a Guadalupe
-* Terminal de Neiva a Guamo
-* Terminal de Neiva a Hobo
-* Terminal de Neiva a Isnos
-* Terminal de Neiva a La Argentina
-* Terminal de Neiva a La Dorada
-* Terminal de Neiva a La Hormiga
-* Terminal de Neiva a La Plata
-* Terminal de Neiva a Natagaima
-* Terminal de Neiva a Marinilla
-* Terminal de Neiva a Mariquita
-* Terminal de Neiva a Melgar
-* Terminal de Neiva a Montañita
-* Terminal de Neiva a Paicol
-* Terminal de Neiva a Puerto Caicedo
-* Terminal de Neiva a Puerto Rico
-* Terminal de Neiva a Puerto Umbría
-* Terminal de Neiva a Saldana
-* Terminal de Neiva a San Agustín
-* Terminal de Neiva a San Miguel
-* Terminal de Neiva a San Vicente del Caguán
-* Terminal de Neiva a Silvania
-* Terminal de Neiva a Suaza
-* Terminal de Neiva a Tesalia
-* Terminal de Neiva a Timaná
-* Terminal de Neiva a Villalobos
-* Terminal de Neiva a Yarumo
-* Terminal de Neiva a Terminal de Aipe
-* Terminal de Neiva a Terminal de Armenia
-* Terminal de Neiva a Terminal de Barranquilla
-* Terminal de Neiva a Terminal de Bucaramanga
-* Terminal de Neiva a Terminal de Buga
-* Terminal de Neiva a Terminal de Cali
-* Terminal de Neiva a Terminal de Espinal
-* Terminal de Neiva a Terminal de Florencia
-* Terminal de Neiva a Terminal de Fusagasugá
-* Terminal de Neiva a Terminal de Garzón
-* Terminal de Neiva a Terminal de Honda
-* Terminal de Neiva a Terminal de Ibagué
-* Terminal de Neiva a Terminal de Leticia
-* Terminal de Neiva a Terminal de Manizales
-* Terminal de Neiva a Terminal de Marinilla
-* Terminal de Neiva a Terminal de Medellín
-* Terminal de Neiva a Terminal de Mocoa
-* Terminal de Neiva a Terminal de Palmira
-* Terminal de Neiva a Terminal de Paujil
-* Terminal de Neiva a Terminal de Pereira
-* Terminal de Neiva a Terminal de Pitalito
-* Terminal de Neiva a Terminal de Popayán
-* Terminal de Neiva a Terminal de Puerto Asís
-* Terminal de Neiva a Terminal de Rionegro
-* Terminal de Neiva a Terminal de Santana
-* Terminal de Neiva a Terminal de Soacha
-* Terminal de Neiva a Terminal de Tuluá
-* Terminal de Neiva a Terminal de Villagarzón
-* Terminal de Neiva a Terminal del Sur (Bogotá)
-* Terminal de Neiva a Terminal Salitre
-
-Las empresas de transporte que trabajan en la terminal de Neiva están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
-
-También puedes comprar tus tiquetes o pasajes comunicándote directamente con la [terminal de Neiva]({{'terminal-de-neiva'|relative_url}} "Terminal de Neiva"){:target="_blank"}.
-
-### Descarga el PDF con los número de la terminal de Neiva
+### Descarga el PDF con los número de la terminal de Pasto
 
 {% include add3.html %}
 
-Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Neiva, puedes descargar el pdf haciendo clic en el siguiente botón:
+Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Pasto, puedes descargar el pdf haciendo clic en el siguiente botón:
 
-[PDF Empresas de la terminal]({{'assets/pdf-terminal-neiva.pdf'|relative_url}}){:target="_blank" id="boton"}
+[PDF Empresas de la terminal]({{'assets/pdf-terminal-pasto.pdf'|relative_url}}){:target="_blank" id="boton"}
