@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
-
-  <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ "/feed.xml" | relative_url}}">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
+      <title>{{ page.title}}</title>
+      <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
+      <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
+      <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ "/feed.xml" | relative_url}}">
   {% if page.noindex %}
   <meta name="robots" content="noindex, nofollow">
   {% endif %}
@@ -20,13 +21,13 @@
         "name": "{{page.title}}",
         "openingHours": "Mo-Su",
         "address": {
-            "@type": "PostalAddress",
+          "@type": "PostalAddress",
             "addressCountry": "CO",
             "addressLocality": "{{page.ciudad}}, Colombia",
             "addressRegion": "{{page.depto}}",
             "postalCode": "{{page.postal}}",
             "streetAddress": "{{page.direccion}}"
-        },
+          },
         "telephone": "{{page.telefono}}",
         "latitude": {{page.latitude}},
         "longitude": {{page.longitude}}
@@ -118,8 +119,6 @@
       </script>
     </script>
   {% endif %}
-  <title>{{ page.title}}</title>
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
   <meta name="language" content="es">
   <meta name="country" content="COL">
   <meta name="geo.region" content="CO-HUI">
