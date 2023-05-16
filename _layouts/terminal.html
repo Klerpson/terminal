@@ -2,43 +2,8 @@
 layout: default
 ---
 {% if page.h2_1 %}
-<main class="terminal">
-  <section class="terminal_datos">
-    <div>
-      <h2>{{page.h2_1}}</h2>
-      <p>{{page.p_1}}</p>
-      <ul>
-        {% if page.telefono %}
-        <li>
-          <h4>Teléfono:</h4>
-          <a href="tel:{{page.telefono}}" rel="nofollow noopener noreferrer" target="_blank">{{page.telefono}}</a>
-          {% if page.telefono2 %}
-          <a href="tel:{{page.telefono2}}" rel="nofollow noopener noreferrer" target="_blank">{{page.telefono2}}</a>
-          {% endif %}
-        </li>
-        {% endif %}
-        {% if page.direccion %}
-        <li>
-          <h4>Dirección:</h4>
-          <a href="{{page.maps}}" rel="nofollow noopener noreferrer" target="_blank">{{page.direccion}}</a>
-        </li>
-        {% endif %}
-        {% if page.email %}
-        <li>
-          <h4>Email</h4>
-          <a href="mailto:{{page.email}}" rel="nofollow noopener noreferrer" target="_blank">{{page.email}}</a>
-        </li>
-        {% endif %}
-      </ul>
-    </div>
-    <img 
-      srcset="{{site.baseurl}}/img/{{page.webp2}} 376w, 
-      {{site.baseurl}}/img/{{page.webp1}} 600w" 
-      src="{{site.baseurl}}/img/{{page.webp1}}" alt="Foto {{page.h1}}" loading="lazy" />
-    </section>
-  </main>
-  <section class="terminal_content">
-    <div class="terminal_intro">
+<section class="terminal_content">
+  <div class="terminal_intro">
       <p class="destacado">
         {{page.description}}
       </p>
@@ -78,12 +43,47 @@ layout: default
     </div>
   </section>
   {% endif %}
+  <main class="terminal">
+    <section class="terminal_datos">
+      <div>
+        <h2>{{page.h2_1}}</h2>
+        <p>{{page.p_1}}</p>
+        <ul>
+          {% if page.telefono %}
+          <li>
+            <h4>Teléfono:</h4>
+            <a href="tel:{{page.telefono}}" rel="nofollow noopener noreferrer" target="_blank">{{page.telefono}}</a>
+            {% if page.telefono2 %}
+            <a href="tel:{{page.telefono2}}" rel="nofollow noopener noreferrer" target="_blank">{{page.telefono2}}</a>
+            {% endif %}
+          </li>
+          {% endif %}
+          {% if page.direccion %}
+          <li>
+            <h4>Dirección:</h4>
+            <a href="{{page.maps}}" rel="nofollow noopener noreferrer" target="_blank">{{page.direccion}}</a>
+          </li>
+          {% endif %}
+          {% if page.email %}
+          <li>
+            <h4>Email</h4>
+            <a href="mailto:{{page.email}}" rel="nofollow noopener noreferrer" target="_blank">{{page.email}}</a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+      <img 
+        srcset="{{site.baseurl}}/img/{{page.webp2}} 376w, 
+        {{site.baseurl}}/img/{{page.webp1}} 600w" 
+        src="{{site.baseurl}}/img/{{page.webp1}}" alt="Foto {{page.h1}}" loading="lazy" />
+    </section>
+  </main>
   
   <section class="terminal-info">
     <div>
       {{content}}
     </div>
-  {% include add1.html %}
+    {% include add1.html %}
 
   </section>
   
