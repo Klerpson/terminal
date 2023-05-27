@@ -1,11 +1,6 @@
 ---
-layout: compress
+layout: default
 ---
-{% include head.html %}
-
-<body>
-  {% include header.html %}
-
 <section class="post-header">
   {% include img.html hero=page.hero webpb=page.webpb webpm=page.webpm webps=page.webps alt=page.alt %}
   <h1>{{page.h1}}</h1>
@@ -24,7 +19,6 @@ layout: compress
     </ul>
   </div>
 </section>
-{% include add1.html %}
 {% include breadcrumbs.html %}
 <article class="post-content">
   {{ content }}
