@@ -51,7 +51,7 @@ Además, la Terminal del Norte de Medellín cuenta con una amplia variedad de se
 
 ### Teléfono de la terminal del Norte
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 Puedes llamar a la terminal Norte de Medellín al [604 444 8020](tel:6044448020){:rel="nofollow noopener noreferrer" target="_blank"} – Ext. 150.
 
@@ -71,7 +71,7 @@ En resumen, la Terminal del Norte de Medellín es un punto de partida clave para
 
 ## Terminal Sur de Medellín
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 La Terminal de transporte Sur de Medellín, es uno de los principales puntos de conexión de la ciudad al resto del país.
 
