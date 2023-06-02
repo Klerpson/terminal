@@ -48,7 +48,7 @@ Si estás planeando un viaje en bus y necesitas información sobre cualquiera de
 
 ### Compra tus pasajes en la terminal de Cali
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 Para comprar pasajes, simplemente **contacta directamente con cualquiera de todas las empresas o acércate a la taquilla de la empresa de transporte que elijas**. Asegúrate de comprar tu pasaje con suficiente anticipación para evitar sorpresas de última hora.
 
@@ -57,6 +57,8 @@ Para comprar pasajes, simplemente **contacta directamente con cualquiera de toda
 Si estás planeando un viaje desde la terminal de Cali, es importante tener en cuenta algunos detalles importantes, como reservar un hotel cercano y comprar tus pasajes con suficiente anticipación. Esperamos que esta guía te haya sido útil y que tengas un viaje seguro y agradable. ¡Que disfrutes tu viaje por el sur de Colombia!
 
 ### Hoteles cerca de la terminal de Cali
+
+{% include cta-hotmart1.html %}
 
 Cuando llegas a la terminal de Cali, es posible que desees pasar la noche antes de partir hacia tu próximo destino. La ubicación de la terminal es excelente *cerca del centro de la ciudad* y cuenta con una gran cantidad de opciones de transporte disponibles.
 
