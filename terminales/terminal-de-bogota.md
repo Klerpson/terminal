@@ -45,6 +45,8 @@ permalink: /terminal-de-bogota
 ---
 ## Terminal Salitre de Bogotá
 
+{% include add1.html %}
+
 **La Terminal de transporte de Salitre se encuentra en la Diagonal 23 # 69a - 55**, en Ciudad Salitre. Esta es una de las más grandes y concurridas de Colombia.
 
 Su ubicación es estratégica en la ciudad de Bogotá. Además, es el punto de partida principal para viajeros que se dirigen a diferentes partes del país.
@@ -75,7 +77,7 @@ Haz clic en el siguiente botón para ver una lista más completa de *los diferen
 
 ## Terminal Norte de Bogotá
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 La Terminal Norte de Bogotá es una de las terminales más concurridas de la ciudad, ya que es la principal terminal para los viajes hacia el norte del país.
 
