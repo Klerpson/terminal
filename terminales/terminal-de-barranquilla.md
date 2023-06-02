@@ -49,7 +49,7 @@ La Terminal de Transporte de Barranquilla es el principal punto de conexión par
 
 ### Hoteles cerca de la Terminal de Transporte de Barranquilla
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 Si llegas a Barranquilla por la Terminal de Transporte, es posible que desees **buscar un hotel cercano para descansar después del viaje**. Aquí te dejamos una lista de los hoteles más cercanos a la terminal:
 
@@ -70,8 +70,10 @@ Haz clic en el siguiente botón para ver una lista más completa de *los diferen
 
 ### Compra tus tiquetes en la terminal de Barranquilla
 
+{% include cta-hotmart1.html %}
+
 En la Terminal de Transporte de Barranquilla, puedes comprar boletos para viajar a diferentes destinos nacionales e internacionales.
 
-En [terminaldetransporte.com](/){:target="_blank"} te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
+En [terminaldetransporte.com](/) te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
 
 [Empresas de la terminal de Barranquilla]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}

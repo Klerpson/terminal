@@ -52,7 +52,7 @@ Si estás planeando un viaje en bus y necesitas información sobre cualquiera de
 
 Para comprar pasajes, simplemente **contacta directamente con cualquiera de todas las empresas o acércate a la taquilla de la empresa de transporte que elijas**. Asegúrate de comprar tu pasaje con suficiente anticipación para evitar sorpresas de última hora.
 
-[Empresas de la terminal de Cali]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Cali]({{page.url}}/{{page.pdf}})
 
 Si estás planeando un viaje desde la terminal de Cali, es importante tener en cuenta algunos detalles importantes, como reservar un hotel cercano y comprar tus pasajes con suficiente anticipación. Esperamos que esta guía te haya sido útil y que tengas un viaje seguro y agradable. ¡Que disfrutes tu viaje por el sur de Colombia!
 
