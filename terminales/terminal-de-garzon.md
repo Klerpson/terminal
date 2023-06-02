@@ -45,7 +45,7 @@ permalink: /terminal-de-garzon
 
 {% include add1.html %}
 
-La Terminal de Transportes de Garzón es un importante centro de transporte terrestre en el departamento de Huila, Colombia. Esta terminal es un punto de partida y llegada para los viajeros que se dirigen a diferentes ciudades del país. Si planeas viajar desde esta terminal, aquí tienes toda la información que necesitas.
+La Terminal de Transportes de Garzón es un importante centro de transporte terrestre en el departamento de Huila, Colombia. Esta terminal es un punto de partida y llegada para los viajeros que se dirigen a [diferentes ciudades del país](/ "Terminales Colombianas"). Si planeas viajar desde esta terminal, aquí tienes toda la información que necesitas.
 
 ### Servicios y comodidades de la Terminal de Transportes de Garzón
 
@@ -58,5 +58,7 @@ La Terminal de Transportes de Garzón es un importante centro de transporte terr
 * **Baños públicos**: hay baños públicos disponibles para hombres y mujeres.
 * **Punto de información turística**: la terminal cuenta con un punto de información turística para aquellos que buscan explorar los alrededores.
 * **Vigilancia y seguridad**: se cuenta con personal de seguridad para garantizar la tranquilidad de los pasajeros.
+
+{% include cta-hotmart1.html %}
 
 Viajar desde la Terminal de Transportes de Garzón es una experiencia cómoda y segura. Si estás planeando tu próximo viaje, asegúrate de visitar esta terminal y disfrutar de sus servicios y comodidades.

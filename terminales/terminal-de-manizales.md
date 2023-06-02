@@ -45,15 +45,15 @@ permalink: /terminal-de-manizales
 ---
 ## Más sobre la terminal de transporte de Manizales
 
+{% include add1.html %}
+
 La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. **Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.**
 
 ### Compra tus pasajes en la Terminal de Manizales
 
-{% include cta-hotmart1.html %}
+La terminal de transporte de Manizales atiende más de 40 destinos nacionales. [Para comprar tus pasajes]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}), solo haz clic en **el botón para ver los teléfonos de las empresas de buses de la terminal de Manizales** que necesitas para comprar tu pasaje o tiquete de viaje.
 
-La terminal de transporte de Manizales atiende más de 40 destinos nacionales. Para comprar tus pasajes, solo haz clic en **el botón para ver los teléfonos de las empresas de buses de la terminal de Manizales** que necesitas para comprar tu pasaje o tiquete de viaje.
-
-[Empresas de la terminal de Manizales]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Manizales]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ### Transporte público hasta la Terminal de Manizales
 
@@ -61,7 +61,7 @@ Para llegar a la terminal de Manizales usando transporte público, puedes tomar 
 
 ### Servicios de la Terminal de Manizales
 
-{% include cta-hotmart1.html %}
+{% include add2.html %}
 
 La terminal de Transporte de Manizales te ofrece los siguientes servicios:
 
@@ -152,8 +152,7 @@ Las rutas que administra la terminal de Manizales con las empresas de transporte
 * Terminal de Manizales a Saldaña
 * Terminal de Manizales a Samaná
 * Terminal de Manizales a San José
-{% include cta-hotmart1.html %}
-
+{% include add3.html %}
 * Terminal de Manizales a Santa Bárbara
 * Terminal de Manizales a Santa Rosa de Cabal
 * Terminal de Manizales a Sevilla
@@ -166,10 +165,10 @@ Las rutas que administra la terminal de Manizales con las empresas de transporte
 
 #### Historia de la Terminal de Transporte de Manizales
 
+{% include cta-hotmart1.html %}
+
 La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 1988. Posteriormente, ante la creciente demanda en acceso de pasajeros y vehículos, se hizo un diseño más amplio, con mejores vías de acceso, y con una mejor distribución de todos las zonas. Por esta razón, se construyo la nueva terminal y se inauguró en el 2009.​
 
 **La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos**. En la actualidad operca con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes.
-
-{% include cta-hotmart1.html %}
 
 Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en la ciudad de Manizales, con la prestación del servicio de su auditorio.

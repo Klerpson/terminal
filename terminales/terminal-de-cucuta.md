@@ -44,11 +44,11 @@ permalink: /terminal-de-cucuta
 ---
 ## Información de la terminal de buses de Cúcuta
 
+{% include add3.html %}
+
 La Terminal de Transporte de Cúcuta es uno de los puntos de referencia más importantes en la ciudad, ya que es el lugar donde llegan y salen miles de pasajeros diariamente.
 
 ### Pasajes desde la Terminal de Transporte de Cúcuta
-
-{% include cta-hotmart1.html %}
 
 En la terminal encontrarás una gran variedad de empresas de transporte terrestre, que ofrecen diferentes opciones de viaje y tarifas para que puedas elegir la que mejor se adapte a tus necesidades.
 
@@ -56,11 +56,13 @@ Entre las empresas que operan en la Terminal de Transporte de Cúcuta se encuent
 
 Haz clic en el siguiente botón para contactar directamente con estas empresas.
 
-[Empresas de la terminal de Cúcuta]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Cúcuta]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 Encontrarás fácilmente tus **pasajes a Bogotá, a Cali, Medellín y otras ciudades principales de Colombia**.
 
 ### Hoteles cercanos a la Terminal de Transporte de Cúcuta
+
+{% include cta-hotmart1.html %}
 
 Si deseas alojarte cerca de la Terminal de Transporte de Cúcuta para mayor comodidad, hay varias opciones de hoteles a pocos minutos de la terminal.
 
@@ -72,12 +74,12 @@ Haz clic en el siguiente botón para ver **la lista más completa de hoteles cer
 
 ### Servicios de la terminal
 
-{% include cta-hotmart1.html %}
+{% include add2.html %}
 
 La Terminal de Transporte de Cúcuta es una de las más grandes del país, cuenta con una amplia variedad de servicios para los viajeros, como restaurantes, tiendas, servicios bancarios, cambio de moneda, entre otros.
 
 Además, se encuentra en una ubicación estratégica, **cerca de varias zonas turísticas de la ciudad**, lo que la convierte en una opción atractiva para los turistas.
 
-En resumen, la Terminal de Transporte de Cúcuta es un lugar importante para los viajeros que visitan la ciudad, ya que ofrece una amplia variedad de servicios para que puedas [planificar tu viaje de forma cómoda por Colombia]({{'blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus'|relative_url}}){:target="_blank"}.
+En resumen, la Terminal de Transporte de Cúcuta es un lugar importante para los viajeros que visitan la ciudad, ya que ofrece una amplia variedad de servicios para que puedas [planificar tu viaje de forma cómoda por Colombia]({{'blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus'|relative_url}}).
 
 Recuerda que siempre es importante realizar una reserva con anticipación y verificar los horarios y precios de los pasajes, para asegurarte de tener una experiencia de viaje cómoda y sin inconvenientes.

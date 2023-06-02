@@ -10,12 +10,12 @@ permalink: terminal-de-cartagena/telefonos-empresa-terminal-cartagena
 
 ### Compra tus pasajes en la terminal de Cartagena
 
-{% include cta-hotmart1.html %}
+{% include add2.html %}
 
 Para hacerlo, sigue estos 3 pasos:
 
 1. Elige tu empresa favorita
-2. Llama directamente a la empresa, sin intermediarios. (Si algún número no funciona, por favor avísanos en [nuestra página de contacto]({{'contacto'|relative_url}}){:target="_blank"})
+2. Llama directamente a la empresa, sin intermediarios. (Si algún número no funciona, por favor avísanos en [nuestra página de contacto]({{'contacto'|relative_url}}))
 3. Compra directamente con ellos o por su página web.
 
 |🚌 EMPRESAS | ☎ TELÉFONO |
@@ -63,7 +63,7 @@ Recuerda que al utilizar las instalaciones de la terminal de transporte de Carta
 
 ### Destinos desde la Terminal de Cartagena
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 Las rutas que administra la terminal de Cartagena con las empresas de transporte por carretera,cumpliendo con todos los requisitos legales del ministerio de transporte, son las siguientes:
 
@@ -125,8 +125,7 @@ Terminal de Cartagena a El Socorro
 Terminal de Cartagena a El Viajano
 Terminal de Cartagena a El Vizo
 Terminal de Cartagena a Facatativá
-{% include cta-hotmart1.html %}
-
+{% include add3.html %}
 Terminal de Cartagena a Fontibón
 Terminal de Cartagena a Fundación
 Terminal de Cartagena a Guaduas
@@ -183,8 +182,7 @@ Terminal de Cartagena a Sabanalarga
 Terminal de Cartagena a Sahagún
 Terminal de Cartagena a Sampués
 Terminal de Cartagena a San Alberto
-{% include cta-hotmart1.html %}
-
+{% include add1.html %}
 Terminal de Cartagena a San Antero
 Terminal de Cartagena a San Bernardo
 Terminal de Cartagena a San Gil
@@ -214,7 +212,7 @@ Terminal de Cartagena a Villeta
 Terminal de Cartagena a Yarumal
 Terminal de Cartagena a Zambrano
 
-También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal de Cartagena"){:target="_blank"}.
+También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal de Cartagena").
 
 ### Descarga el PDF con los número de la terminal de Cartagena
 

@@ -48,15 +48,17 @@ La Terminal de Transporte de Cartagena es un punto clave para el transporte en l
 
 ### Compra los pasajes directamente con las empresas de la terminal
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 Con **15 líneas de transporte** que ofrecen servicios intermunicipales y departamentales, la terminal es una opción conveniente para aquellos que buscan viajar dentro y fuera de la ciudad.
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
 
-[Empresas de la terminal de Cartagena]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Cartagena]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ### Hoteles cerca a la terminal de buses de Cartagena
+
+{% include cta-hotmart1.html %}
 
 Si está buscando alojamiento cerca de la terminal, hay muchas opciones disponibles. Puede buscar “hoteles cerca a la terminal de Cartagena” en Google para encontrar opciones que se ajusten a sus necesidades.
 
@@ -68,4 +70,4 @@ Además de ofrecer servicios de transporte, la Terminal de Transporte de Cartage
 
 En resumen, la Terminal de Transporte de Cartagena es una empresa muy bien organizada y confiable para aquellos que buscan viajar dentro y fuera de la ciudad.
 
-Con una amplia variedad de servicios y comodidades en el lugar, así como información detallada disponible en línea, es fácil planificar su viaje y [asegurarse de tener una experiencia agradable al viajar en bus]({{'blog/viajar-en-bus-5-ventajas-inigualables'|relative_url}}){:target="_blank"}.
+Con una amplia variedad de servicios y comodidades en el lugar, así como información detallada disponible en línea, es fácil planificar su viaje y [asegurarse de tener una experiencia agradable al viajar en bus]({{'blog/viajar-en-bus-5-ventajas-inigualables'|relative_url}}).

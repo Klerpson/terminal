@@ -10,11 +10,11 @@ Si estás buscando opciones de transporte desde o hacia las terminales de transp
 
 ## Teléfonos de las empresas de las terminales de transporte de Medellín
 
+{% include add1.html %}
+
 Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje desde y hacia Medellín comprando tus pasajes directamente con las empresas.
 
 ### Empresas de buses de la Terminal norte y sur de Medellín
-
-{% include cta-hotmart1.html %}
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
@@ -57,23 +57,23 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 ### Servicios de la terminal Norte de Medellín
 
-**[La terminal del Norte]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín"){:target="_blank"} cuenta con un parking para cientos de vehículos**, tiene acceso directo al Metro, autobuses y taxis, y tiene todos los servicios que ofrecen las modernas terminales internacionales: **baños, jardín, fuentes de agua, cafetería, entre otros**.
+{% include cta-hotmart1.html %}
+
+**[La terminal del Norte]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín") cuenta con un parking para cientos de vehículos**, tiene acceso directo al Metro, autobuses y taxis, y tiene todos los servicios que ofrecen las modernas terminales internacionales: **baños, jardín, fuentes de agua, cafetería, entre otros**.
 
 Desde su construcción ha sido objeto de innumerables premios y reconocimientos internacionales. El servicio es prestado por personal capacitado que se encarga de la seguridad, el mantenimiento y la limpieza de las instalaciones.
-
-{% include cta-hotmart1.html %}
 
 El sistema de monitorización y control del transporte por la ciudad de Medellín permite tomar decisiones rápidas para facilitar la movilidad. Es custodiada por sistemas integrados de vigilancia, control y monitoreo del entorno de la terminal en general y de la zona de estacionamiento en particular.
 
 Hay un sistema que se comunica con el centro de seguridad del aeropuerto. Este recoge información relevante sobre los vuelos que llegan o salen y hace seguimientos con reconocimientos de ciudadanos.
 
-La terminal del Norte también tiene servicio de internet gratuito, y hasta dentistas, farmacias, médicos y tienda departamental. El punto es que en la terminal encuentres todo lo que necesitas para viajar de manera sencilla y sin complicaciones.
+La terminal del Norte también tiene servicio de internet gratuito, y hasta dentistas, farmacias, médicos y tienda departamental. El punto es que en la terminal encuentres todo lo que necesitas para [viajar de manera sencilla y sin complicaciones]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}).
 
 ### Descarga el PDF con los número de la terminal de Medellín
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Medellín, puedes descargar el pdf haciendo clic en el siguiente botón:
 
-[PDF Empresas de la terminal]({{'assets/pdf-terminal-medellin.pdf'|relative_url}}){:target="_blank" id="boton"}
+[PDF Empresas de la terminal]({{'assets/pdf-terminal-medellin.pdf'|relative_url}}){:id="boton"}
 
 #### Destinos desde la Terminales de Medellín
 
@@ -90,8 +90,7 @@ Desde las Terminales de Transporte de Medellín **puedes viajar a los siguientes
 * Terminal de Medellín a Ámaga
 * Terminal de Medellín a Anza
 * Terminal de Medellín a Apartadó
-{% include cta-hotmart1.html %}
-
+{% include add3.html %}
 * Terminal de Medellín a Arauca
 * Terminal de Medellín a Arboletes
 * Terminal de Medellín a Arjona
@@ -134,6 +133,7 @@ Desde las Terminales de Transporte de Medellín **puedes viajar a los siguientes
 * Terminal de Medellín a Codazzi
 * Terminal de Medellín a Concordia
 * Terminal de Medellín a Condoto
+{% include add3.html %}
 * Terminal de Medellín a Corozal
 * Terminal de Medellín a Correto
 * Terminal de Medellín a Covenas
@@ -181,8 +181,7 @@ Desde las Terminales de Transporte de Medellín **puedes viajar a los siguientes
 * Terminal de Medellín a Hobo
 * Terminal de Medellín a Honda
 * Terminal de Medellín a Horizontes
-{% include cta-hotmart1.html %}
-
+{% include add2.html %}
 * Terminal de Medellín a Ibagué
 * Terminal de Medellín a Inguina
 * Terminal de Medellín a Ipiales
@@ -254,6 +253,7 @@ Desde las Terminales de Transporte de Medellín **puedes viajar a los siguientes
 * Terminal de Medellín a Riohacha
 * Terminal de Medellín a Rubicón
 * Terminal de Medellín a Sabanalarga
+{% include add3.html %}
 * Terminal de Medellín a Sahagun
 * Terminal de Medellín a Sampués
 * Terminal de Medellín a San Agustín
@@ -273,8 +273,6 @@ Desde las Terminales de Transporte de Medellín **puedes viajar a los siguientes
 * Terminal de Medellín a San Pedro
 * Terminal de Medellín a San Roque
 * Terminal de Medellín a San Vicente de Chucurí
-{% include cta-hotmart1.html %}
-
 * Terminal de Medellín a Santa Bárbara
 * Terminal de Medellín a Santa Fé
 * Terminal de Medellín a Santa Marta
@@ -302,5 +300,7 @@ Desde las Terminales de Transporte de Medellín **puedes viajar a los siguientes
 * Terminal de Medellín a Villagarzón
 * Terminal de Medellín a Villeta
 * Terminal de Medellín a Yarumal
+
+{% include cta-hotmart1.html %}
 
 Todos los destinos pueden variar según las políticas de cada empresa transportadora de las dos terminales de Medellín.

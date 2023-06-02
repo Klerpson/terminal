@@ -45,9 +45,9 @@ permalink: /terminal-de-buga
 
 {% include add1.html %}
 
-Si estás buscando viajar a la hermosa ciudad de Buga, en el departamento de Valle del Cauca, seguramente te interesará saber todo lo que la Terminal de Transportes de Buga tiene para ofrecer.
+Si estás buscando viajar a la hermosa ciudad de Buga, en el departamento de Valle del Cauca, seguramente te interesará saber todo lo que la Terminal de Transportes tiene para ofrecer.
 
-La Terminal de Transportes de Buga es de las más importantes del Valle del Cauca. Ofrece servicios de transporte a varias ciudades y municipios de Colombia, incluyendo destinos como Cali, Bogotá, Medellín y Popayán.
+**La Terminal de Transportes de Buga es de las más importantes del Valle del Cauca**. Ofrece servicios de transporte a [varias ciudades y municipios de Colombia](/), incluyendo destinos como [Cali]({{site.baseurl}}/terminal-de-cali), [Bogotá]({{site.baseurl}}/terminal-de-bogota), [Medellín]({{site.baseurl}}/terminal-de-medellin) y [Popayán]({{site.baseurl}}/terminal-de-popayan).
 
 ### Servicios en la Terminal de Transportes de Buga
 

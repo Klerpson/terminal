@@ -49,13 +49,15 @@ permalink: /terminal-de-villavicencio
 
 ¡Bienvenidos a la terminal de Villavicencio! Esta ciudad es **conocida como la puerta de entrada a la Orinoquía colombiana** y es un destino muy popular entre los viajeros. En este artículo, te brindaremos toda la información que necesitas sobre la terminal de transporte de Villavicencio para que puedas disfrutar al máximo de tu viaje.
 
-Ubicada en el departamento de Meta, la terminal de Villavicencio es una de las más importantes de la región. Aquí encontrarás una amplia variedad de opciones de transporte para viajar a distintos destinos dentro y fuera del país.
+Ubicada en el departamento de Meta, la terminal de Villavicencio es una de las más importantes de la región. Aquí tienes muchas opciones de transporte para viajar a [distintos destinos dentro]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}) y fuera del país.
 
-Si estás buscando viajar **a Villavicencio desde Bogotá, puedes tomar un bus en el terminal del sur**. Muchas compañías de transporte, como Bolivariano, ofrecen pasajes para llegar a la terminal de Villavicencio.
+Si estás buscando viajar **a Villavicencio desde [Bogotá]({{site.baseurl}}/terminal-de-bogota), puedes tomar un bus en el terminal del sur**. Muchas compañías de transporte, como Bolivariano, ofrecen pasajes para llegar a la terminal de Villavicencio.
 
 Si estás en otra ciudad, también puedes llegar directamente a la terminal de Villavicencio a través de distintas empresas de transporte.
 
-{% include cta-hotmart1.html %}
+[Empresas de la terminal de Villavicencio]({{page.url}}/{{page.pdf}}){:id="boton"}
+
+{% include add1.html %}
 
 Además, la terminal de Villavicencio cuenta con servicios como tiendas, restaurantes, cajeros automáticos y baños públicos para que puedas disfrutar de una experiencia de viaje cómoda y agradable.
 

@@ -49,7 +49,7 @@ La terminal de Buga tiene muchas conexiones por su excelente ubicación y las he
 
 Las empresas de transporte que trabajan en la terminal de Buga están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas yestrategias de mercado. Todos los destinos pueden variar según las políticas de cada empresa transportadora de la terminalde Buga.
 
-También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Buga]({{'terminal-de-buga'|relative_url}} "Terminal de Buga"){:target="_blank"}.
+También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Buga]({{'terminal-de-buga'|relative_url}} "Terminal de Buga").
 
 ### Descarga el PDF con los número de la terminal de Buga
 
@@ -57,4 +57,4 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Buga, puedes descargar el pdf haciendo clic en el siguiente botón:
 
-[PDF Empresas de la terminal]({{'assets/pdf-terminal-buga.pdf'|relative_url}}){:target="_blank" id="boton"}
+[PDF Empresas de la terminal]({{'assets/pdf-terminal-buga.pdf'|relative_url}}){:id="boton"}

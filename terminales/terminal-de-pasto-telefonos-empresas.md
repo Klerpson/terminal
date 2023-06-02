@@ -10,7 +10,7 @@ En la terminal de buses de Pasto **funcionan alrededor de 30 empresas transporta
 
 ## Teléfonos de las empresas de la terminal de transporte de Pasto
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la instalación. Aquí tienes los datos de contacto para que puedas comprar tus pasajes hoy mismo.
 
@@ -53,7 +53,7 @@ Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empres
 
 Las empresas de transporte que trabajan en la terminal de Pasto están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
-También puedes comprar tus tiquetes o pasajes comunicándote directamente con la [terminal de Pasto]({{'terminal-de-Pasto'|relative_url}} "Terminal de Pasto"){:target="_blank"}.
+También puedes comprar tus tiquetes o pasajes comunicándote directamente con la [terminal de Pasto]({{'terminal-de-Pasto'|relative_url}} "Terminal de Pasto").
 
 ### Descarga el PDF con los número de la terminal de Pasto
 
@@ -61,4 +61,4 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Pasto, puedes descargar el pdf haciendo clic en el siguiente botón:
 
-[PDF Empresas de la terminal]({{'assets/pdf-terminal-pasto.pdf'|relative_url}}){:target="_blank" id="boton"}
+[PDF Empresas de la terminal]({{'assets/pdf-terminal-pasto.pdf'|relative_url}}){:id="boton"}

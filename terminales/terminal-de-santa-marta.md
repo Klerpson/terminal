@@ -46,11 +46,11 @@ permalink: /terminal-de-santa-marta
 ---
 ## Terminal de buses de Santa Marta
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
-¿Estás buscando el lugar perfecto para comenzar tu próximo viaje a Santa Marta? ¡No busques más allá de la Terminal de Transporte de Santa Marta!
+¿Estás buscando el lugar perfecto para comenzar **tu próximo viaje a Santa Marta**? ¡No busques más allá de la Terminal de Transporte!
 
-Esta moderna y bien equipada terminal es la puerta de entrada a las maravillas de la costa caribeña de Colombia, y te ayudará a comenzar tu viaje sin problemas.
+Esta moderna y bien equipada **terminal es la puerta de entrada a las maravillas de la costa caribeña de Colombia**, y te ayudará a comenzar tu viaje sin problemas.
 
 ### Servicios de la Terminal de Transporte de Santa Marta
 
@@ -78,7 +78,7 @@ La Terminal de Transporte de Santa Marta cuenta con varias empresas de transport
 * Rápido Ochoa
 * Unitransco
 
-[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ### Precios y horarios de la Terminal de Transporte de Santa Marta
 

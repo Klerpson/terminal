@@ -10,9 +10,9 @@ En la terminal de buses de Manizales **funcionan alrededor de 30 empresas transp
 
 ## Teléfonos de las empresas de la terminal de transporte de Manizales
 
-Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
+{% include add1.html %}
 
-{% include cta-hotmart1.html %}
+Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
@@ -48,7 +48,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 Las empresas de transporte que trabajan en la terminal de Manizales están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
-También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Manizales]({{'terminal-de-manizales'|relative_url}} "Terminal de Manizales"){:target="_blank"}.
+También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Manizales]({{'terminal-de-manizales'|relative_url}} "Terminal de Manizales").
 
 ### Descarga el PDF con los número de la terminal de Manizales
 
@@ -56,4 +56,4 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Manizales, puedes descargar el pdf haciendo clic en el siguiente botón:
 
-[PDF Empresas de la terminal]({{'assets/pdf-terminal-manizales.pdf'|relative_url}}){:target="_blank" id="boton"}
+[PDF Empresas de la terminal]({{'assets/pdf-terminal-manizales.pdf'|relative_url}}){:id="boton"}

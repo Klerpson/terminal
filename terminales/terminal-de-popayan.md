@@ -44,19 +44,19 @@ permalink: /terminal-de-popayan
 ---
 ## Información sobre la terminal de Popayán
 
+{% include add1.html %}
+
 La Terminal de Popayán es la central para viajar desde el Cauca hacia otro lugar de Colombia. Los pasajeros podrán encontrar los precios ajustados a su presupuesto y los horarios más convenientes.
 
-**El Terminal de Popayán cuenta con más de 20 empresas** que transportan a sus clientes a diferentes destinos del país colombiano. Entre esos destinos se encuentran: Pasto, Bogotá, Cali, por nombrar algunos.
+**El Terminal de Popayán cuenta con más de 20 empresas** que transportan a sus clientes a diferentes destinos del país colombiano. Entre esos destinos se encuentran: [Pasto]({{site.baseurl}}/terminal-de-pasto), [Bogotá]({{site.baseurl}}/terminal-de-bogota), [Cali]({{site.baseurl}}/terminal-de-cali), por nombrar algunos.
 
 ### Empresas transportistas que realizan los viajes desde el Terminal de Popayán
-
-{% include cta-hotmart1.html %}
 
 **La terminal de Popayán puede recibir aproximadamente 1200 buses al día**. A continuación, encontrarás una lista de las empresas que laboran dentro del Terminal de Popayán y todas sus características, para que elijas la que mejor se adapte a tus necesidades.
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
 
-[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 #### Empresa de autobuses Coomotor
 
@@ -82,7 +82,7 @@ Los principales destinos que cubre Coomotor desde la terminal de Popayán son:
 * Marinilla
 * La Dorada
 
-Además de Florencia, Espinal, Pitalito, Mocoa, San Agustín, Doradal, Buga, Honda, Puerto Asís, Garzón. Y los precios de los pasajes, según la ruta, oscilan entre 6$ el de menor costo y 32$ el de mayor costo. Consulta sus horarios, precios, direcciones, promociones y cualquier pregunta referente a tu viaje a través de **los números de teléfono de Coomotor en la terminal de Popayán son**: [01800910293](tel:01800910293){:rel="nofollow"} o al [8231259](tel:6028231259){:rel="nofollow"}.
+Además de Florencia, Espinal, [Pitalito]({{site.baseurl}}/terminal-de-pitalito), Mocoa, San Agustín, Doradal, [Buga]({{site.baseurl}}/terminal-de-guadalajara-buga), Honda, Puerto Asís, [Garzón]({{site.baseurl}}/terminal-de-garzon). Y los precios de los pasajes, según la ruta, oscilan entre 6$ el de menor costo y 32$ el de mayor costo. Consulta sus horarios, precios, direcciones, promociones y cualquier pregunta referente a tu viaje a través de **los números de teléfono de Coomotor en la terminal de Popayán son**: [01800910293](tel:01800910293){:rel="nofollow"} o al [8231259](tel:6028231259){:rel="nofollow"}.
 
 #### Empresa de autobuses Bolivariano
 
@@ -111,7 +111,7 @@ Las rutas principales para transportar a sus pasajeros son las siguientes:
 * Villavicencio
 * Manizales
 
-También a Girardot, Pasto, La Dorada, Mocoa, Puerto Boyacá, Granada, Florencia, Acacias, Bucaramanga. Los precios de los pasajes van desde 11$ el más barato y 46$ el más costoso. Sus precios, promociones, horarios y cualquier otra inquietud pueden ser consultados a los **números de teléfono de la empresa Expreso Bolivariano en la terminal de Popayán**: [4249090](tel:6024249090){:rel="nofollow"} y [8231077](tel:6028231077){:rel="nofollow"}.
+También a Girardot, Pasto, La Dorada, Mocoa, Puerto Boyacá, Granada, [Florencia]({{site.baseurl}}/terminal-de-florencia), Acacias, [Bucaramanga]({{site.baseurl}}/terminal-de-bucaramanga). Los precios de los pasajes van desde 11$ el más barato y 46$ el más costoso. Sus precios, promociones, horarios y cualquier otra inquietud pueden ser consultados a los **números de teléfono de la empresa Expreso Bolivariano en la terminal de Popayán**: [4249090](tel:6024249090){:rel="nofollow"} y [8231077](tel:6028231077){:rel="nofollow"}.
 
 #### Empresa de autobuses Flota Magdalena
 
@@ -132,7 +132,7 @@ Y cinco destinos más: Armenia, Doradal, Girardot y Honda. Sus pasajes los encue
 
 #### Empresa de autobuses Expreso Palmira
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 **Esta empresa cubre 22 ciudades y 72 rutas**. La cantidad de unidades diarias con las que cuenta son 350. Clases de autobuses: Navatte, Navette G7, Navette XL, Turquesa. Los servicios con los que se cuenta dentro de las unidades son los mismos que las empresas descritas anteriormente. Sus destinos principales son:
 
@@ -150,6 +150,8 @@ Y cinco destinos más: Armenia, Doradal, Girardot y Honda. Sus pasajes los encue
 Su pasaje menos costoso es 9$ y el de mayor costo, 20$. Si tienes alguna duda con respecto a horarios, precios, promociones y más, serás bien atendido llamando a su **número de contacto en la terminal de Popayán**: [8231999](tel:6028231999){:rel="nofollow"}.
 
 ### Hoteles cerca a la terminal
+
+{% include cta-hotmart1.html %}
 
 Mira la ubicación de **los hoteles cerca a la terminal de Popayán** en el siguiente botón:
 
@@ -169,7 +171,7 @@ Los servicios que conseguirás dentro del terminal son los siguientes:
 * Baños públicos
 * Vigilancia privada las 24 hora
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 Tu espera se hará placentera, pues, te mantendrás conectado y con todo lo necesario al alcance de tu mano. Todas las áreas del terminal son cómodas y seguras.
 

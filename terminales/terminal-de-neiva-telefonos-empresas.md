@@ -131,4 +131,4 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Neiva, puedes descargar el pdf haciendo clic en el siguiente botón:
 
-[PDF Empresas de la terminal]({{'assets/pdf-terminal-neiva.pdf'|relative_url}}){:target="_blank" id="boton"}
+[PDF Empresas de la terminal]({{'assets/pdf-terminal-neiva.pdf'|relative_url}}){:id="boton"}

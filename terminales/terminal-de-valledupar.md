@@ -46,13 +46,15 @@ permalink: /terminal-de-valledupar
 ---
 ## Terminal de buses de Valledupar
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 Bienvenido a Valledupar, la capital mundial del vallenato. Si estás planeando un viaje a esta hermosa ciudad, es importante que conozcas todo sobre la Terminal de Transporte de Valledupar.
 
-La Terminal de Transporte de Valledupar es un importante punto de conexión en el norte de Colombia. Desde aquí podrás tomar autobuses a muchos destinos en todo el país. Ya sea que estés buscando un viaje corto a una ciudad cercana o un largo viaje a través de Colombia, esta terminal es un buen punto de partida.
+**La Terminal de Transporte de Valledupar es un importante punto de conexión en el norte de Colombia**. Desde aquí podrás tomar autobuses [a muchos destinos en todo el país]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}). Ya sea que estés buscando un viaje corto a una ciudad cercana o un largo viaje a través de Colombia, esta terminal es un buen punto de partida.
 
 ### Servicios y comodidades en la Terminal de Transporte de Valledupar
+
+{% include cta-hotmart1.html %}
 
 Una vez que llegues a la terminal, encontrarás una gran variedad de servicios y comodidades para hacer que tu viaje sea lo más cómodo posible. Aquí te dejamos una lista con algunos de ellos:
 
@@ -62,8 +64,6 @@ Una vez que llegues a la terminal, encontrarás una gran variedad de servicios y
 * Cajeros automáticos: hay cajeros automáticos disponibles para que puedas retirar dinero en efectivo.
 * Servicio de transporte público: desde la terminal, podrás tomar transporte público a diferentes destinos en la ciudad.
 
-{% include add1.html %}
-
 En la terminal de Valledupar podrás **encontrar boletos de autobús para diferentes destinos en Colombia**. Aquí te dejamos algunas de las opciones más populares:
 
 * Valledupar - Barranquilla (Copetran)
@@ -72,7 +72,9 @@ En la terminal de Valledupar podrás **encontrar boletos de autobús para difere
 * Valledupar - Bogotá (Unitransco)
 * Valledupar - Medellín (Unitransco)
 
-[Empresas de la terminal de Valledupar]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Valledupar]({{page.url}}/{{page.pdf}}){:id="boton"}
+
+{% include add1.html %}
 
 Recuerda que los horarios y tarifas pueden cambiar en cualquier momento. Si quieres asegurarte de que tienes toda la información actualizada, lo mejor es que consultes directamente en las taquillas de las empresas de autobuses en la terminal.
 

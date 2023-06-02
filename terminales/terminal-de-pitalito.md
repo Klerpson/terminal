@@ -45,19 +45,19 @@ permalink: /terminal-de-pitalito
 ---
 ## La terminal de Pitalito - Centro del Sur del Huila
 
+{% include add1.html %}
+
 Ubicado en la ciudad de Pitalito, Colombia, el terminal de transporte es un lugar donde se puede ir de un pueblo a otro en todo el sur del Huila. Es un punto central de **transporte de pasajeros y de comunicación para todos los municipios de esa región**.
 
 ### ¿Cómo comprar pasajes en la terminal de Pitalito?
-
-{% include cta-hotmart1.html %}
 
 Te recomendamos **comprar los pasajes utilizando su [página web oficial](https://tuterminalpitalito.com/comprar-pasajes/){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
 Si necesitas una empresa en particular que trabaje en la terminal de Pitalito, puedes ver la lista que preparamos para ti. Haz clic en el botón que sigue 👇👇👇.
 
-[Empresas de la terminal de Pitalito]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Pitalito]({{page.url}}/{{page.pdf}}){:id="boton"}
 
-Esta hermosa terminal recibe miles de pasajeros diariamente, y sus instalaciones incluyen restaurantes, zonas para guardar equipajes y más de doce compañías de autobuses donde los pasajeros pueden tomar asiento para viajar a ciudades de todo el país.
+Esta hermosa terminal recibe miles de pasajeros diariamente, y sus instalaciones incluyen restaurantes, zonas para guardar equipajes y más de doce compañías de autobuses donde los pasajeros pueden tomar asiento para viajar [a ciudades de todo el país]({{site.baseurl}}/terminales-de-colombia).
 
 #### Compra pasajes en Coomotor Pitalito
 
@@ -67,13 +67,13 @@ También, puedes marcar directamente **el número de teléfono de esta empresa: 
 
 #### Comprar pasajes en Cootranslaboyana Pitalito
 
+{% include add1.html %}
+
 Cootranslaboyana es la empresa más conocida de la zona. Desde la **[página de contacto](https://www.cootranslaboyana.com.co/Contacto.html){:rel="nofollow noopener noreferrer" target="_blank"}** de Cootranslaboyana Pitalito puedes obtener una lista de números importante.
 
 También, puedes marcar directamente **el número de teléfono de esta empresa: [6088360508](tel:6088364982){:rel="nofollow noopener noreferrer" target="_blank"}.
 
 ### Servicios de la terminal de Pitalito
-
-{% include cta-hotmart1.html %}
 
 La terminal de transporte de Pitalito Huila es un lugar moderno y cómodo para los viajeros, con una gran variedad de comodidades para los usuarios:
 
@@ -90,6 +90,8 @@ La terminal de transporte de Pitalito Huila es un lugar moderno y cómodo para l
 * Establecimientos comerciales.
 
 ### Historia de la terminal de Pitalito
+
+{% include cta-hotmart1.html %}
 
 **La Terminal de Pitalito está funcionando desde el año 1999**. Constituirla legalmente tomó un período de 8 años. Ofrece servicios de transporte terrestre nacional de pasajeros con 19 empresas.
 

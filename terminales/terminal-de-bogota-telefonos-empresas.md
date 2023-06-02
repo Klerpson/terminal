@@ -12,7 +12,7 @@ Asegúrate de **verificar los horarios y precios de los tiquetes con anticipaci�
 
 ## Terminal de Transporte de Bogotá
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | --- | :--- |
@@ -149,6 +149,7 @@ Los destinos a los que la terminal de Bogotá atiendes desde sus 3 sedes son los
 * Terminal de transporte de Bogotá a Cruce de Chiriguana
 * Terminal de transporte de Bogotá a Cuatro Vientos
 * Terminal de transporte de Bogotá a Curumaní
+{% include add3.html %}
 * Terminal de transporte de Bogotá a Cúcutua
 * Terminal de transporte de Bogotá a Dagota
 * Terminal de transporte de Bogotá a Don Matías
@@ -195,8 +196,7 @@ Los destinos a los que la terminal de Bogotá atiendes desde sus 3 sedes son los
 * Terminal de transporte de Bogotá a Lima
 * Terminal de transporte de Bogotá a Loma de Potrerillo
 * Terminal de transporte de Bogotá a Loma de Bálsamo
-{% include cta-hotmart1.html %}
-
+{% include add2.html %}
 * Terminal de transporte de Bogotá a Lorica
 * Terminal de transporte de Bogotá a Luruaco
 * Terminal de transporte de Bogotá a Magangué
@@ -275,7 +275,6 @@ Los destinos a los que la terminal de Bogotá atiendes desde sus 3 sedes son los
 * Terminal de transporte de Bogotá a Villa de Leyva
 * Terminal de transporte de Bogotá a Villagarzón
 {% include cta-hotmart1.html %}
-
 * Terminal de transporte de Bogotá a Villanueva
 * Terminal de transporte de Bogotá a Villavicencio
 * Terminal de transporte de Bogotá a Villeta
@@ -289,6 +288,6 @@ Todos los destinos pueden variar según las políticas de cada empresa transport
 
 ### Descarga el PDF con los número de la terminal de Barranquilla
 
-Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en [las terminales de transporte de Bogotá]({{'terminal-de-bogota'|relative_url}}){:target="_blank"}, puedes descargar el pdf haciendo clic en el siguiente botón:
+Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en [las terminales de transporte de Bogotá]({{'terminal-de-bogota'|relative_url}}), puedes descargar el pdf haciendo clic en el siguiente botón:
 
 [PDF Empresas de las terminales de Bogotá]({{'assets/pdf-terminal-bogota.pdf'|relative_url}}){:target="_blank" id="boton"}

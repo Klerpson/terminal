@@ -45,13 +45,13 @@ permalink: /terminal-de-bucaramanga
 ---
 ## Información sobre la terminal de transporte de Bucaramanga
 
+{% include add2.html %}
+
 La terminal de Bucaramanga es el lugar para tomar un bus y moverte de un lugar a otro en la ciudad de Bucaramanga y sus alrededores.
 
 **La Terminal de Transporte de Bucaramanga es un punto clave de transporte en la región de Santander**. Cada día, miles de pasajeros pasan por sus instalaciones para llegar a sus destinos.
 
 ### Hoteles cerca a la Terminal de Bucaramanga
-
-{% include cta-hotmart1.html %}
 
 Alrededor de la terminal, encontrarás una gran variedad de hoteles donde puedes hospedarte durante tu visita a Bucaramanga.
 
@@ -60,6 +60,8 @@ Haz clic en el siguiente botón para ver una lista más completa de *los diferen
 [Hoteles cerca de la terminal de Bucaramanga](https://www.google.com/maps/search/Hoteles/@7.0884524,-73.1331262,16z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
 ### Compra tus pasajes en la terminal de Bucaramanga
+
+{% include cta-hotmart1.html %}
 
 En la Terminal de Transporte de Bucaramanga puedes encontrar empresas de transporte en bus como estas:
 
