@@ -12,7 +12,7 @@ Asegúrate de verificar los horarios y precios de los tiquetes con anticipación
 
 ## Teléfonos de las empresas de la terminal de transporte de Barranquilla
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
 
@@ -109,8 +109,7 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 * Terminal de Barranquilla a El Playón
 * Terminal de Barranquilla a El Rodadero
 * Terminal de Barranquilla a El Socorro
-{% include cta-hotmart1.html %}
-
+{% include add1.html %}
 * Terminal de Barranquilla a El Viajano
 * Terminal de Barranquilla a El Vizo
 * Terminal de Barranquilla a Facatativá
@@ -171,7 +170,6 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 * Terminal de Barranquilla a Puerta de Hierro
 * Terminal de Barranquilla a Puerto Araujo
 {% include cta-hotmart1.html %}
-
 * Terminal de Barranquilla a Puerto Berrio
 * Terminal de Barranquilla a Puerto Boyacá
 * Terminal de Barranquilla a Puerto Valdivia
@@ -212,6 +210,8 @@ También puedes comprar tus tiquetes o pasajes comunicándote directamente con l
 Todos los destinos pueden variar según las políticas de cada empresa transportadora de las dos terminales de Barranquilla.
 
 ### Descarga el PDF con los número de la terminal de Barranquilla
+
+{% include add3.html %}
 
 Si necesitas llevar contigo los números de las empresas que ofrecen sus servicios en la terminal de transporte de Barranquilla, puedes descargar el pdf haciendo clic en el siguiente botón:
 

@@ -10,7 +10,7 @@ Puedes comprar tus tiquetes o pasajes **comunicándote directamente con las empr
 
 ## Teléfonos de las empresas de la terminal de transporte de Bucaramanga
 
-{% include cta-hotmart1.html %}
+{% include add2.html %}
 
 Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
 
@@ -41,7 +41,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 | TRASSANDER | 6076377722 - 6076801066 - 6076359234 |
 | FLOTA CACHIRA | 6076422218 - 313 397 06 34 - 6076525403 - 6076426896 |
 
-También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}} "Terminal de Bucaramanga"){:target="_blank"}.
+También puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadores que funcionan en la [terminal de Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}} "Terminal de Bucaramanga").
 
 ### Descarga el PDF con los número de la terminal de Bucaramanga
 

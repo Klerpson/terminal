@@ -63,7 +63,7 @@ Una de las ventajas de la Terminal de Salitre es su ubicación, ya que **se encu
 
 En la Terminal Salitre de Bogotá, puedes comprar boletos para viajar a diferentes destinos nacionales e internacionales.
 
-En [terminaldetransporte.com](/){:target="_blank"} te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
+En [terminaldetransporte.com](/) te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
 
 [Empresas de la terminal Salitre de Bogotá]({{page.url}}/{{page.pdf}})
 
@@ -91,9 +91,9 @@ Esta terminal es un punto de partida para muchos viajeros que se dirigen a desti
 
 {% include cta-hotmart1.html %}
 
-En la Terminal Norte de Bogotá puedes comprar los pasajes telefónicamente. Hasta puedes [comprar pasajes en línea]({{'blog/red-bus-colombia-reserva-viajes'|relative_url}} "RedBus Colombia"){:target="_blank"}.
+En la Terminal Norte de Bogotá puedes comprar los pasajes telefónicamente. Hasta puedes [comprar pasajes en línea]({{'blog/red-bus-colombia-reserva-viajes'|relative_url}} "RedBus Colombia").
 
-En [terminaldetransporte.com](/){:target="_blank"} te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
+En [terminaldetransporte.com](/) te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
 
 [Empresas de la terminal Norte de Bogotá]({{page.url}}/{{page.pdf}})
 
