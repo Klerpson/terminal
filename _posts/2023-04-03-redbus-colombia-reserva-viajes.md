@@ -3,7 +3,7 @@ layout: post
 title: 'Redbus Colombia: ¡Reserva tu viaje ahora mismo! 🚌'
 description: '¿Buscas la mejor manera de viajar por Colombia? ¡RedBus es la solución! Reserva en línea o llama a su teléfono de atención al cliente.¡Haz clic ahora!'
 autor: terminaldetransporte.com
-h1: 'Descubre Redbus Colombia: ¡Reserva tu viaje ahora mismo!'
+h1: 'Con Redbus Colombia reservas tu viaje ahora fácilmente'
 h1_alternativo: 'Descubre Redbus Colombia: ¡Reserva tu viaje ahora mismo!'
 award: 'Página redbus.co para comprar pasajes de bus en línea'
 date: 2023-04-03
@@ -71,6 +71,6 @@ En resumen, **RedBus Colombia es una excelente opción para comprar pasajes en l
 
 En general, RedBus Colombia es una empresa confiable y segura, que ofrece una experiencia de compra en línea de alta calidad. ¡No dudes en comprar tus pasajes en RedBus Colombia para disfrutar de un viaje cómodo y seguro!
 
-[En nuestro blog]({{'blog'|relative_url}}){:target="_blank"}, encontrarás más información sobre los mejores [servicios de transporte en Colombia]({{site.baseurl}}/){:target="_blank"}. Si estás interesado en conocer más sobre la oferta de pasajes en línea, no dudes en seguir leyendo nuestras publicaciones.
+[En nuestro blog]({{'blog'|relative_url}}), encontrarás más información sobre los mejores [servicios de transporte en Colombia]({{site.baseurl}}/). Si estás interesado en conocer más sobre la oferta de pasajes en línea, no dudes en seguir leyendo nuestras publicaciones.
 
 Te invitamos a seguir navegando por nuestro sitio web para descubrir todas las noticias, consejos y recomendaciones para tus próximos viajes. ¡No te lo pierdas!

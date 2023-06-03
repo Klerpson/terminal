@@ -30,7 +30,7 @@ Manizales ha recibido muchos apodos debido a su belleza natural y riqueza cultur
 
 ## LLega fácil a la terminal de Manizales
 
-[La terminal de Manizales]({{'terminal-de-manizales'|relative_url}} "Terminal de Manizales"){:target="_blank"} se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.
+[La terminal de Manizales]({{'terminal-de-manizales'|relative_url}} "Terminal de Manizales") se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.
 
 Las avenidas importantes importantes de la ciudad llegan hasta aquí. **También se puede llegar por el Cable aéreo de Manizales**, como puedes ver en la imagen principal de este artículo.
 
