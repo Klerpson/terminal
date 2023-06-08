@@ -79,7 +79,7 @@ La mayoría de [los comentarios sobre Pinbus](https://play.google.com/store/apps
 
 En resumen, **Pinbus Colombia es una excelente opción para comprar tiquetes de bus en línea**. Su plataforma es fácil de usar, su servicio al cliente está siempre listo para ayudarte, y **trabajan con operadores de buses confiables como Copetran y Bolivariano**.
 
-Con todas estas ventajas, no cabe duda de que Pinbus es tu mejor aliado para tus viajes en bus por Colombia.
+Con todas estas ventajas, no cabe duda de que Pinbus es tu mejor aliado para tus [viajes en bus]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %}) por Colombia.
 
 Así que, ya sea que estés planeando un viaje corto o una larga aventura, Pinbus tiene lo que necesitas. ¡Embarca en tu próximo viaje con Pinbus hoy!
 
