@@ -49,7 +49,7 @@ permalink: /terminal-de-florencia
 
 La Terminal de Transportes de Florencia **es la principal estación de autobuses en la ciudad de Florencia**, ubicada en el departamento de Caquetá en Colombia, y una de las más modernas y equipadas de la región amazónica.
 
-Si tienes planes de viajar desde esta terminal, aquí te proporcionaremos información útil para que puedas [disfrutar de un viaje seguro y cómodo](% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %).
+Si tienes planes de viajar desde esta terminal, aquí te proporcionaremos información útil para que puedas [disfrutar de un viaje seguro y cómodo]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}).
 
 ### Servicios disponibles en la Terminal de Transportes de Florencia
 

@@ -10,7 +10,7 @@ permalink: terminal-de-santa-marta/telefonos-empresa-terminal-santa-marta
 
 {% include add1.html %}
 
-Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresastransportadores que funcionan en la instalación. Aquí tienes los datos de contacto para que puedas **comprar tus pasajes hoy mismo con las empresas de buses de la terminal de Santa Marta**.
+Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresas transportadoras que funcionan en la instalación. Aquí tienes los datos de contacto para que puedas **comprar tus pasajes hoy mismo con las empresas de buses de la terminal de Santa Marta**.
 
 | 🚌 EMPRESA | ☎ TELÉFONO |
 | :--- | :--- |

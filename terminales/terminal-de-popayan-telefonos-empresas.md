@@ -10,7 +10,7 @@ permalink: terminal-de-popayan/telefonos-empresa-terminal-popayan
 
 {% include add2.html %}
 
-Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empresastransportadores que funcionan en la instalación. Aquí te dejamos los datos de contacto para quepuedas comprar tus pasajes hoy mismo.
+Puedes [comprar tus tiquetes]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}) o pasajes comunicándote directamente con las empresastransportadores que funcionan en la instalación. Aquí te dejamos los datos de contacto para quepuedas comprar tus pasajes hoy mismo.
 
 | 🚌 EMPRESA | ☎ TELÉFONO |
 | :--- | :--- |
