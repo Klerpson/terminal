@@ -116,7 +116,11 @@
 
 #markdown-toc li{
   list-style: none;
-  line-height: 1.4;
+  font-weight: 700;
+}
+
+#markdown-toc li::marker{
+  content: "⇾ ";
 }
 
 #markdown-toc li ul{
@@ -127,6 +131,8 @@
   background-color: var(--complemento2);
   padding: 1.5em;
   display: inline-block;
+  margin: 2em 0;
+  border-radius: var(--radius);
 }
 
 /******* SECCIÓN DEL ARTÍCULO DE CADA POST *******/
@@ -183,22 +189,26 @@
 
 .post-social ul{
   display: flex;
-  gap: .8rem;
   align-items: center;
 }
 
 .post-social ul li svg{
   width: 32px;
   height: 32px;
+  text-shadow: 1rem 1rem 0;
+  -webkit-filter: drop-shadow(0px 2px 4px #fefefe);
+  filter: drop-shadow(0px 2px 4px #fefefe);
+  transition: all .2s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.post-social ul li svg:hover{
+  transform: scale(1.2);
 }
 
 .post-content {
   width: min(90vw, 800px);
   margin-inline: auto;
   margin-bottom: 4rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1.2rem;
 }
 
 .post-content a{
@@ -213,6 +223,7 @@
 .post-content img{
   width: min(100%, 800px);
   border-radius: var(--radius);
+  margin: 2em 0;
 }
 
 .post-content ol li{
@@ -228,7 +239,7 @@
   border: .8px solid var(--gris1);
   border-radius: 8px;
   padding: 2rem;
-  margin: 1.2rem 0;
+  margin: 2em 0;
 }
 
 .post-content blockquote a {
@@ -244,7 +255,6 @@
   margin-bottom: .8rem;
 }
 
-
 .post-content th, 
 .post-content td {
   border-bottom: 1.5px solid var(--gris1);
@@ -255,4 +265,13 @@
 #fuentes a{
   font-size: .7rem;
   color: var(--secundario);
+}
+
+.comentario{
+  background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  clip-path: inset(0 -100vmax);
+  padding: 4em 0;
+  margin: 2em 0;
+  color: white;
 }

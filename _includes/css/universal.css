@@ -52,18 +52,19 @@ h4 {
   font-family: var(--fuenteTitulos);
   text-transform: initial;
   line-height: 1.2;
+  margin: 1.2em 0;
 }
 
 h1 {
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   line-height: 1.2;
 }
 
@@ -71,6 +72,7 @@ p, .post-content li {
   word-wrap: break-word;
   font-size: 1rem;
   letter-spacing: -0.6px;
+  margin: .8em 0;
 }
 
 pre {
@@ -81,6 +83,13 @@ a {
   background: transparent;
   font-family: var(--fuenteTexto);
   text-decoration-thickness: 2.6px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin: 2em 0;
 }
 
 abbr[title] {
@@ -149,6 +158,7 @@ select {
 
 li {
   list-style: none;
+  /* margin: .5em 0; */
 }
 
 header,
