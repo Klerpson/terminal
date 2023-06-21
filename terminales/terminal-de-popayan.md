@@ -82,7 +82,7 @@ Los principales destinos que cubre Coomotor desde la terminal de Popayán son:
 * Marinilla
 * La Dorada
 
-Además de Florencia, Espinal, [Pitalito]({{site.baseurl}}/terminal-de-pitalito), Mocoa, San Agustín, Doradal, [Buga]({{site.baseurl}}/terminal-de-guadalajara-buga), Honda, Puerto Asís, [Garzón]({{site.baseurl}}/terminal-de-garzon). Y los precios de los pasajes, según la ruta, oscilan entre 6$ el de menor costo y 32$ el de mayor costo. Consulta sus horarios, precios, direcciones, promociones y cualquier pregunta referente a tu viaje a través de **los números de teléfono de Coomotor en la terminal de Popayán son**: [01800910293](tel:01800910293){:rel="nofollow"} o al [8231259](tel:6028231259){:rel="nofollow"}.
+Además de Florencia, Espinal, [Pitalito]({{site.baseurl}}/terminal-de-pitalito), Mocoa, San Agustín, Doradal, [Buga]({{site.baseurl}}/terminal-de-buga), Honda, Puerto Asís, [Garzón]({{site.baseurl}}/terminal-de-garzon). Y los precios de los pasajes, según la ruta, oscilan entre 6$ el de menor costo y 32$ el de mayor costo. Consulta sus horarios, precios, direcciones, promociones y cualquier pregunta referente a tu viaje a través de **los números de teléfono de Coomotor en la terminal de Popayán son**: [01800910293](tel:01800910293){:rel="nofollow"} o al [8231259](tel:6028231259){:rel="nofollow"}.
 
 #### Empresa de autobuses Bolivariano
 

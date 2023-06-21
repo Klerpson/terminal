@@ -53,7 +53,7 @@ Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empres
 
 Las empresas de transporte que trabajan en la terminal de Pasto están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 
-También puedes comprar tus tiquetes o pasajes comunicándote directamente con la [terminal de Pasto]({{'terminal-de-Pasto'|relative_url}} "Terminal de Pasto").
+También puedes comprar tus tiquetes o pasajes comunicándote directamente con la [terminal de Pasto]({{'terminal-de-pasto'|relative_url}} "Terminal de Pasto").
 
 ### Descarga el PDF con los número de la terminal de Pasto
 

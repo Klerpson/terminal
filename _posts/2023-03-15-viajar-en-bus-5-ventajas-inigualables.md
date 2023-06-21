@@ -62,7 +62,7 @@ Viajar en bus te permite conectarte con la cultura local. Podrás **ver paisajes
 
 Incluso, el mismo bus es un espacio social donde puedes interactuar con otras personas que comparten tu destino o tus intereses. Puedes hacer amigos, intercambiar experiencias o simplemente charlar un rato.
 
-Podemos decir que [viajar en bus te permite disfrutar más]({{'blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto'|relative_url}} "Aprende a disfrutar tu viaje en bus"){:target="_blank"}. Puedes apreciar la belleza del entorno por el que viajas, relajarte y admirar la naturaleza o la arquitectura de las ciudades que visitas.
+Podemos decir que [viajar en bus te permite disfrutar más]({{'blog/viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto'|relative_url}} "Aprende a disfrutar tu viaje en bus"){:target="_blank"}. Puedes apreciar la belleza del entorno por el que viajas, relajarte y admirar la naturaleza o la arquitectura de las ciudades que visitas.
 
 ### Reduces tu huella ecológica mientra viajas
 

@@ -5,7 +5,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/blog</loc>
+        <loc>http://localhost:4000/blog/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -13,7 +13,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/contacto</loc>
+        <loc>http://localhost:4000/contacto/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -331,7 +331,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminales-de-colombia</loc>
+        <loc>http://localhost:4000/terminales-de-colombia/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
