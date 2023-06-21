@@ -6,7 +6,7 @@ h1: Télefonos de las empresas de transporte de la terminal de Bucaramanga
 pdf: pdf-terminal-bucaramanga.pdf
 permalink: terminal-de-bucaramanga/telefonos-empresa-terminal-bucaramanga
 ---
-Puedes comprar tus tiquetes o pasajes **comunicándote directamente con las empresas transportadores que funcionan en la terminal de Bucaramanga**. Aquí tienes los datos de contacto para que puedascomprar tus pasajes hoy mismo.
+Puedes comprar tus tiquetes o pasajes **comunicándote directamente con las empresas transportadores que funcionan en la terminal de Bucaramanga**. Aquí tienes los datos de contacto para que puedas comprar tus pasajes hoy mismo.
 
 ## Teléfonos de las empresas de la terminal de transporte de Bucaramanga
 
