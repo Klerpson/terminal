@@ -1,245 +1,406 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/blog/cucuta-y-la-terminal-de-la-frontera-con-venezuela</loc>
-<lastmod>2023-02-11T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/conoce-bucaramanga-desde-su-terminal-de-transporte</loc>
-<lastmod>2023-02-17T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/manizales-luce-su-terminal-de-transporte</loc>
-<lastmod>2023-02-18T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/5-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus</loc>
-<lastmod>2023-02-26T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto</loc>
-<lastmod>2023-02-27T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/viajar-en-bus-5-ventajas-inigualables</loc>
-<lastmod>2023-03-15T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus</loc>
-<lastmod>2023-03-24T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/red-bus-colombia-reserva-viajes</loc>
-<lastmod>2023-04-03T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/pinbus-compra-pasajes-colombia</loc>
-<lastmod>2023-06-02T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/seguro-o-inseguro-viajar-en-bus-colombia</loc>
-<lastmod>2023-06-15T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/404</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blog</loc>
-</url>
-<url>
-<loc>http://localhost:4000/contacto</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/legal</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-barranquilla/telefonos-empresa-terminal-barranquilla</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-barranquilla</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-bogota/telefonos-empresa-terminal-bogota</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-bogota</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-bucaramanga/telefonos-empresa-terminal-bucaramanga</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-bucaramanga</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-cali/telefonos-empresa-terminal-cali</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-cali</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-cartagena/telefonos-empresa-terminal-cartagena</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-cartagena</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-cucuta/telefonos-empresa-terminal-cucuta</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-cucuta</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-florencia/telefonos-empresa-terminal-florencia</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-florencia</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-garzon/telefonos-empresa-terminal-garzon</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-garzon</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-buga/telefonos-empresa-terminal-buga</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-buga</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-manizales/telefonos-empresa-terminal-manizales</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-manizales</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-medellin/telefonos-empresa-terminal-medellin</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-medellin</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-neiva/telefonos-empresa-terminal-neiva</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-neiva</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-pasto/telefonos-empresa-terminal-pasto</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-pasto</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-pitalito/telefonos-empresa-terminal-pitalito</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-pitalito</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-popayan/telefonos-empresa-terminal-popayan</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-popayan</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-santa-marta/telefonos-empresa-terminal-santa-marta</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-santa-marta</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-valledupar/telefonos-empresa-terminal-valledupar</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-valledupar</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-villavicencio/telefonos-empresa-terminal-villavicencio</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminal-de-villavicencio</loc>
-</url>
-<url>
-<loc>http://localhost:4000/terminales-de-colombia</loc>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-barranquilla.pdf</loc>
-<lastmod>2022-05-07T17:12:28-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-bogota.pdf</loc>
-<lastmod>2022-06-11T08:56:32-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-bucaramanga.pdf</loc>
-<lastmod>2023-02-17T08:12:22-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-buga.pdf</loc>
-<lastmod>2022-08-04T20:22:37-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-cali.pdf</loc>
-<lastmod>2022-05-10T07:47:46-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-cartagena.pdf</loc>
-<lastmod>2023-02-17T14:05:58-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-cucuta.pdf</loc>
-<lastmod>2023-02-17T16:59:25-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-florencia.pdf</loc>
-<lastmod>2023-05-05T12:50:25-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-garzon.pdf</loc>
-<lastmod>2023-05-05T13:08:59-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-manizales.pdf</loc>
-<lastmod>2023-02-18T07:42:53-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-medellin.pdf</loc>
-<lastmod>2022-05-02T22:44:05-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-neiva.pdf</loc>
-<lastmod>2022-12-13T17:28:22-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-pasto.pdf</loc>
-<lastmod>2023-02-18T10:32:55-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-pitalito.pdf</loc>
-<lastmod>2022-12-17T13:32:22-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-popayan.pdf</loc>
-<lastmod>2022-06-10T20:42:51-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-santa-marta.pdf</loc>
-<lastmod>2023-02-18T11:49:05-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-valledupar.pdf</loc>
-<lastmod>2023-03-04T20:32:11-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/pdf-terminal-villavicencio.pdf</loc>
-<lastmod>2023-02-27T08:16:56-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/google0917d12619c20719.html</loc>
-<lastmod>2022-03-28T06:53:50-05:00</lastmod>
-</url>
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/blog</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/contacto</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/css/style.css</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-barranquilla/telefonos-empresa-terminal-barranquilla</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-barranquilla</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-bogota/telefonos-empresa-terminal-bogota</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-bogota</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-bucaramanga/telefonos-empresa-terminal-bucaramanga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-bucaramanga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-cali/telefonos-empresa-terminal-cali</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-cali</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-cartagena/telefonos-empresa-terminal-cartagena</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-cartagena</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-cucuta/telefonos-empresa-terminal-cucuta</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-cucuta</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-florencia/telefonos-empresa-terminal-florencia</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-florencia</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-garzon/telefonos-empresa-terminal-garzon</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-garzon</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-buga/telefonos-empresa-terminal-buga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-buga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-manizales/telefonos-empresa-terminal-manizales</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-manizales</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-medellin/telefonos-empresa-terminal-medellin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-medellin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-neiva/telefonos-empresa-terminal-neiva</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-neiva</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-pasto/telefonos-empresa-terminal-pasto</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-pasto</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-pitalito/telefonos-empresa-terminal-pitalito</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-pitalito</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-popayan/telefonos-empresa-terminal-popayan</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-popayan</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-santa-marta/telefonos-empresa-terminal-santa-marta</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-santa-marta</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-valledupar/telefonos-empresa-terminal-valledupar</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-valledupar</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-villavicencio/telefonos-empresa-terminal-villavicencio</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-villavicencio</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminales-de-colombia</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/blog/seguro-o-inseguro-viajar-en-bus-colombia</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/pinbus-compra-pasajes-colombia</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/red-bus-colombia-reserva-viajes</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/viajar-en-bus-5-ventajas-inigualables</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/5-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/manizales-luce-su-terminal-de-transporte</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/conoce-bucaramanga-desde-su-terminal-de-transporte</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/cucuta-y-la-terminal-de-la-frontera-con-venezuela</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
 </urlset>
