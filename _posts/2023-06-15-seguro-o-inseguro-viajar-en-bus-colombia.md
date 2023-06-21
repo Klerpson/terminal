@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '¿Es seguro o inseguro viajar en bus en Colombia? 🚌'
+title: '¿Es seguro o inseguro viajar en bus por Colombia? 🚌'
 description: 'En Colombia, la seguridad en el transporte público es un tema importante a tener en cuenta. ¿Pero puede afectar la inseguridad tu próximo viaje en bus?'
 autor: terminaldetransporte.com
-h1: '¿Es seguro o inseguro viajar en bus en Colombia?'
+h1: '¿Es seguro o inseguro viajar en bus por Colombia?'
 h1_alternativo: 'Viajar en bus en Colombia, ¿es seguro o inseguro ?'
 award: 'Qué tan seguro es viajar por Colombia en bus'
 date: 2023-06-15
