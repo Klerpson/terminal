@@ -18,7 +18,7 @@ h2_2: Tiquetes en la terminal de Barranquilla
 p_1: "La terminal de Barranquilla está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
 empresa1: Berlina
 empresa2: Expreso Brasilia
-empresa3: Coopetrans
+empresa3: Copetrans
 empresa_img_1: terminales/terminal-barranquilla-berlina.webp
 empresa_img_2: terminales/terminal-barranquilla-brasilia.webp
 empresa_img_3: terminales/terminal-barranquilla-copetrans.webp

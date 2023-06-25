@@ -4,9 +4,13 @@ title: Terminales de transporte terrestre de Colombia
 description: La teminal de transporte de cada ciudad Colombiana la estamos incluyendo en esta página. Viaja 100% seguro de tener toda la información, datos y tiquetes.
 h1: Terminales de transporte Colombianas
 ---
+
 <section class="intro">
   <h2>¿Qué terminal de transporte colombiana necesitas?</h2>
-  <p>Busca las terminales de transporte por departamentos colombianos. Haz clic en el botón de la terminal y prepara tu próximo viaje.</p>
+  <p>
+    Busca las terminales de transporte por departamentos colombianos. Haz clic
+    en el botón de la terminal y prepara tu próximo viaje.
+  </p>
   <div>
     <a href="#antioquia" style="color: var(--principal)">Antioquia</a>
     <a href="#atlantico" style="color: var(--principal)">Atlántico</a>
@@ -31,236 +35,261 @@ h1: Terminales de transporte Colombianas
   <h2 id="antioquia">Terminales de Antioquia</h2>
   <section>
     <!-- ANTIOQUIA -->
-    {% for terminal in pages %}
-    {% if terminal.category == "antioquia" %}
+    {% for terminal in pages %} {% if terminal.category == "antioquia" %}
     <article>
       <a href="{{terminal.url}}">
-      {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a>
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
     </article>
 
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </section>
   <!-- ATLANTICO -->
   <h2 id="atlantico">Terminales de Atlántico</h2>
   <section>
-    {% for terminal in pages %}
-    {% if terminal.category == "atlantico" %}
+    {% for terminal in pages %} {% if terminal.category == "atlantico" %}
     <article>
       <a href="{{terminal.url}}">
-      {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a>
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
     </article>
 
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </section>
   <!-- BOLIVAR -->
   <h2 id="bolivar">Terminales de Bolivar</h2>
   <section>
-    {% for terminal in pages %}
-    {% if terminal.category == "bolivar" %}
+    {% for terminal in pages %} {% if terminal.category == "bolivar" %}
     <article>
       <a href="{{terminal.url}}">
-      {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a>
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
     </article>
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </section>
 
   {% include add3.html %}
-    <!-- CALDAS -->
-    <h2 id="caldas">Terminales de Caldas</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "caldas" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
+  <!-- CALDAS -->
+  <h2 id="caldas">Terminales de Caldas</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "caldas" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
 
   <!-- CAQUETA -->
   <h2 id="caqueta">Terminales de Caqueta</h2>
   <section>
-    {% for terminal in pages %}
-    {% if terminal.category == "caqueta" %}
+    {% for terminal in pages %} {% if terminal.category == "caqueta" %}
     <article>
       <a href="{{terminal.url}}">
-      {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a>
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
     </article>
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </section>
 
   <!-- CAUCA -->
   <h2 id="cauca">Terminales de Cauca</h2>
   <section>
-    {% for terminal in pages %}
-    {% if terminal.category == "cauca" %}
+    {% for terminal in pages %} {% if terminal.category == "cauca" %}
     <article>
       <a href="{{terminal.url}}">
-      {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a>
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
     </article>
 
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </section>
   <!-- CESAR -->
   <h2 id="cesar">Terminales de Cesar</h2>
   <section>
-    {% for terminal in pages %}
-    {% if terminal.category == "cesar" %}
+    {% for terminal in pages %} {% if terminal.category == "cesar" %}
     <article>
       <a href="{{terminal.url}}">
-      {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a>
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
     </article>
 
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </section>
-    <!-- CUNDINAMARCA -->
-    <h2 id="cundinamarca">Terminales de Cundinamarca</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "cundinamarca" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
-    <!-- HUILA -->
-    <h2 id="huila">Terminales de Huila</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "huila" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
-    <!-- MAGDALENA -->
-    <h2 id="magdalena">Terminales de Magdalena</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "magdalena" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
-    
-        {% include add1.html %}
-    <!-- META -->
-    <h2 id="meta">Terminales de Meta</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "meta" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
-    <!-- NARIÑO -->
-    <h2 id="narino">Terminales de Nariño</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "narino" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
-    <!-- NORTE DE SANTANDER -->
-    <h2 id="norte-santander">Terminales de Norte de Santander</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "norte-santander" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
-    <!-- SANTANDER -->
-    <h2 id="santander">Terminales de Santander</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "santander" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
-    <!-- VALLE DEL CAUCA -->
-    <h2 id="valle-cauca">Terminales del Valle del Cauca</h2>
-    <section>
-      {% for terminal in pages %}
-      {% if terminal.category == "valle-cauca" %}
-      <article>
-        <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb webpm=terminal.webpm webps=terminal.webps %}
-          <h3>{{terminal.title}}</h3></a>
-      </article>
-      {% endif %}
-      {% endfor %}
-    </section>
-{% include add2.html %}
+  <!-- CUNDINAMARCA -->
+  <h2 id="cundinamarca">Terminales de Cundinamarca</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "cundinamarca" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- HUILA -->
+  <h2 id="huila">Terminales de Huila</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "huila" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- MAGDALENA -->
+  <h2 id="magdalena">Terminales de Magdalena</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "magdalena" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
 
+  {% include add1.html %}
+  <!-- META -->
+  <h2 id="meta">Terminales de Meta</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "meta" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- NARIÑO -->
+  <h2 id="narino">Terminales de Nariño</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "narino" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- NORTE DE SANTANDER -->
+  <h2 id="norte-santander">Terminales de Norte de Santander</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "norte-santander" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- SANTANDER -->
+  <h2 id="santander">Terminales de Santander</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "santander" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- VALLE DEL CAUCA -->
+  <h2 id="valle-cauca">Terminales del Valle del Cauca</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "valle-cauca" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  {% include add2.html %}
 </main>
 
-<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
-<section class="conclusion">
-<h2>La terminal de transporte es tu guía segura para viajar por Colombia</h2>
-<ul>
-  <li>
-    <span>01</span>
-    <h3>Fuentes confiables</h3>
-    <p><span class="destacado">Las páginas web de las terminales de transporte</span> son nuestra fuente directa de información.</p>
-  </li>
-  <li>
-    <span>02</span>
-    <h3>Datos actualizados</h3>
-    <p>Estamos al tanto de los últimos cambios para que puedas planear tu viaje con la útlima información disponible.</p>
-  </li>
-  <li>
-    <span>03</span>
-    <h3><a href="{{'blog'|relative_url}}">Consejo útiles</a> para viajar</h3>
-    <p>Viaja de forma segura y confiable por las terminales del país siguiendo los consejos de nuestro magazine.</p>
-  </li>
-</ul>
-<div>
-  <h2>¿Viajas constantemente por Colombia?</h2>
-  <p><span class="destacado">Suscríbete a nuestro magazine</span> para recibas consejos sobre cómo viajar con seguridad, tranquilidad y con los mejores tips de los más expertos.<br><a href="#">Suscribirme</a></p>
+<div style="height: 150px; overflow: hidden">
+  <svg
+    viewBox="0 0 500 150"
+    preserveAspectRatio="none"
+    style="height: 100%; width: 100%"
+  >
+    <path
+      d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z"
+      style="stroke: none; fill: #9dc5bb"
+    ></path>
+  </svg>
 </div>
+<section class="conclusion">
+  <h2>La terminal de transporte es tu guía segura para viajar por Colombia</h2>
+  <ul>
+    <li>
+      <span>01</span>
+      <h3>Fuentes confiables</h3>
+      <p>
+        <span class="destacado"
+          >Las páginas web de las terminales de transporte</span
+        >
+        son nuestra fuente directa de información.
+      </p>
+    </li>
+    <li>
+      <span>02</span>
+      <h3>Datos actualizados</h3>
+      <p>
+        Estamos al tanto de los últimos cambios para que puedas planear tu viaje
+        con la útlima información disponible.
+      </p>
+    </li>
+    <li>
+      <span>03</span>
+      <h3><a href="{{'blog'|relative_url}}">Consejo útiles</a> para viajar</h3>
+      <p>
+        Viaja de forma segura y confiable por las terminales del país siguiendo
+        los consejos de nuestro magazine.
+      </p>
+    </li>
+  </ul>
+  <div>
+    <h2>¿Viajas constantemente por Colombia?</h2>
+    <p>
+      <span class="destacado">Suscríbete a nuestro magazine</span> para recibas
+      consejos sobre cómo viajar con seguridad, tranquilidad y con los mejores
+      tips de los más expertos.<br /><a href="#">Suscribirme</a>
+    </p>
+  </div>
 </section>
 
 {% include footer.html %}

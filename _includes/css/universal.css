@@ -1,25 +1,20 @@
 :root {
-
   /*** COLORES ***/
   --principal: #008a30;
   --accion: #fdeb05;
   --secundario: #082D0F;
   --complemento1: #9dc5bb;
   --complemento2: #DEE5E5;
-
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
   --grisFuentes: #111413;
-
   /*** FUENTES ***/
   --fuenteTitulos: 'Sarala', sans-serif;
   --fuenteTexto: 'Trykker', serif;
-
   /* BORDERS */
   --radius: 12px;
-
   /* SOMBRA */
   --shadow: 0 2px 8px rgba(22, 22, 22, .3);
 }
@@ -34,7 +29,7 @@
 
 html {
   scroll-behavior: smooth;
-  line-height: 1.5;
+  line-height: 1.6;
   -webkit-text-size-adjust: 100%;
   font-size: calc(15px + 0.390625vw)
 }
@@ -53,6 +48,7 @@ h4 {
   text-transform: initial;
   line-height: 1.2;
   margin: 1.2em 0;
+  letter-spacing: -0.9px;
 }
 
 h1 {
@@ -70,9 +66,8 @@ h3 {
 
 p, .post-content li {
   word-wrap: break-word;
-  font-size: 1rem;
-  letter-spacing: -0.6px;
-  margin: .8em 0;
+  margin-top: .8em;
+  font-weight: 400;
 }
 
 pre {
@@ -101,7 +96,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bolder;
+  font-weight: 900;
 }
 
 small {

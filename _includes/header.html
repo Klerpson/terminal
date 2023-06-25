@@ -78,7 +78,9 @@
     <a href="{{site.baseurl}}/terminales-de-colombia" title="Terminales de Colombia">Ver todas</a>
   </div>
   {% include gallery.html %}
-  {% else %}
+  {% elsif page.layout == "terminal" %}
+  {% include img.html webps=page.webps webpm=page.webpm webpb=page.webpb hero=page.hero alt=page.alt %}
+  
 </div>
   {% endif %}
   {% endif %}

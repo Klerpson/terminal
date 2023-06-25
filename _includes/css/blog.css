@@ -211,7 +211,7 @@
   margin-bottom: 4rem;
 }
 
-.post-content a{
+.post-content a:not(.botones){
   color: var(--principal);
 }
 

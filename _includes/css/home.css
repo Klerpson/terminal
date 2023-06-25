@@ -130,6 +130,11 @@ header .title a {
   font-size: .8rem;
 }
 
+header img{
+  max-width: 100%;
+  border-radius: var(--radius);
+}
+
 .intro{
   border-radius: 32px;
 background: var(--complemento1);
