@@ -214,8 +214,9 @@ SVG Icons - svgicons.sparkk.fr
   text-align: center;
   font-weight: 700;
   box-shadow: var(--shadow);
-  margin: 1rem auto;
   transition: all .2s ease-in;
+  margin-inline: auto;
+  margin-top: .5em;
 }
 
 .boton-verde {

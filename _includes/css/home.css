@@ -176,6 +176,7 @@ gap: 1.5rem;
 .tiquetes div{
   display: grid;
   gap: 2rem;
+  place-items: center;
   width: min(100%, 480px);
 }
 
