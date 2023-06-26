@@ -217,6 +217,7 @@ SVG Icons - svgicons.sparkk.fr
   transition: all .2s ease-in;
   margin-inline: auto;
   margin-top: .5em;
+  cursor: pointer;
 }
 
 .boton-verde {
