@@ -158,7 +158,6 @@
 }
 
 .terminal_intro {
-  width: 100%;
   padding: 4rem 3rem;
   background-color: rgba(157, 197, 187, .5);
   text-align: center;
@@ -166,10 +165,10 @@
 }
 
 .terminal_empresas{
-  width: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 2rem clamp(0.5rem, 32px, 2rem);
+  justify-content: center;
 
   & h3{
     margin: 0;
@@ -241,8 +240,6 @@
 }
 
 .terminal-info{
-  width: 100%;
-  padding: 5rem 16px 0;
   border-top: var(--gris1) 1px dotted;
 }
 

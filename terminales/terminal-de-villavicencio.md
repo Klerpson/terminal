@@ -1,7 +1,7 @@
 ---
 layout: terminal
 title: Terminal de Villavicencio
-description: La Terminal de Villavicencio es el punto de partida para explorar una de las regiones más hermosas de Colombia. Con una ubicación estratégica en el corazón de la ciudad, esta moderna terminal de transporte es el punto de encuentro para los viajeros que buscan comodidad, seguridad y eficiencia en sus viajes.
+description: La Terminal de Villavicencio es el punto de partida para explorar una de las regiones más hermosas de Colombia. ¡Conócelo! Te damos todos sus datos
 category: meta
 tags: terminal
 h1: La terminal de transporte Villavicencio

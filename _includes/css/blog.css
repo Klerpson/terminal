@@ -94,28 +94,6 @@
 
 
 /******** toc ********/
-#markdown-toc a{
-  color: var(--secundario);
-  font-size: .8rem;
-}
-
-#markdown-toc::before {
-  content: "Accesos rápidos";
-  font-weight: bold;
-}
-
-#markdown-toc li{
-  list-style: none;
-  font-weight: 700;
-}
-
-#markdown-toc li::marker{
-  content: "⇾ ";
-}
-
-#markdown-toc li ul{
-  margin-left: 1rem;
-}
 
 #markdown-toc {
   background-color: var(--complemento2);
@@ -123,6 +101,30 @@
   display: inline-block;
   margin: 2em 0;
   border-radius: var(--radius);
+}
+
+#markdown-toc::before {
+  content: "Accesos rápidos";
+  font-weight: bold;
+}
+
+#markdown-toc a{
+  color: var(--secundario);
+  font-size: .8rem;
+}
+
+#markdown-toc ul{
+  margin-left: 1rem;
+}
+
+#markdown-toc li{
+  list-style: none;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+#markdown-toc li::marker{
+  content: "⇾ ";
 }
 
 /******* SECCIÓN DEL ARTÍCULO DE CADA POST *******/

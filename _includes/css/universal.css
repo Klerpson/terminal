@@ -165,6 +165,7 @@ header,
 .terminales,
 .terminal,
 .terminal_content,
+.terminal-info,
 .blog-main,
 .contacto {
   width: min(90vw, 1200px);

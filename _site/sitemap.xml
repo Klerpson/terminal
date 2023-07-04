@@ -315,6 +315,22 @@
   
   
       <url>
+        <loc>http://localhost:4000/terminal-de-tunja/telefonos-empresa-terminal-tunja</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/terminal-de-tunja</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>http://localhost:4000/terminal-de-valledupar/telefonos-empresa-terminal-valledupar</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -357,6 +373,12 @@
   
   
   
+  
+      <url>
+        <loc>http://localhost:4000/blog/transportes-omega-comodidad-seguridad</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
   
       <url>
         <loc>http://localhost:4000/blog/expreso-brasilia-viajar-comodamente-por-colombia</loc>

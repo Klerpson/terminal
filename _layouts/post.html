@@ -46,10 +46,31 @@ layout: default
 <section class="conclusion">
   <div>
     <h2>¿Te gustaría obtener la mejor guía de viajes por Colombia?</h2>
-    <p>Planea tus próximos viajes y <span class="destacado">disfrútalos seguro y tranquilo</span>. Haz clic en el enlace para comprarla: <a href="https://go.hotmart.com/M80153395U" class="botones boton-amarillo">"Guía Turística de Colombia"</a></p>
+    <p>Planea tus próximos viajes y <span class="destacado">disfrútalos seguro y tranquilo</span>. Haz clic en el enlace para comprarla: <a href="https://go.hotmart.com/M80153395U" class="botones boton-amarillo">"Planea tu viaje por Colombia"</a></p>
   </div>
 </section>
 
 <a href="#">{% include boton-up.html %}</a>
 
 {% include footer.html %}
+<!-- 
+<script async>
+  const navToggle = document.querySelector("#markdown-toc");
+  const navMenu = document.querySelector("#markdown-toc li ul");
+  const body = document.querySelector("body");
+
+  navToggle.addEventListener("click", (e) => {
+    e.stopPropagation();
+    navMenu.classList.toggle("change");
+
+    if (navMenu.classList.contains("change")) {
+      navToggle.setAttribute("aria-label", "Cerrar menú");
+    } else {
+      navToggle.setAttribute("aria-label", "Abrir menú");
+    }
+  });
+
+  body.addEventListener("click", () => {
+    navMenu.classList.remove("change");
+  });
+</script> -->

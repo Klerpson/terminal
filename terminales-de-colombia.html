@@ -15,6 +15,7 @@ h1: Terminales de transporte Colombianas
     <a href="#antioquia" style="color: var(--principal)">Antioquia</a>
     <a href="#atlantico" style="color: var(--principal)">Atlántico</a>
     <a href="#bolivar" style="color: var(--principal)">Bolivar</a>
+    <a href="#boyaca" style="color: var(--principal)">Boyacá</a>
     <a href="#caldas" style="color: var(--principal)">Caldas</a>
     <a href="#caqueta" style="color: var(--principal)">Caqueta</a>
     <a href="#cauca" style="color: var(--principal)">Cauca</a>
@@ -64,6 +65,19 @@ h1: Terminales de transporte Colombianas
   <h2 id="bolivar">Terminales de Bolivar</h2>
   <section>
     {% for terminal in pages %} {% if terminal.category == "bolivar" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- Boyacá -->
+  <h2 id="boyaca">Terminales de Boyacá</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "boyaca" %}
     <article>
       <a href="{{terminal.url}}">
         {% include img.html hero=terminal.hero webpb=terminal.webpb
