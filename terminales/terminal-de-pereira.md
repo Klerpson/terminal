@@ -28,7 +28,7 @@ empresa2_telf: 3204738456
 empresa3_telf: 6063202605
 contacto: https://www.terminalpereira.com/ttp/contactenos/
 pdf: telefonos-empresa-terminal-pereira
-iframe: '<<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15903.247734632163!2d-75.6939329!3d4.8023218!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e38876a8a59ee67%3A0x4ae1d6ff11d60821!2sTerminal%20de%20Transporte%20de%20Pereira!5e0!3m2!1ses-419!2sco!4v1688511815610!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15903.247734632163!2d-75.6939329!3d4.8023218!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e38876a8a59ee67%3A0x4ae1d6ff11d60821!2sTerminal%20de%20Transporte%20de%20Pereira!5e0!3m2!1ses-419!2sco!4v1688511815610!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Calle 17 N° 23-157"
 telefono: 6063152321
