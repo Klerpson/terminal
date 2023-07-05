@@ -15,7 +15,7 @@ webp1: terminales/terminal-popayan-exterior-600.webp
 webp2: terminales/terminal-popayan-exterior-376.webp
 h2_1: Teléfono de la terminal de Popayán y otros datos
 h2_2: Compra tus tiquetes en la terminal de Popayán
-p_1: "Si vives en el Cauca y deseas trasladarte a otro destino colombiano, no dudes en hacerlo con las empresas de transporte que se encuentran allí."
+p_1: "Encuentra los números de teléfono, dirección, empresas de buses, rutas, correos y todo lo que puedas serte útil en la terminal de transporte de Popayán."
 empresa1: Expreso Bolivariano
 empresa2: Flota Magdalena
 empresa3: Expreso Palmira

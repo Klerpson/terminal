@@ -26,6 +26,7 @@ h1: Terminales de transporte Colombianas
     <a href="#meta" style="color: var(--principal)">Meta</a>
     <a href="#narino" style="color: var(--principal)">Nariño</a>
     <a href="#norte-santander" style="color: var(--principal)">Norte de Santander</a>
+    <a href="#risaralda" style="color: var(--principal)">Risaralda</a>
     <a href="#santander" style="color: var(--principal)">Santander</a>
     <a href="#valle-cauca" style="color: var(--principal)">Valle del Cauca</a>
   </div>
@@ -216,6 +217,19 @@ h1: Terminales de transporte Colombianas
   <h2 id="norte-santander">Terminales de Norte de Santander</h2>
   <section>
     {% for terminal in pages %} {% if terminal.category == "norte-santander" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- Risaralda -->
+  <h2 id="santander">Terminales de Risaralda</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "risaralda" %}
     <article>
       <a href="{{terminal.url}}">
         {% include img.html hero=terminal.hero webpb=terminal.webpb

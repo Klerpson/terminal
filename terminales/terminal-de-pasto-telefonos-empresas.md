@@ -2,7 +2,7 @@
 layout: telefonos
 title: Empresas de la terminal de transporte de Pasto
 description: Aquí encontrarás los números de teléfono de las empresas de la Terminal de Transporte de Pasto. Obtén información rápida y fácil. Descarga la lista gratis!
-h1: Télefonos de las empresas de buses de la terminal de Pasto
+h1: Teléfonos de las empresas de buses de la terminal de Pasto
 pdf: pdf-terminal-pasto.pdf
 permalink: terminal-de-pasto/telefonos-empresa-terminal-pasto
 ---
