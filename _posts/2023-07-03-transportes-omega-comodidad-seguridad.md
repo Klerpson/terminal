@@ -99,13 +99,13 @@ Omega Ltda es una empresa de transporte terrestre intermunicipal que opera en 14
 
 Dentro de estas regiones, ofrece sus servicios en principales ciudades como:
 
-* [Medellín]({{'teminal-de-medellin'|relative_url}} "Terminales de Medellín")
-* [Cali]({{'teminal-de-cali'|relative_url}} "Terminal de Cali")
-* [Bogotá]({{'teminal-de-bogota'|relative_url}} "Terminales de Bogotá")
-* [Valledupar]({{'teminal-de-valledupar'|relative_url}} "Terminal de Valledupar")
-* [Pereira]({{'teminal-de-pereira'|relative_url}} "Terminal de Pereira")
-* [Bucaramanga]({{'teminal-de-bucaramanga'|relative_url}} "Terminal de Bucaramanga")
-* [Tunja]({{'teminal-de-tunja'|relative_url}} "Terminal de Tunja")
+* [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín")
+* [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali")
+* [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminales de Bogotá")
+* [Valledupar]({{'terminal-de-valledupar'|relative_url}} "Terminal de Valledupar")
+* [Pereira]({{'terminal-de-pereira'|relative_url}} "Terminal de Pereira")
+* [Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}} "Terminal de Bucaramanga")
+* [Tunja]({{'terminal-de-tunja'|relative_url}} "Terminal de Tunja")
 
 Además, cuenta con otras agencias en diferentes ciudades para una cobertura más amplia y accesible para los usuarios de Omega.
 
