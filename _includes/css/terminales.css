@@ -111,6 +111,7 @@
 
 .terminal_datos img{
   width: min(100%, 580px);
+  border-radius: var(--radius);
 }
 
 .terminal_datos div{
@@ -239,12 +240,8 @@
   background-color: var(--complemento1);
 }
 
-.terminal-info{
-  border-top: var(--gris1) 1px dotted;
-}
-
 .terminal-info div{
-  width: min(100%, 992px);
+  width: min(100%, 1200px);
   margin-inline: auto;
 }
 

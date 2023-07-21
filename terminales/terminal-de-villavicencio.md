@@ -28,19 +28,19 @@ empresa2_telf: 6014249090
 empresa3_telf: 6014212256
 contacto: https://ttvillavo.co/contacto/
 pdf: telefonos-empresa-terminal-villavicencio
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2813.8922828255536!2d-73.60498287795224!3d4.132585672155224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3e2e87b3e148e9%3A0x85b4d8b4e509c14a!2sTerminal%20de%20Transportes%20de%20Villavicencio!5e0!3m2!1ses!2sco!4v1677246006629!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.4445128652123!2d-73.6037058!3d4.1326089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3e2e87b27f3c3d%3A0xc534aaf798076eb8!2sTerminal%20De%20Transportes%20De%20Villavicencio%2C%20Villavicencio%2C%20Meta!5e0!3m2!1ses-419!2sco!4v1689936889733!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: 'Cra. 1 # 15 - 05 Anillo Vial'
 telefono: 6086606535
 email: info@ttvillavo.co
-maps: https://goo.gl/maps/Minjo84kGL8Zx6MQ6
-ciudad: Santa Marta
-depto: Magdalena
-postal: 470005
-calificacion: 3.7
-reviews: 180
-latitude: 11.2354608
-longitude: -74.2145498
+maps: https://goo.gl/maps/FKhwWei9UiwENVG16
+ciudad: Villavicencio
+depto: Meta
+postal: 500001
+calificacion: 4.1
+reviews: 4019
+latitude: 4.1321
+longitude: -73.6074057
 permalink: /terminal-de-villavicencio
 ---
 ## Terminal de buses de Villavicencio

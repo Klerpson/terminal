@@ -4,34 +4,8 @@ title: Terminales de transporte terrestre de Colombia
 description: La terminal de transporte de cada ciudad Colombiana la estamos incluyendo en esta página. Viaja 100% seguro de tener toda la información, datos y tiquetes.
 h1: Terminales de transporte Colombianas
 permalink: /terminales-de-colombia
+noindex: true
 ---
-
-<section class="intro">
-  <h2>¿Qué terminal de transporte colombiana necesitas?</h2>
-  <p>
-    Busca las terminales de transporte por departamentos colombianos. Haz clic
-    en el botón de la terminal y prepara tu próximo viaje.
-  </p>
-  <div>
-    <a href="#antioquia" style="color: var(--principal)">Antioquia</a>
-    <a href="#atlantico" style="color: var(--principal)">Atlántico</a>
-    <a href="#bolivar" style="color: var(--principal)">Bolivar</a>
-    <a href="#boyaca" style="color: var(--principal)">Boyacá</a>
-    <a href="#caldas" style="color: var(--principal)">Caldas</a>
-    <a href="#caqueta" style="color: var(--principal)">Caqueta</a>
-    <a href="#cauca" style="color: var(--principal)">Cauca</a>
-    <a href="#cesar" style="color: var(--principal)">Cesar</a>
-    <a href="#cundinamarca" style="color: var(--principal)">Cundinamarca</a>
-    <a href="#huila" style="color: var(--principal)">Huila </a>
-    <a href="#magdalena" style="color: var(--principal)">Magdalena</a>
-    <a href="#meta" style="color: var(--principal)">Meta</a>
-    <a href="#narino" style="color: var(--principal)">Nariño</a>
-    <a href="#norte-santander" style="color: var(--principal)">Norte de Santander</a>
-    <a href="#risaralda" style="color: var(--principal)">Risaralda</a>
-    <a href="#santander" style="color: var(--principal)">Santander</a>
-    <a href="#valle-cauca" style="color: var(--principal)">Valle del Cauca</a>
-  </div>
-</section>
 
 {% assign pages = site.pages | where: "layout", "terminal" %}
 <main class="terminales">
@@ -133,6 +107,21 @@ permalink: /terminales-de-colombia
 
     {% endif %} {% endfor %}
   </section>
+  <!-- CASANARE -->
+  <h2 id="casanare">Terminales de Casanare</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "casanare" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+
+    {% endif %} {% endfor %}
+  </section>
+
   <!-- CESAR -->
   <h2 id="cesar">Terminales de Cesar</h2>
   <section>
