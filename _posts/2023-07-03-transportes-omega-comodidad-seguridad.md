@@ -16,6 +16,8 @@ webpb: blog/transportes-omega-800.webp
 alt: Expreso Bolivariano Bus
 json-post: true
 permalink: blog/transportes-omega-comodidad-seguridad
+referencias:
+  - Imágenes tomadas de la página web oficial: https://www.expresobrasilia.com/
 excerpt_separator: <!-- excerpt -->
 ---
 **Transportes Omega es una empresa de transporte terrestre intermunicipal** que destaca por su comodidad y seguridad en sus servicios. Con más de **300 buses** y **70 agencias**, cubre **14 departamentos** del país.
