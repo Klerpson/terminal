@@ -363,6 +363,14 @@
   
   
       <url>
+        <loc>http://localhost:4000/terminal-de-villavicencio</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>http://localhost:4000/terminal-de-villavicencio/telefonos-empresa-terminal-villavicencio</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -391,7 +399,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/blog/eia</loc>
+        <loc>http://localhost:4000/blog/expreso-palmira</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
