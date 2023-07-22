@@ -258,6 +258,15 @@
   margin-left: 2rem;
 }
 
+.terminal-info img{
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  width: min(100%, 800px);
+  display: block;
+  margin-inline: auto;
+  margin-bottom: 1em;
+}
+
 .terminal-info blockquote{
   border-radius: 12px;
   box-shadow: var(--shadow);

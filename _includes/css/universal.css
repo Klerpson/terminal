@@ -151,6 +151,23 @@ select {
   text-transform: none;
 }
 
+ol{
+  margin-top: 1em;
+}
+
+ol li{
+  list-style: decimal;
+  margin-left: 2em;
+}
+
+ol li::marker{
+  padding: 4px;
+  border-radius: 50%;
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: var(--principal);
+}
+
 li {
   list-style: none;
   /* margin: .5em 0; */
@@ -222,7 +239,7 @@ SVG Icons - svgicons.sparkk.fr
 }
 
 .boton-verde {
-  color: white;
+  color: white !important;
   background-color: var(--principal);
   box-shadow: 0 2px 8px rgba(245, 245, 245, .3);
 }
