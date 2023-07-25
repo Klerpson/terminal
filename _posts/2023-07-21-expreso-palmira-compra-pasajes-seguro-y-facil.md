@@ -45,7 +45,7 @@ Los viajeros pueden elegir entre una amplia variedad de horarios, con opciones q
 
 ### Principales terminales de transporte de Expreso Palmira en Colombia
 
-Expreso Palmira opera en varias [terminales de transporte en las principales ciudades del país]({{'terminales-de-colombias'|relative_url}} "Terminales de Colombia") para facilitar el acceso a los viajeros a su amplia red de rutas de transporte.
+Expreso Palmira opera en varias [terminales de transporte en las principales ciudades del país]({{'terminales-de-colombia'|relative_url}} "Terminales de Colombia") para facilitar el acceso a los viajeros a su amplia red de rutas de transporte.
 
 Algunas de las principales terminales donde opera la empresa son:
 
