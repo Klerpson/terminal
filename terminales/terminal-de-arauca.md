@@ -1,13 +1,13 @@
 ---
 layout: terminal
-title:  "Todo Sobre la Terminal de Transporte de Arauca: Servicios, Rutas y Más"
+title:  "La Terminal de Transporte de Arauca: Servicios, Rutas y Más"
 description: "Conoce la Terminal de Transporte de Arauca: Encuentra información sobre servicios, rutas y horarios. ¡Planifica tu viaje hoy!"
-category: Arauca   
-h1: "Haz de tu Viaje una Experiencia Inolvidable con la Terminal de Transporte de Arauca"
-h2_1: Terminal de Arauca  - Teléfono y otros datos
+category: arauca
+h1: "Haz de tu viaje una experiencia inolvidable: Terminal de Transporte de Arauca"
+h2_1: Terminal de Arauca - Teléfono y otros datos
 h2_2: Tiquetes de las empresas de la terminal de Arauca 
-introducción: La Terminal de Transporte de Arauca es el principal punto de conexión para viajeros en Arauca, ofreciendo diversas rutas y servicios de calidad
-empresa1: Coflonorte
+p_1: La Terminal de Transporte de Arauca es el principal punto de conexión para viajeros en Arauca, ofreciendo diversas rutas y servicios de calidad
+empresa1: Coflonorte - Libertadores
 empresa2: Flota Sugamuxi
 empresa3: Expreso Brasilia
 empresa1_telf: 6078853195
@@ -33,94 +33,70 @@ webps: terminales/terminal-arauca-376.webp
 webpm: terminales/terminal-arauca-600.webp
 webpb: terminales/terminal-arauca-800.webp
 alt: Terminal de Aguachica
-webp1: terminales/terminal-arauca-cesar-600.webp
-webp2: terminales/terminal-arauca-cesar-376.webp
-empresa_img_1: terminales/terminal-arauca-cotaxi.webp
-empresa_img_2: terminales/terminal-barranquilla-brasilia.webp
-empresa_img_3: terminales/terminal-barranquilla-copetrans.webp
+webp1: terminales/terminal-arauca-arauca-600.webp
+webp2: terminales/terminal-arauca-arauca-376.webp
+empresa_img_1: terminales/terminal-arauca-coflonorte.webp
+empresa_img_2: terminales/terminal-arauca-flota-sugamuxi.webp
+empresa_img_3: terminales/terminal-arauca-brasilia.webp
 pdf: telefonos-empresa-terminal-arauca
 json-terminal: true
 permalink: /terminal-de-arauca
 ---
-## La terminal de transporte de Aguachica
+## Ubicación y cómo llegar a la Terminal de Arauca
 
-¡Hola, aventureros! Hoy nos vamos a **Aguachica**, un hermoso rincón de Colombia que no puedes dejar de visitar. Pero primero, es esencial que conozcamos su puerta de entrada, la **Terminal de Aguachica**.
+{% include add1.html %}
 
-En la Terminal de Aguachica podrás ver cómo se entrelazan las vidas de los lugareños y los viajeros, creando un mosaico de historias y experiencias.
+La Terminal de Transporte de Arauca se encuentra ubicada en el **kilómetro 1 de la vía Caño Limón**, frente al aeropuerto Santiago Pérez.
 
-Además, es uno de los centros de transporte más eficientes y seguros del país. Aquí, cada detalle está diseñado para garantizar que tu viaje sea una experiencia inolvidable.
+Para llegar a la terminal, puedes **tomar un taxi desde el Hospital de Arauca o uno de los buses que vienen de Guasdualito** y terminan su ruta en la terminal.
 
-### Ubicación de la Terminal de Aguachica
+## Servicios de la Terminal de transporte de Arauca
 
-{% include cta-hotmart1.html %}
+La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se encuentran:
 
-Nuestra primera parada en este viaje es **la ubicación de la Terminal de Aguachica**. Situada en el corazón de la ciudad, es un punto de fácil acceso desde cualquier lugar. Y para hacerlo aún más conveniente, encontrarás una variedad de servicios y comodidades en sus alrededores.
+- **Servicio de taxis fuera de la terminal**: Estos taxis son colombianos y ofrecen servicio de transporte hacia la ciudad de Arauca, ubicada a 10 minutos al norte de la terminal.
+- **Servicio de transporte público hacia Arauca y ciudades de Venezuela**: busetas de transporte público que se dirigen hacia la ciudad de Arauca, aproximadamente a 10 minutos del terminal. También hay algunos buses que van rumbo a Guasdualito en Venezuela pero que en su recorrido paran en Arauca.
+- **Punto de información**.
+- Cómoda **sala de espera**.
+- Servicio de **vigilancia privada** las 24 horas.
 
-### Importancia de la Terminal de Aguachica
+## Empresas de Transporte en la Terminal de Arauca
 
-La Terminal de Aguachica ha sido testigo de los cambios y crecimiento de la ciudad. Su papel ha sido vital en el desarrollo y evolución de Aguachica.
+La Terminal de Arauca cuenta con la presencia de varias empresas de transporte de pasajeros que ofrecen sus servicios en la región nororiente del país. Algunas de ellas son:
 
-No podemos subestimar **la importancia de la Terminal de Aguachica**. Es el pilar del transporte en la ciudad, [conectando a Aguachica con el resto del país]({{'terminales-de-colombia'|relative_url}}). Es más que un punto de tránsito, es parte de la vida de la ciudad.
-
------
-
-## Compañías de autobuses en la Terminal de Aguachica
-
-¿Te preguntas **qué compañías de autobuses operan en la Terminal de Aguachica**? Aquí te lo contamos. Haz clic en el siguiente botón y escoge la empresa que más te gusta:
+- Coflonorte – Libertadores
+- Flota Sugamuxi
+- [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %})
+- Cotranal
+- Berlinas Del Fonce
+- Empresa Arauca
+- Copetran
+- Cooptratam
 
 [Empresas de la terminal de Aguachica]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
-No te preocupes por los horarios. En la Terminal de Aguachica, los autobuses funcionan durante todo el día. Puedes planificar tu viaje con facilidad, sabiendo que siempre habrá un autobús listo para llevarte a tu destino.
+----
 
-No importa a dónde quieras ir, la Terminal de Aguachica tiene una ruta para ti. Viaja a otras ciudades de Colombia o explora los alrededores de Aguachica, la elección es tuya.
+## Preguntas Frecuentes sobre la Terminal de Arauca
 
------
+{% include add2.html %}
 
-## Servicios ofrecidos en la Terminal de Aguachica
+### ¿Con cuánto tiempo debo presentarme en la terminal antes de mi viaje?
 
-¡Es hora de explorar **los servicios que nos ofrece la Terminal de Aguachica**!
+Se recomienda que **llegues entre 30 y 45 minutos antes de tu viaje** para que la empresa de transportes pueda hacer la recepción de tu equipaje y puedas abordar el bus con tiempo suficiente para evitar retrasos en la ruta.
 
-### Transporte público en la Terminal de Aguachica
+### ¿Puedo viajar si perdí mi documento de identidad?
 
-Aquí encontrarás **buses** que te llevarán a todos los rincones de la ciudad y más allá. Desde temprano en la mañana hasta tarde en la noche, los buses están listos para llevarte a donde necesites.
+Para viajar dentro de Colombia es necesario que portes tu cédula de ciudadanía o cualquier otro documento oficial que avale tu identidad.
 
-### Comodidades de la Terminal de Aguachica
+### ¿Puedo hacer cambios en mi tiquete después de comprarlo?
 
-Además de transporte, la Terminal de Aguachica ofrece una serie de comodidades. Podrás disfrutar de una **comida en uno de los restaurantes, o quizás prefieras tomar un café** mientras esperas tu autobús.
+Es necesario que te **acerques a la taquilla de la empresa de transportes donde compraste tu tiquete**, ellos te informarán qué debes hacer para poder cambiar tu pasaje. Haz el cambio por lo menos **24 horas antes** del horario indicado de tu viaje.
 
-### Seguridad en la Terminal de Aguachica
+### ¿Puedo tomar el bus en algún otro punto fuera de la terminal?
 
-Y lo más importante, la Terminal de Aguachica está comprometida con la seguridad de todos los viajeros. Con un equipo de seguridad altamente capacitado, puedes estar seguro de que tu viaje será tranquilo y seguro.
+Debes abordar el bus desde la terminal de transportes, con esto aseguras tu lugar dentro del bus y también tienes la tranquilidad de que la tarifa que te están cobrando es la oficial. **Evita el comercio informal y compra tus tiquetes en la terminal** con tiempo de anticipación.
 
------
+### ¿Cómo puedo expresar una queja, sugerencia o reclamo en el terminal de Arauca?
 
-## Preguntas frecuentes
-
-{% include cta-hotmart1.html %}
-
-### ¿Cómo llegar a la Terminal de Aguachica?
-
-Fácil, solo debes tomar un bus o un taxi. La Terminal está en el centro de la ciudad.
-
-### ¿Qué horarios tienen los autobuses?
-
-Funcionan todo el día. Los horarios son flexibles.
-
-### ¿Qué servicios se encuentran en la Terminal?
-
-Restaurantes, tiendas, zona de descanso, entre otros.
-
-### ¿Es segura la Terminal de Aguachica?
-
-Sí, cuenta con un equipo de seguridad profesional.
-
-### ¿Qué compañías operan en la Terminal?
-
-Varias compañías ofrecen rutas a diferentes destinos.
-
------
-
-## Planifica tu viaje desde la Terminal de Aguachica
-
-Ahora que conoces todos los detalles de la Terminal de Aguachica, es hora de planificar tu viaje. Y recuerda, cada viaje comienza con un solo paso, así que, ¿por qué no hacer de ese primer paso una experiencia memorable? ¡Embárcate en tu aventura en la Terminal de Aguachica hoy mismo!
-
+Para quejas y reclamos es importante que te comuniques directamente con la empresa de transporte de pasajeros que te está ofreciendo el servicio.

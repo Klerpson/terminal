@@ -37,6 +37,20 @@ noindex: true
 
     {% endif %} {% endfor %}
   </section>
+  <!-- ARAUCA -->
+  <h2 id="arauca">Terminales de Arauca</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "arauca" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a
+      >
+    </article>
+
+    {% endif %} {% endfor %}
+  </section>
   <!-- BOLIVAR -->
   <h2 id="bolivar">Terminales de Bolivar</h2>
   <section>

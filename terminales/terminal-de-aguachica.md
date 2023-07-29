@@ -44,6 +44,8 @@ permalink: /terminal-de-aguachica
 ---
 ## La terminal de transporte de Aguachica
 
+{% include add1.html %}
+
 ¡Hola, aventureros! Hoy nos vamos a **Aguachica**, un hermoso rincón de Colombia que no puedes dejar de visitar. Pero primero, es esencial que conozcamos su puerta de entrada, la **Terminal de Aguachica**.
 
 En la Terminal de Aguachica podrás ver cómo se entrelazan las vidas de los lugareños y los viajeros, creando un mosaico de historias y experiencias.
@@ -51,8 +53,6 @@ En la Terminal de Aguachica podrás ver cómo se entrelazan las vidas de los lug
 Además, es uno de los centros de transporte más eficientes y seguros del país. Aquí, cada detalle está diseñado para garantizar que tu viaje sea una experiencia inolvidable.
 
 ### Ubicación de la Terminal de Aguachica
-
-{% include cta-hotmart1.html %}
 
 Nuestra primera parada en este viaje es **la ubicación de la Terminal de Aguachica**. Situada en el corazón de la ciudad, es un punto de fácil acceso desde cualquier lugar. Y para hacerlo aún más conveniente, encontrarás una variedad de servicios y comodidades en sus alrededores.
 
@@ -65,6 +65,8 @@ No podemos subestimar **la importancia de la Terminal de Aguachica**. Es el pila
 -----
 
 ## Compañías de autobuses en la Terminal de Aguachica
+
+{% include add2.html %}
 
 ¿Te preguntas **qué compañías de autobuses operan en la Terminal de Aguachica**? Aquí te lo contamos. Haz clic en el siguiente botón y escoge la empresa que más te gusta:
 
