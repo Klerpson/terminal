@@ -27,6 +27,7 @@
 .blog-first div h3{
   font-size: 1.4rem;
   line-height: 1.15;
+  margin: 0;
 }
 
 .blog-main h2{
@@ -72,6 +73,7 @@
   line-height: 1.2;
   padding: .8rem;
   font-family: var(--textTexto);
+  margin: 0;
 }
 
 .blog-posts article img{
