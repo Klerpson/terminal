@@ -7,7 +7,7 @@ noindex: true
   {% for page in site.pages %}
   {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}{% else %}
       <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
+        <loc>{{ page.url | absolute_url }}</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
