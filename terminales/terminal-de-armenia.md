@@ -43,90 +43,60 @@ json-terminal: true
 permalink: /terminal-de-armenia
 ---
 
-## Todo sobre el terminal de transporte Aguazul
-
-{% include add2.html %}
-
-Si estás pensando en viajar desde o hacia **Aguazul**, este artículo es para ti. Aquí encontrarás todo lo que necesitas saber sobre el **Terminal de Aguazul**.
-
-Desde su ubicación y cómo llegar, hasta los servicios disponibles y las rutas que puedes tomar. ¡Vamos a ello!
-
-### Ubicación y cómo llegar
-
-El Terminal de Aguazul se encuentra **en la ciudad de Aguazul, en el departamento de Casanare**. Para llegar, puedes tomar un bus desde cualquier ciudad principal de Colombia. Si viajas desde [la terminal en Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal del norte de Bogotá"), por ejemplo, el viaje dura aproximadamente 5 horas.
-
-### Horarios de operación
-
-El Terminal de Aguazul está abierto todos los días de la semana. Los horarios pueden variar, pero **generalmente el terminal abre a las 6:00 a.m. y cierra a las 10:00 p.m.** Te recomendamos verificar los horarios antes de tu viaje.
-
-### Servicios disponibles
-
-En el Terminal de Aguazul encontrarás una variedad de servicios para hacer tu viaje más cómodo. Hay taquillas para **comprar tus pasajes, salas de espera, baños y locales de comida**. También hay servicios de **información turística y atención al cliente**.
-
-## Rutas y destinos desde el terminal de Aguazul
-
-Desde Aguazul puedes viajar a las principales ciudades de Colombia. Los buses salen con regularidad a destinos como Bogotá, [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal del norte de Medellín"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal Cali") y [Barranquilla]({{'terminal-de-barranquilla'|relative_url}} "Terminal de Barranquilla").
-
-También hay rutas a otras ciudades como [Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}} "Terminal Bucaramanga"), [Cúcuta]({{'terminal-de-cucuta'|relative_url}} "Terminal Cúcuta") y [Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal Cartagena"), y las rutas locales a otros municipios de Casanare.
-
-Si tu destino es más local, también hay rutas disponibles. Puedes viajar a otros municipios **de Casanare como Yopal, Maní y Tauramena**. **Los buses locales suelen ser más frecuentes** y el viaje es más corto.
-
-----
-
-## Compañías de buses en el Terminal de Aguazul
-
-En el Terminal de Aguazul operan varias compañías de buses. Cada compañía ofrece diferentes servicios y comodidades, así que te recomendamos investigar un poco antes de comprar tu pasaje.
-
-### Compañías principales
-
-Las principales compañías que operan **en el Terminal de Aguazul son Expreso Bolivariano, Copetran y Flota Sugamuxi**. Estas compañías ofrecen rutas a las principales ciudades de Colombia y también a destinos locales.
-
 [Empresas de la terminal de Aguazul]({{page.url}}/{{page.pdf}}){:id="boton"}
 
-### Servicios y comodidades ofrecidas por las empresas
+## Información esencial sobre la Terminal de Transporte de Armenia
 
-Las compañías de buses en el Terminal de Aguazul ofrecen una variedad de servicios y comodidades. **Algunas ofrecen wifi a bordo, asientos reclinables y servicio de snacks**.
+{% include add1.html %}
 
-Te recomendamos verificar los servicios disponibles antes de comprar tu pasaje.
+La Terminal de Transporte de Armenia es un centro neurálgico para los viajeros en el departamento de Quindío, Colombia. Ofrece servicios de transporte a nivel nacional, interdepartamental y local.
 
-----
+## Ubicación de la Terminal de Transporte de Armenia
 
-## Consejos para viajar desde el Terminal de Aguazul
+**La Terminal de Transporte de Armenia se encuentra en la Calle 35 No 20-68**, en el sur de la ciudad de Armenia, en el departamento de Quindío.
 
-Viajar en bus puede ser una experiencia emocionante y a veces desafiante. Aquí te dejamos [algunos consejos]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}) para que tu viaje desde el Terminal de Aguazul sea lo más cómodo posible.
+## Servicios disponibles en la Terminal de Transporte de Armenia
 
-### Preparación para el viaje
+La terminal **cuenta con servicios básicos** como baños públicos, guarda equipajes, locales de internet y cabinas telefónicas.
 
-Antes de tu viaje, asegúrate de tener todos tus documentos en orden. También es una buena idea llevar snacks y agua para el viaje.
+## Empresas de transporte en la Terminal de Transporte de Armenia
 
-Recuerda llegar al terminal con suficiente tiempo para comprar tu pasaje y encontrar tu bus.
+Algunas de las empresas que prestan servicios en la terminal de Armenia son Coomotor Florencia, Coomotor, Cootrans Huila, Expreso Bolivariano, Expreso Brasilia, Expreso Palmira, Flota Magdalena, Flota Occidental, Velotax, entre otras.
 
-### Durante el viaje
+### Coomotor Florencia
 
-Durante el viaje, trata de relajarte y disfrutar del paisaje. Si el viaje es largo, aprovecha para leer un libro o escuchar música. Recuerda que el viaje es parte de la aventura.
+Coomotor Florencia es una de las empresas de transporte que operan en la Terminal de Transporte de Armenia. Puedes contactarlos en el número 747 46 11 o al celular 312 5841717.
 
-----
+### Expreso Bolivariano
 
-## Preguntas frecuentes
+Expreso Bolivariano es otra empresa de transporte que opera en la Terminal de Transporte de Armenia. Puedes contactarlos en el número 747 46 58 o al 731 5112.
 
-### ¿Cuál es el horario de atención del Terminal de Aguazul?
+### Flota Occidental
 
-El Terminal de Aguazul generalmente abre a las 6:00 a.m. y cierra a las 10:00 p.m.
+Flota Occidental también presta servicios en la Terminal de Transporte de Armenia. Puedes contactarlos en el número 7475686 o al 018000916150.
 
-### ¿Qué servicios se ofrecen en el Terminal de Aguazul?
+## Preguntas frecuentes sobre la Terminal de Transporte de Armenia
 
-En el Terminal de Aguazul encontrarás taquillas para comprar pasajes, salas de espera, baños y locales de comida.
+### ¿Cómo puedo llegar a la Terminal de Transporte de Armenia?
 
-### ¿Cómo puedo llegar al Terminal de Aguazul?
+La Terminal de Transporte de Armenia está ubicada en la Calle 35 No 20-68, en el sur de la ciudad de Armenia, en el departamento de Quindío.
 
-Puedes llegar al Terminal de Aguazul en bus desde cualquier ciudad principal de Colombia.
+### ¿Qué servicios ofrece la Terminal de Transporte de Armenia?
 
-### ¿Qué rutas están disponibles desde el Terminal de Aguazul?
+La Terminal de Transporte de Armenia ofrece servicios básicos como baños públicos, guarda equipajes, locales de internet y cabinas telefónicas.
 
-Desde el Terminal de Aguazul puedes viajar a varias ciudades de Colombia y a otros municipios de Casanare.
+### ¿Qué empresas de transporte operan en la Terminal de Transporte de Armenia?
 
-### ¿Qué compañías de buses operan en el Terminal de Aguazul?
+Algunas de las empresas que prestan servicios en la terminal de Armenia son Coomotor Florencia, Coomotor, Cootrans Huila, Expreso Bolivariano, Expreso Brasilia, Expreso Palmira, Flota Magdalena, Flota Occidental, Velotax, entre otras.
 
-Algunas de las compañías que operan en el Terminal de Aguazul son Expreso Bolivariano, Copetran y Flota Sugamuxi.
+### ¿Cómo puedo contactar a las empresas de transporte en la Terminal de Transporte de Armenia?
 
-Esperamos que este artículo te haya sido útil para planificar tu viaje desde el Terminal de Aguazul. Recuerda que la mejor manera de disfrutar de un viaje es estar bien preparado. ¡Buen viaje!
+Puedes contactar a las empresas de transporte en la Terminal de Transporte de Armenia a través de los números de teléfono proporcionados en la sección de empresas de transporte de este artículo.
+
+### ¿Dónde puedo encontrar más información sobre la Terminal de Transporte de Armenia?
+
+Puedes encontrar más información sobre la Terminal de Transporte de Armenia en su sitio web oficial o en otros sitios web de viajes y transporte.
+
+## Más información sobre la Terminal de Transporte de Armenia
+
+Para obtener más información sobre la Terminal de Transporte de Armenia, puedes visitar su sitio web oficial o contactarlos directamente a través de los números de teléfono proporcionados.
