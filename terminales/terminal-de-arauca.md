@@ -13,13 +13,12 @@ empresa3: Expreso Brasilia
 empresa1_telf: 6078853195
 empresa2_telf: 3115615646
 empresa3_telf: 018000518001
-contacto: 
+contacto: https://www.terminaldetransporte.gov.co/destinos/arauca/
 direccion: Km 1 Vía Caño Limón, Arauca, Arauca, Colombia.
 telefono: 6078850453 
-telefono2: 
 maps: https://goo.gl/maps/vbzEMKHZx7qEXJxs5
 iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15838.12808567765!2d-70.733864!3d7.0641397!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e6fea339d1f51af%3A0x94ce1c3315c67fab!2sTerminal%20de%20Transportes%20Arauca!5e0!3m2!1ses-419!2sco!4v1689986726635!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-email: info@terminalarmenia.com.
+email: servicio.ciudadano@terminaldetransporte.gov.co
 ciudad: Arauca 
 depto: Arauca 
 postal: 810001
@@ -73,7 +72,7 @@ La Terminal de Arauca cuenta con la presencia de varias empresas de transporte d
 - Copetran
 - Cooptratam
 
-[Empresas de la terminal de Aguachica]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
+[Empresas de la terminal de Arauca]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 ----
 

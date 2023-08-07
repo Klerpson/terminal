@@ -225,8 +225,19 @@ noindex: true
       <a href="{{terminal.url}}">
         {% include img.html hero=terminal.hero webpb=terminal.webpb
         webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
+        <h3>{{terminal.title}}</h3></a>
+    </article>
+    {% endif %} {% endfor %}
+  </section>
+  <!-- Quindio -->
+  <h2 id="quindio">Terminales de Quindio</h2>
+  <section>
+    {% for terminal in pages %} {% if terminal.category == "quindio" %}
+    <article>
+      <a href="{{terminal.url}}">
+        {% include img.html hero=terminal.hero webpb=terminal.webpb
+        webpm=terminal.webpm webps=terminal.webps %}
+        <h3>{{terminal.title}}</h3></a>
     </article>
     {% endif %} {% endfor %}
   </section>
