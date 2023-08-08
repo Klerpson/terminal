@@ -1,19 +1,19 @@
 ---
 layout: terminal
 title: Terminal de Popayán
-description: La Terminal de Popayán es la mejor elección en el Cauca para encontrar los precios ajustados a su presupuesto y los horarios más convenientes
+description: La Terminal de transporte Popayán es la mejor elección en el Cauca para encontrar los precios ajustados a su presupuesto y los horarios más convenientes
 category: cauca
-h1: La terminal de transporte de Popayán
+h1: La terminal de Popayán en el corazón del Cauca
 jpg: terminales/terminal-popayan.jpg
 hero: terminales/terminal-popayan.webp
 webps: terminales/terminal-popayan-376.webp
 webpm: terminales/terminal-popayan-600.webp
 webpb: terminales/terminal-popayan-800.webp
-alt: Terminal de Popayán
+alt: Terminal Popayan
 logo: terminal-popayan-logo.webp
 webp1: terminales/terminal-popayan-exterior-600.webp
 webp2: terminales/terminal-popayan-exterior-376.webp
-h2_1: Teléfono de la terminal de Popayán y otros datos
+h2_1: Teléfonos de la terminal de Popayán y otros datos
 h2_2: Compra tus tiquetes en la terminal de Popayán
 p_1: "Encuentra los números de teléfono, dirección, empresas de buses, rutas, correos y todo lo que puedas serte útil en la terminal de transporte de Popayán."
 empresa1: Expreso Bolivariano
@@ -56,7 +56,7 @@ La Terminal de Popayán es la central para viajar desde el Cauca hacia otro luga
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
 
-[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}}){:id="boton"}
+[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}} "Empresas terminal de transportes popayan"){:id="boton"}
 
 #### Empresa de autobuses Coomotor
 
@@ -157,7 +157,7 @@ Mira la ubicación de **los hoteles cerca a la terminal de Popayán** en el sigu
 
 [Hoteles cerca a la terminal](https://www.google.com/maps/search/Hoteles/@2.4513773,-76.6103297,17z/data=!4m2!2m1!6e3){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
-### ¿Qué servicios presta el Terminal de Popayán?
+### ¿Qué servicios presta la Terminal de transportes Popayán?
 
 Los servicios que conseguirás dentro del terminal son los siguientes:
 
