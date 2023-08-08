@@ -79,27 +79,27 @@ Estas empresas ofrecen una variedad de horarios y destinos, adaptándose a las n
 
 La terminal de Transporte de Manizales te ofrece los siguientes servicios:
 
-* **Carritos maleteros**: Disponibles en toda la terminal de forma gratuita.
-* **Guarda equipaje**: Bodega disponible para dejar tus pertenencias por cortos espacios de tiempo.
-* **Cajeros electrónicos**: Puedes encontrar cajeros de los bancos Davivienda, Bancolombia, Servibanca y Banco de Bogotá. También está la oficina del Bango de Bogotá.
-* **Restaurantes y Cafeterías**: Encuentra opciones gastronómicas variadas en los locales asignados para esta zona.
-* **Locales comerciales**: Pequeños puestos comerciales en todo el local para que compres lo que necesites en tu viaje.
-* **Primeros auxilios**: Implementos y personal capacitado para atender las urgencias que se puedan presentar.
-* **Ascensor**: Utiliza con moderación esta cómoda forma de acceder a los diferentes niveles de la terminal.
-* **Puntos de Información**: Consulta la llegada y salida de autobuses. Pregunta o reporta la pérdida de objetos personales. Pregunta por la información turística de la ciudad de Manizales.
-* **Estación de Policía**: Acompañamiento de la policía nacional para vigilar por la seguridad de los usuarios de la terminal.
-* **Oficina de tránsito**: Oficina para atender todas las diligencias relacionadas con esta entidad estatal.
-* **Encomiendas**: Oficinas para recepción y envíos de paquetes y documentos desde y hacia la ciudad.
-* **Baños**: Servicio disponible las 24 horas.
-* **WiFi**: Servicio gratuito disponible las 24 horas.
-* **Casino**: Diviértete mientras esperas tu viaje.
-* **Auditorio**: Utiliza los datos de contacto mencionados arriba para solicitar su alquiler.
-* **Parque infantil**: Zona de juegos para los más pequeños.
-* **Canchas sintéticas**: Espacio para practicar fútbol 8.
-* **Estación de servicio**: Abastecimiento de combustibles y aceites para vehículos de transporte terrestre.
-* **Cómodas salas de espera**: Salas con mueblería y equipos adecuados para hacer más amena la espera de la salida del vehículo de transporte, incluyendo la temperatura con aire acondicionado.
-* **Abordaje de taxis y autobuses**: Usa este servicio con la garantía de la seguridad que te ofrece la terminal.
-* **Parqueaderos públicos y privados**: Sujeto a disponibilidad.
+- **Carritos maleteros**: Disponibles en toda la terminal de forma gratuita.
+- **Guarda equipaje**: Bodega disponible para dejar tus pertenencias por cortos espacios de tiempo.
+- **Cajeros electrónicos**: Puedes encontrar cajeros de los bancos Davivienda, Bancolombia, Servibanca y Banco de Bogotá. También está la oficina del Bango de Bogotá.
+- **Restaurantes y Cafeterías**: Encuentra opciones gastronómicas variadas en los locales asignados para esta zona.
+- **Locales comerciales**: Pequeños puestos comerciales en todo el local para que compres lo que necesites en tu viaje.
+- **Primeros auxilios**: Implementos y personal capacitado para atender las urgencias que se puedan presentar.
+- **Ascensor**: Utiliza con moderación esta cómoda forma de acceder a los diferentes niveles de la terminal.
+- **Puntos de Información**: Consulta la llegada y salida de autobuses. Pregunta o reporta la pérdida de objetos personales. Pregunta por la información turística de la ciudad de Manizales.
+- **Estación de Policía**: Acompañamiento de la policía nacional para vigilar por la seguridad de los usuarios de la terminal.
+- **Oficina de tránsito**: Oficina para atender todas las diligencias relacionadas con esta entidad estatal.
+- **Encomiendas**: Oficinas para recepción y envíos de paquetes y documentos desde y hacia la ciudad.
+- **Baños**: Servicio disponible las 24 horas.
+- **WiFi**: Servicio gratuito disponible las 24 horas.
+- **Casino**: Diviértete mientras esperas tu viaje.
+- **Auditorio**: Utiliza los datos de contacto mencionados arriba para solicitar su alquiler.
+- **Parque infantil**: Zona de juegos para los más pequeños.
+- **Canchas sintéticas**: Espacio para practicar fútbol 8.
+- **Estación de servicio**: Abastecimiento de combustibles y aceites para vehículos de transporte terrestre.
+- **Cómodas salas de espera**: Salas con mueblería y equipos adecuados para hacer más amena la espera de la salida del vehículo de transporte, incluyendo la temperatura con aire acondicionado.
+- **Abordaje de taxis y autobuses**: Usa este servicio con la garantía de la seguridad que te ofrece la terminal.
+- **Parqueaderos públicos y privados**: Sujeto a disponibilidad.
 
 ## La Terminal de Transporte de Manizales: Un punto de encuentro
 
