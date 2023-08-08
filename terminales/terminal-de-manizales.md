@@ -105,7 +105,7 @@ La terminal de Transporte de Manizales te ofrece los siguientes servicios:
 
 La **Terminal de Transporte de Manizales**, también conocida como Terminal Metropolitana de Transportes de Manizales, ha sido un punto de referencia desde su inauguración en 1988.
 
-Aunque fue remodelada en 2009, su esencia sigue siendo la misma: conectar a los viajeros con sus destinos. Ya sea que te dirijas a Bogotá, Bucaramanga, Cali, Medellín, Caldas, Pereira, Quibdó, Arauca, Neiva, entre otros, esta terminal tiene algo para ti.
+Aunque fue remodelada en 2009, su esencia sigue siendo la misma: conectar a los viajeros con sus destinos. Ya sea que te dirijas a [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"), [Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}} "Terminal Bucaramanga"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal Cali"), [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín"), Caldas, [Pereira]({{'terminal-de-pereira'|relative_url}} "Terminal Pereira"), Quibdó, [Arauca]({{'terminal-de-arauca'|relative_url}} "Terminal Arauca"), [Neiva]({{'terminal-de-neiva'|relative_url}} "Terminal Neiva"), entre otros, esta terminal tiene algo para ti.
 
 ## Historia de la Terminal de Transporte de Manizales
 
@@ -133,4 +133,6 @@ Sí, la terminal cuenta con vigilancia constante de la policía. Sin embargo, si
 
 ## Ven a la terminal Manizales
 
-Viajar desde y hacia la Terminal de Transporte de Manizales es una experiencia única que combina la belleza del paisaje colombiano con la eficiencia y comodidad de un transporte moderno. Si estás planeando un viaje, no dudes en considerar esta opción y disfrutar de todo lo que Manizales y sus alrededores tienen para ofrecer. Y si quieres seguir descubriendo más sobre viajes en bus y otros destinos interesantes, ¡sigue navegando por nuestra página!
+Viajar **desde y hacia la Terminal de Transporte de Manizales** es una experiencia única que combina la belleza del paisaje colombiano con la eficiencia y comodidad de un transporte moderno.
+
+Ven a disfrutar de todo lo que Manizales y sus alrededores tienen para ofrecer. Y si quieres seguir descubriendo más sobre viajes en bus y otros destinos interesantes, [¡sigue navegando por nuestra página!](/)
