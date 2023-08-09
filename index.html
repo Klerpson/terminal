@@ -2,19 +2,22 @@
 layout: default
 title: Terminales de transporte Colombianas
 description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
-h1: Principales terminales de transporte de Colombia
+h1: Las terminales de transporte terrestre más buscadas de Colombia
 ---
-<section class="intro">
-  <p>En nuestra página <strong>Terminal de Transporte</strong> <span class="destacado">aprenderas a viajar</span> por cada terminal de Colombia de forma seguar y con tranquilidad. ¿Te gustaría saber algo más? <a href="/blog" class="boton-verde botones">Visita nuestro blog</a>
-  </p>
-</section>
 
 <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-39.78,26.16 C262.69,228.47 216.42,-18.23 608.07,110.05 L560.10,195.89 L0.00,150.00 Z" style="stroke: none; fill: #082D0F;"></path></svg></div>
 <div>
-<section class="tiquetes" id="tiquetes">
+  <section class="tiquetes" id="tiquetes">
   <div>
     <h2>Comprar tiquetes con Terminal de Transporte es seguro</h2>
+    <a href="{{'terminales-de-colombia'|relative_url}}" title="Terminales de Colombia" class="boton-amarillo botones">Busca la terminal<br> que necesitas</a>
     <p>No somos intermediarios ni te recomendamos ninguno. Comprar tu tiquete directamente con cada empresa es mejor:</p>
+  </div>
+  <div>
+    <img
+    srcset="{{'img/descarga-pdf-terminal-de-transporte-2.webp'|relative_url}} 560w,
+    {{'img/descarga-pdf-terminal-de-transporte.webp'|relative_url}} 400w"
+    src="{{'img/descarga-pdf-terminal-de-transporte.webp'|relative_url}}" alt="Descarga de archivos pdf" loading="lazy"/>
     <ul>
       <li>
         <span>01</span>
@@ -30,13 +33,10 @@ h1: Principales terminales de transporte de Colombia
       </li>
     </ul>
   </div>
-  <div>
-    <img
-    srcset="{{'img/descarga-pdf-terminal-de-transporte-2.webp'|relative_url}} 560w,
-    {{'img/descarga-pdf-terminal-de-transporte.webp'|relative_url}} 400w"
-    src="{{'img/descarga-pdf-terminal-de-transporte.webp'|relative_url}}" alt="Descarga de archivos pdf" loading="lazy"/>
-    <a href="{{'terminales-de-colombia'|relative_url}}" title="Terminales de Colombia" class="boton-amarillo botones">Busca la terminal<br> que necesitas</a>
-  </div>
+</section>
+<section class="intro">
+  <p>En nuestra página <strong>Terminal de Transporte</strong> <span class="destacado">aprenderas a viajar</span> por cada terminal de Colombia de forma seguar y con tranquilidad. ¿Te gustaría saber algo más? <a href="/blog" class="boton-verde botones">Visita nuestro blog</a>
+  </p>
 </section>
 
 <section class="blog-intro">
@@ -45,11 +45,11 @@ h1: Principales terminales de transporte de Colombia
     <p>Aprende cómo hacerlo o manténte al día con <a href="{{'blog'|relative_url}}" title="Blog">nuestro magazine.</a></p>
   </div>
   {% assign post1 = site.posts[0] %}
-      <article>
-        <a href="{{site.baseurl}}{{ post1.url }}">
-          <img src="{{ site.baseurl }}/img/{{ post1.webps }}" alt="{{ post1.alt }}" loading="lazy">
-          <h3>{{ post1.h1 | truncate: 68 }}</h3>
-        </a>
+  <article>
+    <a href="{{site.baseurl}}{{ post1.url }}">
+      <img src="{{ site.baseurl }}/img/{{ post1.webps }}" alt="{{ post1.alt }}" loading="lazy">
+      <h3>{{ post1.h1 | truncate: 68 }}</h3>
+    </a>
           {{ post1.excerpt | truncate: 100 | markdownify}}
       </article>
       {% assign post2 = site.posts[1] %}

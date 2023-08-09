@@ -17,6 +17,10 @@
   box-shadow: var(--shadow);
 }
 
+.gallery a img{
+  border-radius: 0 0 12px 12px;
+}
+
 .gallery a h3{
   font-family: var(--fuenteTexto);
   margin: 0;
@@ -29,7 +33,7 @@ background: var(--complemento1);
 padding: 4rem 16px;
 display: grid;
 place-items: center;
-gap: 1.5rem;
+gap: 1em;
 }
 
 .intro p{
@@ -55,7 +59,7 @@ gap: 1.5rem;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 4rem;
+  gap: 2em;
   padding: 4rem 16px;
   color: white;
   overflow: visible;
@@ -63,9 +67,8 @@ gap: 1.5rem;
 
 .tiquetes div{
   display: grid;
-  gap: 2rem;
   place-items: center;
-  width: min(100%, 480px);
+  width: min(100%, 520px);
 }
 
 .tiquetes div img{
@@ -83,16 +86,16 @@ gap: 1.5rem;
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  gap:  1rem;
+  gap: 1em;
+  margin-top: 1em;
 }
 
 .tiquetes div ul li{
   flex: 1 0 120px;
   background-color: var(--complemento1);
   display: grid;
-  gap: .5rem;
   padding: .7rem;
-  border-radius: 8px;
+  border-radius: 12px;
   box-shadow: var(--shadow);
   color: var(--grisFuentes);
   place-content: center;
