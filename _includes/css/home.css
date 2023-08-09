@@ -1,138 +1,26 @@
-header {
-  display: grid;
-  gap: 2rem;
-}
-
-header .tooltip {
-  display: flex;
-  justify-content: space-between;
-  padding: 12px;
-  border-bottom: 1px solid var(--gris1);
-}
-
-header .tooltip span{
-  color: var(--gris2);
-  font-size: clamp(14px, 0.9rem, 18px);
-}
-
-nav {
-  width: 100%;
+.gallery{
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
-}
-
-nav a{
-  height: min-content;
-  flex: 1 0 80px;
-  text-align: center;
-  font-size: clamp(14px, 0.9rem, 18px);
-  color: var(--principal);
-  text-transform: capitalize;
-  display: grid;
-  place-items: center;
-  transition: all .7s ease;
-}
-
-nav a:hover{
-  color: var(--secundario);
-  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
-}
-
-nav .active{
-  color: var(--secundario);
-  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
-}
-
-nav a .svg-icon {
-  width: 32px;
-  height: 32px;
-}
-
-nav a .svg-icon path,
-nav a .svg-icon polygon,
-nav a .svg-icon rect {
-  fill: var(--secundario);
-}
-
-nav a .svg-icon circle {
-  stroke: var(--accion);
-  stroke-width: 1;
-}
-
-.gallery{
-  overflow: auto;
-  display: flex;
-  gap: .5rem;
-  scroll-snap-type: x mandatory;
-}
-
-.gallery .item{
-  position: relative;
-  flex-shrink: 0;
-  scroll-snap-align: start;
-  height: 340px;
-  width: min(90%, 600px);
-  background-repeat: no-repeat;
-  border: 1px solid var(--gris1);
-  border-radius: var(--radius);
+  gap: 1em;
+  justify-content: center;
 }
 
 .gallery a{
   color: var(--principal);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 320px;
+  text-align: center;
+  border: 1.5px solid var(--gris1);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
 .gallery a h3{
-  background-color: rgba(255, 255, 255, 0.78);
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 0.8rem;
-}
-
-.item-1 { 
-  background-image: url('/img/terminales/terminal-bogota-600.webp');
-}
-
-.item-2 { 
-  background-image: url('/img/terminales/terminal-medellin-600.webp');
-}
-
-.item-3 { 
-  background-image: url('/img/terminales/terminal-cali-600.webp');
-}
-
-.item-4 { 
-  background-image: url('/img/terminales/terminal-bucaramanga-600.webp');
-}
-
-.item-5 { 
-  background-image: url('/img/terminales/terminal-cartagena-600.webp');
-}
-
-header .title{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
-header .title h1{
-  text-transform: initial;
-  width: min(100%, 700px);
-}
-
-header .title a {
-  color: var(--complemento1);
-  text-transform: initial;
-  font-size: .8rem;
-}
-
-header img{
-  max-width: 100%;
-  border-radius: var(--radius);
+  font-family: var(--fuenteTexto);
+  margin: 0;
+  padding: 12px 16px;
 }
 
 .intro{

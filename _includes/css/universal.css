@@ -11,8 +11,8 @@
   --gris4: rgba(64, 64, 64, 1);
   --grisFuentes: #111413;
   /*** FUENTES ***/
-  --fuenteTitulos: 'Sarala', sans-serif;
-  --fuenteTexto: 'Trykker', serif;
+  --fuenteTexto: 'Sarala', sans-serif;
+  --fuenteTitulos: 'Trykker', serif;
   /* BORDERS */
   --radius: 12px;
   /* SOMBRA */
@@ -76,7 +76,6 @@ pre {
 
 a {
   background: transparent;
-  font-family: var(--fuenteTexto);
   text-decoration-thickness: 2.6px;
 }
 
