@@ -6,6 +6,10 @@ h1: Terminales de transporte Colombianas
 permalink: /terminales-de-colombia
 noindex: true
 ---
+<section class="blog-intro">
+  <p>Intenta buscar por la terminal que necesitas. Por ejemplo: <strong>"Terminal de Cali", "Terminal de Medellín", "Terminal de Popayán", etc.</strong> También, puedes bajar y ver nuestra lista organizada por departamentos.</p>
+</section>
+{% include buscador.html %}
 
 {% assign pages = site.pages | where: "layout", "terminal" %}
 <main class="terminales">
@@ -337,13 +341,16 @@ noindex: true
 
 {% include footer.html %}
 
-<!-- Script pointing to search-script.js -->
-<script src="/js/search-script.js" type="text/javascript" defer></script>
-<!-- Configuration -->
-<script defer>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById("search-input"),
-    resultsContainer: document.getElementById("results-container"),
-    json: "/search.json",
-  });
-</script>
+  <!-- Script pointing to search-script.js -->
+  <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+  <!-- Configuration -->
+  <script>
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      noResultsText: 'No tenemos este texto aún',
+      fuzzy: false
+    });
+  </script>
+

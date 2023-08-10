@@ -1,8 +1,3 @@
-/*!
- * Simple-Jekyll-Search v1.7.4 (https://github.com/christian-fei/Simple-Jekyll-Search)
- * Copyright 2015-2020, Christian Fei
- * Licensed under the MIT License.
- */
 ! function () {
     "use strict";
     var o = {
@@ -69,30 +64,30 @@
             (s = t || {}).fuzzy = t.fuzzy || !1, s.limit = t.limit || 10, s.searchStrategy = t.fuzzy ? e : r, s.sort = t.sort || a
         }
     };
-
+  
     function a() {
         return 0
     }
     var c = [],
         s = {};
-
+  
     function f() {
         return c.length = 0, c
     }
-
+  
     function l(t) {
         return Boolean(t) && "[object Object]" === Object.prototype.toString.call(t)
     }
-
+  
     function p(t) {
         return c.push(t), c
     }
-
+  
     function d(t, e, n, r) {
         for (var i in t)
             if (!h(t[i], r.exclude) && n.matches(t[i], e)) return t
     }
-
+  
     function h(t, e) {
         for (var n = !1, r = 0, i = (e = e || []).length; r < i; r++) {
             var o = e[r];
@@ -147,7 +142,7 @@
             }
         };
     var w, y, g, O, z;
-
+  
     function S(t) {
         u.put(t),
             function e() {
@@ -155,18 +150,18 @@
                     ! function e(t) {
                         return -1 === [13, 16, 20, 37, 38, 39, 40, 91].indexOf(t)
                     }(t.which) || (j(), C(t.target.value))
-                }, {passive: true})
+                })
             }()
     }
-
+  
     function j() {
         y.resultsContainer.innerHTML = ""
     }
-
+  
     function q(t) {
         y.resultsContainer.innerHTML += t
     }
-
+  
     function C(t) {
         ! function e(t) {
             return t && 0 < t.length
@@ -176,7 +171,7 @@
             for (var r = 0; r < n; r++) t[r].query = e, q(o.compile(t[r]))
         }(u.search(t), t))
     }
-
+  
     function L(t) {
         throw new Error("Seguimosbuscando --- " + t)
     }
@@ -185,7 +180,7 @@
         resultsContainer: null,
         json: [],
         success: Function.prototype,
-        searchResultTemplate: '<div><a href="{url}"><h3>{title}</h3></a><a href="{url-cat}"><span>{category}</span></a></div>',
+        searchResultTemplate: '<div><a href="{url}"><h3>{title}</h3></a></div>',
         templateMiddleware: Function.prototype,
         sortMiddleware: function () {
             return 0
@@ -215,4 +210,4 @@
         var e = z(t);
         return t.success.call(e), e
     }
-}();
+  }();

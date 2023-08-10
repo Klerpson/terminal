@@ -148,7 +148,9 @@
 
 .post-header {
   width: 100%;
-  background-color: var(--complemento1);
+  background-color: var(--complemento2);
+  box-shadow: 0 0 0 100vmax var(--complemento2);
+  clip-path: inset(0 -100vmax);
   display: flex;
   flex-wrap: wrap;
   flex-direction: row-reverse;
@@ -184,6 +186,14 @@
 .post-social ul{
   display: flex;
   align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.post-social ul li{
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .post-social ul li svg{
@@ -197,6 +207,10 @@
 
 .post-social ul li svg:hover{
   transform: scale(1.2);
+}
+
+.post-social ul li span{
+  word-break: break-all;
 }
 
 .post-content {

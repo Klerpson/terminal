@@ -5,10 +5,6 @@ layout: default
 {% if page.h2_1 %}
 <section class="terminal_content">
   <div>{% include add1.html %}</div>
-  <a href="#datos" class="botones boton-verde">Datos de contacto</a>
-  <div class="terminal_intro">
-    <p class="destacado">{{page.description}}</p>
-  </div>
   <div class="terminal_empresas">
     <div>
       <h2>{{page.h2_2}}</h2>
@@ -16,18 +12,18 @@ layout: default
     </div>
     <article>
       <img
-        src="{{site.baseurl}}/img/{{page.empresa_img_1}}"
-        alt="{{page.empresa1}}"
-        loading="lazy"
-        width="400"
+      src="{{site.baseurl}}/img/{{page.empresa_img_1}}"
+      alt="{{page.empresa1}}"
+      loading="lazy"
+      width="400"
       />
       <h3>Teléfono de {{page.empresa1}}</h3>
       <p><strong>{{page.empresa1_telf}}</strong></p>
     </article>
     <article>
       <img
-        src="{{site.baseurl}}/img/{{page.empresa_img_2}}"
-        alt="{{page.empresa2}}"
+      src="{{site.baseurl}}/img/{{page.empresa_img_2}}"
+      alt="{{page.empresa2}}"
         loading="lazy"
         width="400"
       />
@@ -60,81 +56,25 @@ layout: default
         </li>
       </ul>
       <a
-        href="{{page.url}}/{{page.pdf}}"
+      href="{{page.url}}/{{page.pdf}}"
         title="Teléfonos de las empresas de transporte en {{page.title}}"
         >Ver más Teléfonos</a
       >
     </div>
   </div>
-</section>
-{% endif %}
-<main class="terminal" id="datos">
-  <div>{% include add1.html %}</div>
-
-  <section class="terminal_datos">
-    <div>
-      <h2>{{page.h2_1}}</h2>
-      <p>{{page.p_1}}</p>
-      <ul>
-        {% if page.telefono %}
-        <li>
-          <h4>Teléfono:</h4>
-          <a
-            href="tel:{{page.telefono}}"
-            rel="nofollow noopener noreferrer"
-            target="_blank"
-            >{{page.telefono}}</a
-          >
-          {% if page.telefono2 %}
-          <a
-            href="tel:{{page.telefono2}}"
-            rel="nofollow noopener noreferrer"
-            target="_blank"
-            >{{page.telefono2}}</a
-          >
-          {% endif %}
-        </li>
-        {% endif %} {% if page.direccion %}
-        <li>
-          <h4>Dirección:</h4>
-          <a
-            href="{{page.maps}}"
-            rel="nofollow noopener noreferrer"
-            target="_blank"
-            >{{page.direccion}}</a
-          >
-        </li>
-        {% endif %} {% if page.email %}
-        <li>
-          <h4>Email</h4>
-          <a
-            href="mailto:{{page.email}}"
-            rel="nofollow noopener noreferrer"
-            target="_blank"
-            >{{page.email}}</a
-          >
-        </li>
-        {% endif %}
-      </ul>
-    </div>
-    <img
-      srcset="
-        {{site.baseurl}}/img/{{page.webp2}} 376w,
-        {{site.baseurl}}/img/{{page.webp1}} 600w
-      "
-      src="{{site.baseurl}}/img/{{page.webp1}}"
-      alt="Foto {{page.h1}}"
-      loading="lazy"
-    />
-  </section>
-</main>
-
-<section class="terminal-info">
-  <div>
-    {% include add2.html %}
-    {{content}}
+  <div class="terminal_intro">
+    <p>{{page.p_1}}</p>
   </div>
 </section>
+{% endif %}
+
+<main class="terminal-info">
+  <div>
+    {% include add2.html %}
+    {% include img.html webps=page.webps webpm=page.webpm webpb=page.webpb hero=page.hero alt=page.alt %}
+    {{content}}
+  </div>
+</main>
 
 <div style="height: 150px; overflow: hidden">
   <svg

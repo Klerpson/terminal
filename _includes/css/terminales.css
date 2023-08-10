@@ -49,25 +49,6 @@
 
 /********* PAGINA DE LAS TERMINALES *********/
 
-.terminal_header {
-  position: relative;
-  width: 100%;
-  padding: 7rem 0;
-  display: grid;
-  gap: 1.2rem;
-  flex-wrap: wrap;
-  color: #fefefe;
-  background-color: var(--secundario);
-  box-shadow: 0 0 0 100vmax var(--secundario);
-  clip-path: inset(0 -100vmax);
-}
-
-.terminal_header h1{
-  z-index: 2;
-  max-width: 520px;
-  position: relative;
-}
-
 .terminal_datos p a{
   color: var(--accion);
 }
@@ -98,59 +79,6 @@
   box-shadow: 0 0 0 100vmax var(--secundario);
   clip-path: inset(0 -100vmax);
   color: #fefefe;
-}
-
-.terminal_datos{
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-  flex-direction: row-reverse;
-  align-items: center;
-  position: relative;
-}
-
-.terminal_datos img{
-  width: min(100%, 580px);
-  border-radius: var(--radius);
-}
-
-.terminal_datos div{
-  flex: 1 0 320px;
-}
-
-.terminal_datos div h2{
-  margin-bottom: 1rem;
-}
-
-.terminal_datos div ul{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  gap: .6rem;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  padding: .5rem 0;
-}
-
-.terminal_datos div ul li{
-  background-color: var(--complemento1);
-  color: var(--principal);
-  border-radius: var(--radius);
-  padding: .8rem 1.2rem;
-  display: flex;
-  flex-direction: column;
-  max-width: 300px;
-}
-
-.terminal_datos div ul li h4{
-  color: var(--secundario);
-  margin-bottom: .5rem;
-}
-
-.terminal_datos div ul li a{
-  color: var(--principal);
-  word-break: break-all;
 }
 
 .terminal_content {

@@ -29,7 +29,7 @@ header .title h1{
 }
 
 header .title a {
-  color: var(--complemento1);
+  color: var(--accion);
   text-transform: initial;
   font-size: .8rem;
 }

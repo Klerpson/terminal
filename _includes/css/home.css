@@ -37,7 +37,7 @@ gap: 1em;
 }
 
 .intro p{
-  width: min(80%, 720px);
+  width: min(80%, 920px);
   text-align: center;
 }
 
@@ -156,7 +156,7 @@ padding: .8rem;
 }
 
 .conclusion h2{
-  max-width: 720px;
+  max-width: 920px;
 }
 
 .conclusion ul{

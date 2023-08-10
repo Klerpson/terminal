@@ -224,17 +224,22 @@ SVG Icons - svgicons.sparkk.fr
 
 .botones{
   border-radius: var(--radius);
-  display: block;
+  display: inline-block;
   text-decoration: none;
   padding: 12px 24px;
-  width: min(80%, 280px);
+  width: min(80%, 320px);
   text-align: center;
   font-weight: 700;
   box-shadow: var(--shadow);
   transition: all .2s ease-in;
   margin-inline: auto;
-  margin-top: .5em;
   cursor: pointer;
+  border: none;
+}
+
+.botones:hover{
+  box-shadow: var(--shadow);
+  transform: scale(1.025);
 }
 
 .boton-verde {
