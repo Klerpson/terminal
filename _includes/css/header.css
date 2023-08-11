@@ -1,6 +1,9 @@
 header {
+  width: min((100% - 1em), 1200px);
+  margin-inline: auto;
+  padding-bottom: 1em;
   display: grid;
-  gap: 2rem;
+  gap: 1em;
 }
 
 header .tooltip {
@@ -44,12 +47,12 @@ nav {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1em;
 }
 
 nav a{
   height: min-content;
-  flex: 1 0 80px;
+  flex: 1 0 76px;
   text-align: center;
   font-size: clamp(14px, 0.9rem, 18px);
   color: var(--principal);

@@ -1,8 +1,7 @@
 .buscador{
-  background-color: var(--complemento1);
-  box-shadow: 0 0 0 100vmax var(--complemento1);
+  background-color: var(--complemento2);
+  box-shadow: 0 0 0 100vmax var(--complemento2);
   clip-path: inset(0 -100vmax);
-  padding: 0 16px;
 }
 
 .buscador div{
@@ -32,7 +31,7 @@
 
 .buscador div ul a{
   text-align: left;
-  text-decoration-color: var(--accion);
+  text-decoration-color: var(--secundario);
 }
 
 .buscador div h3 {

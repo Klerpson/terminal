@@ -1,4 +1,7 @@
-/* PAGINA PRINCIPAL DEL BLOG */
+
+.blog-main h2{
+  margin-top: 3rem;
+}
 
 .blog-first{
   display: grid;
@@ -28,10 +31,6 @@
   font-size: 1.4rem;
   line-height: 1.15;
   margin: 0;
-}
-
-.blog-main h2{
-  margin-top: 3rem;
 }
 
 .blog-posts {

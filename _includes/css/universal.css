@@ -52,6 +52,7 @@ h4 {
 
 h1 {
   font-size: 2rem;
+  margin: 0;
 }
 
 h2 {
@@ -62,22 +63,18 @@ h3 {
   font-size: 1.3rem;
 }
 
-h4{
+h4 {
   font-size: 1.15rem;
 }
 
-p, .post-content li {
+p,
+.post-content li {
   word-wrap: break-word;
   margin-top: .8em;
   font-weight: 400;
 }
 
-pre {
-  font-family: monospace, monospace;
-}
-
 a {
-  background: transparent;
   text-decoration-thickness: 2.6px;
   color: var(--principal);
 }
@@ -105,21 +102,13 @@ small {
   font-size: 80%;
 }
 
-sub,
-sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
+blockquote {
+  background: var(--complemento2);
+  border-radius: var(--radius);
+  border: 1.2px solid var(--complemento1);
+  padding: 2em;
 }
 
-sub {
-  bottom: -.25em;
-}
-
-sup {
-  top: -.5em;
-}
 
 img {
   border-style: none;
@@ -153,16 +142,16 @@ select {
   text-transform: none;
 }
 
-ol{
+ol {
   margin-top: 1em;
 }
 
-ol li{
+ol li {
   list-style: decimal;
   margin-left: 2em;
 }
 
-ol li::marker{
+ol li::marker {
   padding: 4px;
   border-radius: 50%;
   font-size: 1.5em;
@@ -175,24 +164,43 @@ li {
   /* margin: .5em 0; */
 }
 
-header,
-.intro,
-.tiquetes,
-.blog-intro,
-.conclusion,
-.categorias,
-.terminales,
-.terminal,
-.terminal_content,
-.terminal-info,
-.blog-main,
-.contacto {
-  width: min(90vw, 1200px);
-  margin-inline: auto;
-  margin-bottom: 4rem;
+
+table {
+  width: 100%;
+  margin: 2em 0 4em;
 }
 
-.destacado{
+table tr {
+  border-bottom: 2px dotted var(--gris1);
+  display: flex;
+  padding: 1.2em 0;
+  flex-wrap: wrap;
+  gap: 1em;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+table th {
+  font-weight: 900;
+}
+
+table td,
+table th {
+  flex: 1 0 200px;
+}
+
+.wrapper {
+  width: min((100% - 2rem), 1200px);
+  margin-inline: auto;
+  padding: 4rem 0;
+}
+
+.flow>*+*:not(h1) {
+  margin-top: 1em;
+}
+
+.destacado {
   background-image: url('/img/underline-text-img.png');
 }
 
@@ -217,7 +225,7 @@ SVG Icons - svgicons.sparkk.fr
   stroke-width: 1;
 }
 
-.add{
+.add {
   margin-top: 1rem;
   max-width: 80%;
   margin-inline: auto;
@@ -225,7 +233,7 @@ SVG Icons - svgicons.sparkk.fr
   padding: 1rem;
 }
 
-.botones{
+.botones {
   border-radius: var(--radius);
   display: inline-block;
   text-decoration: none;
@@ -240,7 +248,7 @@ SVG Icons - svgicons.sparkk.fr
   border: none;
 }
 
-.botones:hover{
+.botones:hover {
   box-shadow: var(--shadow);
   transform: scale(1.025);
 }
@@ -257,6 +265,32 @@ SVG Icons - svgicons.sparkk.fr
 }
 
 .boton-amarillo:active,
-.boton-verde:active{
+.boton-verde:active {
   box-shadow: none;
+}
+
+.cta {
+  width: min((100% - 2rem), 1200px);
+  border-radius: 32px;
+  background: var(--complemento1);
+  padding: 3em;
+  display: grid;
+  place-items: center;
+  gap: 1em;
+  margin: 4em auto 0;
+}
+
+.cta p {
+  width: min(80%, 920px);
+  text-align: center;
+}
+
+.cta div {
+  width: min(80%, 800px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  line-height: 1;
 }

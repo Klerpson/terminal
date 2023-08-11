@@ -5,18 +5,14 @@ h1: Escríbe a tu terminal de transporte
 description: Estamos haciendo el mejor esfuerzo por brindarte la información más completa sobre la terminal de transporte que tú necesitas de Colombia. ¿Podemos mejorar? ¿Tienes sugerencias? Escríbenos.
 ---
 
-<main class="contacto">
+<main class="contacto wrapper">
   <h1>{{page.h1}}</h1>
 
-  {% include add2.html %}
+  {% include add3.html %}
   <p>{{page.description}}</p>
-  <p>Recuerda que tu información personal brindada se manejará según la política de datos registrada en este sitio web.
-  </p>
   {% include formulario.html %}
-  <h2>Tu terminal de transporte más cerca de ti</h2>
-  <p>También puedes seguirnos en instagram. Aquí te estamos compartiendo noticias y tips de viaje que te ayudarán mucho al utilizar las terminales terrestres de Colombia.</p>
-  
-  {% include instagram.html username="terminaldetransporte" %}
+  <p>Recuerda que tu información personal brindada se manejará <a href="{{'legal'|relative_url}}">según la política de datos</a> registrada en este sitio web.
+  </p>
   {% include add3.html %}
 </main>
 {% include footer.html %}

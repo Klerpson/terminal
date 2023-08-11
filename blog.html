@@ -11,7 +11,7 @@ h1: El blog de los viajes en bus por Colombia está en nuestra terminal
   {% include header.html %}
   
   <a href="#">{% include boton-up.html %}</a>
-  <main class="blog-main">
+  <main class="blog-main wrapper flow">
     <h1>{{page.h1}}</h1>
     <!--------- ARTICULO PRINCIPAL --------->
     <article class="blog-first">
@@ -35,24 +35,14 @@ h1: El blog de los viajes en bus por Colombia está en nuestra terminal
       </article>
       {% endfor %}
       <div class="add">
-
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3100194943394350"
-        crossorigin="anonymous"></script>
-        <ins class="adsbygoogle"
-        style="display:block"
-        data-ad-format="autorelaxed"
-        data-ad-client="ca-pub-3100194943394350"
-        data-ad-slot="9326723858"></ins>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
+        {% include add1.html %}
       </div>
     </section>
    
   </main>
 
   <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
-  <section class="conclusion">
+  <section class="conclusion wrapper">
   <h2>La terminal de transporte es tu guía segura para viajar por Colombia</h2>
   <ul>
     <li>

@@ -1,25 +1,14 @@
-<footer>
+<footer class="wrapper">
   <section>
     <div>
       <h4><a href="/">Terminal de transporte</a></h4>
       <img src="{{'img/logo-terminal-de-transporte-200px.svg'|relative_url}}" alt="Logo de terminaldetransporte.com" width="120" height="120" loading="lazy">
     </div>
     <div>
-      <h4>Terminales de Colombia</h4>
-      <a href="{{ site.baseurl }}/terminal-de-bogota">Terminal Bogotá</a>
-      <a href="{{ site.baseurl }}/terminal-de-medellin">Terminal Medellín</a>
-      <a href="{{ site.baseurl }}/terminal-de-cali">Terminal Cali</a>
-      <a href="{{ site.baseurl }}/terminales-de-colombia">Ver todas</a>
-    </div>
-    <div>
-      <h4>Viaja Seguro</h4>
-        {% assign post1 = site.posts[0] %}
-        <a href="{{site.baseurl}}{{ post1.url }}">{{ post1.h1 | truncate: 45}}</a>
-        {% assign post2 = site.posts[1] %}
-        <a href="{{site.baseurl}}{{ post2.url }}">{{ post2.h1 | truncate: 45}}</a>
-        {% assign post3 = site.posts[2] %}
-        <a href="{{site.baseurl}}{{ post3.url }}">{{ post3.h1 | truncate: 45}}</a>
-      <a href="{{site.baseurl}}/blog">Leer más</a>
+      <h4>Terminales principales</h4>
+      <a href="{{ site.baseurl }}/terminal-de-bogota" title="Terminal Bogotá">Terminales de Bogotá</a>
+      <a href="{{ site.baseurl }}/terminal-de-medellin" title="Terminal Medellín">Terminales de Medellín</a>
+      <a href="{{ site.baseurl }}/terminal-de-popayan" title="Terminal Popayán">Terminal de Popayán</a>
     </div>
     <div>
       <h4>Síguenos</h4>
@@ -31,7 +20,7 @@
       <h4>Legal </h4>
       <a href="mailto:digitalizaresfacil@gmail.com">E-mail</a> 
       <a href="{{site.baseurl}}/contacto">Escríbenos</a>
-      <a href="{{site.baseurl}}/legal">Privacidad, términos y condiciones de uso</a>
+      <a href="{{site.baseurl}}/legal">Privacidad, términos y condiciones </a>
     </div>
   </section>
   <section>

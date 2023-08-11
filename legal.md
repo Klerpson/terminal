@@ -1,8 +1,8 @@
 ---
-layout: telefonos
+layout: post
 title: Términos y Condiciones de Uso | Terminal de Transporte
 description: Condiciones de uso de la página Terminal de Transporte
-h1: Término y condiciones, privacidad y aspectos legales del uso de terminaldetransporte.com
+h1: Término y condiciones, privacidad y aspectos legales de nuestro portal
 noindex: true
 ---
 ## Aviso legal para sitio web de Terminal de Transporte

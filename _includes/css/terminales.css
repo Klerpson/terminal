@@ -2,12 +2,6 @@
   display: grid;
 }
 
-.terminales img{
-  border-radius: var(--radius);
-  max-width: 100%;
-  transition: all .2s ease;
-}
-
 .terminales section{
   display: grid;
   gap: .8rem;
@@ -29,6 +23,12 @@
   position: relative;
   color: var(--principal);
   max-width: 100%;
+}
+
+.terminales article a img{
+  border-radius: var(--radius);
+  max-width: 100%;
+  transition: all .2s ease;
 }
 
 .terminales section a:hover img{

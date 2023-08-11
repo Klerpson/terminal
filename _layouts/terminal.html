@@ -10,68 +10,24 @@ layout: default
       <h2>{{page.h2_2}}</h2>
       <span class="destacado">Empresas de la terminal</span>
     </div>
-    <article>
-      <img
-      src="{{site.baseurl}}/img/{{page.empresa_img_1}}"
-      alt="{{page.empresa1}}"
-      loading="lazy"
-      width="400"
-      />
-      <h3>Teléfono de {{page.empresa1}}</h3>
-      <p><strong>{{page.empresa1_telf}}</strong></p>
-    </article>
-    <article>
-      <img
-      src="{{site.baseurl}}/img/{{page.empresa_img_2}}"
-      alt="{{page.empresa2}}"
-        loading="lazy"
-        width="400"
-      />
-      <h3>Teléfono de {{page.empresa2}}</h3>
-      <p><strong>{{page.empresa2_telf}}</strong></p>
-    </article>
-    <article>
-      <img
-        src="{{site.baseurl}}/img/{{page.empresa_img_3}}"
-        alt="{{page.empresa3}}"
-        loading="lazy"
-        width="400"
-      />
-      <h3>Teléfono de {{page.empresa3}}</h3>
-      <p><strong>{{page.empresa3_telf}}</strong></p>
-    </article>
-    <div class="terminal_telefonos">
-      <h4>
-        ¿Necesitas los teléfonos de las empresas de {{page.h1 | downcase}}?
-      </h4>
-      <ul>
-        <li>
-          <span>1</span>Haz clic en el botón <strong>"Ver más empresas"</strong>
-        </li>
-        <li><span>2</span>Busca la empresa que necesitas</li>
-        <li><span>3</span>Marca el número de la empresa</li>
-        <li>
-          <span>4</span>Baja al final y <strong>descarga el PDF</strong> con
-          todos los números
-        </li>
-      </ul>
-      <a
-      href="{{page.url}}/{{page.pdf}}"
-        title="Teléfonos de las empresas de transporte en {{page.title}}"
-        >Ver más Teléfonos</a
-      >
-    </div>
-  </div>
-  <div class="terminal_intro">
-    <p>{{page.p_1}}</p>
-  </div>
+    <ul>
+
+      {% for empresas in page.empresas %}
+      {% for data in empresas %}
+      <li>
+        <h3>{{data[0]}}</h3>
+        <p><strong>Teléfono: {{data[1]}}</strong></p>
+      </li>
+        {% endfor %}
+        {% endfor %}
+    </ul>
+    <blockquote>{{page.p_1}}</blockquote>
 </section>
 {% endif %}
 
 <main class="terminal-info">
   <div>
     {% include add2.html %}
-    {% include img.html webps=page.webps webpm=page.webpm webpb=page.webpb hero=page.hero alt=page.alt %}
     {{content}}
   </div>
 </main>
@@ -129,13 +85,6 @@ layout: default
       </p>
     </li>
   </ul>
-  <div>
-    <h3>
-      ¿Necesitas guía para llegar hasta {{page.h1}}? Haz clic en el cuadrito
-      blanco del mapa
-    </h3>
-    {{page.iframe}}
-  </div>
 </section>
 
 <a href="#">{% include boton-up.html %}</a>
