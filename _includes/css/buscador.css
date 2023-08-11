@@ -2,11 +2,16 @@
   background-color: var(--complemento1);
   box-shadow: 0 0 0 100vmax var(--complemento1);
   clip-path: inset(0 -100vmax);
+  padding: 0 16px;
 }
 
 .buscador div{
   display: grid;
   place-items: center;
+}
+
+.buscador input{
+  border: none;
 }
 
 .buscador div input,
