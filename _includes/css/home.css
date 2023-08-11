@@ -6,11 +6,10 @@
 }
 
 .gallery a{
-  color: var(--principal);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  max-width: 320px;
+  max-width: 400px;
   text-align: center;
   border: 1.5px solid var(--gris1);
   border-radius: var(--radius);
@@ -24,7 +23,7 @@
 .gallery a h3{
   font-family: var(--fuenteTexto);
   margin: 0;
-  padding: 12px 16px;
+  padding: 4px;
 }
 
 .intro{
@@ -107,39 +106,36 @@ gap: 1em;
   font-family: var(--fuenteGraficas);
 }
 
-.blog-intro {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(580px, 1fr));
+.blog-intro{
+  display: flex;
+  flex-wrap: wrap;
   gap: 1em;
+  justify-content: center;
 }
 
 .blog-intro h3{
-  grid-column: 1 / -1;
-  text-align: center;
+  width: 100%
 }
 
 .blog-intro article{
-  border: 1px solid var(--gris1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 360px;
+  text-align: center;
+  border: 1.5px solid var(--gris1);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
+  overflow: hidden;
 }
 
-.blog-intro article a{
-  display: flex;
-  color: var(--principal);
-  align-items: center;
-}
-
-
-.blog-intro article a h4{
+.blog-intro article h4{
   margin: 0;
-  padding: 12px;
+  padding: 8px;
 }
 
-.blog-intro article a img{
-  width: min(100%, 200px);
-  border-radius: 12px 0 0 12px;
-
+.blog-intro article img{
+  max-width: 100%;
 }
 
 .conclusion{

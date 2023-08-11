@@ -103,19 +103,8 @@ h1: Las terminales de transporte terrestre más buscadas de Colombia
         <h4>{{ post3.h1 | truncate: 68 }}</h4>
       </a>
     </article>
-    {% assign post4 = site.posts[3] %}
-    <article>
-      <a href="{{site.baseurl}}{{ post4.url }}">
-        <img
-          src="{{ site.baseurl }}/img/{{ post4.webps }}"
-          alt="{{ post4.alt }}"
-          loading="lazy"
-        />
-        <h4>{{ post4.h1 | truncate: 68 }}</h4>
-      </a>
-    </article>
-    <div>{% include add1.html %}</div>
   </section>
+  <div style="width: min(100%, 1200px); margin-inline: auto;">{% include add1.html %}</div>
   
   <div style="height: 150px; overflow: hidden">
     <svg
