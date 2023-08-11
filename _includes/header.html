@@ -72,9 +72,9 @@
     
   </nav>
   {% if page.layout != "post" %}
+  {% if page.url == "/" %}
   <div class="title">
     <h1>{{page.h1}}</h1>
-  {% if page.url == "/" %}
       <a href="{{site.baseurl}}/terminales-de-colombia" title="Terminales de Colombia">Ver todas</a>
     </div>
     {% include gallery.html %}

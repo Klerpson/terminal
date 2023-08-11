@@ -7,10 +7,12 @@ h1: El blog de los viajes en bus por Colombia está en nuestra terminal
 {% include head.html %}
 
 <body>
+  
   {% include header.html %}
-
+  
   <a href="#">{% include boton-up.html %}</a>
   <main class="blog-main">
+    <h1>{{page.h1}}</h1>
     <!--------- ARTICULO PRINCIPAL --------->
     <article class="blog-first">
       {% assign post1 = site.posts[0] %}
