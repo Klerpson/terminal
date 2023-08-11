@@ -109,43 +109,37 @@ gap: 1em;
 
 .blog-intro {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 3rem;
+  grid-template-columns: repeat(auto-fill, minmax(580px, 1fr));
+  gap: 1em;
 }
 
-.blog-intro div{
-  display: grid;
-  place-content: center;
-}
-
-.blog-intro div h2{
-  margin-bottom: .8rem;
-}
-
-.blog-intro div p{
-  padding: 0;
+.blog-intro h3{
+  grid-column: 1 / -1;
+  text-align: center;
 }
 
 .blog-intro article{
   border: 1px solid var(--gris1);
   border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
-.blog-intro a{
+.blog-intro article a{
+  display: flex;
   color: var(--principal);
+  align-items: center;
 }
 
-.blog-intro a h3{
-padding: .8rem;
+
+.blog-intro article a h4{
+  margin: 0;
+  padding: 12px;
 }
 
-.blog-intro p{
-  padding: 0 .8rem .8rem;
-}
+.blog-intro article a img{
+  width: min(100%, 200px);
+  border-radius: 12px 0 0 12px;
 
-.blog-intro article img{
-  max-width: 100%;
-  border-radius: 12px 12px 0 0;
 }
 
 .conclusion{

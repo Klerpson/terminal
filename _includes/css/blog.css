@@ -248,6 +248,7 @@
   border-radius: 8px;
   padding: 2rem;
   margin: 2em 0;
+  background-color: var(--complemento2);
 }
 
 .post-content blockquote h4{

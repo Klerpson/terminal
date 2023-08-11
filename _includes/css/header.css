@@ -29,9 +29,10 @@ header .title h1{
 }
 
 header .title a {
-  color: var(--accion);
+  color: var(--principal);
   text-transform: initial;
   font-size: .8rem;
+  font-weight: bolder;
 }
 
 header img{
