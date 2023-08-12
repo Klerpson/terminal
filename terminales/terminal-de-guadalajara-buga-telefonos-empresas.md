@@ -16,30 +16,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
-| **Coodetrans Palmira** | 6022711270 – 3148777958 - 3183818225 |
-| **Coomotor** | 3164814577 |
-| **Cooperativa de Occidente** | 6022373995 - 3217728904 |
-| **Cooperativa de Transportadores CiudadSeñora de Buga** | 6022370522 - 3176405903 - 3154352342 |
-| **Coopetrans de Tuluá** | 6022370700 - 6022362984 - 3164515250 -3154352342 |
-| **Copetrán** | 6022362984 – 3157150432 |
-| **Empresa Arauca** | 3136490368 |
-| **Expreso Bolivariano** | 6022280479 - 3204883766 |
-| **Expreso Brasilia** | 3215470179 |
-| **Expreso Palmira** | 6022271776 - 3147909064 |
-| **Expreso Trejos** | 6022276586 - 3147909064 |
-| **Flota Magdalena** | 602281271 - 3102995508 - 3158152383 |
-| **Líneas de la Fe** | 6022360155 - 3102995508 - 3502051346 |
-| **Líneas del Valle** | 3164335392 - 3138714640 |
-| **Líneas Panorama** | 3183644119 |
-| **Tax Central** | 6022274894 |
-| **Transcalima** | 3108464790 |
-| **Transginebra** | 3152307690 |
-| **Transportes Buga** | 6022367698 |
-| **Transportes Industriales** | 3148348454 |
-| **Transportes Montebello** | 3183644119 |
-| **Transportes Quilichao** | 3183502390 |
-| **Transportes Unidos Buga** | 6022283111 |
-| **Velotax** | 6022280073 - 3122820081 |
+
 
 ## Rutas y destinos desde el Terminal de Buga
 

@@ -20,22 +20,7 @@ Para hacerlo, sigue estos 3 pasos:
 
 |🚌 EMPRESAS | ☎ TELÉFONO |
 | :--- | :--- |
-| Berlinas del Fonce | 3187350592 - 3187350592 - 0356631999 - 0356631999 - 0356632134 -0356632134 |
-| Colibertador | 0356632134 - 0356632134 |
-| Concorde | 0353231050 - 0353231050 |
-| Cootragua | 0356631999 - 0356631999 |
-| Copetran | 3008651075 - 3008651075 - 0356632058 - 0356632058 - 0356632O45 -0356632O45 |
-| Expreso Almirante Padilla | 0356632045 - 0356632045 - 0356632058 - 0356632058 |
-| Expreso Brasilia | 3008150114 - 3008150114 - 3157545834 - 3157545834 - 0356632119 -0356632119 - 0356632119 - 0356632119 |
-| Expreso Amerlujo | 0356632099 - 0356632099 - 0356632119 - 0356632119 - 0356632099 -0356632099 |
-| La Costeña | 0356530907 - 0356530907 - 0356532536 - 0356532536 |
-| La Veloz | 0356631658 - 0356631658 |
-| Rápido El Carmen | 0356631658 - 0356631658 - 0356632591 - 0356632591 |
-| Rápido Ochoa | 0356531383 - 0356531383 - 0356632356 - 0356632356 - 0356632486 -0356632486 |
-| Sotracor | 0356632356 - 0356632356 - 0356632486 - 0356632486 |
-| Transportes González | 0356533642 - 0356533642 |
-| Transportes Luz | 0356530269 - 0356530269 |
-| Unitransco | 0356611822 - 0356611822 - 0356632067 - 0356632067 - 0356632072 -0356632072 |
+
 
 **Las empresas de transporte que trabajan en la terminal de Cartagena están avaladas por el Ministeriode Transporte**. Son totalmente autónomas para establecer sus tarifas y horarios según lastemporadas y estrategias de mercado.
 

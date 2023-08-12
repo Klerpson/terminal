@@ -28,7 +28,6 @@ empresa2_telf: 6014249090
 empresa3_telf: 6014212256
 contacto: https://ttvillavo.co/contacto/
 pdf: telefonos-empresa-terminal-villavicencio
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.4445128652123!2d-73.6037058!3d4.1326089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3e2e87b27f3c3d%3A0xc534aaf798076eb8!2sTerminal%20De%20Transportes%20De%20Villavicencio%2C%20Villavicencio%2C%20Meta!5e0!3m2!1ses-419!2sco!4v1689936889733!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: 'Cra. 1 # 15 - 05 Anillo Vial'
 telefono: 6086606535
@@ -42,6 +41,21 @@ reviews: 4019
 latitude: 4.1321
 longitude: -73.6074057
 permalink: /terminal-de-villavicencio
+empresas:
+  - Transportes Armenia: 6620425 – 6622109 - 7478040
+  - Trans Autollanos: 6655516 – 6655517 - 3118000463
+  - Expreso Bolivariano: 6655562 – 6655526
+  - Copetran: 3235639139
+  - Cootransariari: 6581045
+  - Cootranscaqueza: 3102851476
+  - Coflonorte Ltda: 7705815
+  - Flota La Macarena: 6655505 - 3203001215 - 3107748786
+  - Flota Sugamuxi: 6655563 – 312 457 9829
+  - Rápido Los Centauros: 6674747 – 6653215 - 6606283
+  - Tax Meta: 6626320 - 3144702107 - 6655566
+  - Transoriente: 6626320
+  - Transportes Morichal: 6711236 – 6721992 - 6655588
+  - Velotax: 6632212
 ---
 ## Terminal de buses de Villavicencio
 
@@ -54,8 +68,6 @@ Ubicada en el departamento de Meta, la terminal de Villavicencio es una de las m
 Si estás buscando viajar **a Villavicencio desde [Bogotá]({{site.baseurl}}/terminal-de-bogota), puedes tomar un bus en el terminal del sur**. Muchas compañías de transporte, como Bolivariano, ofrecen pasajes para llegar a la terminal de Villavicencio.
 
 Si estás en otra ciudad, también puedes llegar directamente a la terminal de Villavicencio a través de distintas empresas de transporte.
-
-[Empresas de la terminal de Villavicencio]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 {% include add1.html %}
 

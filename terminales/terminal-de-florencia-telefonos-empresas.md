@@ -18,11 +18,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
-| **Coomotor Florencia** | 6084353109 - 3125841660 |
-| **Coomotor** | 6084354846 - 3176394265 |
-| **Expreso Bolivariano** | 6084353570 |
-| **Rápido Tolima** | 604354455 |
-| **Taxis verdes** | 6084358486 - 3143300515 |
+
 
 Las empresas de transporte que trabajan en la terminal de Florencia están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 

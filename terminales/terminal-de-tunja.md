@@ -28,7 +28,6 @@ empresa2_telf: 3133335700
 empresa3_telf: 3152241099
 contacto: https://terminaltunja.com/servicioalciudadano/
 pdf: telefonos-empresa-terminal-tunja
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7942.517129180244!2d-73.36913520642086!3d5.528606700000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e6a7dd27071e03f%3A0x14d47647e2f63b4a!2sTerminal%20de%20Transportes%20de%20Tunja!5e0!3m2!1ses-419!2sco!4v1688496978948!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: 'Av. Circunvalar # 18-221'
 telefono: 3102346565
@@ -42,6 +41,40 @@ reviews: 86
 latitude: 5.5286067
 longitude: -73.359608
 permalink: /terminal-de-tunja
+empresas:
+  - AUTOBOY S.A.: 3138873795 - 3202717016
+  - ARCOTRANS S.A: 3107997338
+  - BERLINAS: 3164734956
+  - CITRACOM: 3112889489
+  - COFLONORTE: 3144429895
+  - COMULTRANSVILLA: 3208353652
+  - CONCORDE: (608) 7423661
+  - COOFLOTAX: (608) 7602888 - 3133938967
+  - COOTAX: 3123683064
+  - COOTRACERO: (608) 7703256
+  - COOTRACHICA: (608) 7603143
+  - COOTRADELSOL: (608) 7700000
+  - COOTRANS: 3204427243
+  - COOTRANSRICAURTE: 3202511373
+  - COOTRANSVALLE SAMACA: (608) 7372121
+  - COPETRAN: 3133335700
+  - EL RAPIDO DUITAMA: 3212731773
+  - EXPRESO BRASILIA: 018000518001
+  - EXPRESO GAVIOTA: 4101300
+  - FLOTA LA MACARENA: (601) 4212256
+  - FLOTA SUGAMUXI: 3204909540
+  - FLOTA VALLE DE TENZA: 3104801503
+  - GRAN COLOMBIANA: 3229107797 - 3145097786
+  - LA VERDE: 3175166289
+  - LIBERTADORES: 3102983812 - 3229059979
+  - LOS DELFINES: 3144429514
+  - NUEVA FLOTA BOYACÁ: 3115127727
+  - OMEGA: 3203338614
+  - PATRIOTAS: 3152241099
+  - PAZ DEL RIO: 3208090289
+  - TRANSSANDER: 3164734956
+  - TRANSPORTE LA REINA: 3175166289
+  - TRANSPORTE MUISCAS: (608) 7425879
 ---
 {% include add1.html %}
 
@@ -70,8 +103,6 @@ Además, la terminal cuenta con un personal altamente capacitado para atender la
 ### Empresas de buses en la terminal
 
 Diversas empresas de transporte operan en la Terminal de Tunja, ofreciendo rutas a diferentes regiones del país. Estas empresas cuentan con una flota de buses modernos y seguros, garantizando un viaje cómodo y seguro a los pasajeros.
-
-[Empresas de la terminal de tunja]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ----
 

@@ -16,10 +16,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
-| **Coomotor** | 6088332177 |
-| **Flota Huila** | 6088736417 - 6088731001 |
-| **Cootranshuila** | 6084297760 |
-| **Taxis Verdes** | 6088332412 |
+
 
 Las empresas de transporte que trabajan en la terminal de Garzón están avaladas por el Ministerio de Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 

@@ -14,20 +14,7 @@ Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empres
 
 | 🚌 EMPRESA | ☎ TELÉFONO |
 | :--- | :--- |
-| **Coolibertador** | 6055716196 |
-| **Copetrán** | 6055716083 - 6055716201 |
-| **Cotracegua** | 6055716202 |
-| **Cotracosta** | 6055716203 |
-| **Cotragua** | 6055717563 |
-| **Expreso Brasilia** | 6055716197 - 6055716540 |
-| **Hacaritama** | 6055717517 |
-| **La Costeña** | 6055717519 |
-| **La Veloz** | 6055717374 |
-| **Rápido Ochoa** | 6055716087 - 6055716090 |
-| **Transicarare** | 6055706692 |
-| **Unitrasco** | 6055716197 |
-| **Continentalbus** | 3003870041 |
-| **Cotaxi** | 3138700052 |
+
 
 Las empresas de transporte que trabajan en la terminal de Valledupar están avaladas por el Ministeriode Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según lastemporadas y estrategias de mercado.
 

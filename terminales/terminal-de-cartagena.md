@@ -27,7 +27,6 @@ empresa2_telf: 3008150114
 empresa3_telf: 3008651075
 contacto: https://www.terminaldecartagena.com/contacto/
 pdf: telefonos-empresa-terminal-cartagena
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3924.2665974177035!2d-75.4588856!3d10.4003879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6244220c58681%3A0xea448a661d47813!2sTerminal%20de%20Transporte%20Cartagena!5e0!3m2!1ses!2sco!4v1676654816197!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Carretera la Cordialidad # 24 - 236"
 telefono: 6056630317
@@ -41,6 +40,23 @@ reviews: 6812
 latitude: 10.4003879
 longitude: -75.4610743
 permalink: /terminal-de-cartagena
+empresas:
+  - Berlinas del Fonce: 3187350592 - 3187350592 - 0356631999 - 0356631999 - 0356632134 -0356632134
+  - Colibertador: 0356632134 - 0356632134
+  - Concorde: 0353231050 - 0353231050
+  - Cootragua: 0356631999 - 0356631999
+  - Copetran: 3008651075 - 3008651075 - 0356632058 - 0356632058 - 0356632O45 -0356632O45
+  - Expreso Almirante Padilla: 0356632045 - 0356632045 - 0356632058 - 0356632058
+  - Expreso Brasilia: 3008150114 - 3008150114 - 3157545834 - 3157545834 - 0356632119 -0356632119 - 0356632119 - 0356632119
+  - Expreso Amerlujo: 0356632099 - 0356632099 - 0356632119 - 0356632119 - 0356632099 -0356632099
+  - La Costeña: 0356530907 - 0356530907 - 0356532536 - 0356532536
+  - La Veloz: 0356631658 - 0356631658
+  - Rápido El Carmen: 0356631658 - 0356631658 - 0356632591 - 0356632591
+  - Rápido Ochoa: 0356531383 - 0356531383 - 0356632356 - 0356632356 - 0356632486 -0356632486
+  - Sotracor: 0356632356 - 0356632356 - 0356632486 - 0356632486
+  - Transportes González: 0356533642 - 0356533642
+  - Transportes Luz: 0356530269 - 0356530269
+  - Unitransco: 0356611822 - 0356611822 - 0356632067 - 0356632067 - 0356632072 -0356632072
 ---
 ## Información de la terminal de transporte de Cartagena
 
@@ -53,8 +69,6 @@ La Terminal de Transporte de Cartagena es un punto clave para el transporte en l
 Con **15 líneas de transporte** que ofrecen servicios intermunicipales y departamentales, la terminal es una opción conveniente para aquellos que buscan viajar dentro y fuera de la ciudad.
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
-
-[Empresas de la terminal de Cartagena]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ### Hoteles cerca a la terminal de buses de Cartagena
 

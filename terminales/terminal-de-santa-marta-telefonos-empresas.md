@@ -14,22 +14,7 @@ Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empres
 
 | 🚌 EMPRESA | ☎ TELÉFONO |
 | :--- | :--- |
-| **Almirante Padilla** | 6054301510 |
-| **Berlinas del Fonce** | 6054302027 - 3157167909 |
-| **Cootracar** | 6054301569 - 6054141505 |
-| **Cootracegua** | 6054301510 - 6054301210 |
-| **Cootracosta** | 6054304758 - 6054301569 |
-| **Cootragua** | 6054301510 - 6054301650 - 6054302728 |
-| **Cootransbol** | 6054309876 |
-| **Copetrán** | 6054301750 - 6054301607 |
-| **Expreso Amerlujo** | 6054306054144 |
-| **Expreso Brasilia** | 3215471422 – 3215470174 - 3215419786 -3145815452 |
-| **Libertador** | 6054302028 - 6054330005 |
-| **Rápido Ochoa** | 6054302028 - 6054448888 |
-| **Trans La Costeña** | 6054306318 - 6054301210 |
-| **Trans La Veloz** | 6054306318 - 6054301750 |
-| **Trans Sensación** | 6054301598 |
-| **Transportes InternacionalesOrmeño** | 6054212547 |
+
 
 Las empresas de transporte que trabajan en la terminal de Santa Marta están avaladas por el Ministeriode Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según lastemporadas y estrategias de mercado.
 

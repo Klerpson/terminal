@@ -28,7 +28,6 @@ empresa2_telf: 3158706465
 empresa3_telf: 3143300509
 contacto: https://terminalflorencia.com/#/contacto
 pdf: telefonos-empresa-terminal-florencia
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15952.894711868958!2d-75.6099818!3d1.6199708!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e244e03483c3553%3A0xd585520f5000dc1f!2sTerminal%20de%20Transportes%20de%20Florencia!5e0!3m2!1ses-419!2sco!4v1683304976874!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: 'Cra. 7a #No. 18-146'
 telefono: 6084353235
@@ -42,6 +41,12 @@ reviews: 1903
 latitude: 1.620136
 longitude: -75,61014
 permalink: /terminal-de-florencia
+empresas:
+  - Coomotor Florencia: 6084353109 - 3125841660
+  - Coomotor: 6084354846 - 3176394265
+  - Expreso Bolivaria|no: 6084353570
+  - Rápido Tolima: 604354455
+  - Taxis verdes: 6084358486 - 3143300515
 ---
 ## La terminal de transporte de Florencia, la más moderna de la zona amazónica
 

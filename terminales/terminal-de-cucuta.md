@@ -27,7 +27,6 @@ empresa2_telf: 3107883333
 empresa3_telf: 3204871160
 contacto: https://home.terminalcucuta.gov.co/contacto/
 pdf: telefonos-empresa-terminal-cucuta
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3951.993980617109!2d-72.5080074!3d7.8956965!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e6645707d69c31d%3A0x1e01d8744f37138f!2sTerminal%20de%20Transporte%20C%C3%BAcuta!5e0!3m2!1ses!2sco!4v1676661631070!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: Transversal 9 No 4N - 125 Oficina 201
 telefono: 6075836580
@@ -41,6 +40,31 @@ reviews: 5630
 latitude: 7.8956965
 longitude: -72.5101961
 permalink: /terminal-de-cucuta
+empresas:
+  - EXPRESO BOLIVARIANO: 3204883744 - 3118107689
+  - EXPRESO BRASILIA: 018000518001 - #502 - 3205020000 - 3215470160
+  - OMEGA: 310 7693171 – 320 5805878 - 320 3330461 – 3203496612
+  - COPETRAN: 313 3335681 – 313 3335682 – 313 3335680
+  - BERLINAS DEL FONCE: 6075726379 – 6075875105 – 3156022683 - 3156784880
+  - CONCORDE: 3232416614 - 3143149820
+  - COTRANAL: 3108711951 - 6075682562 - 3132914887 – 313 2916160- 313 2917369
+  - COOTRANSUNIDOS: 3017329491 - 3153194060
+  - COTRASUR: 6075875127 – 315-3367754
+  - COTRAGUA: 6075650288 – 320 9086405
+  - COTRANS: 310 6808629 - 310 6808052
+  - COTRANSPROVIDENCIA: 3203388786 – 6075791571
+  - COTRANSCAT: 317 6363416 - 317 7171861- 315 3378522
+  - FLOTA SUGAMUXI LIBERTADORES: 320 2717082
+  - TRANSPORTES PERALONSO: 318 4653244 – 305 9365334 – (607)5723706
+  - COOPTRANSORIENTE: 310 3409497 – 313 8048224
+  - TRANS BELENCITA: 6075713695
+  - COOTRANSTAME: 310 8094124
+  - COOPMOTILON: 3222634581 - 6075684015
+  - EXPRESO BARI: 312 316 8152
+  - EXTRA RÁPIDO LOS MOTILONES: 312 4482288 - 60757212079 - (607)5830341
+  - COTAXI: 313 8880476 - 312 5953928
+  - COOTRASAR: 310 7892985
+  - CATATUMBO TRAINDLS: 301 6424472 - 320 9944997
 ---
 ## Información de la terminal de buses de Cúcuta
 
@@ -55,8 +79,6 @@ En la terminal encontrarás una gran variedad de empresas de transporte terrestr
 Entre las empresas que operan en la Terminal de Transporte de Cúcuta se encuentran **Expreso Brasilia, Fronteras, Berlinas del Fonce, Copetran, Omega, entre otras**.
 
 Haz clic en el siguiente botón para contactar directamente con estas empresas.
-
-[Empresas de la terminal de Cúcuta]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 Encontrarás fácilmente tus **pasajes a Bogotá, a Cali, Medellín y otras ciudades principales de Colombia**.
 

@@ -27,7 +27,6 @@ empresa2_telf: 3147909064
 empresa3_telf: 3122820081
 contacto: https://terminalesmedellin.com/pqrsd/
 pdf: telefonos-empresa-terminal-buga
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.584336192619!2d-76.31355378476839!3d3.8988760491722156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e39e65c1a6ff2fd%3A0xe8c4128d6d79b350!2sTerminal%20de%20Transportes%20de%20Buga!5e0!3m2!1ses!2sco!4v1676679332358!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Calle 4 23-91"
 telefono: 3155107475
@@ -40,6 +39,31 @@ reviews: 6424
 latitude: 3.898876
 longitude: -76.3135591
 permalink: /terminal-de-buga
+empresas:
+  - Coodetrans Palmira: 6022711270 – 3148777958 - 3183818225
+  - Coomotor: 3164814577
+  - Cooperativa de Occidente: 6022373995 - 3217728904
+  - Cooperativa de Transportadores CiudadSeñora de Buga: 6022370522 - 3176405903 - 3154352342
+  - Coopetrans de Tuluá: 6022370700 - 6022362984 - 3164515250 -3154352342
+  - Copetrán: 6022362984 – 3157150432
+  - Empresa Arauca: 3136490368
+  - Expreso Bolivariano: 6022280479 - 3204883766
+  - Expreso Brasilia: 3215470179
+  - Expreso Palmira: 6022271776 - 3147909064
+  - Expreso Trejos: 6022276586 - 3147909064
+  - Flota Magdalena: 602281271 - 3102995508 - 3158152383
+  - Líneas de la Fe: 6022360155 - 3102995508 - 3502051346
+  - Líneas del Valle: 3164335392 - 3138714640
+  - Líneas Panorama: 3183644119
+  - Tax Central: 6022274894
+  - Transcalima: 3108464790
+  - Transginebra: 3152307690
+  - Transportes Buga: 6022367698
+  - Transportes Industriales: 3148348454
+  - Transportes Montebello: 3183644119
+  - Transportes Quilichao: 3183502390
+  - Transportes Unidos Buga: 6022283111
+  - Velotax: 6022280073 - 3122820081
 ---
 ## Terminal de buses de Buga
 
@@ -62,7 +86,7 @@ Mientras estás en la terminal de Buga, puedes utilizar los siguientes servicios
 * Salas de espera
 * Servicio de Wi-Fi gratuito
 
-También, puedes comprar los pasajes directamente con [las empresas de la terminal de Buga]({{'terminal-de-buga/telefonos-empresa-terminal-buga'|relative_url}} "Empresas de la terminal de Buga"). La siguiente lista de precios de los pasajes desde la Terminal de Transportes de Buga son valores promedios:
+También, puedes comprar los pasajes directamente con las empresas de la terminal de Buga. La siguiente lista de precios de los pasajes desde la Terminal de Transportes de Buga son valores promedios:
 
 * Pasaje a Cali: desde $15.000 COP
 * Pasaje a Bogotá: desde $70.000 COP

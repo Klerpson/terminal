@@ -27,7 +27,6 @@ empresa2_telf: 6088756365
 empresa3_telf: 3143300514
 contacto: https://www.terminalgarzon.com/
 pdf: telefonos-empresa-terminal-garzon
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15947.55871129007!2d-75.641602!3d2.1954362!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e24d99f0323a68d%3A0x134a9f31b5858430!2sTerminal%20De%20Transportes%20De%20Garz%C3%B3n!5e0!3m2!1ses-419!2sco!4v1683309446926!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: 'Trans 21 No. 3B-49, Garzón, Huila'
 telefono: 6088332247
@@ -40,6 +39,11 @@ reviews: 3062
 latitude: 2.1954362
 longitude: -75.641602
 permalink: /terminal-de-garzon
+empresas:
+  - Coomotor: 6088332177
+  - Flota Huila: 6088736417 - 6088731001
+  - Cootranshuila: 6084297760
+  - Taxis Verdes: 6088332412
 ---
 ## Terminal de buses de Garzón Huila
 

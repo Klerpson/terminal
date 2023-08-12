@@ -27,7 +27,6 @@ empresa2_telf: 6076371301
 empresa3_telf: 6076375495
 contacto: https://terminalbucaramanga.com/es/cont%C3%A1ctenos
 pdf: telefonos-empresa-terminal-bucaramanga
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31673.758993357038!2d-73.1429838022356!3d7.100496258388279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e683faddaa482e3%3A0x7525deaf943ac2a2!2sTerminal%20de%20Transporte%20Bucaramanga!5e0!3m2!1ses!2sco!4v1676635260955!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: 'Transversal Metropolitana Modulo 1 Oficina 712'
 telefono: 6076371000
@@ -42,6 +41,31 @@ reviews: 2234
 latitude: 7.1004539
 longitude: -73.134229
 permalink: /terminal-de-bucaramanga
+empresas:
+  - AUTOBOY LIBERTADORES: 6076377040 - 6076377040 - 6076334929
+  - BERLINAS DEL FONCE: 6076371649 - 6076370700 - 6076370700 - 6076304468 -6076304036
+  - CATATUMBO TRAINDLS SAS: 321 970 3280
+  - COTRAGUA: 6076373900 - 6076373900 - 6076707342
+  - COPTMOTILON: 6076373330 - 6076373330 - 6076452684 - 6076453059
+  - COOTRANSMAGDALENA: 6076373400 – - 6076370400 - 6076377400 - 6076371301 -6076450044 - 6076359808
+  - COOTRANSUNIDOS: 300 5718792 - 300 5718792
+  - COOTRANSTAME RICAUTE: 6076378844 - 6076378844 - 6076450037 - 6076450037 -6076424743
+  - COOTRASARAVITA: 6076373100 - 6076373100 - 6076304380 - 6076304380
+  - COPETRAN: 6076376100 - 6076376800 - 6076376800 - 6076801111 -6076448167
+  - COOTRANSBOLIVAR CONCORDE: 6076809554 - 6076376111 3174380253
+  - COTAXI: 6076454161 - 6076372999 - 6076377999 - 6454161 -6076422225
+  - COTRANS: 6076371844 - 6076371844 - 6076334084 - 6076334084
+  - COTRANAL: 6076809959 - 6076370388 - 6076428448 - 6076525749
+  - COTRASANGIL: 6076377776 - 6076377768 - 6076377768 - 6076304730
+  - EXTRA RAP MOTILONES: 6076372500 - 6076372700 - 6076340044 - 6076346999
+  - EXPRESO BOLIVARIANO: 6076375495 - 6076377800 - 6076375495
+  - EXPRESO BRASILIA: 6076971788 - 6076971788
+  - FLOTA SUGAMUXI: 6076375600 - 6076375600 - 6076346219
+  - LUSITANIA: 6076377829 - 6076377711 - 6076377711 - 6076450077
+  - OMEGA: 6076372111 - 6076801717 - 6076374111 - 6076461464
+  - TRANSPORTES REINA: 6076374000 - 6076374000
+  - TRASSANDER: 6076377722 - 6076801066 - 6076359234
+  - FLOTA CACHIRA: 6076422218 - 313 397 06 34 - 6076525403 - 6076426896
 ---
 ## Información sobre la terminal de transporte de Bucaramanga
 
@@ -78,7 +102,5 @@ En la Terminal de Transporte de Bucaramanga puedes encontrar empresas de transpo
 Estas empresas ofrecen una amplia variedad de destinos dentro y fuera de Santander, incluyendo ciudades como Bogotá, Medellín, Cúcuta, Barranquilla y Cartagena, entre otras.
 
 Haz clic en el siguiente botón para ver sus números y comprar tus pasajes directamente con las empresas, ¡sin intermediarios!
-
-[Empresas de la terminal de Bucaramanga]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 Utiliza toda esta información que preparamos para planear tu viaje, comprar tus tiquetes y disfrutar de tu estadía en Bucaramanga.

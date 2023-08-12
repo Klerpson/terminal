@@ -28,7 +28,6 @@ empresa2_telf: 3204738456
 empresa3_telf: 6063202605
 contacto: https://www.terminalpereira.com/ttp/contactenos/
 pdf: telefonos-empresa-terminal-pereira
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15903.247734632163!2d-75.6939329!3d4.8023218!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e38876a8a59ee67%3A0x4ae1d6ff11d60821!2sTerminal%20de%20Transporte%20de%20Pereira!5e0!3m2!1ses-419!2sco!4v1688511815610!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Calle 17 N° 23-157"
 telefono: 6063152321
@@ -43,6 +42,15 @@ reviews: 20041
 latitude: 4.8023218
 longitude: -75.6939329
 permalink: /terminal-de-pereira
+empresas:
+  - Expreso Bolivariano: 6063222080 - 6063202605
+  - Velotax: 6063210808 - 6063212594
+  - Flota Magdalena: 3102050043
+  - Flota Occidental: 6063211656
+  - Coomotor: 6063214254
+  - Cootranshuila: 6063218761
+  - Expreso Palmira: 3147909074 - 3216298315
+  - Occidental: 6063211651
 ---
 ## Todo lo que necesitas saber sobre la Terminal de Transporte de Pereira
 
@@ -67,8 +75,6 @@ En la terminal también hay **restaurantes, cafeterías, papelerías, dulcerías
 ### Operadores de bus populares en la Terminal de Transporte de Pereira
 
 En la Terminal de Transporte de Pereira operan varias compañías de autobuses, todas ellas ofreciendo un servicio de calidad y atención excelente. Algunas de las más populares son Coochoferes, Flota Occidental, Flota Magdalena y [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}).
-
-[Empresas de la terminal de Pereira]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ----
 

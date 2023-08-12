@@ -20,14 +20,7 @@ Si tienes duda respecto a algún dato, por favor comunícate directamente con [l
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | --- | :---: |
-| **Expreso Bolivariano** | 6063222080 - 6063202605 |
-| **Velotax** | 6063210808 - 6063212594 |
-| **Flota Magdalena** | 3102050043 |
-| **Flota Occidental** | 6063211656 |
-| **Coomotor** | 6063214254 |
-| **Cootranshuila** | 6063218761 |
-| **Expreso Palmira** | 3147909074 - 3216298315 |
-| **Occidental** | 6063211651 |
+
 
 >Síguenos en instagram: @terminaldetransporte
 

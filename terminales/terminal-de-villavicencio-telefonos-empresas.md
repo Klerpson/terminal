@@ -14,20 +14,7 @@ Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empres
 
 | 🚌 EMPRESA | ☎ TELÉFONO |
 | :--- | :--- |
-| **Transportes Armenia** | 6620425 – 6622109 - 7478040 |
-| **Trans Autollanos** | 6655516 – 6655517 - 3118000463 |
-| **Expreso Bolivariano** | 6655562 – 6655526 |
-| **Copetran** | 3235639139 |
-| **Cootransariari** | 6581045 |
-| **Cootranscaqueza** | 3102851476 |
-| **Coflonorte Ltda** | 7705815 |
-| **Flota La Macarena** | 6655505 - 3203001215 - 3107748786 |
-| **Flota Sugamuxi** | 6655563 – 312 457 9829 |
-| **Rápido Los Centauros** | 6674747 – 6653215 - 6606283 |
-| **Tax Meta** | 6626320 - 3144702107 - 6655566 |
-| **Transoriente** | 6626320 |
-| **Transportes Morichal** | 6711236 – 6721992 - 6655588 |
-| **Velotax** | 6632212 |
+
 
 Las empresas de transporte que trabajan en la terminal de Villavicencio están avaladas por el Ministeriode Transporte. Son totalmente autónomas para establecer sus tarifas y horarios según lastemporadas y estrategias de mercado.
 

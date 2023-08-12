@@ -18,25 +18,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | --- | :--- |
-| **Berlinas del Fonce** | 3183414141 - 3183414141 - 3156022763 - 3156022763 3157167911 - 3157167911 |
-| **Berlitur** | 3156022763 - 3156022763 |
-| **Colibertador** | 3157167911 - 3157167911 |
-| **Concorde** | 3174342805 - 3174342805 - 6053231050 - 6053231050 - 6053233841 - 6053233841 |
-| **Cootracegua** | 6053232322 - 6053232322 - 6053266332 - 6053266332 3014324580 - 3014324580 |
-| **Cootracosta** | 3205390428 - 3205390428 - 6053448313 - 6053448313 6053230066 - 6053230066 |
-| **Cootragua** | 6053724808 - 6053724808 - 3024126256 - 3024126256 |
-| **Coopetran** | 3133335669 - 3133335669 - 6053230027 - 6053230027 - 6053230029 - 6053230029 |
-| **Expreso Almirante Padilla** | 3015859969 - 3015859969 |
-| **Expreso Armelujo** | 6053230102 - 6053230102 - 6053726328 - 6053726328 |
-| **Expreso Brasilia** | 6053230042 - 6053230042 - 3205020000 - 3205020000 - 6053230111 - 6053230111 |
-| **La Costeña** | 6053231360 - 6053231360 - 6053785119 - 6053785119 |
-| **La Veloz** | 6053236884 - 6053236884 - 6053231360 - 6053231360 |
-| **Libertadores** | 3222833398 - 3222833398 - 3114289244 - 3114289244 - 3105618986 - 3105618986 |
-| **Rápido Ochoa** | 3113839261 - 3113839261 - 6053230104 - 6053230104 - 6053230080 - 6053230080 |
-| **Torcoroma** | 6053232333 - 6053232333 - 3106109065 - 3106109065 |
-| **Transportes Gonzalez** | 3724272 - 6053724272 - 3013211143 - 3013211143 - 3116967253 - 3116967253 |
-| **Transportes LUZ** | 6053230075 - 6053230075 - 3106756621 - 3106756621 |
-| **Unitransco** | #502  |
+
 
 **Las empresas de transporte que trabajan en la terminal de Barranquilla están avaladas por el Ministerio de Transporte**. Son totalmente autónomas para establecer sus tarifas y horarios según las temporadas y estrategias de mercado.
 

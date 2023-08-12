@@ -27,7 +27,6 @@ empresa2_telf: 3203337095
 empresa3_telf: 6068788340
 contacto: https://www.terminaldemanizales.com.co/Paginas/AU.aspx
 pdf: telefonos-empresa-terminal-manizales
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3974.3360190901626!2d-75.50838668255616!3d5.049162700000009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e47654245811437%3A0xb0ba16140f5c9cc6!2sTerminal%20de%20Transportes%20de%20Manizales!5e0!3m2!1ses!2sco!4v1676724631358!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Carrera 43 # 65 – 100, barrio Los Cámbulos"
 telefono: 6068785641
@@ -42,6 +41,36 @@ reviews: 5350
 latitude: 5.0491627
 longitude: -75.5083867
 permalink: /terminal-de-manizales
+empresas:
+  - Arauca: 6068788340
+  - Autolegal Taxis: 6068787511 - 6068786700 - 3146788284
+  - Autolujo: 3136536273
+  - Cootracol: 3015064886
+  - Cootraman: 3122600698 - 6068784934
+  - Coopuertos: 3162714173
+  - Cootranshuila: 3153175602 - 6068786260
+  - Cootransnorcaldas: 3216415909 - 6068788075
+  - Cootransnorte: 3146320680 - 6068786633
+  - Cootransrío: 3116333701 - 6068788009
+  - Copetran: 3106798201 - 6068788040
+  - Expreso Bolivariano: 6068918799 - 6068829616 - 3203337095
+  - Expreso Brasilia: 3215419800 -
+  - Expreso Cafetero: 3003390424 - 6068786610
+  - Expreso Palmira: 3147909075 - 6068789181 - 3147909067
+  - Expreso Sideral: 3206939820 - 6068787533
+  - Expreso Trejos: 3206939820 - 6068787533 - 6068786555 - 3156617342 - 3116403503
+  - Flota Metropolitana: 6068808400
+  - Flota Occidental: 6068787721 - 3128341495
+  - Flota Ospina: 6068826161 - 3148882783
+  - Rápido Tolima: 6068786800 - 3153914211
+  - Rio Tax: 6068786156
+  - Suatomovil: 6068787160
+  - Tax La Feria: 6068787001 - 3148893954
+  - Transarmenia: 3206890826
+  - Transportes Anserma: 6068786505 - 3108301511
+  - Transportes Cambia: 6068786150 - 3113790511
+  - Transportes Alianza: 3187078687
+  - Transportes Irra: 6068787090 - 3104717924
 ---
 ## Más sobre la terminal de transporte de Manizales
 
@@ -54,8 +83,6 @@ La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur,
 ### Compra tus pasajes en la Terminal de Manizales
 
 La terminal de transporte de Manizales atiende más de 40 destinos nacionales. [Para comprar tus pasajes]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}), solo haz clic en **el botón para ver los teléfonos de las empresas de buses de la terminal de Manizales** que necesitas para comprar tu pasaje o tiquete de viaje.
-
-[Empresas de la terminal de Manizales]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ### Transporte público hasta la Terminal de Manizales
 
@@ -81,7 +108,7 @@ La terminal de Transporte de Manizales te ofrece los siguientes servicios:
 
 - **Carritos maleteros**: Disponibles en toda la terminal de forma gratuita.
 - **Guarda equipaje**: Bodega disponible para dejar tus pertenencias por cortos espacios de tiempo.
-- **Cajeros electrónicos**: Puedes encontrar cajeros de los bancos Davivienda, Bancolombia, Servibanca y Banco de Bogotá. También está la oficina del Bango de Bogotá.
+- **Cajeros electrónicos**: Puedes encontrar cajeros de los bancos Davivienda, Bancolombia, Servibanca y Banco de Bogotá. También está la oficina del Banco de Bogotá.
 - **Restaurantes y Cafeterías**: Encuentra opciones gastronómicas variadas en los locales asignados para esta zona.
 - **Locales comerciales**: Pequeños puestos comerciales en todo el local para que compres lo que necesites en tu viaje.
 - **Primeros auxilios**: Implementos y personal capacitado para atender las urgencias que se puedan presentar.

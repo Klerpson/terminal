@@ -27,7 +27,6 @@ empresa2_telf: 3108018518
 empresa3_telf: 3176369341
 contacto: https://tuterminalpitalito.com/pqrsf/
 pdf: telefonos-empresa-terminal-pitalito
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.704746050666!2d-76.03475958476506!3d1.8650436602218987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e250c64941a8b97%3A0x14304ee3accb606c!2sTerminal%20De%20Transporte%20De%20Pitalito%20S.A.!5e0!3m2!1ses!2sco!4v1676734966825!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Carrera 4 No 31-15"
 telefono: 3168786984
@@ -42,6 +41,25 @@ reviews: 3170
 latitude: 1.86486
 longitude: -76.03245
 permalink: /terminal-de-pitalito
+empresas:
+  - Aerotrans: 6088363002
+  - Cootranslaboyana: 6088360517 - 3102561533
+  - Coomotor: 6088364982 - 3176369341
+  - Coomotor Florencia: 6088362099 - 3134690699
+  - Cootranscaquetá: 60843444693 - 3158762975
+  - Cootransgar: 3168786984
+  - Cootransgigante: 3207646712 - 3175385181
+  - Cootransmayo: 3112301507
+  - Cootransplateña: 6088361461 - 3143232231
+  - Cootransurp: 6088365266 - 3153385843
+  - El Pony Express: 6088643440
+  - Expreso Bolivariano: 6088368683 - 3108018518
+  - Expreso La Gaitana: 6088351821 - 6088730850
+  - Flota Huila: 6088365266 - 3153385843
+  - Rápido Tolima: 3187115115
+  - Sotracauca: 3147262618
+  - Taxis verdes:  3143300516 - 3177692140
+  - Transipiales:  3104520142
 ---
 ## La terminal de Pitalito - Centro del Sur del Huila
 
@@ -54,8 +72,6 @@ Ubicado en la ciudad de Pitalito, Colombia, el terminal de transporte es un luga
 Te recomendamos **comprar los pasajes utilizando su [página web oficial](https://tuterminalpitalito.com/comprar-pasajes/){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
 Si necesitas una empresa en particular que trabaje en la terminal de Pitalito, puedes ver la lista que preparamos para ti. Haz clic en el botón que sigue 👇👇👇.
-
-[Empresas de la terminal de Pitalito]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 Esta hermosa terminal recibe miles de pasajeros diariamente, y sus instalaciones incluyen restaurantes, zonas para guardar equipajes y más de doce compañías de autobuses donde los pasajeros pueden tomar asiento para viajar [a ciudades de todo el país]({{site.baseurl}}/terminales-de-colombia).
 

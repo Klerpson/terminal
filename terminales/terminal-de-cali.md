@@ -27,7 +27,6 @@ empresa2_telf: 3117288500
 empresa3_telf: 3207883235
 contacto: https://cali.com/pqrsd/
 pdf: telefonos-empresa-terminal-cali
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.8771378474376!2d-75.571231!3d6.279879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4428d778c62ff7%3A0x14b3b886bb9997e3!2sTerminales%20Medell%C3%ADn%20-%20Norte!5e0!3m2!1ses!2sco!4v1676576605595!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Calle 30 N 2an - 29"
 telefono: 6026683655
@@ -41,6 +40,32 @@ reviews: 26570
 latitude: 3.4656371
 longitude: -76.5240347
 permalink: /terminal-de-cali
+empresas:
+  - Expreso Florida: 6026688820 - 6026688820 - 6026688800 - 6026688800
+  - Coomotor: 6024057372 - 6024057372 - 3176394039 - 3176394039 -3144057372 - 3144057372
+  - Coomotor Florencia: 6026615006 - 6026615006 - 3146137076 - 3146137076
+  - Expreso Bolivariano: 3144855796 - 3144855796
+  - Cootranshuila: 6026600123 - 6026600123
+  - Continental: 6026687617 - 6026687617 - 6026684028 - 6026684028
+  - Coodetrans Palmira: 3117288500 - 3117288500 - 6023969408 - 6023969408
+  - La Gaitana: 3168788916 - 3168788916
+  - Taxis Verdes: 3143300505 - 3143300505 - 6024111152 - 6024111152 ext114,119,120,121
+  - Flota Magdalena: 3102102108 - 3102102108 - 3102563321 - 3102563321
+  - Coomotoristas del Cauca: 6026688068 - 6026688068
+  - Cooperativa Ciudad Señora: 0386687964 - 0386687964 - 6022280260 - 6022280260
+  - Cooperativa de Occidente: 6023964163 - 6023964163 - 6026618809 - 6026618809 -31088309710 - 31088309710
+  - Cooperativa Integral Trans. Florida: 6026669451 - 6026669451 - 3148890422 - 3148890422
+  - Cooperativa Rápido Aeropuerto: 6026680648 - 6680648 - 6026618865 - 6618865
+  - Cooperativa Taxis Belalcázar: 6026687921 - 6687921 - 3113335238 - 3113335238
+  - Cootranslaboyana: 3204085002 - 3204085002
+  - Cooperativa Transandina: 6026675640 - 6026675640
+  - Velotax: 3207883235 - 3207883235 - 3122820230 - 3122820230
+  - Expreso Brasilia: "6012636611 - 6012636611 - #502"
+  - Copetran: 3146687504 - 3146687504 - 3146687670 - 3146687670
+  - Cootransmayo: 3112301521 - 3112301521
+  - Transipiales: 3104539544 - 3104539544
+  - Flota Ospina: 6023860045 - 6023860045
+  - Taxcentral: 6026616310 - 6026616310
 ---
 ## Más información de la terminal de transporte de Cali
 
@@ -51,8 +76,6 @@ Si estás planeando un viaje en bus y necesitas información sobre cualquiera de
 {% include add3.html %}
 
 Para comprar pasajes, simplemente **contacta directamente con cualquiera de todas las empresas o acércate a la taquilla de la empresa de transporte que elijas**. Asegúrate de comprar tu pasaje con suficiente anticipación para evitar sorpresas de última hora.
-
-[Empresas de la terminal de Cali]({{page.url}}/{{page.pdf}})
 
 Si estás planeando un viaje desde la terminal de Cali, es importante tener en cuenta algunos detalles importantes, como reservar un hotel cercano y comprar tus pasajes con suficiente anticipación. Esperamos que esta guía te haya sido útil y que tengas un viaje seguro y agradable. ¡Que disfrutes tu viaje por el sur de Colombia!
 

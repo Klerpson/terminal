@@ -28,7 +28,6 @@ empresa2_telf: 3215471422
 empresa3_telf: 6054301750
 contacto: https://terminaldesantamarta.com/entidad/AtencionCiudadano
 pdf: telefonos-empresa-terminal-santa-marta
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31308.335972402536!2d-74.21590532089841!3d11.221483600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef4f5afb8da4093%3A0x4bfa83f8bbebb7df!2sTerminal%20de%20Transportes%20de%20Santa%20Marta!5e0!3m2!1ses-419!2sco!4v1658258854241!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: Calle 41 31-17
 telefono: 6054303297
@@ -43,6 +42,23 @@ reviews: 180
 latitude: 11.2354608
 longitude: -74.2145498
 permalink: /terminal-de-santa-marta
+empresas:
+  - Almirante Padilla: 6054301510
+  - Berlinas del Fonce: 6054302027 - 3157167909
+  - Cootracar: 6054301569 - 6054141505
+  - Cootracegua: 6054301510 - 6054301210
+  - Cootracosta: 6054304758 - 6054301569
+  - Cootragua: 6054301510 - 6054301650 - 6054302728
+  - Cootransbol: 6054309876
+  - Copetrán: 6054301750 - 6054301607
+  - Expreso Amerlujo: 6054306054144
+  - Expreso Brasilia: 3215471422 – 3215470174 - 3215419786 -3145815452
+  - Libertador: 6054302028 - 6054330005
+  - Rápido Ochoa: 6054302028 - 6054448888
+  - Trans La Costeña: 6054306318 - 6054301210
+  - Trans La Veloz: 6054306318 - 6054301750
+  - Trans Sensación: 6054301598
+  - Transportes InternacionalesOrmeño: 6054212547
 ---
 ## Terminal de buses de Santa Marta
 
@@ -77,8 +93,6 @@ La Terminal de Transporte de Santa Marta cuenta con varias empresas de transport
 * Omega
 * Rápido Ochoa
 * Unitransco
-
-[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ### Precios y horarios de la Terminal de Transporte de Santa Marta
 

@@ -28,7 +28,6 @@ empresa2_telf: 6055716083
 empresa3_telf: 6055716087
 contacto: http://www.terminaldetransportesdevalledupar.gov.co/peticiones-quejas-reclamos
 pdf: telefonos-empresa-terminal-valledupar
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.704807664914!2d-73.24312909999999!3d10.444982699999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e8ab98f3761352b%3A0x53f0ff9b4030f52b!2sTerminal%20de%20Transporte%20Valledupar!5e0!3m2!1ses-419!2sco!4v1677978112997!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: 'Carrera 7A 44–156 Local 101'
 telefono: 6055853376
@@ -43,6 +42,21 @@ reviews: 180
 latitude: 11.2354608
 longitude: -74.2145498
 permalink: /terminal-de-valledupar
+empresas:
+  - Coolibertador: 6055716196
+  - Copetrán: 6055716083 - 6055716201
+  - Cotracegua: 6055716202
+  - Cotracosta: 6055716203
+  - Cotragua: 6055717563
+  - Expreso Brasilia: 6055716197 - 6055716540
+  - Hacaritama: 6055717517
+  - La Costeña: 6055717519
+  - La Veloz: 6055717374
+  - Rápido Ochoa: 6055716087 - 6055716090
+  - Transicarare: 6055706692
+  - Unitrasco: 6055716197
+  - Continentalbus: 3003870041
+  - Cotaxi: 3138700052
 ---
 ## Terminal de buses de Valledupar
 
@@ -71,8 +85,6 @@ En la terminal de Valledupar podrás **encontrar boletos de autobús para difere
 * Valledupar - Santa Marta (Brasilia)
 * Valledupar - Bogotá (Unitransco)
 * Valledupar - Medellín (Unitransco)
-
-[Empresas de la terminal de Valledupar]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 {% include add1.html %}
 

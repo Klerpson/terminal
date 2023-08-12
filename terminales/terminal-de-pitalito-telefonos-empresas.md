@@ -16,24 +16,7 @@ Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empres
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | --- | :---: |
-| **Aerotrans** | 6088363002 |
-| **Cootranslaboyana** | 6088360517 - 3102561533 |
-| **Coomotor** | 6088364982 - 3176369341 |
-| **Coomotor Florencia** | 6088362099 - 3134690699 |
-| **Cootranscaquetá** | 60843444693 - 3158762975 |
-| **Cootransgar** | 3168786984 |
-| **Cootransgigante** | 3207646712 - 3175385181 |
-| **Cootransmayo** | 3112301507 |
-| **Cootransplateña** | 6088361461 - 3143232231 |
-| **Cootransurp** | 6088365266 - 3153385843 |
-| **El Pony Express** | 6088643440 |
-| **Expreso Bolivariano** | 6088368683 - 3108018518 |
-| **Expreso La Gaitana** | 6088351821 - 6088730850 |
-| **Flota Huila** | 6088365266 - 3153385843 |
-| **Rápido Tolima** | 3187115115 |
-| **Sotracauca** | 3147262618 |
-| **Taxis verdes** |  3143300516 - 3177692140 |
-| **Transipiales** |  3104520142 |
+
 
 ### Rutas desde la terminal de Pitalito
 
