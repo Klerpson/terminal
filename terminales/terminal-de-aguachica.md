@@ -5,10 +5,8 @@ description: La Terminal de Aguachica es más que un punto de tránsito. Conoce 
 category: cesar
 h1: "Aguachica: un viaje por su Terminal de Transporte"
 jpg: terminales/terminal-aguachica.jpg
-hero: terminales/terminal-aguachica.webp
 webps: terminales/terminal-aguachica-376.webp
 webpm: terminales/terminal-aguachica-600.webp
-webpb: terminales/terminal-aguachica-800.webp
 alt: Terminal de Aguachica
 logo: terminal-aguachica-logo.webp
 webp1: terminales/terminal-aguachica-cesar-600.webp
@@ -16,33 +14,46 @@ webp2: terminales/terminal-aguachica-cesar-376.webp
 h2_1: Teléfono de la terminal de Aguachica
 h2_2: Compra tus pasajes en la terminal de Aguachica
 p_1: "La terminal de Aguachica está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
-empresas:
-  - Cotaxi: 6056716090
-empresa1: Cotaxi
-empresa2: Expreso Brasilia
-empresa3: Copetrans
-empresa_img_1: terminales/terminal-aguachica-cotaxi.webp
-empresa_img_2: terminales/terminal-barranquilla-brasilia.webp
-empresa_img_3: terminales/terminal-barranquilla-copetrans.webp
-empresa1_telf: 6056716090
-empresa2_telf: 6073715200
-empresa3_telf: 3133335669
 contacto: http://terminalaguachica.com/web/contacto/
+maps: https://goo.gl/maps/12vWWRazPkHTLTVE7
 pdf: telefonos-empresa-terminal-aguachica
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15791.866992056921!2d-73.6218075!3d8.3061032!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e5d85644ffde4b9%3A0x92040d7416c336e0!2sTerminal%20de%20Transporte%20Aguachica!5e0!3m2!1ses-419!2sco!4v1687707420016!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
-json-terminal: true
 direccion: 'Carrera 12 No. 7 - 62'
 telefono: 6055651370
 email: info@terminalaguachica.com
-maps: https://goo.gl/maps/12vWWRazPkHTLTVE7
 ciudad: Aguachica
-depto: Cesar
 postal: 205010
 calificacion: 3.9
 reviews: 4216
 latitude: 8.3061032
 longitude: -73.6305622
 permalink: /terminal-de-aguachica
+empresas:
+  - COOINTRABOS LTD: 6055779548
+  - COOINTRACUR LTD: 6055750602
+  - COOPMOTILON LTD: 6075686500
+  - COOTRABA: 6054298218
+  - COOTRACEGUA LTD: 6085716210 - 6085716202
+  - COOTRAGAM LTD: 6055626137 - 6055626261
+  - COOTRAGUA LTD: 6055652791
+  - COOTRAMEQU: 6054286027
+  - COOTRANSBOL LTD: 6087610716 - 6087610717
+  - COOTRANSGLORI: 6055683247
+  - COOTRANSHACARITAMA LTD: 6075611012 - 6075612219
+  - COOTRANSMAGDALENA: 6076453517 - 6076345898
+  - COOTRANSUNIDO: 6075611050
+  - COOTRAPA: 6055287587 - 6055287273
+  - COPETRAN LTD: 6076448167
+  - COTAXI LTDA: 6076716090
+  - COTRANA: 6075682140 - 607682266
+  - COTRANSTAME LTD: 6076450126
+  - COTRASANGIL LTD: 6077243434
+  - EMTRASU: 6044481028
+  - EXPRESO BRASILIA S.A: 3205020000 - 018000518001
+  - OMEGA LTD: 3104693171 - 6017470349
+  - RAPIDO OCHO: 6044417017
+  - SOTRAMAGDALEN: 3123046695 - 3156220876
+  - EXTRA RAPIDO LOS MOTILONES S.: 6075492822 - 6075778072
+  - EMPRESA DE TRANSPORTES LUSITANIA S.A: 6076420077
 ---
 [Descargar PDF](#pdf){:id="boton"}
 
@@ -52,103 +63,7 @@ permalink: /terminal-de-aguachica
 
 Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje sin tener que pasar horas buscando números de teléfono en línea.
 
-| 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
-| :--- | :---: |
-| **COOINTRABOS LTDA** | 6055779548 |
-| **COOINTRACUR LTDA** | 6055750602 |
-| **COOPMOTILON LTDA** | 6075686500 |
-| **COOTRABAN** | 6054298218 |
-| **COOTRACEGUA LTDA** | 6085716210 - 6085716202 |
-| **COOTRAGAM LTDA** | 6055626137 - 6055626261 |
-| **COOTRAGUA LTDA** | 6055652791 |
-| **COOTRAMEQUE** | 6054286027 |
-| **COOTRANSBOL LTDA** | 6087610716 - 6087610717 |
-| **COOTRANSGLORIA** | 6055683247 |
-| **COOTRANSHACARITAMA LTDA** | 6075611012 - 6075612219 |
-| **COOTRANSMAGDALENA** | 6076453517 - 6076345898 |
-| **COOTRANSUNIDOS** | 6075611050 |
-| **COOTRAPAI** | 6055287587 - 6055287273 |
-| **COPETRAN LTDA** | 6076448167 |
-| **COTAXI LTDA.** | 6076716090 |
-| **COTRANAL** | 6075682140 - 607682266 |
-| **COTRANSTAME LTDA** | 6076450126 |
-| **COTRASANGIL LTDA** | 6077243434 |
-| **EMTRASUR** | 6044481028 |
-| **EXPRESO BRASILIA S.A.** | 3205020000 - 018000518001 |
-| **OMEGA LTDA** | 3104693171 - 6017470349 |
-| **RAPIDO OCHOA** | 6044417017 |
-| **SOTRAMAGDALENA** | 3123046695 - 3156220876 |
-| **EXTRA RAPIDO LOS MOTILONES S.A** | 6075492822 - 6075778072 |
-| **EMPRESA DE TRANSPORTES LUSITANIA S.A.** | 6076420077 |
-
 Todos los destinos pueden variar según las políticas de cada empresa transportadora de la terminal de Aguachica.
-
-### Principales rutas desde y hacia Aguachica
-
-{% include add3.html %}
-
-| MUNICIPIO DESTINO | DPTO DESTINO | EMPRESA |
-| :---: | :---: |:---: |
-| ASTREA | CESAR | COTAXI |
-| BARRANCABER | SANTANDER | COOTRAGUA |
-| BARRANCABER | SANTANDER | COTAXI |
-| BARRANQUILLA | ATLANTICO | BRASILIA |
-| BARRANQUILLA | ATLANTICO | COPETRAN |
-| BOGOTÁ, D.C. | CUNDINAMARCA | BRASILIA |
-| BOGOTÁ, D.C. | CUNDINAMARCA | COPETRAN |
-| BOGOTÁ, D.C. | CUNDINAMARCA | OMEGA |
-| BUCARAMANGA | SANTANDER | BRASILIA |
-| BUCARAMANGA | SANTANDER | COOPTMOTILON |
-| BUCARAMANGA | SANTANDER | COOTRAGUA |
-| BUCARAMANGA | SANTANDER | COOTRANSMAGDALENA |
-| BUCARAMANGA | SANTANDER | COOTRASANGIL |
-| BUCARAMANGA | SANTANDER | COPETRAN |
-| BUCARAMANGA | SANTANDER | COTAXI |
-| BUCARAMANGA | SANTANDER | COTRANAL |
-| BUCARAMANGA | SANTANDER | EXTRA LOS MOTILONES |
-| BUCARAMANGA | SANTANDER | LUSITANIA |
-| BUCARAMANGA | SANTANDER | TRASSANDER |
-| CALI | VALLE | BRASILIA |
-| CALI | VALLE | COPETRAN |
-| CARTAGENA | BOLIVAR | BRASILIA |
-| CARTAGENA | BOLIVAR | COPETRAN |
-| CUCUTA | NORTE DE SANTANDER | BRASILIA |
-| CUCUTA | NORTE DE SANTANDER | COOPTMOTILON |
-| CUCUTA | NORTE DE SANTANDER | COOTRAGUA |
-| CUCUTA | NORTE DE SANTANDER | COOTRANSTAME |
-| CUCUTA | NORTE DE SANTANDER | COOTRANSUNIDOS |
-| CUCUTA | NORTE DE SANTANDER | COPETRAN |
-| EL BANCO | MAGDALENA | COOTRAGAM |
-| EL BANCO | MAGDALENA | COOTRANS HACARITAMA |
-| EL BANCO | MAGDALENA | COOTRANSMAGDALENA |
-| EL BANCO | MAGDALENA | COPETRAN |
-| EL BANCO | MAGDALENA | COTAXI |
-| EL BANCO | MAGDALENA | OMEGA |
-| EL CARMEN | NORTE DE SANTANDER | COOTRANS HACARITAMA |
-| LA GLORIA | CESAR | EMTRASUR |
-| LA JAGUA DE IBIRICO | CESAR | COTAXI |
-| MAICAO | GUAJIRA | BRASILIA |
-| MAICAO | GUAJIRA | COPETRAN |
-| MEDELLIN | ANTIOQUIA | BRASILIA |
-| MEDELLIN | ANTIOQUIA | COPETRAN |
-| MONTERIA | CORDOBA | BRASILIA |
-| MONTERIA | CORDOBA | COPETRAN |
-| OCAÑA | NORTE DE SANTANDER | COOTRAGUA |
-| OCAÑA | NORTE DE SANTANDER | COOTRANS HACARITAMA |
-| OCAÑA | NORTE DE SANTANDER | COOTRANSUNIDOS |
-| OCAÑA | NORTE DE SANTANDER | COPETRAN |
-| PAILITAS | CESAR | COOTRAPAI |
-| PAILITAS | CESAR | COTAXI |
-| SANTA MARTA | MAGDALENA | BRASILIA |
-| SANTA MARTA | MAGDALENA | COPETRAN |
-| TAMALEMEQUE | CESAR | COOTRAMEQUE |
-| VALLEDUPAR | CESAR | BRASILIA |
-| VALLEDUPAR | CESAR | COOTRACEGUA |
-| VALLEDUPAR | CESAR | COOTRAGUA |
-| VALLEDUPAR | CESAR | COPETRAN |
-| VALLEDUPAR | CESAR | COTAXI |
-
-Todos los destinos pueden variar según las políticas de cada empresa transportadora de las dos terminales de Aguachica.
 
 ### Descarga el PDF con los número de la terminal de Aguachica
 
@@ -156,6 +71,7 @@ Si necesitas llevar contigo los números de las empresas que ofrecen sus servici
 
 [PDF Empresas de la terminal]({{'assets/pdf-terminal-aguachica.pdf'|relative_url}}){:target="_blank" id="pdf" class="botones boton-verde"}
 
+-----
 
 ## La terminal de transporte de Aguachica
 
@@ -168,6 +84,8 @@ En la Terminal de Aguachica podrás ver cómo se entrelazan las vidas de los lug
 Además, es uno de los centros de transporte más eficientes y seguros del país. Aquí, cada detalle está diseñado para garantizar que tu viaje sea una experiencia inolvidable.
 
 ### Ubicación de la Terminal de Aguachica
+
+![Terminal Aguachica]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Aguachica")
 
 Nuestra primera parada en este viaje es **la ubicación de la Terminal de Aguachica**. Situada en el corazón de la ciudad, es un punto de fácil acceso desde cualquier lugar. Y para hacerlo aún más conveniente, encontrarás una variedad de servicios y comodidades en sus alrededores.
 

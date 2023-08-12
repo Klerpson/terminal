@@ -274,3 +274,10 @@
   margin: 2em 0;
   color: white;
 }
+
+.articulo img{
+  float: right;
+  border-radius: var(--radius);
+  padding: 1em;
+  max-width: 100%;
+}

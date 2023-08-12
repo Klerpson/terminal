@@ -3,33 +3,32 @@ layout: default
 ---
 
 {% if page.h2_1 %}
-<section class="terminal_content">
-  <div>{% include add1.html %}</div>
-  <div class="terminal_empresas">
-    <div>
-      <h2>{{page.h2_2}}</h2>
-      <span class="destacado">Empresas de la terminal</span>
-    </div>
-    <ul>
-
-      {% for empresas in page.empresas %}
-      {% for data in empresas %}
-      <li>
-        <h3>{{data[0]}}</h3>
-        <p><strong>Teléfono: {{data[1]}}</strong></p>
-      </li>
+<div class="add">{% include add1.html %}</div>
+<section class="wrapper">
+    <h2>{{page.h2_2}}</h2>
+    <table>
+      <thead>
+        <td>🚌 EMPRESA DE BUSES</td>
+        <td>☎ TELÉFONO</td>
+      </thead>
+      <tbody>
+        {% for empresa in page.empresas %}
+        <tr>
+          {% for data in empresa %}
+          <td><strong>{{data[0]}}</strong></td>
+          <td>{{data[1]}}</td>
+          {% endfor %}
+        </tr>
         {% endfor %}
-        {% endfor %}
-    </ul>
-    <blockquote>{{page.p_1}}</blockquote>
+      </tbody>
+    </table>
 </section>
 {% endif %}
 
-<main class="terminal-info">
-  <div>
-    {% include add2.html %}
+<main class="wrapper flow articulo">
+  {% include add2.html %}
+  <blockquote>{{page.p_1}}</blockquote>
     {{content}}
-  </div>
 </main>
 
 <div style="height: 150px; overflow: hidden">
@@ -44,7 +43,7 @@ layout: default
     ></path>
   </svg>
 </div>
-<section class="conclusion">
+<section class="conclusion wrapper">
   <h2>{{page.title}}</h2>
   {% include add1.html %}
   <ul>
