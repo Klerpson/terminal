@@ -103,6 +103,4 @@ Tiene rutas hacia ciudades como Medellín, Barranquilla, Bucaramanga, entre otra
 
 Si necesitas contactar a alguna de estas empresas de transporte para adquirir tus pasajes, aquí te proporcionamos los teléfonos de contacto:
 
-[Empresas de la terminal de Neiva]({{page.url}}/{{page.pdf}}){:id="boton"}
-
 Recuerda que la terminal de Neiva cuenta con una amplia variedad de servicios y empresas de transporte que te permitirán llegar a tu destino de manera segura y cómoda.

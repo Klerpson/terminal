@@ -77,8 +77,6 @@ La Terminal de Popayán es la central para viajar desde el Cauca hacia otro luga
 
 Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
 
-[Empresas de la terminal de Popayán]({{page.url}}/{{page.pdf}} "Empresas terminal de transportes popayan"){:id="boton"}
-
 #### Empresa de autobuses Coomotor
 
 **La empresa Coomotor cubre 88 ciudades con 327 rutas**. La cantidad de unidades diarias es de 154 y las clases de vehículos que podrás disfrutar son Navette, Navette G7, Navette XL y Turquesa. En estos automotores dispones de los siguientes servicios:

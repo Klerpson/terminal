@@ -87,8 +87,6 @@ En el Terminal de Aguazul operan varias compañías de buses. Cada compañía of
 
 Las principales compañías que operan **en el Terminal de Aguazul son Expreso Bolivariano, Copetran y Flota Sugamuxi**. Estas compañías ofrecen rutas a las principales ciudades de Colombia y también a destinos locales.
 
-[Empresas de la terminal de Aguazul]({{page.url}}/{{page.pdf}}){:id="boton"}
-
 ### Servicios y comodidades ofrecidas por las empresas
 
 Las compañías de buses en el Terminal de Aguazul ofrecen una variedad de servicios y comodidades. **Algunas ofrecen wifi a bordo, asientos reclinables y servicio de snacks**.

@@ -20,14 +20,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
-| Cotranal | 3124579775 |
-| Coflonorte – Libertadores | 6078853195 |
-| Expreso Brasilia | 018000518001 |
-| Berlinas Del Fonce | 3124579775 - 3134035980 - 3214365019 |
-| Empresa Arauca | 3108575644 - 3103331325 |
-| Flota Sugamuxi  | 3115615646 |
-| Copetran  | 3143594515 |
-| Cooptratam | 3208352303 |
+
 
 Todos los destinos pueden variar según las políticas de cada empresa transportadora de la terminal de Arauca.
 

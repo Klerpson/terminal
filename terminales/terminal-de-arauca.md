@@ -17,7 +17,6 @@ contacto: https://www.terminaldetransporte.gov.co/destinos/arauca/
 direccion: Km 1 Vía Caño Limón, Arauca, Arauca, Colombia.
 telefono: 6078850453 
 maps: https://goo.gl/maps/vbzEMKHZx7qEXJxs5
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15838.12808567765!2d-70.733864!3d7.0641397!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e6fea339d1f51af%3A0x94ce1c3315c67fab!2sTerminal%20de%20Transportes%20Arauca!5e0!3m2!1ses-419!2sco!4v1689986726635!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 email: servicio.ciudadano@terminaldetransporte.gov.co
 ciudad: Arauca 
 depto: Arauca 
@@ -40,6 +39,15 @@ empresa_img_3: terminales/terminal-arauca-brasilia.webp
 pdf: telefonos-empresa-terminal-arauca
 json-terminal: true
 permalink: /terminal-de-arauca
+empresas:
+  - Cotranal: 3124579775
+  - Coflonorte – Libertadores: 6078853195
+  - Expreso Brasilia: 018000518001
+  - Berlinas Del Fonce: 3124579775 - 3134035980 - 3214365019
+  - Empresa Arauca: 3108575644 - 3103331325
+  - Flota Sugamuxi : 3115615646
+  - Copetran : 3143594515
+  - Cooptratam: 3208352303
 ---
 ## Ubicación y cómo llegar a la Terminal de Arauca
 
@@ -71,8 +79,6 @@ La Terminal de Arauca cuenta con la presencia de varias empresas de transporte d
 - Empresa Arauca
 - Copetran
 - Cooptratam
-
-[Empresas de la terminal de Arauca]({{page.url}}/{{page.pdf}}){:target="_blank" id="boton"}
 
 ----
 
