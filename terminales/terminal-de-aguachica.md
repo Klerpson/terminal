@@ -87,6 +87,8 @@ Y para hacerlo aún más conveniente, encontrarás una variedad de servicios y c
 - **Flota Magdalena**: Con años de experiencia, esta empresa ha sido una opción preferida para muchos viajeros.
 - **Copetran**: Con rutas que conectan Aguachica con ciudades como Bucaramanga y Bogotá, Copetran es una elección popular entre los viajeros.
 
+{% include add1.html %}
+
 ## Servicios en la Terminal de Aguachica
 
 -----

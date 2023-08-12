@@ -50,6 +50,8 @@ Si viajas [desde la terminal en Bogotá]({{'terminal-de-bogota'|relative_url}} "
 
 ### Horarios de operación de las empresas de la terminal
 
+{% include add1.html %}
+
 El Terminal de Aguazul está abierto todos los días de la semana. Los horarios pueden variar, pero **generalmente el terminal abre a las 6:00 a.m. y cierra a las 10:00 p.m.**
 
 Te recomendamos verificar los horarios antes de tu viaje.
@@ -86,6 +88,8 @@ Si tu destino es dentro del mismo departamento del Casanare, también hay rutas 
 
 **Los buses locales suelen ser más frecuentes** y el viaje es más corto.
 
+{% include add2.html %}
+
 ## Consejos para viajar desde el Terminal de Aguazul
 
 -----
@@ -109,6 +113,8 @@ Durante el viaje, trata de relajarte y disfrutar del paisaje. Si el viaje es lar
 ### ¿Cómo puedo llegar al Terminal de Aguazul?
 
 Puedes llegar al Terminal de Aguazul en bus desde cualquier ciudad principal de Colombia. En el municipio de Aguazul puedes llegar fácilmente, incluso caminando, pues es un municipio de tamaño pequeño.
+
+{% include add3.html %}
 
 Esperamos que este artículo te haya sido útil para planificar tu viaje desde el Terminal de Aguazul. Recuerda que la mejor manera de disfrutar de un viaje es estar bien preparado. ¡Buen viaje!
 

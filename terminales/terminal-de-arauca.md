@@ -3,41 +3,26 @@ layout: terminal
 title:  "La Terminal de Transporte de Arauca: Servicios, Rutas y Más"
 description: "Conoce la Terminal de Transporte de Arauca: Encuentra información sobre servicios, rutas y horarios. ¡Planifica tu viaje hoy!"
 category: arauca
-h1: "Haz de tu viaje una experiencia inolvidable: Terminal de Transporte de Arauca"
-h2_1: Terminal de Arauca - Teléfono y otros datos
-h2_2: Tiquetes de las empresas de la terminal de Arauca 
-p_1: La Terminal de Transporte de Arauca es el principal punto de conexión para viajeros en Arauca, ofreciendo diversas rutas y servicios de calidad
-empresa1: Coflonorte - Libertadores
-empresa2: Flota Sugamuxi
-empresa3: Expreso Brasilia
-empresa1_telf: 6078853195
-empresa2_telf: 3115615646
-empresa3_telf: 018000518001
+h1: "Líderes en transporte: Terminal de Arauca destacada"
+h2_2: Adquiere tus tiquetes directamente con las empresas de la terminal de Arauca 
+p_1: La Terminal de Transportes de Arauca se ubica estratégicamente frente al aeropuerto Santiago Pérez, al sur de la ciudad de Arauca, en la frontera con Venezuela.
 contacto: https://www.terminaldetransporte.gov.co/destinos/arauca/
 direccion: Km 1 Vía Caño Limón, Arauca, Arauca, Colombia.
 telefono: 6078850453 
 maps: https://goo.gl/maps/vbzEMKHZx7qEXJxs5
 email: servicio.ciudadano@terminaldetransporte.gov.co
 ciudad: Arauca 
-depto: Arauca 
 postal: 810001
 calificacion: 3.9
 reviews: 630
 latitude: 7.0641397
 longitude: -70.733864
 jpg: terminales/terminal-arauca.jpg
-hero: terminales/terminal-arauca.webp
 webps: terminales/terminal-arauca-376.webp
 webpm: terminales/terminal-arauca-600.webp
-webpb: terminales/terminal-arauca-800.webp
 alt: Terminal de Aguachica
 webp1: terminales/terminal-arauca-arauca-600.webp
 webp2: terminales/terminal-arauca-arauca-376.webp
-empresa_img_1: terminales/terminal-arauca-coflonorte.webp
-empresa_img_2: terminales/terminal-arauca-flota-sugamuxi.webp
-empresa_img_3: terminales/terminal-arauca-brasilia.webp
-pdf: telefonos-empresa-terminal-arauca
-json-terminal: true
 permalink: /terminal-de-arauca
 empresas:
   - Cotranal: 3124579775
@@ -49,15 +34,19 @@ empresas:
   - Copetran : 3143594515
   - Cooptratam: 3208352303
 ---
+{% include add1.html %}
+
 ## Ubicación y cómo llegar a la Terminal de Arauca
 
-{% include add1.html %}
+-----
 
 La Terminal de Transporte de Arauca se encuentra ubicada en el **kilómetro 1 de la vía Caño Limón**, frente al aeropuerto Santiago Pérez.
 
 Para llegar a la terminal, puedes **tomar un taxi desde el Hospital de Arauca o uno de los buses que vienen de Guasdualito** y terminan su ruta en la terminal.
 
 ## Servicios de la Terminal de transporte de Arauca
+
+-----
 
 La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se encuentran:
 
@@ -69,7 +58,9 @@ La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se e
 
 ## Empresas de Transporte en la Terminal de Arauca
 
-La Terminal de Arauca cuenta con la presencia de varias empresas de transporte de pasajeros que ofrecen sus servicios en la región nororiente del país. Algunas de ellas son:
+-----
+
+La terminal de Arauca **alberga a 8 de las principales empresas de transporte de pasajeros** que prestan sus servicios en la región nororiente del país, algunas de las cuales **también ofrecen rutas hacia Venezuela**:
 
 - Coflonorte – Libertadores
 - Flota Sugamuxi
@@ -80,7 +71,27 @@ La Terminal de Arauca cuenta con la presencia de varias empresas de transporte d
 - Copetran
 - Cooptratam
 
-----
+### Empresas de buses destacadas en Arauca
+
+{% include add3.html %}
+
+Esta terminal se ha consolidado como un punto neurálgico para el transporte terrestre en la región, [conectando a Arauca con Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogota") a través de la emblemática “Ruta de los Libertadores”.
+
+### Características de las empresas líderes
+
+Las empresas líderes que operan en la Terminal de Transportes de Arauca se caracterizan **por su compromiso con la seguridad, la calidad del servicio y la satisfacción del cliente**.
+
+Estas empresas cuentan con modernas flotas de vehículos, conductores capacitados y rutas estratégicamente planificadas para [garantizar viajes cómodos y puntuales]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %} "Viajes cómodos en bus").
+
+### Servicios ofrecidos por las empresas de la terminal
+
+Las empresas de transporte en la Terminal de Arauca ofrecen todos los servicios necesarios para cumplir con la satisfacción de sus pasajeros.
+
+Estos servicios incluyen **[rutas nacionales]({{'terminales-de-colombia'|relative_url}} "Terminales Colombianas") e internacionales, opciones de clase ejecutiva, servicios de paquetería**, entre otros.
+
+Algunas empresas ofrecen servicios adicionales como **Wi-Fi a bordo, asientos reclinables y sistemas de entretenimiento**.
+
+-----
 
 ## Preguntas Frecuentes sobre la Terminal de Arauca
 
@@ -105,3 +116,11 @@ Debes abordar el bus desde la terminal de transportes, con esto aseguras tu luga
 ### ¿Cómo puedo expresar una queja, sugerencia o reclamo en el terminal de Arauca?
 
 Para quejas y reclamos es importante que te comuniques directamente con la empresa de transporte de pasajeros que te está ofreciendo el servicio.
+
+## Seguridad y confiabilidad en los servicios de la terminal de Arauca
+
+-----
+
+La seguridad y confiabilidad son dos pilares fundamentales para los proveedores de transporte de la Terminal de Arauca.
+
+Estos proveedores cuentan con protocolos estrictos de seguridad y mantenimiento de vehículos para garantizar viajes sin contratiempos desde esta terminal.
