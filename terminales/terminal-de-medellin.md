@@ -147,8 +147,6 @@ Por ejemplo, Expreso Brasilia es conocida por su amplia cobertura de rutas y su 
 
 En la terminal operan empresas como **Copetran, [Expreso Bolivariano]({% post_url 2023-07-03-transportes-omega-comodidad-seguridad %}), Flota Occidental, Rápido Ochoa, [Transportes Omega]({% post_url 2023-07-03-transportes-omega-comodidad-seguridad %}), [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), entre otras**. Haz clic en el siguiente botón para contactar directamente con estas empresas.
 
-[Empresas terminal Norte Medellín]({{page.url}}/{{page.pdf}}){:id="boton"}
-
 ## Pasajes en la terminal del Norte de Medellín
 
 {% include add2.html %}
@@ -192,8 +190,6 @@ Aunque la mayoría de las rutas desde la Terminal del Norte Medellín son nacion
 **La Terminal del Norte Medellín opera las 24 horas del día**, los 7 días de la semana. Sin embargo, los horarios de las diferentes empresas de transporte pueden variar.
 
 Se recomienda consultar directamente con la empresa de transporte para obtener información precisa sobre los horarios de salida y llegada.
-
-[Empresas terminal Norte Medellín]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ### Horarios de salida
 
@@ -240,8 +236,6 @@ Además, también puedes comprar tus tiquetes en línea [a través de la página
 ### Pasajes en la terminal de transporte Sur
 
 La terminal Sur de Medellín opera con casi todas las mismas empresas de la terminal Norte. Utiliza el mismo botón para **comprar los pasajes con las empresas de buses** de tu preferencia.
-
-[Empresas Terminal Sur Medellín]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ## Ubicación de la Terminal del Sur Medellín
 
@@ -301,7 +295,7 @@ Puedes comprar tus pasajes **directamente en las taquillas** de las empresas de 
 
 ### ¿Cuánto cuesta un pasaje desde la Terminal de Transporte de Medellín?
 
-El precio de los pasajes varía dependiendo del destino y de la empresa de transporte. Te recomendamos que [consultes los precios directamente con las empresas de transporte]({{page.url}}/{{page.pdf}}) o a través de sus sitios web.
+El precio de los pasajes varía dependiendo del destino y de la empresa de transporte. Te recomendamos que consultes los precios directamente con las empresas de transporte o a través de sus sitios web.
 
 ### ¿Qué medidas de seguridad se toman en la Terminal del Norte Medellín?
 

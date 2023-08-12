@@ -27,7 +27,6 @@ empresa2_telf: 3158575809
 empresa3_telf: 6012612110
 contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acceso-a-la-informacion-publica/pqrs/
 pdf: telefonos-empresa-terminal-bogota
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.663314274743!2d-74.11716188255618!3d4.653995899999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9b8e7c594c2d%3A0x2a9c5334cbf14375!2sTerminal%20De%20Transportes%20Bogota!5e0!3m2!1ses!2sco!4v1676585894614!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Diagonal 23 # 69 - 11"
 telefono: 6014233630
@@ -42,6 +41,89 @@ reviews: 1913
 latitude: 4.6549308
 longitude: -74.1175679
 permalink: /terminal-de-bogota
+empresas:
+  - Líneas las Acacias: 5414667 - 5414667
+  - Coflonorte: 7705815 - 7705815 - 7700792 - 7700792
+  - Cointrasur: 2951273 - 2951273 - 7759060 - 7759060
+  - CoomofU: 8260319 - 8260319 - 8261628 - 8261628
+  - Taxisdes: 4111152 - 4111152 - 3555555 - 3555555
+  - Continental Bus: 4249340 - 4249340 EXT 302
+  - Coflonorte: 8754900 - 8754900 - 018000910293 - 018000910293
+  - Coflonorte Florencia: 4227140 - 4227140 - 4227783 - 4227783
+  - Coonorte: 2325658 - 2325658 - 2325706 - 2325706 - 2325690 - 2325690
+  - Tax la Feria: 8828912 - 8828912 - 2638678 - 2638678
+  - Flota Los Puertos: 8577200 - 8577200 - 8572655 - 8572655
+  - Cootransbol: 7610743 - 7610743 - 7610716 - 7610716
+  - Cootranscaqueta: 4357272 - 4357272
+  - Cootranscaqueza: 8480358 - 8480358
+  - Cootransfusa: 8671967 - 8671967 - 8672455 - 8672455
+  - Cootransgirardot: 8312909 - 8312909 - 8312911 - 8312911 - 8323650 - 8323650
+  - Cointrasur: 8759048 - 8759048 - 8756365 - 8756365
+  - Cootransmayo: 4227783 - 4227783
+  - Cootransnorte: 2580064
+  - Cootranstequendama: 2778837 - 2018467
+  - Cootranszipa: 8522562 - 8522034
+  - Coacruz: 8343234
+  - Copetran – Cooperativa Santandereana De Transportadores Ltda.: 6445566 - 3202719071 - 3133335673
+  - Cotrans – Cooperativa De Transportadores Ltda.: 6607866
+  - El Rápido Duitama Ltda.: 4168648 - 4168649 - 4168650 - 4168651 - 4168652
+  - Empresa Arauca S.A.: 8831600 - 8896695
+  - Expreso Bolivariano S.A.: 2634437
+  - Expreso Brasilia S.A.: 3416255 - 3715201 - 3708956
+  - Expreso de la Sabana S.A.S:  2635301 - 2635889
+  - Expreso de Transporte del Oriente Transoriente S.A.: 3420008 - 2840811
+  - Expreso Del Sol S.A.: 2637441 - 2630294
+  - Expreso Gaviota S.A.: 4231240 - 4101300
+  - Expreso Gómez Villa Ltda.: 2957918
+  - Expreso Internacional Ormeño S.A.: 4107522
+  - Expreso La Orteguna E.U.: 2258606 - 2460321
+  - Expreso Los Comuneros S.A.S: 8523070 - 5746976
+  - Expreso Paz Del Río S.A.: 4168654 - 2636475 - 4287673
+  - Flota Águila Ltda.: 4231240 - 4231245 - 4231250
+  - Flota Ayacucho: 2908256 - 4203733
+  - Flota La Macarena S.A.: 4254900 extensión 2701
+  - Flota Magdalena S.A.: 4168648
+  - Flota Río Negro Cundinamarca Ltda.: 2957918
+  - Flota San Vicente S.A.: 3681939 - 3682390 - 3685578
+  - Flota Santa Fe Ltda.: 4163545 - 4163838 - 4163737
+  - Flota Sugamuxi: 7702440 - 7702400
+  - Flota Valle De Tenza S.A.: 4163270 - 4163292 - 4163281
+  - Flota Zipa: 8527478 - 85236
+  - Gran Transportadora Río Tax: 8572440
+  - Nueva Flota Boyacá S.A.: 2952559
+  - Omega – Cooperativa Integral De Transportadores: 4168609 - 4168610
+  - Organización Cooperativa De Transportadores Los Delfines: 7455600 - 7455601
+  - Rápido El Carmen S.A.: 4163637 - 4168656
+  - Rápido Ochoa: 4411000 - 2602311
+  - Rutas de América: 6410936 - 3188150
+  - Socotrans Ltda: 7783394 - 7783697
+  - Tax Meta S.A.: 6626320
+  - Teusaca S.A.: 2117013 - 8944903
+  - Transportadores De Ipiales S.A.: 7215410
+  - Transporte Autoboy: 4113252 - 4113471
+  - Transporte Morichal S.A.: 6711236
+  - Transporte Purificación S.A.: 2637875 - 6230982
+  - Transportes Alianza Ltda.: 8505358
+  - Transportes Arimena S.A.: 6623339 - 6620425 - 6655554 - 2951272
+  - Transportes Arizona S.A.: 8562829 - 8562830 extensión 696
+  - Transportes Autollanos S.A.: 7450505
+  - Transportes Cruz Del Sur: 3115618271
+  - Transportes Del Yari S.A.: 4343166 - 4358353
+  - Transportes El Triunfo S.A.: 2117013
+  - Transportes Expreso Cundinamarca: 2470899
+  - Transportes Expreso Palmira S.A.: 6644689
+  - Transportes Gacheta S.A: 3104629
+  - Transportes Guasca Ltda.: 8504003
+  - Transportes La Esperanza S.A.: 4231240 - 4231245 - 4231250
+  - Transportes Lade: 8525358
+  - Transportes Los Muiscas S.A.: 70402931
+  - Transportes Rápido Tolima S.A.: 2648378 - 2648379
+  - Transportes Reina: 8525358
+  - Transportes Tierra Grata: 8672982 - 5708880
+  - Transportes Tisquesusa S.A.: 3484836 - 5421853
+  - Transportes Velosiba S.A.: 7250056  extensión 365
+  - Transportes y Turismo Berlinas del Fonce S.A.: 7435050 - 3156020522 3186665544 - 3183545454
+  - Velotax Ltda.: 2612110
 ---
 ## Terminal Salitre de Bogotá
 
@@ -64,8 +146,6 @@ Una de las ventajas de la Terminal de Salitre es su ubicación, ya que **se encu
 En la Terminal Salitre de Bogotá, puedes comprar boletos para viajar a diferentes destinos nacionales e internacionales.
 
 En [terminaldetransporte.com](/) te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
-
-[Empresas de la terminal Salitre de Bogotá]({{page.url}}/{{page.pdf}})
 
 ### Hoteles cerca de la Terminal de Salitre
 
@@ -95,8 +175,6 @@ En la Terminal Norte de Bogotá puedes comprar los pasajes telefónicamente. Has
 
 En [terminaldetransporte.com](/) te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
 
-[Empresas de la terminal Norte de Bogotá]({{page.url}}/{{page.pdf}})
-
 ### Hoteles cerca de la Terminal Norte de Bogotá
 
 Para aquellos que necesitan pasar la noche antes o después de su viaje, **la Terminal Norte cuenta con varias opciones de alojamiento cerca de sus instalaciones**.
@@ -122,8 +200,6 @@ Algunas de las empresas de transporte que se pueden encontrar en la Terminal Sur
 * Transportes Expreso Brasilia
 
 En la Terminal del Sur de Bogotá puedes comprar los pasajes telefónicamente. Por esto, también te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en esta terminal.
-
-[Empresas de la terminal del Sur de Bogotá]({{page.url}}/{{page.pdf}})
 
 ### Hoteles cerca de la Terminal de Transporte Sur de Bogotá
 
