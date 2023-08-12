@@ -16,29 +16,7 @@ Puedes comprar tus tiquetes o pasajes comunicándote directamente con las empres
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
-| **Expreso Bolivariano** | 0388731002 |
-| **Coomotor** | 0388733501 - 0388730937 - 3176394462 |
-| **Cootranshuila** | 3158706465 - 3102923687 |
-| **Coomotor Florencia** | 0388730874 |
-| **Cootranscaquetá** | 0388705651 - 3158762975 |
-| **Transyari** | 0388705651 - 3123511685 - 3213331832 |
-| **La Gaitana** | 0388706481 - 0388730761 - 0388602828 |
-| **Taxis Verdes** | 3133258056 - 0388735192 - 0388720637 |
-| **Flota Magdalena** | 0388731105 |
-| **Flota Huila** | 0388736492 - 0388734959 - 0388731001 - 0388730761 |
-| **Cootransgigante** | 0388730241 |
-| **Cootranslaboyana** | 0388731168 |
-| **Cootransplateña** | 0388734133 |
-| **Cootransmaría** | 3132047344 |
-| **Coointrasur** | 0388732082 |
-| **Velotax** | 0388721424 |
-| **Rápido Tolima** | 3105629119 - 0388730850 |
-| **Cootranscaguán** | 0388704592 |
-| **Sootransvega** | 0388600773 - 0388700730 |
-| **Pony Express** | 0388704907- 0388600840 - 0388708066 |
-| **Cootransmayo** | 0388731113 |
-| **Transipiales** | 3168328825 - 0388733444 |
-| **Coflonorte** | 0388754900 |
+
 
 ### Rutas desde la terminal de Neiva
 

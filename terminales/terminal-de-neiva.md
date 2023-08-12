@@ -27,7 +27,6 @@ empresa2_telf: 3158706465
 empresa3_telf: 6088731002
 contacto: http://www.elterminalneiva.com/index.php/contactenos
 pdf: telefonos-empresa-terminal-neiva
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.649249219424!2d-75.28512678476717!3d2.916850855348999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b7387d7ddaa55%3A0xa115d6828f274f18!2sTerminal%20de%20Transporte%20Neiva!5e0!3m2!1ses!2sco!4v1676732295189!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: "Transversal 5 No. 5 - 312"
 telefono: 6088731232
@@ -41,6 +40,30 @@ reviews: 5665
 latitude: 2.9168455
 longitude: -75.2851268
 permalink: /terminal-de-neiva
+empresas:
+  - Expreso Bolivariano: 0388731002
+  - Coomotor: 0388733501 - 0388730937 - 3176394462
+  - Cootranshuila: 3158706465 - 3102923687
+  - Coomotor Florencia: 0388730874
+  - Cootranscaquetá: 0388705651 - 3158762975
+  - Transyari: 0388705651 - 3123511685 - 3213331832
+  - La Gaitana: 0388706481 - 0388730761 - 0388602828
+  - Taxis Verdes: 3133258056 - 0388735192 - 0388720637
+  - Flota Magdalena: 0388731105
+  - Flota Huila: 0388736492 - 0388734959 - 0388731001 - 0388730761
+  - Cootransgigante: 0388730241
+  - Cootranslaboyana: 0388731168
+  - Cootransplateña: 0388734133
+  - Cootransmaría: 3132047344
+  - Coointrasur: 0388732082
+  - Velotax: 0388721424
+  - Rápido Tolima: 3105629119 - 0388730850
+  - Cootranscaguán: 0388704592
+  - Sootransvega: 0388600773 - 0388700730
+  - Pony Express: 0388704907- 0388600840 - 0388708066
+  - Cootransmayo: 0388731113
+  - Transipiales: 3168328825 - 0388733444
+  - Coflonorte: 0388754900
 ---
 ## Terminal de buses de Neiva
 

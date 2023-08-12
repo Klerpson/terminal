@@ -27,7 +27,6 @@ empresa2_telf: 6028232926
 empresa3_telf: 6028231999
 contacto: https://terminalpopayan.com/terminal/atencion-al-ciudadano/
 pdf: telefonos-empresa-terminal-popayan
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15944.783767902!2d-76.62223672670571!3d2.4416917715305066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e300312c76b681d%3A0x73357b2bbefcd8f6!2sTerminal%20de%20Transportes%20Popay%C3%A1n%20S.A!5e0!3m2!1ses-419!2sus!4v1654908500702!5m2!1ses-419!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: Transversal 9 No 4N - 125 Oficina 201
 telefono: 6028231827
@@ -41,6 +40,28 @@ reviews: 8370
 latitude: 2.4508755
 longitude: -76.6257706
 permalink: /terminal-de-popayan
+empresas:
+  - Continental Bus: 6028231077 – 3112049307
+  - Coomotor: 6028231259 – 3176394222
+  - Coomotoristas del Cauca: 6028231269 - 6028231091 – 3186659964
+  - Cootranar: 6028232659 – 3148300862
+  - Cootranshuila: 6028232114 – 3155797137
+  - Cootranslaboyana: 6028239215 – 3174036041
+  - Cootransmayo: 3112301543
+  - Expreso Bolivariano: 6028231077 – 3112049307
+  - Expreso La Gaitana: 6028233904 - 3183610331
+  - Expreso Palmira: 6028231999 – 3147909078
+  - Flota Magdalena: 6028232926 - 6028232927 – 3102681349
+  - Puerto Tejada: 6028232943
+  - Rapido Tambo: 6028234220 - 6028211022
+  - Rapido Tolima: 6028233829
+  - Sotracauca: 6028231078 - 6028326012
+  - Sultana del Valle: 6028233829
+  - Supertaxis del Sur: 6028233797
+  - Taxbelalcazar: 6028231133 - 6028234301
+  - Trans Timbio: 6028233204 - 6028214868
+  - Transipiales: 6028231393
+  - Velotax: 6028231872 - 6028240726
 ---
 ## Información sobre la terminal de Popayán
 
