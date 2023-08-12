@@ -11,7 +11,6 @@ alt: Terminal de Aguachica
 logo: terminal-aguachica-logo.webp
 webp1: terminales/terminal-aguachica-cesar-600.webp
 webp2: terminales/terminal-aguachica-cesar-376.webp
-h2_1: Teléfono de la terminal de Aguachica
 h2_2: Compra tus pasajes con las empresas de buses de la terminal de Aguachica
 p_1: "La terminal de Aguachica está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
 contacto: http://terminalaguachica.com/web/contacto/

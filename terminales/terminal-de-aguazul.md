@@ -3,38 +3,22 @@ layout: terminal
 title: "Terminal Aguazul: tu puerta a viajes seguros y confortables"
 description: "Terminal Aguazul: inicia tu viaje con tranquilidad y eficiencia. Conexiones rápidas, servicios de primera y atención al cliente excepcional."
 category: casanare
-tags: terminal
-h1: Terminal de transporte de Aguazul Casanare
+h1: "Transporte desde la Terminal de Aguazul hacia el Casanare"
 jpg: terminales/terminal-aguazul.jpg
-hero: terminales/terminal-aguazul.webp
 webps: terminales/terminal-aguazul-376.webp
 webpm: terminales/terminal-aguazul-600.webp
-webpb: terminales/terminal-aguazul-800.webp
 alt: Terminal de Transporte Aguazul Casanare
 webp1: terminales/terminal-aguazul-casanare-600.webp
 webp2: terminales/terminal-aguazul-casanare-376.webp
-h2_1: Terminal de Aguazul - Teléfono y otros datos
 h2_2: Compra pasajes en las empresas de la terminal Aguazul 
 p_1: "La Terminal Aguazul es tu inicio a viajes memorables. Ofrecemos servicios de alta calidad y conexiones rápidas para una experiencia de viaje sin igual."
-empresa1: Flota Libertadores
-empresa2: Flota Sugamuxi
-empresa3: Transportes Morichal
-empresa_img_1: terminales/terminal-aguazul-libertadores.webp
-empresa_img_2: terminales/terminal-aguazul-bolivariano.webp
-empresa_img_3: terminales/terminal-aguazul-morichal.webp
-empresa1_telf: 3124579775
-empresa2_telf: 3143594515
-empresa3_telf: 3208352303
 contacto: http://www.terminalaguazul.gov.co/peticiones-quejas-reclamos
-pdf: telefonos-empresa-terminal-aguazul
-json-terminal: true
 direccion: 'Calle 9 N° 14-45 Esquina'
 telefono: 6076383630
 telefono2: 3174242170
 email: contactenos@terminalaguazul.gov.co
 maps: https://goo.gl/maps/KzUJgje1v3ysPArHA
 ciudad: Aguazul
-depto: Casanare
 postal: 856010
 calificacion: 3.9
 reviews: 1810
@@ -49,7 +33,7 @@ empresas:
   - Transportes Morichal: 3208352303
 ---
 
-## Todo sobre el terminal de transporte Aguazul
+## Conoce más sobre la terminal de transporte Aguazul
 
 {% include add2.html %}
 
