@@ -62,8 +62,6 @@ empresas:
   - CMCC Cacique Calarcá: 6067431692
   - Expreso Sideral: 6068842464
 ---
-{% include add1.html %}
-
 ## Información esencial sobre la Terminal de Armenia
 
 -----

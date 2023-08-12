@@ -1,6 +1,6 @@
 ---
 layout: terminal
-title: "Terminal Aguazul: tu puerta a viajes seguros y confortables"
+title: "Terminal Aguazul: viaja en bus seguro y confortable"
 description: "Terminal Aguazul: inicia tu viaje con tranquilidad y eficiencia. Conexiones rápidas, servicios de primera y atención al cliente excepcional."
 category: casanare
 h1: "Transporte desde la Terminal de Aguazul hacia el Casanare"
@@ -32,8 +32,6 @@ empresas:
   - Flota Sugamuxi: 3143594515
   - Transportes Morichal: 3208352303
 ---
-{% include add2.html %}
-
 ## Conoce más sobre la terminal de transporte Aguazul
 
 -----

@@ -1,6 +1,6 @@
 ---
 layout: terminal
-title: Conoce la Terminal de Transporte de Aguachica Cesar
+title: Terminal de Aguachica Cesar | Compra tus pasajes
 description: La Terminal de Aguachica es más que un punto de tránsito. Conoce sus empresas transportadoras, servicios y más. ¡Entra ahora!
 category: cesar
 h1: "Aguachica: un viaje por su Terminal de Transporte"
@@ -56,8 +56,6 @@ empresas:
 ## La terminal de transporte de Aguachica
 
 -----
-
-{% include add1.html %}
 
 **Aguachica** es un hermoso rincón de Colombia que no puedes dejar de visitar. Pero primero, es esencial que conozcamos su puerta de entrada, la **Terminal de Aguachica**.
 

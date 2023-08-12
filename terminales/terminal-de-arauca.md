@@ -1,6 +1,6 @@
 ---
 layout: terminal
-title:  "La Terminal de Transporte de Arauca: Servicios, Rutas y Más"
+title:  "La Terminal de Transporte de Arauca: tiquetes, rutas y más"
 description: "Conoce la Terminal de Transporte de Arauca: Encuentra información sobre servicios, rutas y horarios. ¡Planifica tu viaje hoy!"
 category: arauca
 h1: "Líderes en transporte: Terminal de Arauca destacada"
@@ -34,8 +34,6 @@ empresas:
   - Copetran : 3143594515
   - Cooptratam: 3208352303
 ---
-{% include add1.html %}
-
 ## Ubicación y cómo llegar a la Terminal de Arauca
 
 -----
