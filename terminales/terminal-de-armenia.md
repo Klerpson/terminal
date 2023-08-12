@@ -18,7 +18,6 @@ direccion: "Calle 35 # 20-68"
 telefono: 67473355 
 telefono2: 606 747 4268
 maps: https://goo.gl/maps/Ji3xmx9oGgusyc2a9
-iframe: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15909.470657403874!2d-75.6838267!3d4.5276223!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e38f5bbee940aeb%3A0xcf578b19779d10b6!2sTerminal%20de%20Transportes%20de%20Armenia!5e0!3m2!1ses-419!2sco!4v1689976341155!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 email: servicio.ciudadano@terminaldetransporte.gov.co
 ciudad: Armenia
 depto: Quindio
@@ -41,6 +40,42 @@ empresa_img_3: terminales/terminal-armenia-coomotor.webp
 pdf: telefonos-empresa-terminal-armenia
 json-terminal: true
 permalink: /terminal-de-armenia
+empresas:
+  - Coochoferes: 6067478980
+  - Coomoquin: 6067474505
+  - Coomotor Florencia: 6067474611 - 3125841606 - 3128746475
+  - Coomotor Huila: 6067471904 - 3176394242
+  - Coop. Taxis Belalcazar: 6067474499
+  - Cooperativa Centenario: 6067412648
+  - Cooperativa de Occidente: 6067471014 - 6022298476
+  - Cootracaice: 6067474604 - 3113495053
+  - Cootracaime: 3204144165
+  - Cootracir: 6067473478
+  - Cootrafun: 6067405240
+  - Cootragen: 6067474530 - 6067475222
+  - Cootram: 6067476605
+  - Cootrans Huila: 6067478136
+  - Cootranscien: 3183305715
+  - Cootranslibertad: 6067443216 - 6067443457 - 6067483716 - 3147015606
+  - Empresa Arauca: 6067474671
+  - Expreso Alcalá: 6067474644 - 3183318606
+  - Expreso Bolivariano: 6067474658
+  - Expreso Brasilia: 6067398822 - 3113368664
+  - Expreso Cafetero: 6067483366
+  - Expreso Palmira: 6067471931
+  - Expreso Trejos: 3185484741
+  - Flota Magdalena: 6067474520 - 3102087278
+  - Flota Occidental: 6067475686 - 018000916150
+  - Nuevo Rápido Quindío: 6067474515
+  - Socoltran: 6067475566
+  - Tax Páramo: 6067402254
+  - Transportes Armenia: 6067473435
+  - Velotax: 6067474638 - 6067474633
+  - Coop Taxis Belalcazar: 3104284309
+  - Cooburquin: 606739060
+  - Continental Bus: 6014249090
+  - CMCC Cacique Calarcá: 6067431692
+  - Expreso Sideral: 6068842464
 ---
 
 ## Información esencial sobre la Terminal de Transporte de Armenia
@@ -60,8 +95,6 @@ La terminal **cuenta con servicios básicos** como baños públicos, guarda equi
 ## Empresas de transporte en la Terminal de Transporte de Armenia
 
 Algunas de las empresas que prestan servicios en la terminal de Armenia son Coomotor Florencia, Coomotor, Cootrans Huila, [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %}), [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), [Expreso Palmira]({% post_url 2023-07-21-expreso-palmira-compra-pasajes-seguro-y-facil %}), Flota Magdalena, Flota Occidental, Velotax, entre otras.
-
-[Empresas de la terminal de Aguazul]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ### Coomotor Florencia
 
@@ -86,8 +119,6 @@ Armenia, siendo un punto estratégico en el eje cafetero, tiene conexiones con v
 - **Armenia - [Pereira]({{'terminal-de-pereira'|relative_url}} "Terminal Pereira")**: Un corto viaje de 1h 30m con pasajes desde $10.000.
 
 Estos precios son aproximados y pueden variar según la temporada y la empresa de transporte.
-
-[Empresas de la terminal de Aguazul]({{page.url}}/{{page.pdf}}){:id="boton"}
 
 ## Preguntas frecuentes sobre la Terminal de Transporte de Armenia
 
