@@ -47,23 +47,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-aguazul/telefonos-empresa-terminal-aguazul</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-aguazul</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-arauca/telefonos-empresa-terminal-arauca</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -79,23 +63,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-armenia/telefonos-empresa-terminal-armenia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-armenia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-barranquilla/telefonos-empresa-terminal-barranquilla</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -111,23 +79,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-bogota/telefonos-empresa-terminal-bogota</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-bogota</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-bucaramanga/telefonos-empresa-terminal-bucaramanga</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -143,23 +95,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-cali/telefonos-empresa-terminal-cali</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-cali</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-cartagena/telefonos-empresa-terminal-cartagena</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -175,23 +111,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-cucuta/telefonos-empresa-terminal-cucuta</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-cucuta</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-florencia/telefonos-empresa-terminal-florencia</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -207,23 +127,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-garzon/telefonos-empresa-terminal-garzon</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-garzon</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-buga/telefonos-empresa-terminal-buga</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -239,23 +143,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-manizales/telefonos-empresa-terminal-manizales</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-manizales</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-medellin/telefonos-empresa-terminal-medellin</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -271,23 +159,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-neiva/telefonos-empresa-terminal-neiva</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-neiva</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-pasto/telefonos-empresa-terminal-pasto</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -303,23 +175,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-pereira/telefonos-empresa-terminal-pereira</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-pereira</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-pitalito/telefonos-empresa-terminal-pitalito</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -335,23 +191,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-popayan/telefonos-empresa-terminal-popayan</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-popayan</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-santa-marta/telefonos-empresa-terminal-santa-marta</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -367,14 +207,6 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-tunja/telefonos-empresa-terminal-tunja</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-tunja</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -383,23 +215,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/terminal-de-valledupar/telefonos-empresa-terminal-valledupar</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
         <loc>http://localhost:4000/terminal-de-valledupar</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-villavicencio/telefonos-empresa-terminal-villavicencio</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
