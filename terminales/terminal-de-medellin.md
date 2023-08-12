@@ -16,17 +16,7 @@ webp2: terminales/terminal-medellin-sur-376.webp
 h2_1: Teléfono de la terminal del norte y del sur de Medellín y otros datos
 h2_2: Compra tus tiquetes con las empresas de la terminal Sur y la terminal Norte de Medellín
 p_1: "La Terminal del Norte funciona hacia el oriente y norte de Medellín. La terminal Sur hacia el sur y el oriente de Medellín, y hacia el Eje cafetero y del sur de Colombia."
-empresa1: Expreso Bolivariano
-empresa2: Expreso Brasilia
-empresa3: Coopetrans Medellín
-empresa_img_1: terminales/terminal-medellin-bolivariano.webp
-empresa_img_2: terminales/terminal-medellin-brasilia.webp
-empresa_img_3: terminales/terminal-medellin-copetrans.webp
-empresa1_telf: 6044364068
-empresa2_telf: 6042309931
-empresa3_telf: 6042607023
 contacto: https://terminalesmedellin.com/pqrsd/
-pdf: telefonos-empresa-terminal-medellin
 empresas:
   - Arauca: 6042607023 6042607023
   - Coonorte: 6042608458 6042608458 6073176369322 3176369322
@@ -64,20 +54,18 @@ empresas:
   - Sotrasanvicente y Guatape la Piedra: 6042606067 6042606067 6043611689 6043611689
   - Sotraurabá: 6042306637 6042306637 6042309237 6042309237
   - Sotrayar: 6044445873 6044445873 6042603818 6042603818
-json-terminal: true
 direccion: Carrera 64C No. 78 – 580
 telefono: 6044448020
 telefono2: 6045206540
 email: informacion@terminalesmedellin.com
 maps: https://goo.gl/maps/Yq8qVN27RFw937TR9
 ciudad: Medellín
-depto: Antioquia
 postal: 050040
 calificacion: 4.4
 reviews: 2503
 latitude: 6.2165971
-longitude: -75.5908489
 permalink: /terminal-de-medellin
+longitude: -75.5908489
 ---
 
 ## ¿Qué es la Terminal de Transporte de Medellín?

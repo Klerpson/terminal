@@ -26,14 +26,11 @@ empresa1_telf: 6024249090
 empresa2_telf: 6028232926
 empresa3_telf: 6028231999
 contacto: https://terminalpopayan.com/terminal/atencion-al-ciudadano/
-pdf: telefonos-empresa-terminal-popayan
-json-terminal: true
 direccion: Transversal 9 No 4N - 125 Oficina 201
 telefono: 6028231827
 email: secretaria@terminalpopayan.com
 maps: https://goo.gl/maps/9CjsgGcC7oxCtpWx9
 ciudad: Popayán
-depto: Cauca
 postal: 190001
 calificacion: 4.0
 reviews: 8370

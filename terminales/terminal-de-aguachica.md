@@ -16,7 +16,6 @@ h2_2: Compra tus pasajes en la terminal de Aguachica
 p_1: "La terminal de Aguachica está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
 contacto: http://terminalaguachica.com/web/contacto/
 maps: https://goo.gl/maps/12vWWRazPkHTLTVE7
-pdf: telefonos-empresa-terminal-aguachica
 direccion: 'Carrera 12 No. 7 - 62'
 telefono: 6055651370
 email: info@terminalaguachica.com
