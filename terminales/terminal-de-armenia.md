@@ -3,16 +3,9 @@ layout: terminal
 title: "Terminal de Transporte Armenia: a explorar el Eje Cafetero"
 description: "Conoce la Terminal de Transporte de Armenia: servicios, horarios, empresas de bus y más. ¡Inicia tu aventura en el Eje Cafetero hoy mismo!"
 category: quindio
-h1: "Terminal de Transporte Armenia: comienza aquí tu recorrido por el Eje Cafetero"
-h2_1: Terminal de Armenia - Teléfono y otros datos
-h2_2: Tiquetes de las empresas de la terminal de Armenia 
+h1: "Terminal de Transporte Armenia: tu llegada al Eje Cafetero"
+h2_2: Empresas de transporte de la terminal de Armenia con las que puedes comprar pasajes
 p_1: La Terminal de Transporte de Armenia es tu punto de partida para descubrir el encanto del Eje Cafetero. Aquí encontrarás todo lo que necesitas para tu viaje.
-empresa1: Velotax
-empresa2: Expreso Bolivariano
-empresa3: Coomotor
-empresa1_telf: 3103169872
-empresa2_telf: 3214560000
-empresa3_telf: 3176394242
 contacto: https://www.terminaldetransporte.gov.co/destinos/armenia/
 direccion: "Calle 35 # 20-68"
 telefono: 67473355 
@@ -20,25 +13,17 @@ telefono2: 606 747 4268
 maps: https://goo.gl/maps/Ji3xmx9oGgusyc2a9
 email: servicio.ciudadano@terminaldetransporte.gov.co
 ciudad: Armenia
-depto: Quindio
 postal: 30001
 calificacion: 4.1
 reviews: 15032
 latitude: 4.5276223
 longitude: -75.6838267
 jpg: terminales/terminal-armenia.jpg
-hero: terminales/terminal-armenia.webp
 webps: terminales/terminal-armenia-376.webp
 webpm: terminales/terminal-armenia-600.webp
-webpb: terminales/terminal-armenia-800.webp
 alt: Terminal Armenia
 webp1: terminales/terminal-armenia-quindio-600.webp
 webp2: terminales/terminal-armenia-quindio-376.webp
-empresa_img_1: terminales/terminal-armenia-velotax.webp
-empresa_img_2: terminales/terminal-armenia-expreso-bolivariano.webp
-empresa_img_3: terminales/terminal-armenia-coomotor.webp
-pdf: telefonos-empresa-terminal-armenia
-json-terminal: true
 permalink: /terminal-de-armenia
 empresas:
   - Coochoferes: 6067478980
@@ -77,26 +62,33 @@ empresas:
   - CMCC Cacique Calarcá: 6067431692
   - Expreso Sideral: 6068842464
 ---
-
-## Información esencial sobre la Terminal de Transporte de Armenia
-
 {% include add1.html %}
+
+## Información esencial sobre la Terminal de Armenia
+
+-----
 
 La Terminal de Transporte de Armenia es un centro neurálgico para los viajeros en el departamento de Quindío, Colombia. Ofrece servicios de transporte [a nivel nacional](/), interdepartamental y local.
 
-## Ubicación de la Terminal de Transporte de Armenia
+### Ubicación de la Terminal de Armenia
 
 **La Terminal de Transporte de Armenia se encuentra en la Calle 35 No 20-68**, en el sur de la ciudad de Armenia, en el departamento de Quindío.
 
-## Servicios disponibles en la Terminal de Transporte de Armenia
+![Terminal Armenia]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Armenia"){:width="360" height="450" loading="lazy"}
+
+### Servicios disponibles en la Terminal de Transporte de Armenia
 
 La terminal **cuenta con servicios básicos** como baños públicos, guarda equipajes, locales de internet y cabinas telefónicas.
 
 ## Empresas de transporte en la Terminal de Transporte de Armenia
 
+-----
+
 Algunas de las empresas que prestan servicios en la terminal de Armenia son Coomotor Florencia, Coomotor, Cootrans Huila, [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %}), [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), [Expreso Palmira]({% post_url 2023-07-21-expreso-palmira-compra-pasajes-seguro-y-facil %}), Flota Magdalena, Flota Occidental, Velotax, entre otras.
 
 ### Coomotor Florencia
+
+{% include add2.html %}
 
 Coomotor Florencia es una de las empresas de transporte que operan en la Terminal de Transporte de Armenia. Puedes contactarlos en el número 747 46 11 o al celular 312 5841717.
 
@@ -122,6 +114,8 @@ Estos precios son aproximados y pueden variar según la temporada y la empresa d
 
 ## Preguntas frecuentes sobre la Terminal de Transporte de Armenia
 
+-----
+
 ### ¿Cómo puedo contactar a las empresas de transporte en la Terminal de Transporte de Armenia?
 
 Puedes contactar a las empresas de transporte en la Terminal de Transporte de Armenia a través de los números de teléfono proporcionados en la sección de empresas de transporte de este artículo.
@@ -131,6 +125,8 @@ Puedes contactar a las empresas de transporte en la Terminal de Transporte de Ar
 Puedes encontrar más información sobre la Terminal de Transporte de Armenia en su sitio web oficial o en otros sitios web de viajes y transporte.
 
 ## Más información sobre la Terminal de Transporte de Armenia
+
+{% include add1.html %}
 
 Para obtener más información sobre la Terminal de Transporte de Armenia, puedes [visitar su sitio web oficial](https://www.terminaldetransporte.gov.co/destinos/armenia/){:rel="nofollow noopener noreferrer" target="_blank"} o contactarlos directamente a través de los números de teléfono proporcionados.
 

@@ -46,6 +46,8 @@ Desde su ubicación y cómo llegar, hasta los servicios disponibles y las rutas 
 
 El Terminal de Aguazul se encuentra **en la ciudad de Aguazul, en el departamento de Casanare**. Para llegar, puedes tomar un bus desde cualquier ciudad principal de Colombia.
 
+![Terminal Aguazul]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Aguazul"){:width="360" height="450" loading="lazy"}
+
 Si viajas [desde la terminal en Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal del norte de Bogotá"), por ejemplo, el viaje dura aproximadamente 5 horas.
 
 ### Horarios de operación de las empresas de la terminal

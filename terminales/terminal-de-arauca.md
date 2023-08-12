@@ -50,6 +50,8 @@ Para llegar a la terminal, puedes **tomar un taxi desde el Hospital de Arauca o 
 
 La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se encuentran:
 
+![Terminal Arauca]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Arauca"){:width="360" height="450" loading="lazy"}
+
 - **Servicio de taxis fuera de la terminal**: Estos taxis son colombianos y ofrecen servicio de transporte hacia la ciudad de Arauca, ubicada a 10 minutos al norte de la terminal.
 - **Servicio de transporte público hacia Arauca y ciudades de Venezuela**: busetas de transporte público que se dirigen hacia la ciudad de Arauca, aproximadamente a 10 minutos del terminal. También hay algunos buses que van rumbo a Guasdualito en Venezuela pero que en su recorrido paran en Arauca.
 - **Punto de información**.
