@@ -5,29 +5,32 @@ layout: default
 {% if page.h2_1 %}
 <section class="wrapper">
   <h2>{{page.h2_2}}</h2>
-  <table>
-    <thead>
-      <td>🚌 EMPRESA DE BUSES</td>
-      <td>☎ TELÉFONO</td>
-    </thead>
-    <tbody>
-      {% for empresa in page.empresas %}
-      <tr>
-        {% for data in empresa %}
-        <td><strong>{{data[0]}}</strong></td>
-        <td>{{data[1]}}</td>
+  <hr>
+  <blockquote>{{page.p_1}}</blockquote>
+  <div class="telefonos">
+    <table>
+      <thead>
+        <td>🚌 EMPRESA DE BUSES</td>
+        <td>☎ TELÉFONO</td>
+      </thead>
+      <tbody>
+        {% for empresa in page.empresas %}
+        <tr>
+          {% for data in empresa %}
+          <td><strong>{{data[0]}}</strong></td>
+          <td>{{data[1]}}</td>
+          {% endfor %}
+        </tr>
         {% endfor %}
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+      </tbody>
+    </table>
+  </div>
 </section>
 {% endif %}
 <div class="add">{% include add1.html %}</div>
 
 <main class="wrapper flow articulo">
   {% include add2.html %}
-  <blockquote>{{page.p_1}}</blockquote>
     {{content}}
 </main>
 

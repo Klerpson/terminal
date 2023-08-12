@@ -278,6 +278,11 @@
 .articulo img{
   float: right;
   border-radius: var(--radius);
-  padding: 1em;
-  max-width: 100%;
+  margin: 1.2em;
+  width: min(100%, 376px);
+}
+
+.articulo li{
+  list-style-type: disc;
+  margin-left: 3em;
 }

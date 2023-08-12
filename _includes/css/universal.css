@@ -109,7 +109,6 @@ blockquote {
   padding: 2em;
 }
 
-
 img {
   border-style: none;
 }
@@ -164,10 +163,8 @@ li {
   /* margin: .5em 0; */
 }
 
-
 table {
-  width: 100%;
-  border-top: 2px solid var(--gris2);
+  width: min(100%, 720px);
   margin-top: 4em;
 }
 
@@ -189,7 +186,6 @@ table th {
 table td,
 table th {
   flex: 1 0 280px;
-  font-size: 18px;
 }
 
 .wrapper {
