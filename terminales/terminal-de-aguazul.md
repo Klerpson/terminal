@@ -27,7 +27,6 @@ empresa2_telf: 3143594515
 empresa3_telf: 3208352303
 contacto: http://www.terminalaguazul.gov.co/peticiones-quejas-reclamos
 pdf: telefonos-empresa-terminal-aguazul
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15894.369850405315!2d-72.5498628!3d5.1690674!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e6b184189ce652d%3A0x8cb889e6d2201639!2sTerminal%20de%20Transporte%20Aguazul!5e0!3m2!1ses-419!2sco!4v1689888855337!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
 json-terminal: true
 direccion: 'Calle 9 N° 14-45 Esquina'
 telefono: 6076383630
@@ -42,6 +41,12 @@ reviews: 1810
 latitude: 5.1690674
 longitude: -72.5498628
 permalink: /terminal-de-aguazul
+empresas:
+  - Autoboy: 3124579775
+  - Coflonorte: 3124579775 - 3134035980 - 3214365019
+  - Cootransbol: 3108575644 - 3103331325
+  - Flota Sugamuxi: 3143594515
+  - Transportes Morichal: 3208352303
 ---
 
 ## Todo sobre el terminal de transporte Aguazul

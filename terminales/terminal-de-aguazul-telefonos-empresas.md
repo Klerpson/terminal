@@ -20,11 +20,7 @@ Obtén información rápida y fácil en esta tabla. Planifica tu próximo viaje 
 
 | 🚌 EMPRESA DE BUSES | ☎ TELÉFONO |
 | :--- | :---: |
-| Autoboy | 3124579775 |
-| Coflonorte | 3124579775 - 3134035980 - 3214365019 |
-| Cootransbol | 3108575644 - 3103331325 |
-| Flota Sugamuxi | 3143594515 |
-| Transportes Morichal | 3208352303 |
+
 
 Todos los destinos pueden variar según las políticas de cada empresa transportadora de la terminal de Aguazul.
 
