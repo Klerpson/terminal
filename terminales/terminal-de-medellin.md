@@ -14,7 +14,7 @@ logo: terminal-medellin-logo.webp
 webp1: terminales/terminal-medellin-sur-600.webp
 webp2: terminales/terminal-medellin-sur-376.webp
 h2_1: Teléfono de la terminal del norte y del sur de Medellín y otros datos
-h2_2: Compra tus tiquetes con las empresas de la terminal de Medellín
+h2_2: Compra tus tiquetes con las empresas de la terminal Sur y la terminal Norte de Medellín
 p_1: "La Terminal del Norte funciona hacia el oriente y norte de Medellín. La terminal Sur hacia el sur y el oriente de Medellín, y hacia el Eje cafetero y del sur de Colombia."
 empresa1: Expreso Bolivariano
 empresa2: Expreso Brasilia
@@ -27,7 +27,43 @@ empresa2_telf: 6042309931
 empresa3_telf: 6042607023
 contacto: https://terminalesmedellin.com/pqrsd/
 pdf: telefonos-empresa-terminal-medellin
-iframe: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.8771378474376!2d-75.571231!3d6.279879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4428d778c62ff7%3A0x14b3b886bb9997e3!2sTerminales%20Medell%C3%ADn%20-%20Norte!5e0!3m2!1ses!2sco!4v1676576605595!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+empresas:
+  - Arauca: 6042607023 6042607023
+  - Coonorte: 6042608458 6042608458 6073176369322 3176369322
+  - Cootramarini: 6042309432 6042309432
+  - Cootransana: 6044486641 6044486641
+  - Cootransda: 6042304438 6042304438
+  - Cootransuroccidente: 6048663994 6048663994
+  - Cootraur: 6044440468 6044440468
+  - Cootrayal: 6042305052 6042305052 6048502248 6048502248
+  - Copetran: 6042607023 6042607023 6042308697 6042308697 6048872632 6048872632
+  - Coopetransa: 6044801580 6044801580
+  - Expreso Bolivariano: 6044364068 6044364068 6042309814 6042309814 6043611607 6043611607 6043611173 6043611173
+  - Expreso Brasilia: 6042309931 6042309931 6044364068 6044364068 6046042295 6046042295 6043610204 6043610204
+  - Expreso Cisneros: 6042933131 6042933131
+  - Expreso Entrerrios: 6043610975 6043610975
+  - Expreso Internacional Ormeño: 6042933131 6042933131 6042309432 6042309432
+  - Expreso Palmira: 6043610975 6043610975
+  - Flota Cordova Rionegro: 6044425707 6044425707 6073217924800 3217924800
+  - Flota El Carmen: 6042309257 6042309257 6044440504 6044440504
+  - Flota Granada: 6042606811 6042606811 6045434941 6045434941
+  - Flota Magdalena: 6042309452 6042309452 6043613119 6043613119 6043227715 6043227715 6042300933 6042300933
+  - Flota Nordeste: 6042309452 6042309452 6073102843745 3102843745
+  - Flota Occidental: 6043611312 6043611312
+  - Flota Rionegro: 6044443079 6044443079
+  - Omega: 6042607330 6042607330
+  - Rápido Rionegro: 6042309162 6042309162 6047561670 6047561670 6073202745573 3202745573
+  - Rápido Ochoa: 6044417017 6044417017 6042304192 6042304192 6042304112 6042304112 6042607330 6042607330
+  - Rápido Tolima: 6044448888 6044448888 6042308998 6042308998
+  - Sonar Exp Sonson Argelia: 6073153890432 3153890432
+  - Sotragur: 6044364385 6044364385
+  - Sotramar: 6044442785 6044442785
+  - Sotransoda: 6045484141 6045484141 6045690116 6045690116
+  - Sotrapeñol: 6042577544 6042577544 6043612000 6043612000
+  - Sotraretiro: 6042309116 6042309116
+  - Sotrasanvicente y Guatape la Piedra: 6042606067 6042606067 6043611689 6043611689
+  - Sotraurabá: 6042306637 6042306637 6042309237 6042309237
+  - Sotrayar: 6044445873 6044445873 6042603818 6042603818
 json-terminal: true
 direccion: Carrera 64C No. 78 – 580
 telefono: 6044448020

@@ -3,27 +3,27 @@ layout: default
 ---
 
 {% if page.h2_1 %}
-<div class="add">{% include add1.html %}</div>
 <section class="wrapper">
-    <h2>{{page.h2_2}}</h2>
-    <table>
-      <thead>
-        <td>🚌 EMPRESA DE BUSES</td>
-        <td>☎ TELÉFONO</td>
-      </thead>
-      <tbody>
-        {% for empresa in page.empresas %}
-        <tr>
-          {% for data in empresa %}
-          <td><strong>{{data[0]}}</strong></td>
-          <td>{{data[1]}}</td>
-          {% endfor %}
-        </tr>
+  <h2>{{page.h2_2}}</h2>
+  <table>
+    <thead>
+      <td>🚌 EMPRESA DE BUSES</td>
+      <td>☎ TELÉFONO</td>
+    </thead>
+    <tbody>
+      {% for empresa in page.empresas %}
+      <tr>
+        {% for data in empresa %}
+        <td><strong>{{data[0]}}</strong></td>
+        <td>{{data[1]}}</td>
         {% endfor %}
-      </tbody>
-    </table>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 </section>
 {% endif %}
+<div class="add">{% include add1.html %}</div>
 
 <main class="wrapper flow articulo">
   {% include add2.html %}
