@@ -77,6 +77,7 @@ p,
 a {
   text-decoration-thickness: 2.6px;
   color: var(--principal);
+  font-weight: bolder;
 }
 
 hr {

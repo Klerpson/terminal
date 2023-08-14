@@ -10,8 +10,8 @@ webpm: terminales/terminal-barranquilla-600.webp
 alt: Terminal de Barranquilla
 webp1: terminales/terminal-barranquilla-interior-600.webp
 webp2: terminales/terminal-barranquilla-interior-376.webp
-h2_2: Tiquetes en la terminal de Barranquilla
-p_1: "La terminal de Barranquilla está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
+subtitle: Tiquetes en la terminal de Barranquilla
+intro: "La terminal de Barranquilla está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
 contacto: https://www.ttbaq.com.co/formulario-de-peticion-queja-reclamo-sugerencia-o-denuncia/
 direccion: 'Carrera 14 # 54 - 98'
 telefono: 6053230034

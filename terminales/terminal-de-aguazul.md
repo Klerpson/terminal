@@ -10,8 +10,8 @@ webpm: terminales/terminal-aguazul-600.webp
 alt: Terminal de Transporte Aguazul Casanare
 webp1: terminales/terminal-aguazul-casanare-600.webp
 webp2: terminales/terminal-aguazul-casanare-376.webp
-h2_2: Compra pasajes en las empresas de la terminal Aguazul 
-p_1: "La Terminal Aguazul es tu inicio a viajes memorables. Ofrecemos servicios de alta calidad y conexiones rápidas para una experiencia de viaje sin igual."
+subtitle: Compra pasajes en las empresas de la terminal Aguazul 
+intro: "La Terminal Aguazul es tu inicio a viajes memorables. Ofrecemos servicios de alta calidad y conexiones rápidas para una experiencia de viaje sin igual."
 contacto: http://www.terminalaguazul.gov.co/peticiones-quejas-reclamos
 direccion: 'Calle 9 N° 14-45 Esquina'
 telefono: 6076383630

@@ -4,8 +4,8 @@ title:  "La Terminal de Transporte de Arauca: tiquetes, rutas y más"
 description: "Conoce la Terminal de Transporte de Arauca: Encuentra información sobre servicios, rutas y horarios. ¡Planifica tu viaje hoy!"
 category: arauca
 h1: "Líderes en transporte: Terminal de Arauca destacada"
-h2_2: Adquiere tus tiquetes directamente con las empresas de la terminal de Arauca 
-p_1: La Terminal de Transportes de Arauca se ubica estratégicamente frente al aeropuerto Santiago Pérez, al sur de la ciudad de Arauca, en la frontera con Venezuela.
+subtitle: Adquiere tus tiquetes directamente con las empresas de la terminal de Arauca 
+intro: La Terminal de Transportes de Arauca se ubica estratégicamente frente al aeropuerto Santiago Pérez, al sur de la ciudad de Arauca, en la frontera con Venezuela.
 contacto: https://www.terminaldetransporte.gov.co/destinos/arauca/
 direccion: Km 1 Vía Caño Limón, Arauca, Arauca, Colombia.
 telefono: 6078850453 

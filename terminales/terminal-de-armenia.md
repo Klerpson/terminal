@@ -4,8 +4,8 @@ title: "Terminal de Transporte Armenia: a explorar el Eje Cafetero"
 description: "Conoce la Terminal de Transporte de Armenia: servicios, horarios, empresas de bus y más. ¡Inicia tu aventura en el Eje Cafetero hoy mismo!"
 category: quindio
 h1: "Terminal de Transporte Armenia: tu llegada al Eje Cafetero"
-h2_2: Empresas de transporte de la terminal de Armenia con las que puedes comprar pasajes
-p_1: La Terminal de Transporte de Armenia es tu punto de partida para descubrir el encanto del Eje Cafetero. Aquí encontrarás todo lo que necesitas para tu viaje.
+subtitle: Empresas de transporte de la terminal de Armenia con las que puedes comprar pasajes
+intro: La Terminal de Transporte de Armenia es tu punto de partida para descubrir el encanto del Eje Cafetero. Aquí encontrarás todo lo que necesitas para tu viaje.
 contacto: https://www.terminaldetransporte.gov.co/destinos/armenia/
 direccion: "Calle 35 # 20-68"
 telefono: 67473355 

@@ -1,45 +1,29 @@
 ---
 layout: terminal
+json-terminal: true
+# Las 2 variables anteriores no cambian
 title: Terminales de transporte de Bogotá Salitre, Norte y Sur
 description: "La terminal de Bogotá es una empresa que ahora consta de 3 terminales: la Terminal Salitre, la Terminal del Sur y la Terminal del Norte."
 category: cundinamarca
 h1: Terminal Salitre, terminal del Sur y terminal del Norte de Bogotá
 jpg: terminales/terminal-bogota.jpg
-hero: terminales/terminal-bogota.webp
 webps: terminales/terminal-bogota-376.webp
 webpm: terminales/terminal-bogota-600.webp
-webpb: terminales/terminal-bogota-800.webp
-alt: Terminal de Bogotá
-logo: terminal-bogota-logo.png
+alt: Terminal Bogotá
 webp1: terminales/terminal-bogota-norte-600.webp
 webp2: terminales/terminal-bogota-norte-376.webp
-h2_1: Teléfono de la terminal Salitre y Norte de Bogotá
-h2_2: ¿Necesitas tiquetes? Cómpralos con la terminal de buses de Bogotá
-p_1: "La terminal de transportes de Bogotá es una empresa que opera el transporte terrestre nacional y sudamericano, desde y hacia la ciudad de Bogotá."
-empresa1: Expreso Bolivariano
-empresa2: Coomotor
-empresa3: Velotax
-empresa_img_1: terminales/terminal-bogota-bolivariano.webp
-empresa_img_2: terminales/terminal-bogota-coomotor.webp
-empresa_img_3: terminales/terminal-bogota-velotax.webp
-empresa1_telf: 6012634437
-empresa2_telf: 3158575809
-empresa3_telf: 6012612110
+subtitle: ¿Necesitas tiquetes? Cómpralos con las empresas de la terminal de buses de Bogotá
+intro: "La terminal de transportes de Bogotá es una empresa que opera el transporte terrestre nacional y sudamericano, desde y hacia la ciudad de Bogotá, mediante 3 sedes diferentes."
 contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acceso-a-la-informacion-publica/pqrs/
-pdf: telefonos-empresa-terminal-bogota
-json-terminal: true
 direccion: "Diagonal 23 # 69 - 11"
-telefono: 6014233630
-telefono2: 6014233951
-email: terminalbogota@terminaldetransporte.gov.co
-maps: https://goo.gl/maps/TBg4E7juw5Bps5iaA
-ciudad: Bogotá
-depto: Cundinamarca
+telefono: "6014233630 - 6014233951"
 postal: 110931
-calificacion: 4.3
-reviews: 1913
-latitude: 4.6549308
-longitude: -74.1175679
+latitude: 4.7207877
+longitude: -74.15717
+email: terminalbogota@terminaldetransporte.gov.co
+ciudad: Bogotá
+calificacion: 4.1
+reviews: 1789
 permalink: /terminal-de-bogota
 empresas:
   - Líneas las Acacias: 5414667 - 5414667
@@ -125,94 +109,122 @@ empresas:
   - Transportes y Turismo Berlinas del Fonce S.A.: 7435050 - 3156020522 3186665544 - 3183545454
   - Velotax Ltda.: 2612110
 ---
-## Terminal Salitre de Bogotá
+## La terminal de Bogotá, una empresa en crecimiento
+
+-----
+
+El Terminal de Transporte de Bogotá es más que un simple punto de partida y llegada para miles de viajeros. **Es una entidad que ha evolucionado con la ciudad**, ofreciendo servicios y facilidades que hacen del viaje una experiencia más amena.
+
+A continuación, te presentamos una guía detallada sobre todo lo que necesitas saber acerca de este importante punto de la capital colombiana.
+
+![Terminal Salitre]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Salitre"){:width="360" height="450" loading="lazy"}
+
+### Orígenes y evolución de la terminal de Bogotá
+
+El Terminal de Transporte de Bogotá nació como respuesta a la creciente necesidad de un espacio que centralizara las operaciones de transporte intermunicipal.
+
+A lo largo de los años, ha experimentado diversas transformaciones, adaptándose a las demandas de una ciudad en constante crecimiento y a las necesidades de sus usuarios.
+
+## Las 3 terminales de Bogotá: Norte, Sur y Salitre
+
+-----
+
+Bogotá, la vibrante capital de Colombia, no solo cuenta con un terminal de transporte, sino **con tres terminales estratégicamente ubicados** para facilitar la movilidad y conexión con diferentes regiones del país.
+
+Estas terminales son: **Norte, Sur y Salitre**. Cada una de ellas tiene características únicas y sirve a rutas específicas, asegurando que los viajeros tengan una experiencia eficiente y organizada.
+
+### Terminal de Salitre
+
+Localizada en el centro-occidente de la ciudad, **cerca del aeropuerto El Dorado, la Terminal de Salitre es la más grande y concurrida**. Sirve a una amplia variedad de destinos nacionales e incluso algunos internacionales.
+
+[Ir a la terminal Salitre]({{'terminal-salitre-bogota'|relative_url}} "Terminal Salitre Bogotá"){:class="botones boton-verde"}
 
 {% include add1.html %}
 
-**La Terminal de transporte de Salitre se encuentra en la Diagonal 23 # 69a - 55**, en Ciudad Salitre. Esta es una de las más grandes y concurridas de Colombia.
+### Terminal del Norte Bogotá
 
-Su ubicación es estratégica en la ciudad de Bogotá. Además, es el punto de partida principal para viajeros que se dirigen a diferentes partes del país.
+Ubicada en el sector **norte de la ciudad**, esta terminal es el punto de partida para aquellos que **se dirigen hacia los departamentos del norte y noreste de Colombia**.
 
-{% include cta-hotmart1.html %}
+Con modernas instalaciones, ofrece servicios a destinos como Boyacá, Santander y la Costa Caribe.
 
-Esta terminal cuenta con una amplia variedad de servicios para los viajeros, como restaurantes, baños, cajeros automáticos, locales de venta de souvenirs, zonas wifi y tiendas de conveniencia.
-
-Una de las ventajas de la Terminal de Salitre es su ubicación, ya que **se encuentra cerca de varios puntos de interés en la ciudad**. Por ejemplo, el Centro Comercial Salitre Plaza está ubicado a pocos minutos de la terminal. Otro lugar cercano es el Parque Simón Bolívar, uno de los parques más grandes de la ciudad, que cuenta con varias atracciones turísticas y áreas verdes para disfrutar.
-
-### Compra tus tiquetes en la terminal Salitre de Bogotá
-
-{% include cta-hotmart1.html %}
-
-En la Terminal Salitre de Bogotá, puedes comprar boletos para viajar a diferentes destinos nacionales e internacionales.
-
-En [terminaldetransporte.com](/) te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
-
-### Hoteles cerca de la Terminal de Salitre
-
-Para aquellos que necesitan pasar la noche antes o después de su viaje, la Terminal de Salitre cuenta con varias opciones de alojamiento cerca de sus instalaciones. Aquí te presentamos algunas opciones:
-
-Haz clic en el siguiente botón para ver una lista más completa de *los diferentes hoteles cerca a la terminal Salitre de Bogotá*.
-
-[Hoteles cerca de la terminal Salitre](https://www.google.com/maps/search/Hoteles/@4.6521226,-74.1164394,16z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
-
-## Terminal Norte de Bogotá
+[Ir a la terminal Norte]({{'terminal-norte-bogota'|relative_url}} "Terminal Norte Bogotá"){:class="botones boton-verde"}
 
 {% include add1.html %}
 
-La Terminal Norte de Bogotá es una de las terminales más concurridas de la ciudad, ya que es la principal terminal para los viajes hacia el norte del país.
+### Terminal del Sur Bogotá
 
-Esta terminal **se encuentra ubicada en la  calle 192 # 19-43**, en la localidad de Suba.
+Situada en el sur de Bogotá, esta terminal es esencial **para quienes viajan hacia los departamentos del sur y suroeste del país**.
 
-La Terminal Norte de Bogotá es la segunda terminal más grande de la ciudad, después de la Terminal de Transporte Salitre. Esta terminal de transporte maneja principalmente rutas intermunicipales de corta distancia.
+Desde aquí, puedes embarcarte hacia destinos como Huila, Nariño y Putumayo.
 
-Esta terminal es un punto de partida para muchos viajeros que se dirigen a destinos populares como Zipaquirá, Tunja y Villa de Leyva. También es un punto de llegada para aquellos que vienen de la región del Norte de Bogotá.
+[Ir a la terminal Sur]({{'terminal-sur-bogota'|relative_url}} "Terminal Sur Bogotá"){:class="botones boton-verde"}
 
-### Compra pasajes en la terminal del Norte de Bogotá
+{% include add1.html %}
 
-{% include cta-hotmart1.html %}
+>Si estás planeando un viaje desde Bogotá y deseas conocer más sobre estas terminales, te invitamos a seguir explorando haciendo clic en el botón de cada una.
 
-En la Terminal Norte de Bogotá puedes comprar los pasajes telefónicamente. Hasta puedes [comprar pasajes en línea]({{'blog/red-bus-colombia-reserva-viajes'|relative_url}} "RedBus Colombia").
+Cada terminal tiene su propia esencia y servicios que garantizan un viaje cómodo y seguro.
 
-En [terminaldetransporte.com](/) te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en la terminal. Haz clic en el siguiente botón para ver sus números.
+## Consejos para viajeros de la terminal de Bogotá
 
-### Hoteles cerca de la Terminal Norte de Bogotá
+[Un viaje exitoso]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto%}) comienza con una buena preparación. Aquí te dejamos algunos consejos para que tu paso por el terminal sea lo más fluido posible.
 
-Para aquellos que necesitan pasar la noche antes o después de su viaje, **la Terminal Norte cuenta con varias opciones de alojamiento cerca de sus instalaciones**.
+### Preparativos antes de llegar al terminal
 
-Haz clic en el siguiente botón para ver una lista más completa de *los diferentes hoteles cerca a la terminal norte de Bogotá*.
+Asegúrate de tener todos tus **documentos en regla** y de **llegar con suficiente antelación** a tu hora de salida.
 
-[Hoteles cerca de la terminal del Norte de Bogotá](https://www.google.com/maps/search/Hoteles/@4.7632584,-74.0527961,14.25z/data=!4m2!2m1!6e3){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+### Seguridad y recomendaciones generales dentro de la terminal
 
-## Terminal sur de Bogotá
+[Mantén siempre tus pertenencias a la vista]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}) y sigue las indicaciones del personal del terminal.
 
-La Terminal Sur de Bogotá, también conocida como Terminal de Transporte del Sur, es la terminal principal para aquellos que buscan viajar a destinos en el sur del país, como Neiva, Pitalito, Mocoa, Puerto Asís y Florencia. También es una importante terminal para aquellos que llegan a Bogotá desde el sur.
+## Rutas Populares desde Bogotá
 
-**La terminal del Sur de Bogotá está ubicada en Diagonal 23 # 69 - 60, Oficina 502.** Cuenta con una amplia variedad de servicios para los viajeros, como tiendas, restaurantes y salas de espera.
+-----
 
-### Compra pasajes a las empresas de la terminal del sur de Bogotá
+Bogotá, siendo la capital, ofrece conexiones a una amplia variedad de destinos.
 
-Algunas de las empresas de transporte que se pueden encontrar en la Terminal Sur de Bogotá son:
+Ciudades como [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal de Medellín"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali") y [Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal de Cartagena") son solo algunos de los destinos más populares desde Bogotá.
 
-* Cootranshuila
-* Flota Magdalena
-* Fronteras
-* Rápido Tolima
-* Transportes Expreso Brasilia
+### Rutas internacionales disponibles
 
-En la Terminal del Sur de Bogotá puedes comprar los pasajes telefónicamente. Por esto, también te preparamos una lista de algunas empresas de transporte que ofrecen sus servicios en esta terminal.
+Para aquellos que buscan aventurarse fuera del país, el terminal ofrece rutas hacia destinos internacionales en países vecinos.
 
-### Hoteles cerca de la Terminal de Transporte Sur de Bogotá
+## Historia del Terminal de Transporte Bogotá
 
-Aquí tienes la ubicación de algunos hoteles cercanos a la terminal sur de Bogotá.
+-----
 
-[Hoteles cerca de la terminal del Sur de Bogotá](https://www.google.com/maps/search/Hoteles/@4.5993242,-74.1857978,14.75z/data=!4m2!2m1!6e3){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+Desde sus inicios, el Terminal de Transporte de Bogotá ha sido un pilar fundamental en la movilidad de la ciudad. **Inaugurado en 1981**, este terminal ha visto pasar a millones de viajeros, conectando a Bogotá con el resto del país y más allá.
 
-## Las terminales Salitre, Norte y Sur de Bogotá: las más grandes de Colombia
+### Impacto en la movilidad de la ciudad
 
-En resumen, la Terminal Salitre de Bogotá es una de las principales terminales de transporte de la ciudad, con conexiones a diversas ciudades del país y algunos destinos internacionales.
+El terminal no solo ha facilitado la conexión entre Bogotá [y otras regiones]({{'terminales-de-colombia'|relative_url}} "Terminales de Colombia"), sino que también ha influido en la planificación urbana y en la movilidad de la ciudad.
 
-La terminal Norte es una excelente opción para los destinos del norte del país, descongestionando mucho el tráfico al centro de la ciudad con el transporte de pasajeros en bus a Bogotá.
+Su presencia ha impulsado el desarrollo de infraestructuras y servicios complementarios en sus alrededores.
 
-Y la terminal Sur de Bogotá, cumple la misma función, obviamente hacia los destinos del sur de Colombia.
+{% include add3.html %}
 
-Esperamos que esta guía haya sido útil para su próxima aventura desde las Terminales de transporte de Bogotá. ¡Feliz viaje!
+## Preguntas Frecuentes
+
+-----
+
+### ¿Cuál es el horario de funcionamiento del terminal?
+
+El terminal opera las 24 horas del día, los 365 días del año.
+
+### ¿Hay servicios de alojamiento cercanos?
+
+Sí, hay varios hoteles y hostales cerca del terminal.
+
+### ¿Qué medidas de seguridad existen en el terminal?
+
+El terminal cuenta con personal de seguridad y cámaras de vigilancia en todo el recinto.
+
+### ¿Cómo puedo comprar tiquetes en línea?
+
+La mayoría de las empresas de transporte ofrecen la opción de compra en línea a través de sus sitios web.
+
+### ¿Hay estacionamiento disponible para los visitantes?
+
+Sí, el terminal cuenta con un amplio estacionamiento para visitantes.
+
+Para aquellos que buscan más información o desean explorar otras rutas desde Bogotá, te invitamos a seguir navegando por nuestro sitio y descubrir todo lo que el Terminal de Transporte de Bogotá tiene para ofrecer. ¡Buen viaje!
