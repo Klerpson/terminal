@@ -1,7 +1,6 @@
 ---
 layout: terminal
 json-terminal: true
-# Las 2 variables anteriores no cambian
 title: Terminales de transporte de Bogotá Salitre, Norte y Sur
 description: "La terminal de Bogotá es una empresa que ahora consta de 3 terminales: la Terminal Salitre, la Terminal del Sur y la Terminal del Norte."
 category: cundinamarca
@@ -17,13 +16,13 @@ intro: "La terminal de transportes de Bogotá es una empresa que opera el transp
 contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acceso-a-la-informacion-publica/pqrs/
 direccion: "Diagonal 23 # 69 - 11"
 telefono: "6014233630 - 6014233951"
-postal: 110931
-latitude: 4.7207877
-longitude: -74.15717
 email: terminalbogota@terminaldetransporte.gov.co
 ciudad: Bogotá
+postal: 110931
 calificacion: 4.1
 reviews: 1789
+latitude: 4.7207877
+longitude: -74.15717
 permalink: /terminal-de-bogota
 empresas:
   - Líneas las Acacias: 5414667 - 5414667
@@ -115,9 +114,9 @@ empresas:
 
 El Terminal de Transporte de Bogotá es más que un simple punto de partida y llegada para miles de viajeros. **Es una entidad que ha evolucionado con la ciudad**, ofreciendo servicios y facilidades que hacen del viaje una experiencia más amena.
 
-A continuación, te presentamos una guía detallada sobre todo lo que necesitas saber acerca de este importante punto de la capital colombiana.
-
 ![Terminal Salitre]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Salitre"){:width="360" height="450" loading="lazy"}
+
+A continuación, te presentamos una guía detallada sobre todo lo que necesitas saber acerca de este importante punto de la capital colombiana.
 
 ### Orígenes y evolución de la terminal de Bogotá
 
@@ -133,7 +132,7 @@ Bogotá, la vibrante capital de Colombia, no solo cuenta con un terminal de tran
 
 Estas terminales son: **Norte, Sur y Salitre**. Cada una de ellas tiene características únicas y sirve a rutas específicas, asegurando que los viajeros tengan una experiencia eficiente y organizada.
 
-### Terminal de Salitre
+### 1. Terminal de Salitre
 
 Localizada en el centro-occidente de la ciudad, **cerca del aeropuerto El Dorado, la Terminal de Salitre es la más grande y concurrida**. Sirve a una amplia variedad de destinos nacionales e incluso algunos internacionales.
 
@@ -141,7 +140,7 @@ Localizada en el centro-occidente de la ciudad, **cerca del aeropuerto El Dorado
 
 {% include add1.html %}
 
-### Terminal del Norte Bogotá
+### 2. Terminal del Norte Bogotá
 
 Ubicada en el sector **norte de la ciudad**, esta terminal es el punto de partida para aquellos que **se dirigen hacia los departamentos del norte y noreste de Colombia**.
 
@@ -151,7 +150,7 @@ Con modernas instalaciones, ofrece servicios a destinos como Boyacá, Santander 
 
 {% include add1.html %}
 
-### Terminal del Sur Bogotá
+### 3. Terminal del Sur Bogotá
 
 Situada en el sur de Bogotá, esta terminal es esencial **para quienes viajan hacia los departamentos del sur y suroeste del país**.
 
