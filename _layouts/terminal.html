@@ -1,12 +1,19 @@
 ---
 layout: default
 ---
+<div class="add">{% include add1.html %}</div>
 
-{% if page.h2_2 %}
-<section class="wrapper">
+<main class="wrapper flow articulo">
+  <blockquote>{{page.intro}}</blockquote>
+  <a href="#telefonos" class="botones boton-verde">Ver teléfonos de empresas</a>
+  {% include add2.html %}
+  {{content}}
+  {% include add1.html %}
+</main>
+{% if page.subtitle %}
+<section class="wrapper" id="telefonos">
   <h2>{{page.subtitle}}</h2>
   <hr>
-  <blockquote>{{page.intro}}</blockquote>
   <div class="telefonos">
     <table>
       <thead>
@@ -27,13 +34,6 @@ layout: default
   </div>
 </section>
 {% endif %}
-<div class="add">{% include add1.html %}</div>
-
-<main class="wrapper flow articulo">
-  {% include add2.html %}
-  {{content}}
-  {% include add1.html %}
-</main>
 
 <div style="height: 150px; overflow: hidden">
   <svg

@@ -10,12 +10,11 @@ webpm: terminales/terminal-aguazul-600.webp
 alt: Terminal de Transporte Aguazul Casanare
 webp1: terminales/terminal-aguazul-casanare-600.webp
 webp2: terminales/terminal-aguazul-casanare-376.webp
-subtitle: Compra pasajes en las empresas de la terminal Aguazul 
+subtitle: Compra los pasajes en la terminal Aguazul con las empresas de transporte
 intro: "La Terminal Aguazul es tu inicio a viajes memorables. Ofrecemos servicios de alta calidad y conexiones rápidas para una experiencia de viaje sin igual."
 contacto: http://www.terminalaguazul.gov.co/peticiones-quejas-reclamos
 direccion: 'Calle 9 N° 14-45 Esquina'
-telefono: 6076383630
-telefono2: 3174242170
+telefono: 6076383630 - 3174242170
 email: contactenos@terminalaguazul.gov.co
 maps: https://goo.gl/maps/KzUJgje1v3ysPArHA
 ciudad: Aguazul
@@ -25,6 +24,7 @@ reviews: 1810
 latitude: 5.1690674
 longitude: -72.5498628
 permalink: /terminal-de-aguazul
+json-terminal: true
 empresas:
   - Autoboy: 3124579775
   - Coflonorte: 3124579775 - 3134035980 - 3214365019
@@ -36,13 +36,11 @@ empresas:
 
 -----
 
-Si estás pensando en viajar desde o hacia **Aguazul**, este artículo es para ti. Aquí encontrarás todo lo que necesitas saber sobre el **Terminal de Aguazul**.
-
-Desde su ubicación y cómo llegar, hasta los servicios disponibles y las rutas que puedes tomar. ¡Vamos a ello!
+Te queremos compartir todo lo que necesitas saber sobre el **Terminal de Aguazul**, su ubicación o cómo llegar, los servicios disponibles y las rutas que puedes tomar.
 
 ### Ubicación y cómo llegar a la terminal Aguazul
 
-El Terminal de Aguazul se encuentra **en la ciudad de Aguazul, en el departamento de Casanare**. Para llegar, puedes tomar un bus desde cualquier ciudad principal de Colombia.
+El Terminal de Aguazul se encuentra **en la ciudad de Aguazul, en el departamento de Casanare**. Para llegar, puedes tomar un bus desde cualquier ciudad principal del norte de Colombia.
 
 ![Terminal Aguazul]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Aguazul"){:width="360" height="450" loading="lazy"}
 
@@ -73,6 +71,7 @@ Dentro de la Terminal de Transportes de Aguazul operan diversas empresas de tran
 - **Cootransbol - Concorde**: Ofrece rutas a destinos específicos con una flota moderna.
 - **Flota Sugamuxi - Libertadores**: Con años de experiencia, es una de las preferidas por los viajeros.
 - **Transportes Morichal**: Se destaca por sus rutas hacia el sur del país.
+{:class="seccion"}
 
 Las principales compañías que operan **en el Terminal de Aguazul son Expreso Bolivariano, Copetran y Flota Sugamuxi**. Estas compañías ofrecen rutas a las principales ciudades de Colombia y también a destinos locales.
 
@@ -106,6 +105,8 @@ Recuerda llegar al terminal con suficiente tiempo para comprar tu pasaje y encon
 
 Durante el viaje, trata de relajarte y disfrutar del paisaje. Si el viaje es largo, aprovecha para leer un libro o escuchar música. Recuerda que el viaje es parte de la aventura.
 
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
 ## Preguntas frecuentes sobre la terminal de Aguazul
 
 -----
@@ -117,5 +118,3 @@ Puedes llegar al Terminal de Aguazul en bus desde cualquier ciudad principal de 
 {% include add3.html %}
 
 Esperamos que este artículo te haya sido útil para planificar tu viaje desde el Terminal de Aguazul. Recuerda que la mejor manera de disfrutar de un viaje es estar bien preparado. ¡Buen viaje!
-
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

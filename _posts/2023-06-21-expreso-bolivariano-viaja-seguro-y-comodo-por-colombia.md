@@ -1,22 +1,16 @@
 ---
 layout: post
+json-post: true
 title: 'Expreso Bolivariano: viaja seguro y cómodo por Colombia 🚌'
 description: 'Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. ¿Por qué es de las más utilizadas? ¡Averígualo aquí!'
 autor: terminaldetransporte.com
 h1: 'Expreso Bolivariano: viaja seguro y cómodo por Colombia'
-h1_alternativo: 'Viajar en Expreso Bolivariano por Colombia'
-award: 'Expreso Bolivariano: viaja seguro y cómodo'
-date: 2023-06-21
-keywords: [bus, viajes, colombia, expreso, bolivariano]
 jpg: blog/expreso-bolivariano-bus.jpg
-hero: blog/expreso-bolivariano-bus.webp
 webps: blog/expreso-bolivariano-bus-376.webp
 webpm: blog/expreso-bolivariano-bus-600.webp
-webpb: blog/expreso-bolivariano-bus-800.webp
 alt: Expreso Bolivariano Bus
-json-post: true
 permalink: blog/expreso-bolivariano-viaja-seguro-y-comodo-por-colombia
-excerpt_separator: <!-- excerpt -->
+excerpt: Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. Ofrece una gran variedad de servicios de autobús intermedio y de lujo en Colombia y Perú
 ---
 Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. Ofrece una gran variedad de **servicios de autobús intermedio y de lujo en Colombia y Perú**, con enfoque en la seguridad, comodidad y tecnología de los autobuses.
 <!-- excerpt -->
@@ -48,6 +42,13 @@ También se puede pagar en efectivo en **tiendas Efecty y Baloto**. Es important
 ### Política de equipaje y transporte de mascotas
 
 Expreso Bolivariano permite **el transporte de una maleta en bodega de máximo 15 kilos, sin costo adicional**. Sin embargo, cualquier **exceso de equipaje debe ser cancelado por el pasajero**.
+
+* Recuerda que los precios de los pasajes pueden variar dependiendo de varios factores.
+* Es importante que llevas contigo los documentos necesarios para el viaje.
+* Los menores de edad deben estar acompañados por un adulto responsable o presentar una autorización de sus padres.
+* En el momento de comprar tu pasaje, infórmate sobre las comodidades y sillas del autobús.
+* Para hacer cambios o cancelaciones, utiliza los canales de atención al cliente de Expreso Bolivariano.
+{:class="seccion"}
 
 También **se permite el transporte de mascotas**, pero depende de la disponibilidad, el tipo de bus y el tamaño de la mascota. *Es importante notificar al momento de la compra* del tiquete sobre el transporte de mascotas y para conocer las condiciones necesarias para su transporte en los buses.
 
@@ -102,38 +103,7 @@ Algunos autobuses cuentan con **entretenimiento a bordo**, como pantallas de tel
 * Servicio de wifi (en algunos autobuses).
 * Entretenimiento a bordo (en algunos autobuses).
 * Servicio de alimentación (según duración del viaje).
-{:class="comentario"}
-
-### Preguntas frecuentes sobre Expreso Bolivariano
-
-En esta sección se encuentran algunas preguntas frecuentes que los viajeros pueden tener al utilizar los servicios de Expreso Bolivariano. Aquí te brindamos información útil para que tu viaje sea lo más cómodo y satisfactorio posible.
-
-#### ¿Cuánto cuesta viajar en Expreso Bolivariano?
-
-Los precios de los pasajes de Expreso Bolivariano pueden variar dependiendo de la ruta, la temporada del año y el tipo de autobús. Los precios se pueden consultar en línea a través de Pinbus y redBus al momento de reservar tu ticket.
-
-#### ¿Qué documentos se necesitan para viajar en Expreso Bolivariano?
-
-Para viajar en Expreso Bolivariano es necesario presentar un documento de identidad que avale tu identidad y edad, como una cédula, pasaporte o tarjeta de identidad. Para los menores de edad se necesitan documentos adicionales como una autorización de los padres o acudientes para viajar.
-
-#### ¿Se puede viajar con niños y menores de edad en Expreso Bolivariano?
-
-Sí, se puede viajar con niños y menores de edad en Expreso Bolivariano. Los menores de edad deben presentar los documentos necesarios para el viaje y deben estar acompañados por un adulto responsable. En caso contrario, se debe presentar una autorización de los padres o acudientes.
-
-#### ¿Cómo son las sillas y comodidades en los autobuses de Expreso Bolivariano?
-
-Los autobuses de Expreso Bolivariano tienen diferentes tipos de sillas y comodidades, dependiendo del tipo de servicio que se haya adquirido. Algunos autobuses tienen sillas reclinables, pantallas individuales y wifi gratis. Recuerda que puedes consultar las diferentes comodidades de cada autobús en el momento de comprar tu pasaje.
-
-#### ¿Cómo hacer cambios o cancelaciones de tiquetes en Expreso Bolivariano?
-
-Si necesitas hacer cambios o cancelaciones en tu pasaje de Expreso Bolivariano, puedes hacerlo a través de los canales de atención al cliente en línea o presencial. Es importante que tengas en cuenta que se pueden presentar cargos adicionales dependiendo del tiempo y las condiciones de la solicitud de cambio o cancelación.
-
-* Recuerda que los precios de los pasajes pueden variar dependiendo de varios factores.
-* Es importante que llevas contigo los documentos necesarios para el viaje.
-* Los menores de edad deben estar acompañados por un adulto responsable o presentar una autorización de sus padres.
-* En el momento de comprar tu pasaje, infórmate sobre las comodidades y sillas del autobús.
-* Para hacer cambios o cancelaciones, utiliza los canales de atención al cliente de Expreso Bolivariano.
-{:class="comentario"}
+{:class="seccion"}
 
 ## Autobuses de Expreso Bolivariano
 
@@ -200,3 +170,27 @@ Expreso Bolivariano cuenta con una amplia flota de autobuses principalmente de l
 La historia de Expreso Bolivariano comenzó en 1956 en la ciudad de Fusagasugá, cuando su fundador, Juan Mahecha, decidió crear una empresa de transporte que ofreciera comodidad y seguridad a los pasajeros.
 
 Desde entonces, la empresa ha crecido y se ha expandido, **convirtiéndose en una de las principales compañías de transporte** por carretera en [Colombia]({{'terminales-de-colombia'|relative_url}}) y Perú.
+
+### Preguntas frecuentes sobre Expreso Bolivariano
+
+En esta sección se encuentran algunas preguntas frecuentes que los viajeros pueden tener al utilizar los servicios de Expreso Bolivariano. Aquí te brindamos información útil para que tu viaje sea lo más cómodo y satisfactorio posible.
+
+#### ¿Cuánto cuesta viajar en Expreso Bolivariano?
+
+Los precios de los pasajes de Expreso Bolivariano pueden variar dependiendo de la ruta, la temporada del año y el tipo de autobús. Los precios se pueden consultar en línea a través de Pinbus y redBus al momento de reservar tu ticket.
+
+#### ¿Qué documentos se necesitan para viajar en Expreso Bolivariano?
+
+Para viajar en Expreso Bolivariano es necesario presentar un documento de identidad que avale tu identidad y edad, como una cédula, pasaporte o tarjeta de identidad. Para los menores de edad se necesitan documentos adicionales como una autorización de los padres o acudientes para viajar.
+
+#### ¿Se puede viajar con niños y menores de edad en Expreso Bolivariano?
+
+Sí, se puede viajar con niños y menores de edad en Expreso Bolivariano. Los menores de edad deben presentar los documentos necesarios para el viaje y deben estar acompañados por un adulto responsable. En caso contrario, se debe presentar una autorización de los padres o acudientes.
+
+#### ¿Cómo son las sillas y comodidades en los autobuses de Expreso Bolivariano?
+
+Los autobuses de Expreso Bolivariano tienen diferentes tipos de sillas y comodidades, dependiendo del tipo de servicio que se haya adquirido. Algunos autobuses tienen sillas reclinables, pantallas individuales y wifi gratis. Recuerda que puedes consultar las diferentes comodidades de cada autobús en el momento de comprar tu pasaje.
+
+#### ¿Cómo hacer cambios o cancelaciones de tiquetes en Expreso Bolivariano?
+
+Si necesitas hacer cambios o cancelaciones en tu pasaje de Expreso Bolivariano, puedes hacerlo a través de los canales de atención al cliente en línea o presencial. Es importante que tengas en cuenta que se pueden presentar cargos adicionales dependiendo del tiempo y las condiciones de la solicitud de cambio o cancelación.

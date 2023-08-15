@@ -4,27 +4,25 @@ title: "Terminal Salitre: Tu Puerta de Entrada y Salida de Bogotá"
 description: "Planifica tu viaje desde la Terminal Salitre. Encuentra información actualizada sobre • rutas • empresas de transporte y • servicios disponibles."
 category: cundinamarca
 h1: "Terminal Salitre de Bogotá: información y servicios"
-jpg: terminales/terminal-bogota.jpg
-webps: terminales/terminal-bogota-376.webp
-webpm: terminales/terminal-bogota-600.webp
-alt: Terminal de Bogotá
-webp1: terminales/terminal-bogota-norte-600.webp
-webp2: terminales/terminal-bogota-norte-376.webp
-h2_2: Planifica tu viaje desde la Terminal de Salitre. Utiliza nuestra información actualizada sobre las empresas de transporte.
+jpg: terminales/terminal-salitre.jpg
+webpm: terminales/terminal-salitre.webp
+webps: terminales/terminal-salitre-376.webp
+alt: Terminal Salitre Bogotá
+subtitle: Planifica tu viaje desde la Terminal de Salitre. Utiliza nuestra información actualizada sobre las empresas de transporte.
 intro: "Localizada cerca del aeropuerto El Dorado, la Terminal de Salitre es la más grande y concurrida de Bogotá. Sirve a una amplia variedad de destinos nacionales e incluso algunos internacionales."
 contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acceso-a-la-informacion-publica/pqrs/
 direccion: "Diagonal 23 # 69 - 11"
 telefono: 6014233630
-telefono2: 6014233951
 email: terminalbogota@terminaldetransporte.gov.co
 maps: https://goo.gl/maps/TBg4E7juw5Bps5iaA
-ciudad: Bogotá
+ciudad: Salitre - Bogotá
 postal: 110931
 calificacion: 4.3
 reviews: 1913
 latitude: 4.6549308
 longitude: -74.1175679
 permalink: /terminal-salitre-bogota
+json-terminal: true
 empresas:
   - Líneas las Acacias: 5414667 - 5414667
   - Coflonorte: 7705815 - 7705815 - 7700792 - 7700792
@@ -109,44 +107,147 @@ empresas:
   - Transportes y Turismo Berlinas del Fonce S.A.: 7435050 - 3156020522 3186665544 - 3183545454
   - Velotax Ltda.: 2612110
 ---
-# Estación Salitre en Bogotá
 
-Bienvenido a nuestro artículo sobre la Estación Salitre en Bogotá, un centro de transporte clave en el corazón de la ciudad. Esta bulliciosa terminal de transporte sirve como puerta de entrada a la vibrante capital, ofreciendo multitud de servicios y cómodas opciones de transporte tanto para locales como para visitantes. En este artículo, nos adentraremos en la ubicación y la historia de la Estación de Salitre, exploraremos los servicios que ofrece y destacaremos algunas atracciones cercanas que merece la pena explorar. Así que, ¡emprendamos un viaje para descubrir todo lo que la Estación Salitre tiene para ofrecer!
+## Ubicación y cómo llegar a la terminal Salitre
 
-## Ubicación de la Estación Salitre
+----
 
-En el corazón de Bogotá se encuentra la bulliciosa Estación Salitre, un enlace vital para los viajeros que viajan hacia y desde la ciudad. Ubicada estratégicamente en el barrio Salitre, este centro de transporte está idealmente situado para proporcionar un fácil acceso a las principales carreteras y autopistas. Con su ventajosa ubicación, los viajeros pueden explorar la vibrante y diversa ciudad de Bogotá y experimentar su gran variedad de servicios y atracciones. Desde centros comerciales y de entretenimiento hasta el renombrado Parque Simón Bolívar, la ubicación de la Estación Salitre ofrece algo para todos.
+El **Terminal Salitre** es uno de los puntos neurálgicos de transporte en Bogotá. Está situada estratégicamente en la capital colombiana y, por supuesto, es el **punto de partida y llegada de miles de viajeros** diariamente.
 
-La excelente conectividad de la estación con otras partes de la ciudad es otra ventaja clave. Gracias a su proximidad a las principales carreteras y autopistas, los viajeros pueden acceder fácilmente a la estación en transporte privado o público. Autobuses, taxis y trenes ofrecen cómodas opciones para que los viajeros se aventuren a sus destinos deseados. Ya sea explorando el centro de la ciudad o aventurándose a las afueras de Bogotá o incluso Santa Marta, la Estación Salitre garantiza una conectividad perfecta y un transporte sin estrés.
+### Cómo llegar a la terminal Salitre en Transmilenio
 
-La ubicación de la Estación Salitre la ha convertido en un destino popular tanto para los bogotanos como para los visitantes. Con su proximidad a una variedad de atracciones, los viajeros pueden acceder fácilmente a esta zona central de Bogotá y sumergirse en su rica historia y patrimonio. Desde actividades recreativas como correr y montar en bicicleta hasta lugares de interés cultural y museos, la ubicación de la estación ofrece oportunidades ilimitadas para descubrir y explorar esta ciudad vibrante y dinámica.
+Para aquellos que optan por el sistema de transporte público de Bogotá, **el Transmilenio ofrece varias rutas** que conectan directamente con el Terminal Salitre.
 
-## Historia de la Estación Salitre
+Las estaciones más cercanas, ambas pertenecientes a la **troncal de la Calle 26**, son:
 
-La Estación Salitre tiene una historia cautivadora que se remonta a su construcción a principios de 1900. Inicialmente erigida para prestar servicios de transporte a Bogotá, la terminal Salitre pronto se convirtió en una parte vital del entramado de la ciudad. Con el paso de los años, la estación ha sufrido numerosas remodelaciones y ampliaciones para adaptarse al creciente número de viajeros y pasajeros que cruzaban sus puertas. Desde sus orígenes como mera estación de tren hasta su condición actual de bullicioso nudo de transportes, la historia de la Estación de Salitre es un homenaje a la evolución y el crecimiento de Bogotá.
+* "El Tiempo Maloka"
+* "Salitre El Greco"
 
-A lo largo de su saga, la Estación de Salitre ha formado parte de numerosos acontecimientos y ocasiones notables. Desde jugar un papel esencial durante la Segunda Guerra Mundial hasta ser testigo de la urbanización de la ciudad, la terminal Salitre ha tenido un papel influyente en la formación de la personalidad de Bogotá. Hoy en día, es un símbolo del pasado de la ciudad y un recordatorio de su dedicación a la modernización y el éxito. Cuando la gente visita la estación, se transporta al pasado, reviviendo la nostalgia y el encanto de una época pasada. Tanto si es un apasionado de la historia como si simplemente siente curiosidad por la ciudad, la estación de Salitre es una visita obligada. Descubra los secretos que esconden sus paredes y sumérjase en la historia que ha conformado este emblemático monumento.
+### Dirección detallada de la terminal Salitre
 
-## Servicios que ofrece la Estación Salitre
+Si decides llegar en vehículo propio o taxi, **la dirección exacta es Calle 22B No. 69-59**. El terminal cuenta con amplias zonas de parqueo y facilidades para el desembarque de pasajeros.
 
-La Estación Salitre de Bogotá es más que un simple intercambiador de transportes; ofrece una serie de servicios para optimizar la experiencia de viaje de sus usuarios. En la terminal, los viajeros pueden aprovechar las instalaciones de almacenamiento de equipaje in situ, ofreciéndoles la libertad de explorar la ciudad sin la carga de engorrosas maletas. Además, la estación ofrece una gran variedad de opciones gastronómicas, desde tentempiés rápidos hasta restaurantes, para saciar el hambre de los visitantes antes o después de su viaje. Además, hay tiendas de alimentación y de recuerdos en las inmediaciones, lo que facilita la compra de cualquier necesidad o recuerdo.
+{% include add1.html %}
 
-La estación de Salitre también ofrece una serie de servicios que garantizan un viaje cómodo y confortable. En la terminal, los pasajeros pueden comprar billetes para varias opciones de transporte en las taquillas especializadas. Esto les evita tener que desplazarse a varios lugares o depender de las reservas en línea. Además, hay mostradores de información con personal cualificado que puede responder a preguntas o dar recomendaciones sobre atracciones y actividades locales. Además, la estación está equipada con aseos limpios y en buen estado, así como con cómodas zonas para sentarse, que brindan a los viajeros la oportunidad de relajarse antes de partir. Además, para las personas con necesidades especiales, la terminal dispone de instalaciones accesibles, como rampas y ascensores, que facilitan los desplazamientos a todo el mundo. En conjunto, estos servicios en la Estación Salitre de Bogotá se esfuerzan por crear una experiencia de viaje positiva y sin complicaciones.
+## Servicios y módulos
 
-## Opciones de transporte a la Estación Salitre
+----
 
-Llegar a la Estación Salitre de Bogotá es un esfuerzo sin esfuerzo, con múltiples opciones de transporte disponibles para satisfacer las necesidades de los viajeros. Para aquellos que valoran la comodidad y la velocidad, los servicios de transporte compartido como Uber o Cabify ofrecen viajes cómodos y confiables. Alternativamente, si busca una solución económica, los autobuses públicos ofrecen una forma económica de llegar a esta bulliciosa estación. Además, para aquellos que prefieren un modo de transporte más sostenible y activo, hay carriles bici y zonas peatonales en las inmediaciones, lo que permite una experiencia agradable y envolvente.
+El Terminal Salitre no es solo un punto de tránsito. Su infraestructura está diseñada para ofrecer una variedad de servicios a los viajeros. Y, además de sus servicios, también **la terminal muy bien organizada en 3 módulos de servicio**.
 
-Llegar a la estación de Salitre desde el aeropuerto es sencillo, con lanzaderas dedicadas al aeropuerto que proporcionan una conexión directa con esta estación. Para aquellos que prefieren un viaje aventurero, caminar por las aceras bien cuidadas de Bogotá ofrece una forma emocionante y única de explorar la ciudad. Los taxis también son una opción, permitiendo una ruta directa y sin complicaciones hasta la estación de Salitre. Con estos diversos medios de transporte, los viajeros tienen la ventaja de llegar a la Estación Salitre de Bogotá sin dificultad.
+>### Módulo 1
+>
+>Dedicado principalmente a **las empresas de transporte intermunicipal**. Aquí encontrarás taquillas de las principales empresas de buses que ofrecen rutas **hacia el norte y centro del país**.
+>
+>### Módulo 2
+>
+>Enfocado en **rutas hacia el sur y occidente de Colombia**. Además, cuenta con servicios adicionales como envío de paquetes y encomiendas.
+>
+>### Módulo 3
+>
+>Este módulo es el más reciente y está dedicado a rutas de corta distancia, especialmente **hacia municipios cercanos a Bogotá**.
 
-Sin importar la preferencia, la Estación Salitre de Bogotá es fácilmente accesible desde todos los rincones de la ciudad. Con una variedad de opciones de transporte que van desde servicios de transporte compartido hasta carriles para bicicletas, los viajeros pueden llegar a esta vibrante estación de una manera que se adapte a sus necesidades. Ya sea que elija tomar un taxi, usar el transporte público o explorar a pie, llegar a la Estación Salitre en Bogotá no tiene complicaciones, lo que garantiza un viaje cómodo y una experiencia inolvidable en esta hermosa ciudad.
+### Simit y trámites
 
-## Atracciones cercanas a la Estación Salitre
+Para aquellos que requieren resolver trámites relacionados con multas de tránsito o licencias, el terminal cuenta con un punto del SIMIT.
 
-Los visitantes de la Estación Salitre pueden acceder fácilmente a una amplia variedad de atracciones en las inmediaciones. Desde las emocionantes atracciones del parque de atracciones Salitre Mágico hasta el vasto oasis verde del Parque Simón Bolívar, hay algo para todos los gustos. Los aficionados a la historia pueden explorar el Museo Nacional de Colombia, mientras que los aficionados al arte pueden contemplar las famosas obras de Fernando Botero en el Museo Botero. Con estas diversas atracciones muy cerca de la estación,  **billetes de autobús**  puede ser una manera rentable de explorar fácilmente la ciudad.
+### Noticias y actualizaciones
 
-Llegar a estas atracciones cercanas es conveniente gracias a las diversas opciones de transporte disponibles. Puede pasear tranquilamente, alquilar un taxi o coger los autobuses públicos. Como opción ecológica, también existen servicios de bicicletas compartidas, que ofrecen una forma única y divertida de explorar la ciudad. No importa el modo de transporte preferido, la Estación Salitre ofrece una forma sin complicaciones de acceder a las diversas atracciones de la zona.
+Es posible mantenerse informado sobre novedades y cambios en el servicio a través del sitio web oficial del terminal y sus redes sociales.
 
-## Conclusión
+## Empresas de transporte de la terminal Salitre
 
-En conclusión, la Estación Salitre de Bogotá no es un simple centro de transporte, sino una terminal vibrante y bulliciosa que conecta a personas de todos los ámbitos de la vida. Su ubicación estratégica y su rica historia la convierten en un punto de referencia esencial en la ciudad. Con su amplia gama de servicios y cómodas opciones de transporte, la estación de Salitre sirve de puerta de entrada a innumerables atracciones de los alrededores. Tanto si eres un residente local como un viajero curioso, una visita a la Estación Salitre es imprescindible para experimentar la energía y la diversidad de Bogotá. Así que la próxima vez que se encuentre en la capital colombiana, asegúrese de incluir una parada en la Estación Salitre en su itinerario.
+----
+
+El Terminal Salitre alberga a las principales empresas de transporte terrestre del país.
+
+{% include add2.html %}
+
+### Coomotor
+
+Con más de 50 años de experiencia, Coomotor ofrece rutas hacia el sur del país, especialmente hacia el Huila y el Caquetá.
+
+### Rápido Tolima
+
+Especializados en rutas hacia el Tolima, esta empresa es una de las más tradicionales del terminal.
+
+### Bolivariano
+
+Con rutas hacia Medellín, Cali y otras ciudades principales, Bolivariano es una de las empresas más grandes y reconocidas del país.
+
+### Cootransfusa
+
+Ofreciendo rutas hacia la región del Sumapaz y el Fusagasugá, Cootransfusa es la opción ideal para quienes viajan hacia el sur de Cundinamarca.
+
+### Flota San Vicente
+
+Con rutas hacia el oriente del país, especialmente hacia el Meta y el Guaviare, esta empresa es una excelente opción para quienes buscan aventurarse hacia la Orinoquía colombiana.
+
+## Información de contacto de la terminal de transporte Salitre
+
+----
+
+Mantenerse informado es esencial antes de emprender un viaje. Y claro está, sucede lo mismo con la terminal Salitre de Bogotá.
+
+### Teléfonos de contacto
+
+El Terminal Salitre cuenta con una **línea de atención al cliente: (1) 4233600**. Aquí podrás resolver dudas sobre horarios, empresas y otros servicios.
+
+### Reservas y compra de tiquetes
+
+La mayoría de empresas presentes en el terminal ofrecen la posibilidad de comprar tiquetes en línea. Por ejemplo, puedes utilizar herramientas como PinBus y BusBud. Sin embargo, también es posible adquirirlos directamente en las taquillas del terminal.
+
+## Precios y tarifas de las empresas en la terminal Salitre Bogotá
+
+----
+
+Los precios de los pasajes varían según el destino, la empresa y la temporada del año. Es recomendable consultar directamente con las empresas o en sus sitios web para obtener información actualizada.
+
+### Pasajes más populares
+
+* Bogotá - Medellín
+* Bogotá - Cali
+* Bogotá - Ibagué
+* Bogotá - Neiva
+* Bogotá - Villavicencio
+{:class="seccion"}
+
+### Tarifas promedio
+
+Las tarifas pueden variar, pero en promedio un pasaje hacia Medellín puede costar entre $60.000 y $90.000 COP, mientras que un viaje hacia Cali puede oscilar entre $70.000 y $100.000 COP.
+
+## Horarios y restricciones
+
+----
+
+El Terminal Salitre opera todos los días del año. Sin embargo, es importante tener en cuenta las restricciones vehiculares y los horarios pico.
+
+### Horarios de atención
+
+El terminal abre sus puertas **desde las 4:00 a.m. hasta las 11:00 p.m.** Sin embargo, algunas empresas ofrecen rutas nocturnas, por lo que es posible encontrar movimiento incluso después del horario habitual.
+
+## Preguntas frecuentes
+
+{% include add1.html %}
+
+### ¿El terminal está funcionando durante la cuarentena?
+
+Sí, el terminal sigue operando, pero con restricciones y medidas de bioseguridad.
+
+### ¿Cómo hacer reservas en el terminal?
+
+Puedes hacerlo en línea a través de los sitios web de las empresas o directamente en las taquillas del terminal.
+
+### ¿Qué rutas son las más populares desde el Terminal Salitre?
+
+Las rutas más populares son hacia Medellín, Cali, Ibagué, Neiva y Villavicencio.
+
+### ¿Dónde se encuentra el módulo de Coomotor?
+
+Coomotor se encuentra en el Módulo 1 del terminal.
+
+### ¿Hay vacunación disponible en el terminal?
+
+Sí, hay un punto de vacunación contra la fiebre amarilla disponible para los viajeros.
+
+El Terminal Salitre es más que un punto de tránsito. Es un espacio que ofrece múltiples servicios y facilidades para hacer de tu viaje una experiencia cómoda y segura. Si estás planeando un viaje desde Bogotá, este terminal es tu mejor opción. ¡Buen viaje!

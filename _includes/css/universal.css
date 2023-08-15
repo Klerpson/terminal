@@ -1,7 +1,7 @@
 :root {
   /*** COLORES ***/
   --principal: #008a30;
-  --accion: #fdeb05;
+  --accion: #fff677;
   --secundario: #082D0F;
   --complemento1: #9dc5bb;
   --complemento2: #DEE5E5;
@@ -16,7 +16,7 @@
   /* BORDERS */
   --radius: 12px;
   /* SOMBRA */
-  --shadow: 0 2px 8px rgba(22, 22, 22, .3);
+  --shadow: 0 2px 8px rgba(22, 22, 22, .4);
 }
 
 *,
@@ -97,6 +97,9 @@ abbr[title] {
 b,
 strong {
   font-weight: 900;
+  background-color: var(--accion);
+  padding: 2px 6px;
+  border-radius: 8px;
 }
 
 small {
@@ -242,20 +245,15 @@ SVG Icons - svgicons.sparkk.fr
   font-weight: 700;
   box-shadow: var(--shadow);
   transition: all .2s ease-in;
+  font-family: var(--fuenteTitulos);
   margin-inline: auto;
   cursor: pointer;
   border: none;
 }
 
-.botones:hover {
-  box-shadow: var(--shadow);
-  transform: scale(1.025);
-}
-
 .boton-verde {
   color: white !important;
   background-color: var(--principal);
-  box-shadow: 0 2px 8px rgba(245, 245, 245, .3);
 }
 
 .boton-amarillo {
@@ -292,4 +290,11 @@ SVG Icons - svgicons.sparkk.fr
   gap: 1.2rem;
   flex-wrap: wrap;
   line-height: 1;
+}
+
+.seccion{
+  background-color: var(--complemento2);
+  box-shadow: 0 0 0 100vmax var(--complemento2);
+  clip-path: inset(0 -100vmax);
+  padding: 2em 0;
 }

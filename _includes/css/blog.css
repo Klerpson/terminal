@@ -213,7 +213,7 @@
 }
 
 .post-content {
-  width: min(90vw, 800px);
+  width: min((100% - 1em), 920px);
   margin-inline: auto;
   margin-bottom: 4rem;
 }
@@ -285,4 +285,9 @@
 .articulo li{
   list-style-type: disc;
   margin-left: 3em;
+}
+
+.articulo .botones{
+  display: block;
+  margin-inline: auto;
 }

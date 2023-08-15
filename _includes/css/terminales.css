@@ -51,5 +51,8 @@
 /********* PAGINA POR TERMINAL *********/
 .telefonos{
   display: grid;
-  justify-content: right;
+}
+
+.telefonos table{
+  justify-self: right;
 }

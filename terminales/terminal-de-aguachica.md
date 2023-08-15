@@ -8,7 +8,6 @@ jpg: terminales/terminal-aguachica.jpg
 webps: terminales/terminal-aguachica-376.webp
 webpm: terminales/terminal-aguachica-600.webp
 alt: Terminal de Aguachica
-logo: terminal-aguachica-logo.webp
 webp1: terminales/terminal-aguachica-cesar-600.webp
 webp2: terminales/terminal-aguachica-cesar-376.webp
 subtitle: Compra tus pasajes con las empresas de buses de la terminal de Aguachica
@@ -25,6 +24,7 @@ reviews: 4216
 latitude: 8.3061032
 longitude: -73.6305622
 permalink: /terminal-de-aguachica
+json-terminal: true
 empresas:
   - COOINTRABOS LTD: 6055779548
   - COOINTRACUR LTD: 6055750602
@@ -77,13 +77,12 @@ Y para hacerlo aún más conveniente, encontrarás una variedad de servicios y c
 
 ## Empresas destacadas en la Terminal de Aguachica
 
------
-
 - **Coointrabos Ltda**: Una de las empresas más reconocidas que opera en Aguachica. Esta cooperativa ha establecido un nombre en la región por su servicio confiable.
 - **Coointracur Ltda**: Otra cooperativa integral que ha sido esencial para conectar Aguachica con otras partes de Cesar.
 - **Expreso Brasilia**: Una empresa que no solo opera en Aguachica sino en toda Colombia, [siendo Expreso Brasilia una de las más grandes y reconocidas]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Flota expreso brasilia").
 - **Flota Magdalena**: Con años de experiencia, esta empresa ha sido una opción preferida para muchos viajeros.
 - **Copetran**: Con rutas que conectan Aguachica con ciudades como Bucaramanga y Bogotá, Copetran es una elección popular entre los viajeros.
+{:class="seccion"}
 
 {% include add1.html %}
 
@@ -112,11 +111,13 @@ Aguachica se ha establecido como un punto de conexión importante en la región.
 
 ### Importancia de la Terminal de Aguachica
 
-{% include add3.html %}
-
 La Terminal de Aguachica ha sido testigo de los cambios y crecimiento de la ciudad. Su papel ha sido vital en el desarrollo y evolución de Aguachica.
 
 Esta terminal de transporte es el pilar del transporte en la ciudad, [conectando a Aguachica con el resto del país]({{'terminales-de-colombia'|relative_url}}). Es más que un punto de tránsito, es parte de la vida de la ciudad.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
+{% include add1.html %}
 
 ## Preguntas frecuentes
 
@@ -133,5 +134,3 @@ Sí, cuenta con un equipo de seguridad profesional y el acompañamiento de las a
 ## Continúa explorando
 
 Te invitamos a seguir navegando por nuestro sitio web para obtener más información sobre otros destinos y servicios de transporte disponibles. ¡Gracias por elegirnos!
-
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
