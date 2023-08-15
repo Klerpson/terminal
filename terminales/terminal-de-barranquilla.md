@@ -85,14 +85,18 @@ Aquí te dejamos una lista de los hoteles más cercanos a la terminal:
 * Hotel El Granado - A 10 minutos en coche de la terminal
 * Hotel San Marcos - A 15 minutos en coche de la terminal
 
-### Destinos populares: descubre Colombia desde Barranquilla
+## Rutas populares desde y hacia Barranquilla
 
-Desde la Terminal de Barranquilla, puedes llegar a destinos como las principales ciudades del país y la costa:
+-----
 
-* [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá")
-* [Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal Cartagena")
-* [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta")
-* [Valledupar]({{'terminal-de-valledupar'|relative_url}} "Terminal Valledupar")
+Barranquilla se conecta con las principales ciudades de Colombia. Algunas de las rutas más populares incluyen:
+
+* **Barranquilla - [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"):** Con una duración de aproximadamente 17 horas y 10 minutos, esta ruta te lleva a través de paisajes cambiantes, desde las llanuras costeras hasta las montañas andinas.
+* **Barranquilla - [Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal Cartagena"):** Un viaje corto de 2 horas y 30 minutos, ideal para aquellos que desean explorar la histórica Cartagena de Indias.
+* **Barranquilla - [Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}} "Terminal Bucaramanga"):** En aproximadamente 9 horas y 50 minutos, este viaje te lleva a la capital del departamento de Santander, conocida por sus hermosos parques y su vibrante vida nocturna.
+* Otras opciones son **[Valledupar]({{'terminal-de-valledupar'|relative_url}} "Terminal Valledupar") y [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta").**
+
+Estas son solo algunas de las muchas rutas disponibles. La Terminal de Transporte de Barranquilla ofrece conexiones a 14 ciudades diferentes, con 106 viajes diarios en promedio.
 
 [Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
