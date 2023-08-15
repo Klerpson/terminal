@@ -20,13 +20,10 @@ collections:
       - { label: 'Meta Description', name: 'description', widget: 'string' }
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'Título', name: 'h1', widget: 'string' }
-      - { label: 'Category', name: 'category', widget: 'string' }
+      - { label: 'Intro', name: 'excerpt', widget: 'string' }
       - { label: 'JPG', name: 'jpg', widget: 'image' }
-      - { label: 'Hero', name: 'hero', widget: 'image' }
       - { label: 'Small', name: 'webps', widget: 'image' }
       - { label: 'Medium', name: 'webpm', widget: 'image' }
-      - { label: 'Bigger', name: 'webpb', widget: 'image' }
       - { label: 'Alt', name: 'alt', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Link', name: 'permalink', widget: 'string' }
+      - { label: 'URL', name: 'permalink', widget: 'string' }
       - { label: 'Content', name: 'body', widget: 'markdown' }
