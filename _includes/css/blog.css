@@ -276,10 +276,10 @@
 }
 
 .articulo img{
-  float: right;
+  display: block;
   border-radius: var(--radius);
-  margin: 1.2em;
   width: min(100%, 376px);
+  margin: 1.5em auto;
 }
 
 .articulo li{

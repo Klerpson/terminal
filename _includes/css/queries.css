@@ -2,10 +2,9 @@
   .boton-up {
     bottom: 15px;
   }
-}
-
-@media screen and (min-width: 1024px) {
-  .terminales section article:first-of-type{
-    grid-column: span 2;
+  
+  .articulo img{
+      float: right;
+    margin: 1.5em 0 1.5em 1.5em;
   }
 }
