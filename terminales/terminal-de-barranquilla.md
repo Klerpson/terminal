@@ -2,7 +2,7 @@
 layout: terminal
 json-terminal: true
 title: La terminal de la hermosa Barranquilla | Buses y pasajes
-description: Barranquilla es el mayor puerto de Colombia y la segunda ciudad más grande. También es un centro de transporte intermunicipal.
+description: "Barranquilla es una ciudad que vibra al ritmo del Caribe. Pero, ¿cómo llegar y partir de esta joya tropical? A través de su Terminal de Transporte."
 category: atlantico
 h1: "La terminal de transporte de Barranquilla: la Puerta de Oro a la ciudad"
 jpg: terminales/terminal-barranquilla.jpg
@@ -46,31 +46,29 @@ empresas:
   - Transportes LUZ: 6053230075 - 6053230075 - 3106756621 - 3106756621
   - Unitransco: "#502"
 ---
-## Contacta con la terminal de transporte de Barranquilla
+
+## La Terminal de Transporte de Barranquilla: tu punto de partida y llegada
 
 -----
+
+Barranquilla, conocida como la "Puerta de Oro de Colombia", es una ciudad que vibra al ritmo del carnaval, la música y la alegría de su gente. Y
+**la Terminal de Transporte de Barranquilla es el principal punto de conexión terrestre** de la ciudad.
 
 ![Terminal Barranquilla]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Barranquilla"){:width="360" height="450" loading="lazy"}
 
-Barranquilla, conocida como la "Puerta de Oro de Colombia", es una ciudad que vibra al ritmo del carnaval, la música y la alegría de su gente.
+**Situada en el municipio de Soledad, a tan solo 1.5 km de Barranquilla**, esta terminal maneja un promedio de **700 buses diarios**.
 
-Pero, ¿sabías que uno de los puntos neurálgicos de esta ciudad es su Terminal de Transporte?
+Ya sea que viajes desde Bogotá, Cartagena, Medellín o cualquier otra ciudad colombiana, es muy probable que tu bus haga una parada aquí.
 
-Si estás planificando un viaje a Barranquilla, es importante **conocer los servicios y opciones que ofrece la terminal** para que puedas organizar tu itinerario de la mejor manera.
+### Empresas de buses en Barranquilla: viaja seguro y cómodo
 
 {% include add2.html %}
-
-## Empresas de buses en Barranquilla: viaja seguro y cómodo
-
------
 
 Gracias a la diversidad de empresas que operan en la terminal, como **Expreso Brasilia, Copetran y Rápido Ochoa**, los viajeros tienen múltiples opciones para elegir.
 
 Tienes muchas opciones para encontrar lujo, comodidad o precios económicos. La Terminal de Barranquilla tiene, entre todas sus empresas, la opción perfecta para tu viaje.
 
-## Hoteles cerca de la Terminal de Transporte de Barranquilla
-
------
+### Hoteles cerca de la Terminal de Transporte de Barranquilla
 
 Si llegas a Barranquilla por la Terminal de Transporte, es posible que desees **buscar un hotel cercano para descansar después del viaje**.
 
@@ -87,11 +85,18 @@ Aquí te dejamos una lista de los hoteles más cercanos a la terminal:
 * Hotel El Granado - A 10 minutos en coche de la terminal
 * Hotel San Marcos - A 15 minutos en coche de la terminal
 
-## Destinos populares: descubre Colombia desde Barranquilla
+### Destinos populares: descubre Colombia desde Barranquilla
+
+Desde la Terminal de Barranquilla, puedes llegar a destinos como las principales ciudades del país y la costa:
+
+* [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá")
+* [Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal Cartagena")
+* [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta")
+* [Valledupar]({{'terminal-de-valledupar'|relative_url}} "Terminal Valledupar")
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
 {% include add2.html %}
-
-Desde la Terminal de Barranquilla, puedes llegar a destinos tan variados como [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"), [Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal Cartagena"), [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta") y [Valledupar]({{'terminal-de-valledupar'|relative_url}} "Terminal Valledupar").
 
 ## La Terminal de Barranquilla: mucho más que un punto de partida
 
@@ -99,8 +104,4 @@ Desde la Terminal de Barranquilla, puedes llegar a destinos tan variados como [B
 
 La Terminal de Transporte de Barranquilla no es solo un lugar donde abordar un bus. Es un espacio lleno de vida, historias y encuentros.
 
-**Situada en el municipio de Soledad**, esta terminal se ha convertido en el corazón de los viajes por carretera en la región. Con una **operatividad promedio de 700 buses diarios**, conecta a Barranquilla con el resto de Colombia y más allá.
-
-Imagina despertar en la frescura de la Sierra Nevada o perderse en las calles coloniales de Cartagena. ¡Todo es posible desde Barranquilla!
-
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+Imagina despertar en la frescura de la Sierra Nevada o perderse en las calles coloniales de Cartagena. **¡Todo es posible desde Barranquilla!**
