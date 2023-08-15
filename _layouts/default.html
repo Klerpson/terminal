@@ -14,8 +14,6 @@ layout: compress
   <a href="#">{% include boton-up.html %}</a>
   
 </body>
-<!-- Autenticación de Netlify -->
-{% if page.url == "/" %}
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
@@ -27,5 +25,4 @@ layout: compress
     });
   }
 </script>
-  {% endif %}
 </html>
