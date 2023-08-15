@@ -1,39 +1,23 @@
 ---
 layout: terminal
-title: Terminal de Cali
+json-terminal: true
+title: "La Terminal de Cali: dulces sabores y viajes memorables"
 description: La terminal de Cali es una moderna construcción que atrae miles de visitantes a diario. Viaja seguro por esta terminal de transporte.
 category: valle-cauca
-h1: Terminal de transporte de Cali
+h1: Vení ve a la terminal de transporte de Cali
 jpg: terminales/terminal-cali.jpg
-hero: terminales/terminal-cali.webp
 webps: terminales/terminal-cali-376.webp
 webpm: terminales/terminal-cali-600.webp
-webpb: terminales/terminal-cali-800.webp
 alt: Terminal de Cali
-logo: terminal-cali-logo.webp
 webp1: terminales/terminal-cali-exterior-600.webp
 webp2: terminales/terminal-cali-exterior-376.webp
-h2_1: 'Terminal de Cali: teléfono y dirección'
-h2_2: Compra pasajes en la terminal de Cali
-p_1: "La terminal de Cali ha sido vital para el desarrollo de la ciudad. También, ha sido y sigue siendo una fuente de generación de empleo."
-empresa1: Expreso Bolivariano
-empresa2: Expreso Palmira
-empresa3: Velotax
-empresa_img_1: terminales/terminal-cali-bolivariano.webp
-empresa_img_2: terminales/terminal-cali-expreso-palmira.webp
-empresa_img_3: terminales/terminal-cali-velotax.webp
-empresa1_telf: 3144855796
-empresa2_telf: 3117288500
-empresa3_telf: 3207883235
+subtitle: Compra pasajes en la terminal de Cali
+intro: "La terminal de Cali ha sido vital para el desarrollo de la ciudad. Y es el punto de partida perfecto para conocer y probar lo mejor del Valle."
 contacto: https://cali.com/pqrsd/
-pdf: telefonos-empresa-terminal-cali
-json-terminal: true
 direccion: "Calle 30 N 2an - 29"
-telefono: 6026683655
-telefono2: 3227279676
+telefono: 6026683655 - 3227279676
 maps: https://goo.gl/maps/7H7vRPxU5pJDt6ni8
 ciudad: Cali
-depto: Valle del Cauca
 postal: 760036
 calificacion: 4.1
 reviews: 26570
@@ -67,26 +51,77 @@ empresas:
   - Flota Ospina: 6023860045 - 6023860045
   - Taxcentral: 6026616310 - 6026616310
 ---
-## Más información de la terminal de transporte de Cali
+## Principales empresas y destinos de la terminal de Cali
 
-Si estás planeando un viaje en bus y necesitas información sobre cualquiera de las empresas de la terminal de Cali, o de hoteles cercanos, o de cómo comprar pasajes, has venido al lugar correcto.
+La Terminal de Cali cuenta con diversas empresas que ofrecen rutas a diferentes destinos nacionales. Algunas de las más destacadas son:
 
-### Compra tus pasajes en la terminal de Cali
+- **Coomotor**: Teléfono 57 4 4057372
+- **Expreso bolivariano**: Teléfono 57 4 485 57 96
+- **Expreso Brasilia**: Teléfono 091 2636611
+- **Copetran**: Teléfono 57 4 668 75 04
+{:class="seccion"}
 
-{% include add3.html %}
+### Rutas populares de las empresas de la terminal
 
-Para comprar pasajes, simplemente **contacta directamente con cualquiera de todas las empresas o acércate a la taquilla de la empresa de transporte que elijas**. Asegúrate de comprar tu pasaje con suficiente anticipación para evitar sorpresas de última hora.
+- **Cali a [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá")**: Empresa Velotax
+- **Cali a [Armenia]({{'terminal-de-armenia'|relative_url}} "Terminal Armenia")**: Empresa Expreso Palmira
+- **Cali a [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín")**: Empresa Arauca
+{:class="seccion"}
 
-Si estás planeando un viaje desde la terminal de Cali, es importante tener en cuenta algunos detalles importantes, como reservar un hotel cercano y comprar tus pasajes con suficiente anticipación. Esperamos que esta guía te haya sido útil y que tengas un viaje seguro y agradable. ¡Que disfrutes tu viaje por el sur de Colombia!
+## Servicios adicionales de la Terminal de Cali
 
-### Hoteles cerca de la terminal de Cali
+{% include add1.html %}
 
-{% include cta-hotmart1.html %}
+La Terminal no solo ofrece servicios de transporte, sino que también cuenta con una variedad de servicios adicionales para los viajeros, entre ellos:
 
-Cuando llegas a la terminal de Cali, es posible que desees pasar la noche antes de partir hacia tu próximo destino. La ubicación de la terminal es excelente *cerca del centro de la ciudad* y cuenta con una gran cantidad de opciones de transporte disponibles.
+- Banco y cajeros electrónicos
+- Baños públicos
+- CAI de policía y oficina del gaula
+- Capilla de asistencia social
+- Droguería y supermercado
+- Equipajeros y Guardaequipajes
+- Locales Comerciales y Entretenimiento
+- Taxis urbanos
+- Parqueadero público
+- Punto de Atención Inmediata de Información Turística
+- Rampas eléctricas y ascensores
+- Restaurantes y Panaderías
+- Vigilancia privada
+{:class="seccion"}
 
-Es muy fácil moverse desde la terminal a los destinos más populares de la región. Afortunadamente, hay una gran cantidad de opciones de alojamiento disponibles en los alrededores de la terminal.
+## ¿Por qué la Terminal de Cali es un punto de referencia?
 
-Haz clic en el siguiente botón para ver **la lista más completa de hoteles cerca a la Terminal de Cali**.
+{% include add2.html %}
 
-[Hoteles cerca a la terminal](https://www.google.com/maps/search/Hoteles/@10.910865,-74.7979319,15.75z/data=!4m2!2m1!6e3){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+La Terminal no es solo un lugar de paso para los viajeros, sino que se ha convertido en un punto de referencia para la ciudad, siendo un testigo de su crecimiento y evolución.
+
+Su importancia trasciende el ámbito del transporte, convirtiéndose en un **símbolo de la movilidad y conectividad de Cali** con el resto del país.
+
+## Consejos para viajar desde la Terminal de Cali
+
+Si estás planeando un viaje desde la Terminal de Cali, es importante tener en cuenta algunas recomendaciones para que tu experiencia sea lo más placentera posible:
+
+1. Asegúrate de llegar con suficiente antelación, especialmente en temporadas altas.
+2. Verifica siempre los horarios y destinos disponibles
+3. No dudes en consultar cualquier duda con el personal de la Terminal
+4. No olvides llevar los deliciosos dulces vallecaucanos a tu destino
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
+{% include add1.html %}
+
+## Historia y relevancia de la Terminal de Cali
+
+----
+
+La Terminal de transporte de Cali ha sido un pilar fundamental en la movilidad de la región **desde su inauguración en 1974**.
+
+Con más de 40 años de servicio, ha sido testigo y protagonista de la evolución del transporte en la ciudad, **movilizando diariamente a aproximadamente 30.000 personas en 3.500 vehículos**.
+
+### Contacto y ubicación de la terminal de transporte de Cali
+
+- **Sitio web**: [www.terminalcali.com](https://www.terminalcali.com/)
+- **Redes Sociales**: [Facebook](https://www.facebook.com/miterminal.cali) y [Twitter](https://twitter.com/MiTerminalCali)
+- **Dirección**: Calle 30N 2AN-29, Cali
+- **Teléfono**: (+57 2) 668 36 55
+- **Horario de atención**: Lunes a viernes de 7:30 a.m. a 12:30 p.m. y de 1:00 p.m a 5:00 p.m.
