@@ -1,5 +1,6 @@
 ---
 layout: terminal
+json-terminal: true
 title: Terminal de Aguachica Cesar | Compra tus pasajes
 description: La Terminal de Aguachica es más que un punto de tránsito. Conoce sus empresas transportadoras, servicios y más. ¡Entra ahora!
 category: cesar
@@ -24,7 +25,6 @@ reviews: 4216
 latitude: 8.3061032
 longitude: -73.6305622
 permalink: /terminal-de-aguachica
-json-terminal: true
 empresas:
   - COOINTRABOS LTD: 6055779548
   - COOINTRACUR LTD: 6055750602
