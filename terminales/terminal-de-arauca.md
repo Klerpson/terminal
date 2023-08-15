@@ -41,6 +41,8 @@ empresas:
 
 La Terminal de Transporte de Arauca se encuentra ubicada en el **kilómetro 1 de la vía Caño Limón**, frente al aeropuerto Santiago Pérez.
 
+![Terminal Arauca]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Arauca"){:width="360" height="450" loading="lazy"}
+
 Para llegar a la terminal, puedes **tomar un taxi desde el Hospital de Arauca o uno de los buses que vienen de Guasdualito** y terminan su ruta en la terminal.
 
 ## Servicios de la Terminal de transporte de Arauca
@@ -49,14 +51,11 @@ Para llegar a la terminal, puedes **tomar un taxi desde el Hospital de Arauca o 
 
 La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se encuentran:
 
-![Terminal Arauca]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Arauca"){:width="360" height="450" loading="lazy"}
-
 - **Servicio de taxis fuera de la terminal**: Estos taxis son colombianos y ofrecen servicio de transporte hacia la ciudad de Arauca, ubicada a 10 minutos al norte de la terminal.
 - **Servicio de transporte público hacia Arauca y ciudades de Venezuela**: busetas de transporte público que se dirigen hacia la ciudad de Arauca, aproximadamente a 10 minutos del terminal. También hay algunos buses que van rumbo a Guasdualito en Venezuela pero que en su recorrido paran en Arauca.
 - **Punto de información**.
 - Cómoda **sala de espera**.
 - Servicio de **vigilancia privada** las 24 horas.
-{:class="seccion"}
 
 ## Empresas de Transporte en la Terminal de Arauca
 
@@ -72,6 +71,7 @@ La terminal de Arauca **alberga a 8 de las principales empresas de transporte de
 - Empresa Arauca
 - Copetran
 - Cooptratam
+{:class="seccion"}
 
 ### Empresas de buses destacadas en Arauca
 
@@ -93,7 +93,13 @@ Estos servicios incluyen **[rutas nacionales]({{'terminales-de-colombia'|relativ
 
 Algunas empresas ofrecen servicios adicionales como **Wi-Fi a bordo, asientos reclinables y sistemas de entretenimiento**.
 
+## Seguridad y confiabilidad en los servicios de la terminal de Arauca
+
 -----
+
+La seguridad y confiabilidad son dos pilares fundamentales para los proveedores de transporte de la Terminal de Arauca.
+
+Estos proveedores cuentan con protocolos estrictos de seguridad y mantenimiento de vehículos para garantizar viajes sin contratiempos desde esta terminal.
 
 ## Preguntas Frecuentes sobre la Terminal de Arauca
 
@@ -118,11 +124,3 @@ Debes abordar el bus desde la terminal de transportes, con esto aseguras tu luga
 ### ¿Cómo puedo expresar una queja, sugerencia o reclamo en el terminal de Arauca?
 
 Para quejas y reclamos es importante que te comuniques directamente con la empresa de transporte de pasajeros que te está ofreciendo el servicio.
-
-## Seguridad y confiabilidad en los servicios de la terminal de Arauca
-
------
-
-La seguridad y confiabilidad son dos pilares fundamentales para los proveedores de transporte de la Terminal de Arauca.
-
-Estos proveedores cuentan con protocolos estrictos de seguridad y mantenimiento de vehículos para garantizar viajes sin contratiempos desde esta terminal.
