@@ -1,5 +1,6 @@
 ---
 layout: terminal
+json-terminal: true
 title: "Terminal Aguazul: viaja en bus seguro y confortable"
 description: "Terminal Aguazul: inicia tu viaje con tranquilidad y eficiencia. Conexiones rápidas, servicios de primera y atención al cliente excepcional."
 category: casanare
@@ -24,7 +25,6 @@ reviews: 1810
 latitude: 5.1690674
 longitude: -72.5498628
 permalink: /terminal-de-aguazul
-json-terminal: true
 empresas:
   - Autoboy: 3124579775
   - Coflonorte: 3124579775 - 3134035980 - 3214365019
@@ -106,14 +106,6 @@ Recuerda llegar al terminal con suficiente tiempo para comprar tu pasaje y encon
 Durante el viaje, trata de relajarte y disfrutar del paisaje. Si el viaje es largo, aprovecha para leer un libro o escuchar música. Recuerda que el viaje es parte de la aventura.
 
 [Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
-## Preguntas frecuentes sobre la terminal de Aguazul
-
------
-
-### ¿Cómo puedo llegar al Terminal de Aguazul?
-
-Puedes llegar al Terminal de Aguazul en bus desde cualquier ciudad principal de Colombia. En el municipio de Aguazul puedes llegar fácilmente, incluso caminando, pues es un municipio de tamaño pequeño.
 
 {% include add3.html %}
 

@@ -1,28 +1,29 @@
 ---
+json-terminal: true
 layout: terminal
-title:  "La Terminal de Transporte de Arauca: tiquetes, rutas y más"
+title:  "La Terminal de Transporte de Arauca • Pasajes • Rutas • Teléfonos"
 description: "Conoce la Terminal de Transporte de Arauca: Encuentra información sobre servicios, rutas y horarios. ¡Planifica tu viaje hoy!"
 category: arauca
 h1: "Líderes en transporte: Terminal de Arauca destacada"
-subtitle: Adquiere tus tiquetes directamente con las empresas de la terminal de Arauca 
-intro: La Terminal de Transportes de Arauca se ubica estratégicamente frente al aeropuerto Santiago Pérez, al sur de la ciudad de Arauca, en la frontera con Venezuela.
-contacto: https://www.terminaldetransporte.gov.co/destinos/arauca/
-direccion: Km 1 Vía Caño Limón, Arauca, Arauca, Colombia.
-telefono: 6078850453 
-maps: https://goo.gl/maps/vbzEMKHZx7qEXJxs5
-email: servicio.ciudadano@terminaldetransporte.gov.co
-ciudad: Arauca 
-postal: 810001
-calificacion: 3.9
-reviews: 630
-latitude: 7.0641397
-longitude: -70.733864
 jpg: terminales/terminal-arauca.jpg
 webps: terminales/terminal-arauca-376.webp
 webpm: terminales/terminal-arauca-600.webp
 alt: Terminal de Aguachica
 webp1: terminales/terminal-arauca-arauca-600.webp
 webp2: terminales/terminal-arauca-arauca-376.webp
+subtitle: Adquiere tus tiquetes directamente con las empresas de la terminal de Arauca 
+intro: La Terminal de Transportes de Arauca se ubica estratégicamente frente al aeropuerto Santiago Pérez, al sur de la ciudad de Arauca, en la frontera con Venezuela.
+contacto: https://www.terminaldetransporte.gov.co/destinos/arauca/
+direccion: Km 1 Vía Caño Limón, Arauca, Arauca, Colombia.
+telefono: 6078850453 
+email: servicio.ciudadano@terminaldetransporte.gov.co
+maps: https://goo.gl/maps/vbzEMKHZx7qEXJxs5
+ciudad: Arauca
+postal: 810001
+calificacion: 3.9
+reviews: 630
+latitude: 7.0641397
+longitude: -70.733864
 permalink: /terminal-de-arauca
 empresas:
   - Cotranal: 3124579775
@@ -55,6 +56,7 @@ La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se e
 - **Punto de información**.
 - Cómoda **sala de espera**.
 - Servicio de **vigilancia privada** las 24 horas.
+{:class="seccion"}
 
 ## Empresas de Transporte en la Terminal de Arauca
 
