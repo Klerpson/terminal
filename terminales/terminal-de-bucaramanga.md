@@ -1,9 +1,10 @@
 ---
 layout: terminal
-title: Terminal de transportes Bucaramanga
-description: La terminal de Bucaramanga está ubicada en la Transversal Metropolitana. ¡Mira su teléfono y compra tus pasajes!
+json-terminal: true
+title: "Terminal de transportes Bucaramanga | Pasajes y servicios"
+description: La terminal de Bucaramanga está ubicada en la Transversal Metropolitana. ¡Mira los números telefónicos y compra tus pasajes!
 category: santander
-h1: La terminal de transporte de Bucaramanga
+h1: "Tu puerta a Bucaramanga: conoce el Terminal de Transporte"
 jpg: terminales/terminal-bucaramanga.jpg
 hero: terminales/terminal-bucaramanga.webp
 webps: terminales/terminal-bucaramanga-376.webp
@@ -13,28 +14,14 @@ alt: Terminal de Bucaramanga
 logo: terminal-bucaramanga-logo.webp
 webp1: terminales/terminal-bucaramanga-santander-600.webp
 webp2: terminales/terminal-bucaramanga-santander-376.webp
-h2_1: 'Terminal de transporte de Bucaramanga: Teléfono y dirección'
-h2_2: Compra tus pasajes con las empresas de la terminal
-p_1: "La terminal de transporte es el punto de partida para la mayoría de los viajes en bus desde Bucaramanga."
-empresa1: Copetran
-empresa2: Cootransmagdalena
-empresa3: Expreso Bolivariano
-empresa_img_1: terminales/terminal-bucaramanga-copetran.webp
-empresa_img_2: terminales/terminal-bucaramanga-cootransmagdalena.webp
-empresa_img_3: terminales/terminal-bucaramanga-bolivariano.webp
-empresa1_telf: 6076376800
-empresa2_telf: 6076371301
-empresa3_telf: 6076375495
+subtitle: Compra tus pasajes con las empresas de la terminal
+intro: "¿Viajas a Bucaramanga? Conoce todo sobre su terminal de transporte y haz de tu viaje una experiencia inolvidable. Bucaramanga te invita a descubrir su terminal de transporte."
 contacto: https://terminalbucaramanga.com/es/cont%C3%A1ctenos
-pdf: telefonos-empresa-terminal-bucaramanga
-json-terminal: true
 direccion: 'Transversal Metropolitana Modulo 1 Oficina 712'
-telefono: 6076371000
-telefono2: 3176582053
+telefono: 6076371000 - 3176582053
 email: ventanilla@terminalbucaramanga.com
 maps: https://goo.gl/maps/heYJehGg5F3gUcHM6
 ciudad: Bucaramanga
-depto: Santander
 postal: 680005
 calificacion: 4.4
 reviews: 2234
@@ -67,40 +54,107 @@ empresas:
   - TRASSANDER: 6076377722 - 6076801066 - 6076359234
   - FLOTA CACHIRA: 6076422218 - 313 397 06 34 - 6076525403 - 6076426896
 ---
-## Información sobre la terminal de transporte de Bucaramanga
+## Conoce mejor la Terminal de Transporte de Bucaramanga
+
+----
+
+Bucaramanga, conocida como la "Ciudad de los Parques", es un destino turístico en ascenso en Colombia. Pero, ¿qué sucede cuando llegas a la ciudad?
+
+![Terminal Bucaramanga]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Bucaramanga"){:width="360" height="450" loading="lazy"}
+
+**La Terminal de Transporte de Bucaramanga es tu punto de partida** para descubrir todo lo que esta hermosa ciudad tiene para ofrecer.
+
+## Llega hasta la Terminal de Transporte de Bucaramanga
 
 {% include add2.html %}
 
-La terminal de Bucaramanga es el lugar para tomar un bus y moverte de un lugar a otro en la ciudad de Bucaramanga y sus alrededores.
+La Terminal de Bucaramanga es el principal punto de entrada y salida para los viajeros que visitan la ciudad.
 
-**La Terminal de Transporte de Bucaramanga es un punto clave de transporte en la región de Santander**. Cada día, miles de pasajeros pasan por sus instalaciones para llegar a sus destinos.
+Según el sitio web de [Pinbus](https://pinbus.com/terminal-de-transporte/bucaramanga){:rel="nofollow noopener noreferrer" target="_blank"}, la terminal **cuenta con más de 20 empresas de buses que realizan alrededor de 275 viajes al día a 27 ciudades diferentes**.
 
-### Hoteles cerca a la Terminal de Bucaramanga
+Esto la convierte en una terminal muy activa y esencial para la movilidad en la región.
 
-Alrededor de la terminal, encontrarás una gran variedad de hoteles donde puedes hospedarte durante tu visita a Bucaramanga.
+### Servicios que ofrece la Terminal
 
-Haz clic en el siguiente botón para ver una lista más completa de *los diferentes hoteles cerca a la terminal de Bucaramanga*.
+La Terminal de Transporte de Bucaramanga no es solo un lugar para tomar un bus. Ofrece una variedad de servicios para hacer que tu espera sea cómoda:
 
-[Hoteles cerca de la terminal de Bucaramanga](https://www.google.com/maps/search/Hoteles/@7.0884524,-73.1331262,16z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+- **Guarda Equipaje**: Si necesitas recorrer la terminal o hacer una escala en la ciudad, puedes dejar tu equipaje en un lugar seguro.
+- **Parqueaderos**: Abiertos al público 24 horas y con vigilancia constante.
+- **Servicios Bancarios**: Encuentra cajeros automáticos de diferentes bancos en el módulo 3.
+- **Carros Maleteros**: Facilitan el desplazamiento de tu equipaje.
+- **Silla de Ruedas**: Para aquellos que lo necesiten, la terminal ofrece sillas de ruedas y personal capacitado para ayudar.
+{:class="seccion"}
 
-### Compra tus pasajes en la terminal de Bucaramanga
+### Rutas populares desde y hacia Bucaramanga
 
-{% include cta-hotmart1.html %}
+Bucaramanga se conecta con las principales ciudades de Colombia. Algunas rutas populares incluyen:
 
-En la Terminal de Transporte de Bucaramanga puedes encontrar empresas de transporte en bus como estas:
+- Bucaramanga - [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal del norte de Bogotá")
+- Bucaramanga - [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal del norte de Medellín")
+- Bucaramanga - [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta")
+- Bucaramanga - [Barranquilla]({{'terminal-de-barranquilla'|relative_url}} "Terminal de Barranquilla")
+- Bucaramanga - [Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal Cartagena")
 
-* Copetran
-* Expreso Brasilia
-* Rápido Ochoa
-* Cootrasangil
-* Transportes San Miguel
-* Omega
-* Cootranspiedecuesta
-* Berlinas del Fonce
-* Cotaxi
+Estas rutas varían en duración y precio, pero todas ofrecen la oportunidad de descubrir [diferentes partes de Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}).
 
-Estas empresas ofrecen una amplia variedad de destinos dentro y fuera de Santander, incluyendo ciudades como Bogotá, Medellín, Cúcuta, Barranquilla y Cartagena, entre otras.
+## Empresas de Transporte más populares
 
-Haz clic en el siguiente botón para ver sus números y comprar tus pasajes directamente con las empresas, ¡sin intermediarios!
+----
 
-Utiliza toda esta información que preparamos para planear tu viaje, comprar tus tiquetes y disfrutar de tu estadía en Bucaramanga.
+La Terminal de Bucaramanga alberga a varias empresas de transporte que ofrecen rutas a [diferentes destinos](/terminales-de-colombia "Terminales Colombianas"). Aquí te presentamos algunas de las más populares:
+
+{% include add2.html %}
+
+### Copetran
+
+**Copetran** es una de las empresas más antiguas y reconocidas en Bucaramanga. Según el sitio web [horariodebuses.com.co](https://www.horariodebuses.com.co/terminal-de-bucaramanga), Copetran ofrece rutas a destinos como Bogotá, Medellín y la Costa Atlántica. Además, cuenta con servicios de lujo y buses de dos pisos para una experiencia de viaje más cómoda.
+
+### Cootransmagdalena
+
+**Cootransmagdalena** es otra empresa líder en la región. Con rutas que conectan Bucaramanga con el Magdalena Medio, esta empresa es una excelente opción para quienes buscan destinos menos convencionales.
+
+### Expreso Bolivariano
+
+**Expreso Bolivariano** es conocido por su amplia cobertura en Colombia. Con rutas que van desde Bucaramanga hasta ciudades como Cali o Neiva, es una excelente opción para quienes buscan variedad y flexibilidad en sus viajes.
+
+### Otros Operadores de la terminal Bucaramanga
+
+Además de las empresas mencionadas, la Terminal de Bucaramanga cuenta con operadores como **Libertadores**, **Cotaxi** y **Expreso Brasilia**.
+
+Cada empresa de buses tiene sus propias rutas y servicios, asegurando que los viajeros tengan múltiples opciones al planificar su viaje.
+
+## Consejos para Viajar desde la Terminal de Bucaramanga
+
+----
+
+Viajar puede ser estresante, pero [con estos consejos]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}), tu experiencia en la Terminal de Bucaramanga será mucho más placentera:
+
+- **Llega con Anticipación**: Asegúrate de llegar al menos 30 minutos antes de la hora de salida de tu bus.
+- **Verifica tu Equipaje**: Antes de subir al bus, verifica que tu equipaje esté bien etiquetado y que no olvides nada.
+- **Mantente Hidratado**: Lleva una botella de agua contigo, especialmente en días calurosos.
+- **Guarda tus Objetos de Valor**: Asegúrate de tener tus objetos de valor como dinero, pasaporte o teléfono móvil en un lugar seguro.
+{:class="seccion"}
+
+## ¿Qué hacer cerca de la Terminal?
+
+----
+
+Si tienes tiempo antes de tu viaje o si estás haciendo una escala en Bucaramanga, hay varias cosas que puedes hacer cerca de la Terminal:
+
+- **Visitar el Parque de las Palmas**: A solo unos minutos de la terminal, es un lugar perfecto para relajarse y disfrutar de la naturaleza.
+- **Degustar la Gastronomía Local**: Bucaramanga es famosa por sus hormigas culonas y otros platos típicos. No pierdas la oportunidad de probarlos.
+- **Compras**: Hay varios centros comerciales cerca de la terminal donde puedes comprar recuerdos o lo que necesites para tu viaje.
+
+## ¿Por qué visitar Bucaramanga?
+
+Bucaramanga no es solo un punto de tránsito. Es una ciudad rica en cultura, gastronomía y naturaleza.
+
+Al visitarla, te encontrarás con amables santandereanos dispuestos a mostrarte lo mejor de su tierra. Además, su clima templado la hace perfecta para visitar en cualquier época del año.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
+{% include add2.html %}
+
+La Terminal de Transporte de Bucaramanga es más que un simple punto de tránsito. **Es la puerta de entrada a una ciudad llena de cultura, historia y belleza natural**.
+
+Así que si estás de paso o si Bucaramanga es tu destino final, esta guía te ayudará a aprovechar al máximo tu tiempo en la terminal y en la ciudad. **¡Buen viaje y disfruta de todo lo que Bucaramanga tiene para ofrecer!**
