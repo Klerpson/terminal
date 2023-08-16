@@ -87,8 +87,6 @@ La ruta de **Pereira a Ibagué** es otra opción popular. **El viaje dura alrede
 
 Si quieres viajar a **Armenia desde Pereira**, puedes tomar un bus en la Terminal de Transporte de Pereira. **El viaje dura solo 50 minutos**, y los buses salen desde las 10:00 a.m. hasta las 7:41 p.m.
 
-----
-
 ## Preguntas frecuentes sobre la Terminal de Transporte de Pereira
 
 {% include add3.html %}
@@ -107,6 +105,10 @@ Algunos de los operadores de bus más populares en la Terminal de Transporte de 
 
 ## Terminal de buses de Pereira
 
+----
+
 La Terminal de Transporte de Pereira es un punto de partida y llegada para miles de viajeros cada día. Con su amplia gama de servicios y su ubicación céntrica, es una parada esencial para cualquier viajero que visite Pereira.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
 Ya sea que necesites un cajero automático, un lugar para comer o información sobre tu próximo viaje, la Terminal de Transporte de Pereira tiene todo lo que necesitas.
