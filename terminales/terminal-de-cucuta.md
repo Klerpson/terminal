@@ -1,39 +1,23 @@
 ---
 layout: terminal
-title: Terminal de Cúcuta
-description: La terminal de Cúcuta te facilita tu viaje a otras ciudades de Colombia 🚌. Aquí encontrarás varias empresas que te transportarán a tu ciudad de destino
+json-terminal: true
+title: "Terminal de Cúcuta: Información Completa y Servicios Asociados"
+description: ¿Buscas detalles sobre el Terminal de Cúcuta? Conoce las empresas, rutas y servicios. ¡Haz clic y prepárate para tu próximo viaje!
 category: norte-santander
-h1: La terminal de transporte de Cúcuta
+h1: "Conoce el Terminal de Transporte de Cúcuta: Historia y Servicios Actuales"
 jpg: terminales/terminal-cucuta.jpg
-hero: terminales/terminal-cucuta.webp
 webps: terminales/terminal-cucuta-376.webp
 webpm: terminales/terminal-cucuta-600.webp
-webpb: terminales/terminal-cucuta-800.webp
 alt: Terminal de Cúcuta
-logo: terminal-cucuta-logo.webp
 webp1: terminales/terminal-cucuta-exterior-600.webp
 webp2: terminales/terminal-cucuta-exterior-376.webp
-h2_1: Teléfono de Cúcuta - Teléfono y más datos
-h2_2: Compra tus tiquetes con la terminal de Cúcuta
-p_1: "Si vives en Cúcuta y deseas viajar a otras ciudades de Colombia, aquí encontrarás varias empresas que te transportarán a tu ciudad de destino."
-empresa1: Omega
-empresa2: Concorde
-empresa3: Copetran
-empresa_img_1: terminales/terminal-cucuta-omega.webp
-empresa_img_2: terminales/terminal-cucuta-concorde.webp
-empresa_img_3: terminales/terminal-cucuta-copetran.webp
-empresa1_telf: 6044364068
-empresa2_telf: 3107883333
-empresa3_telf: 3204871160
+subtitle: Compra tus tiquetes con la terminal de Cúcuta
+intro: "Si vives en Cúcuta y deseas viajar a otras ciudades de Colombia o Venezuela, aquí encontrarás varias empresas que te transportarán a tu ciudad de destino."
 contacto: https://home.terminalcucuta.gov.co/contacto/
-pdf: telefonos-empresa-terminal-cucuta
-json-terminal: true
-direccion: Transversal 9 No 4N - 125 Oficina 201
-telefono: 6075836580
-telefono2: 6075481719
 maps: https://goo.gl/maps/ho4sZi2s77y3vGyJ8
+direccion: Transversal 9 No 4N - 125 Oficina 201
+telefono: 6075836580 - 6075481719
 ciudad: Cúcuta
-depto: Norte de Santander
 postal: 540006
 calificacion: 3.4
 reviews: 5630
@@ -66,42 +50,61 @@ empresas:
   - COOTRASAR: 310 7892985
   - CATATUMBO TRAINDLS: 301 6424472 - 320 9944997
 ---
-## Información de la terminal de buses de Cúcuta
+## Empresas de Transporte y contacto
 
-{% include add3.html %}
+La Terminal de Cúcuta alberga a varias empresas de transporte reconocidas en el país. Aquí te presentamos algunas de ellas junto con sus números de contacto:
 
-La Terminal de Transporte de Cúcuta es uno de los puntos de referencia más importantes en la ciudad, ya que es el lugar donde llegan y salen miles de pasajeros diariamente.
+- **Berlinas del Bonce**: 5726379 – 5727869
+- **Copetran**: 587 42 05 – 572 88 68
+- **Expreso Bolivariano**: (7) 5836818 – 5718075
+- **Expreso Brasilia**: (57) (7) 5833018
+- **Omega**: (57) (7) 5780356
+{:class="seccion"}
 
-### Pasajes desde la Terminal de Transporte de Cúcuta
+Para más información, puedes visitar el [sitio web oficial](http://www.terminalcucuta.gov.co/){:rel="nofollow noopener noreferrer" target="_blank"} o seguirlos en [Facebook](https://www.facebook.com/TerminalCucuta){:rel="nofollow noopener noreferrer" target="_blank"} y [Twitter](https://twitter.com/TerminalCucuta){:rel="nofollow noopener noreferrer" target="_blank"}.
 
-En la terminal encontrarás una gran variedad de empresas de transporte terrestre, que ofrecen diferentes opciones de viaje y tarifas para que puedas elegir la que mejor se adapte a tus necesidades.
+## Ubicación y cómo llegar a la terminal
 
-Entre las empresas que operan en la Terminal de Transporte de Cúcuta se encuentran **Expreso Brasilia, Fronteras, Berlinas del Fonce, Copetran, Omega, entre otras**.
+----
 
-Haz clic en el siguiente botón para contactar directamente con estas empresas.
+La Terminal de Cúcuta se encuentra estratégicamente ubicada en el centro de la ciudad, lo que facilita su acceso desde diferentes puntos.
 
-Encontrarás fácilmente tus **pasajes a Bogotá, a Cali, Medellín y otras ciudades principales de Colombia**.
+**Su dirección exacta es Av.8 # 1-25, Barrio Callejón, Cúcuta**, Norte de Santander. Si necesitas comunicarte, los números de teléfono son: **5836580 y 5481719**.
 
-### Hoteles cercanos a la Terminal de Transporte de Cúcuta
+## Servicios ofrecidos por la terminal de Cúcuta
 
-{% include cta-hotmart1.html %}
+----
 
-Si deseas alojarte cerca de la Terminal de Transporte de Cúcuta para mayor comodidad, hay varias opciones de hoteles a pocos minutos de la terminal.
+La Terminal de Cúcuta ofrece una variedad de servicios para garantizar la comodidad de los pasajeros:
 
-Los hoteles de Cúcuta ofrecen servicios de calidad y una ubicación estratégica para que puedas llegar rápidamente a la terminal y disfrutar de tus viajes con mayor tranquilidad.
+- Parqueadero público 24/7
+- Salas de espera
+- Cajeros automáticos
+- Centro de información
+- Guarda equipajes
+- Baños
+- Zonas de abordaje
+- Transportadora de equipaje
+- Servicio de equipajeros
+- Seguridad privada
 
-Haz clic en el siguiente botón para ver **la lista más completa de hoteles cerca a la Terminal de transporte de Cúcuta**.
+## Historia de la Terminal de Cúcuta
 
-[Hoteles cerca a la terminal](https://www.google.com/maps/search/Hoteles/@7.8957132,-72.509331,17z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+La Terminal de Cúcuta tiene un lugar especial en la historia del transporte colombiano. Fundada en 1967, **se convirtió en la primera ciudad de Colombia en contar con una terminal de transporte de pasajeros**.
 
-### Servicios de la terminal
+A lo largo de los años, ha experimentado un crecimiento constante en el flujo de pasajeros. En 2019, se inició un proyecto de remodelación para mejorar la calidad de los servicios ofrecidos a la comunidad cucuteña.
 
-{% include add2.html %}
+## Preguntas Frecuentes
 
-La Terminal de Transporte de Cúcuta es una de las más grandes del país, cuenta con una amplia variedad de servicios para los viajeros, como restaurantes, tiendas, servicios bancarios, cambio de moneda, entre otros.
+- **¿Qué empresas ofrecen rutas a Bogotá?** Copetrán, Omega, Berlinas del Fonce y Concorde.
+- **¿Qué empresas viajan a Medellín?** Copetrán, Expreso Brasilia, Expreso Bolivariano y Omega.
+- **¿Hay alguna empresa que viaje directamente a Cali?** Sí, Expreso Bolivariano ofrece una ruta directa a Cali.
+- **¿Qué empresas ofrecen rutas a Barranquilla?** Puedes optar por Expreso Brasilia o Copetrán.
 
-Además, se encuentra en una ubicación estratégica, **cerca de varias zonas turísticas de la ciudad**, lo que la convierte en una opción atractiva para los turistas.
+## Viaja desde Cúcuta con su Terminal de Transporte
 
-En resumen, la Terminal de Transporte de Cúcuta es un lugar importante para los viajeros que visitan la ciudad, ya que ofrece una amplia variedad de servicios para que puedas [planificar tu viaje de forma cómoda por Colombia]({{'blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus'|relative_url}}).
+----
 
-Recuerda que siempre es importante realizar una reserva con anticipación y verificar los horarios y precios de los pasajes, para asegurarte de tener una experiencia de viaje cómoda y sin inconvenientes.
+La Terminal de Cúcuta es un punto esencial para el transporte en la región. Con su rica historia y variedad de servicios, sigue siendo una elección popular entre los viajeros.
+
+Si planeas **visitar Cúcuta o viajar desde allí**, esta terminal tiene todo lo que necesitas para un viaje cómodo y seguro. ¡Buen viaje y disfruta de tu experiencia en Cúcuta!

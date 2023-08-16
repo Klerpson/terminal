@@ -1,39 +1,24 @@
 ---
 layout: terminal
-title: Terminal de Cartagena
-description: La terminal de Cartagena atiende más de 50 destinos nacionales. Funcionan alrededor de 15 empresas transportadoras de carga y pasajeros. Lee más información.
+json-terminal: true
+title: "Cartagena y su Terminal • Rutas • Servicios • Teléfonos"
+description: Descubre las empresas, rutas y servicios que el Terminal de Cartagena tiene para ti. ¡Prepara tu viaje hoy!
 category: bolivar
-h1: La terminal de Cartagena de Indias
+h1: "Cartagena: El encanto del Caribe y su Terminal de Transporte"
 jpg: terminales/terminal-cartagena.jpg
-hero: terminales/terminal-cartagena.webp
 webps: terminales/terminal-cartagena-376.webp
 webpm: terminales/terminal-cartagena-600.webp
-webpb: terminales/terminal-cartagena-800.webp
 alt: Terminal de Cartagena
-logo: terminal-cartagena-logo.webp
 webp1: terminales/terminal-cartagena-exterior-600.webp
 webp2: terminales/terminal-cartagena-exterior-376.webp
-h2_1: Terminal de transporte de Cartagena - Teléfonos y más
-h2_2: Compra tus tiquetes con la terminal de buses de Cartagena
-p_1: "Desde el año 1982 funciona la terminal de buses de Cartagena. Hoy tiene un flujo de 2000 buses al día en promedio."
-empresa1: Berlinas del Fonce
-empresa2: Expreso Brasilia
-empresa3: Copetran
-empresa_img_1: terminales/terminal-cartagena-berlina.webp
-empresa_img_2: terminales/terminal-cartagena-expreso-brasilia.webp
-empresa_img_3: terminales/terminal-cartagena-copetran.webp
-empresa1_telf: 3187350592
-empresa2_telf: 3008150114
-empresa3_telf: 3008651075
+subtitle: Compra tus tiquetes con la terminal de buses de Cartagena
+intro: "Desde el año 1982 funciona la terminal de buses de Cartagena. Hoy tiene un flujo de 2000 buses al día en promedio."
 contacto: https://www.terminaldecartagena.com/contacto/
-pdf: telefonos-empresa-terminal-cartagena
-json-terminal: true
+maps: https://goo.gl/maps/um3PxkyPGWZNQ4GeA
 direccion: "Carretera la Cordialidad # 24 - 236"
 telefono: 6056630317
 email: ttcgena@terminaldecartagena.com
-maps: https://goo.gl/maps/um3PxkyPGWZNQ4GeA
 ciudad: Cartagena
-depto: Bolivar
 postal: 130006
 calificacion: 3.7
 reviews: 6812
@@ -58,30 +43,70 @@ empresas:
   - Transportes Luz: 0356530269 - 0356530269
   - Unitransco: 0356611822 - 0356611822 - 0356632067 - 0356632067 - 0356632072 -0356632072
 ---
-## Información de la terminal de transporte de Cartagena
+Cartagena, conocida como la "Perla del Caribe", es una ciudad que combina la magia de su historia colonial con la modernidad de una metrópoli en crecimiento.
 
-La Terminal de Transporte de Cartagena es un punto clave para el transporte en la región. Desde su inauguración en 1994, ha ofrecido un servicio eficiente y confiable para residentes y visitantes.
+Sus murallas, calles empedradas y balcones floridos son el testimonio vivo de una ciudad que ha sido testigo de innumerables historias.
 
-### Compra los pasajes directamente con las empresas de la terminal
+Pero, más allá de su encanto histórico, **Cartagena es también un punto neurálgico en términos de transporte**, siendo su Terminal de Transporte uno de los más importantes del país.
 
-{% include add3.html %}
+## La Terminal de Cartagena: Puerta de entrada y salida
 
-Con **15 líneas de transporte** que ofrecen servicios intermunicipales y departamentales, la terminal es una opción conveniente para aquellos que buscan viajar dentro y fuera de la ciudad.
+{% include add1.html %}
 
-Haz clic en el siguiente botón para ver todos los números de las empresas de transporte.
+La Terminal de Transporte de Cartagena no es solo un edificio donde los buses llegan y salen. Es el punto de encuentro de miles de viajeros que buscan descubrir los encantos de la región Caribe o que, después de haberlo hecho, se disponen a regresar a sus hogares.
 
-### Hoteles cerca a la terminal de buses de Cartagena
+Para llegar a ella, **la dirección exacta de esta terminal es Tv. 54 #81-2 a 81-234, Cartagena, Bolívar, Colombia**.
 
-{% include cta-hotmart1.html %}
+**¿Por qué es tan importante esta terminal?** Porque conecta a Cartagena con las principales ciudades del país. Ya sea que desees viajar a [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín"), [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal Cali") o [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta"), es muy probable que tu viaje comience o termine en esta terminal.
 
-Si está buscando alojamiento cerca de la terminal, hay muchas opciones disponibles. Puede buscar “hoteles cerca a la terminal de Cartagena” en Google para encontrar opciones que se ajusten a sus necesidades.
+## Las principales empresas de transporte de la terminal de Cartagena
 
-Hay una amplia variedad de hoteles en la zona, desde opciones económicas hasta lujosas. Míralas haciendo clic en el siguiente botón.
+----
 
-[Hoteles cerca a la terminal](https://www.google.com/maps/search/Hoteles/@10.4015954,-75.4573987,16z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+La Terminal de Cartagena alberga a varias de las empresas de transporte más importantes del país. Entre ellas destacan:
 
-Además de ofrecer servicios de transporte, la Terminal de Transporte de Cartagena también es un lugar donde puede encontrar una variedad de servicios y comodidades. Hay tiendas y restaurantes en el lugar para que pueda relajarse y disfrutar mientras espera su autobús.
+- **Expreso Brasilia**: Conocida por su extensa cobertura a nivel nacional, ofrece rutas a destinos como Medellín, Bogotá y Santa Marta.
+- **Copetran**: Otra de las grandes del transporte colombiano, conecta a Cartagena con ciudades como Cali, Barranquilla y Bogotá.
+- **Unitransco**: Especializada en rutas hacia el norte del país, es una excelente opción si tu destino es Santa Marta o Maicao.
 
-En resumen, la Terminal de Transporte de Cartagena es una empresa muy bien organizada y confiable para aquellos que buscan viajar dentro y fuera de la ciudad.
+Estas empresas, junto con otras como Almirante Padilla S.A. y Berlitur, garantizan que los viajeros tengan múltiples opciones a la hora de elegir cómo y cuándo viajar.
 
-Con una amplia variedad de servicios y comodidades en el lugar, así como información detallada disponible en línea, es fácil planificar su viaje y [asegurarse de tener una experiencia agradable al viajar en bus]({{'blog/viajar-en-bus-5-ventajas-inigualables'|relative_url}}).
+[Ver más empresas](#telefonos){:class="botones boton-verde"}
+
+## Servicios y comodidades en la Terminal
+
+----
+
+La Terminal de Transporte de Cartagena no solo se destaca por ser un punto de conexión entre diferentes destinos, sino también por los servicios y comodidades que ofrece a los viajeros:
+
+- **Cajeros automáticos**: Para aquellos que necesiten realizar transacciones bancarias antes de su viaje.
+- **Hoteles cercanos**: Si tu viaje es muy temprano o llegas tarde a Cartagena, hay varios hoteles cerca de la terminal donde puedes descansar.
+- **Servicios de encomiendas**: Empresas como Servientrega tienen puntos de atención en la terminal, lo que facilita el envío o recepción de paquetes.
+
+**¿Necesitas algo de último minuto?** No te preocupes, en la terminal encontrarás tiendas y establecimientos donde podrás comprar desde un snack para el viaje hasta un cargador para tu celular.
+
+## Viajando desde y hacia Cartagena
+
+{% include add1.html %}
+
+Cartagena es un destino turístico por excelencia, pero también es punto de partida para descubrir otros lugares fascinantes de Colombia. Desde la Terminal de Cartagena, puedes viajar a:
+
+- **Medellín**: La ciudad de la eterna primavera te espera con su clima agradable y su vibrante vida cultural.
+- **Bogotá**: La capital del país, con su mezcla de modernidad y tradición, es un destino que no puedes dejar de visitar.
+- **Santa Marta**: Puerta de entrada al Parque Nacional Natural Tayrona, uno de los destinos naturales más impresionantes de Colombia.
+
+Además, si tu destino es más lejano, como Cali o Barranquilla, también encontrarás rutas directas desde la terminal.
+
+## Consejos para viajar desde la Terminal de Cartagena
+
+----
+
+Viajar es una experiencia emocionante, pero también requiere de preparación. Aquí te dejamos algunos consejos para que tu viaje desde la Terminal de Cartagena sea lo más placentero posible:
+
+- **Llega con anticipación**: Es recomendable llegar al menos 30 minutos antes de la hora de salida de tu bus.
+- **Guarda bien tus pertenencias**: Aunque la terminal cuenta con seguridad, siempre es bueno estar atento y cuidar tus objetos personales.
+- **Infórmate sobre tu destino**: Si viajas a una ciudad que no conoces, investiga un poco sobre ella antes de llegar. Esto te ayudará a moverte con más facilidad una vez que llegues.
+
+## Descubre más de Cartagena y Colombia
+
+Si este es tu primer viaje a Cartagena o si estás pensando en [explorar más rincones de Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}), te invitamos a [seguir navegando por nuestra página]({{'blog'|relative_url}}). Aquí encontrarás más artículos, consejos y recomendaciones para que tu experiencia de viaje sea inolvidable.
