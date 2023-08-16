@@ -1,40 +1,24 @@
 ---
 layout: terminal
+json-terminal: true
 title: "La terminal de Manizales. ¡Bonita y servicial!"
 description: "La terminal de transporte de Manizales es tu conexión con el hermoso Caldas y el eje cafetero. ¡Además que es hermosa! Conócela y planea tu viaje"
 category: caldas
 h1: "Todo lo que necesitas saber sobre la Terminal de Transporte de Manizales: horarios, empresas y consejos útiles"
 jpg: terminales/terminal-manizales.jpg
-hero: terminales/terminal-manizales.webp
 webps: terminales/terminal-manizales-376.webp
 webpm: terminales/terminal-manizales-600.webp
-webpb: terminales/terminal-manizales-800.webp
 alt: Terminal Manizales
-logo: terminal-manizales-logo.webp
 webp1: terminales/terminal-manizales-exterior-600.webp
 webp2: terminales/terminal-manizales-exterior-376.webp
-h2_1: Terminal de Manizales - Teléfono y otros datos
-h2_2: Tiquetes de las empresas de la terminal de Manizales
-p_1: "La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos. En la actualidad operca con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes."
-empresa1: Flota Ospina 
-empresa2: Expreso Bolivariano
-empresa3: Arauca
-empresa_img_1: terminales/terminal-manizales-flota-ospina.webp
-empresa_img_2: terminales/terminal-manizales-bolivariano.webp
-empresa_img_3: terminales/terminal-manizales-arauca.webp
-empresa1_telf: 3148882783
-empresa2_telf: 3203337095
-empresa3_telf: 6068788340
+subtitle: Tiquetes de las empresas de la terminal de Manizales
+intro: "La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos. En la actualidad operca con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes."
 contacto: https://www.terminaldemanizales.com.co/Paginas/AU.aspx
-pdf: telefonos-empresa-terminal-manizales
-json-terminal: true
 direccion: "Carrera 43 # 65 – 100, barrio Los Cámbulos"
-telefono: 6068785641
-telefono2: 6068787858
 maps: https://goo.gl/maps/V6vxVq1uMuujSQgA8
+telefono: 6068785641 - 6068787858
 email: gerencia@terminaldemanizales.com.co
 ciudad: Manizales
-depto: Caldas
 postal: 170002
 calificacion: 4.3
 reviews: 5350

@@ -97,6 +97,8 @@ Cartagena es un destino turístico por excelencia, pero también es punto de par
 
 Además, si tu destino es más lejano, como Cali o Barranquilla, también encontrarás rutas directas desde la terminal.
 
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
 ## Consejos para viajar desde la Terminal de Cartagena
 
 ----
