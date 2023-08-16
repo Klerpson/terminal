@@ -1,35 +1,23 @@
 ---
 layout: terminal
+json-terminal: true
 title: Terminal de Popayán
 description: La Terminal de transporte Popayán es la mejor elección en el Cauca para encontrar los precios ajustados a su presupuesto y los horarios más convenientes
 category: cauca
 h1: La terminal de Popayán en el corazón del Cauca
 jpg: terminales/terminal-popayan.jpg
-hero: terminales/terminal-popayan.webp
 webps: terminales/terminal-popayan-376.webp
 webpm: terminales/terminal-popayan-600.webp
-webpb: terminales/terminal-popayan-800.webp
 alt: Terminal Popayan
-logo: terminal-popayan-logo.webp
 webp1: terminales/terminal-popayan-exterior-600.webp
 webp2: terminales/terminal-popayan-exterior-376.webp
-h2_1: Teléfonos de la terminal de Popayán y otros datos
-h2_2: Compra tus tiquetes en la terminal de Popayán
-p_1: "Encuentra los números de teléfono, dirección, empresas de buses, rutas, correos y todo lo que puedas serte útil en la terminal de transporte de Popayán."
-empresa1: Expreso Bolivariano
-empresa2: Flota Magdalena
-empresa3: Expreso Palmira
-empresa_img_1: terminales/terminal-popayan-bolivariano.webp
-empresa_img_2: terminales/terminal-popayan-flota-magdalena.webp
-empresa_img_3: terminales/terminal-popayan-expreso-palmira.webp
-empresa1_telf: 6024249090
-empresa2_telf: 6028232926
-empresa3_telf: 6028231999
+subtitle: Compra tus tiquetes en la terminal de Popayán
+intro: "Encuentra los números de teléfono, dirección, empresas de buses, rutas, correos y todo lo que puedas serte útil en la terminal de transporte de Popayán."
 contacto: https://terminalpopayan.com/terminal/atencion-al-ciudadano/
+maps: https://goo.gl/maps/9CjsgGcC7oxCtpWx9
 direccion: Transversal 9 No 4N - 125 Oficina 201
 telefono: 6028231827
 email: secretaria@terminalpopayan.com
-maps: https://goo.gl/maps/9CjsgGcC7oxCtpWx9
 ciudad: Popayán
 postal: 190001
 calificacion: 4.0
@@ -84,6 +72,7 @@ Haz clic en el siguiente botón para ver todos los números de las empresas de t
 * Baños
 * Asiento reducido
 * Asiento promedio
+{:class="seccion"}
 
 Los principales destinos que cubre Coomotor desde la terminal de Popayán son:
 
@@ -97,12 +86,13 @@ Los principales destinos que cubre Coomotor desde la terminal de Popayán son:
 * Melgar
 * Marinilla
 * La Dorada
+{:class="seccion"}
 
 Además de Florencia, Espinal, [Pitalito]({{site.baseurl}}/terminal-de-pitalito), Mocoa, San Agustín, Doradal, [Buga]({{site.baseurl}}/terminal-de-buga), Honda, Puerto Asís, [Garzón]({{site.baseurl}}/terminal-de-garzon). Y los precios de los pasajes, según la ruta, oscilan entre 6$ el de menor costo y 32$ el de mayor costo. Consulta sus horarios, precios, direcciones, promociones y cualquier pregunta referente a tu viaje a través de **los números de teléfono de Coomotor en la terminal de Popayán son**: [01800910293](tel:01800910293){:rel="nofollow"} o al [8231259](tel:6028231259){:rel="nofollow"}.
 
 #### Empresa de autobuses Bolivariano
 
-{% include cta-hotmart1.html %}
+{% include add2.html %}
 
 **Las ciudades cubiertas por esta línea de autobuses son 41, en 57 rutas**. Su flota de vehículos diarios consta de 246 unidades. Los buses utilizados en esta compañía de transporte son Eurovans, Navette, Navette G7, Navette XL, Servicio 2G, Servicio 2G Gold, Servicio DuoBus, Servicio Ejecutivo, Turquesa. Respecto a los servicios prestados dentro de las unidades, se cuenta con:
 
@@ -112,6 +102,7 @@ Además de Florencia, Espinal, [Pitalito]({{site.baseurl}}/terminal-de-pitalito)
 * Baños
 * Asiento reducido
 * Asiento promedio
+{:class="seccion"}
 
 Las rutas principales para transportar a sus pasajeros son las siguientes:
 
@@ -126,6 +117,7 @@ Las rutas principales para transportar a sus pasajeros son las siguientes:
 * Ibagué
 * Villavicencio
 * Manizales
+{:class="seccion"}
 
 También a Girardot, Pasto, La Dorada, Mocoa, Puerto Boyacá, Granada, [Florencia]({{site.baseurl}}/terminal-de-florencia), Acacias, [Bucaramanga]({{site.baseurl}}/terminal-de-bucaramanga). Los precios de los pasajes van desde 11$ el más barato y 46$ el más costoso. Sus precios, promociones, horarios y cualquier otra inquietud pueden ser consultados a los **números de teléfono de la empresa Expreso Bolivariano en la terminal de Popayán**: [4249090](tel:6024249090){:rel="nofollow"} y [8231077](tel:6028231077){:rel="nofollow"}.
 
@@ -143,6 +135,7 @@ También a Girardot, Pasto, La Dorada, Mocoa, Puerto Boyacá, Granada, [Florenci
 * Cartago
 * Palmira
 * Ibagué
+{:class="seccion"}
 
 Y cinco destinos más: Armenia, Doradal, Girardot y Honda. Sus pasajes los encuentras entre 17$ el más económico y 41$ el más caro. Comunícate para cualquier información con los **números telefónicos de la empresa Flota Magdalena en la terminal de Popayán**: [8232926](tel:6028232926){:rel="nofollow"} y [8232927](tel:6028232927){:rel="nofollow"}.
 
@@ -162,16 +155,9 @@ Y cinco destinos más: Armenia, Doradal, Girardot y Honda. Sus pasajes los encue
 * Manizales
 * Burga
 * Palmira
+{:class="seccion"}
 
 Su pasaje menos costoso es 9$ y el de mayor costo, 20$. Si tienes alguna duda con respecto a horarios, precios, promociones y más, serás bien atendido llamando a su **número de contacto en la terminal de Popayán**: [8231999](tel:6028231999){:rel="nofollow"}.
-
-### Hoteles cerca a la terminal
-
-{% include cta-hotmart1.html %}
-
-Mira la ubicación de **los hoteles cerca a la terminal de Popayán** en el siguiente botón:
-
-[Hoteles cerca a la terminal](https://www.google.com/maps/search/Hoteles/@2.4513773,-76.6103297,17z/data=!4m2!2m1!6e3){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
 ### ¿Qué servicios presta la Terminal de transportes Popayán?
 
@@ -186,10 +172,11 @@ Los servicios que conseguirás dentro del terminal son los siguientes:
 * Cajeros automáticos disponibles
 * Baños públicos
 * Vigilancia privada las 24 hora
-
-{% include add3.html %}
+{:class="seccion"}
 
 Tu espera se hará placentera, pues, te mantendrás conectado y con todo lo necesario al alcance de tu mano. Todas las áreas del terminal son cómodas y seguras.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
 Si llegas al Terminal de Popayán desde otro destino y requieres de los servicios de un taxi, **dentro del terminal de Popayán encontrarás empresas de taxis seguras**. No te arriesgues buscándolos en la calle. Solicita tu carrera directamente por:
 

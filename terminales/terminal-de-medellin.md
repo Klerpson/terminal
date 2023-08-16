@@ -94,16 +94,18 @@ Desde aquí, puedes tomar buses a la [Terminal de Transporte de Bogotá]({{'term
 Estas conexiones hacen de la Terminal de Transporte de Medellín un punto de partida clave para viajar a diferentes partes del país.
 {:id="norte"}
 
-----
-
 ## La terminal Norte Medellín
+
+----
 
 {% include img-post.html webpb="terminales/terminal-transporte-norte-medellin-800.webp" webps="terminales/terminal-transporte-norte-medellin-376.webp" alt="Terminal Norte Medellín" title="Terminal del Norte" %}
 *Foto tomada de Google Maps "Terminal del Norte"*
 
 La **Terminal del Norte Medellín**, un punto de referencia importante en la ciudad, se encuentra estratégicamente **ubicada en la Carrera 64C No. 78 – 580**.
 
-Esta ubicación central facilita el acceso tanto para los residentes locales como para los visitantes. La terminal está bien conectada con el resto de la ciudad a través de una red de transporte público eficiente, que incluye autobuses, taxis y el sistema de metro.
+Esta ubicación central facilita el acceso tanto para los residentes locales como para los visitantes.
+
+>La terminal está bien conectada con el resto de la ciudad a través de una red de transporte público eficiente, que incluye autobuses, taxis y el sistema de metro.
 
 ### Cómo llegar a la terminal del Norte Medellín
 
@@ -146,6 +148,7 @@ Para comprar pasajes en la Terminal del Norte Medellín, simplemente debes:
 1. Acercarte a la taquilla de la empresa de transporte de tu elección
 2. Indicar tu destino
 3. Elegir la fecha y hora de salida
+{:class="seccion"}
 
 También puedes comprar pasajes en línea a través de los sitios web de las diferentes empresas de transporte.
 
@@ -163,13 +166,15 @@ La Terminal del Norte Medellín sirve como punto de partida para una variedad de
 
 Desde la Terminal del Norte Medellín, puedes tomar un autobús a destinos nacionales como Bogotá, Cali, Cartagena, [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta"), Bucaramanga, entre otros.
 
-Las empresas de transporte ofrecen servicios regulares a estos y otros destinos en todo el país.
+>Las empresas de transporte ofrecen servicios regulares a estos y otros destinos en todo el país.
 
 ### Destinos internacionales
 
 Aunque la mayoría de las rutas desde la Terminal del Norte Medellín son nacionales, algunas empresas de transporte también ofrecen servicios a destinos internacionales, como Quito en Ecuador y Caracas en Venezuela.
 
 ## Horarios de la terminal del norte Medellín
+
+----
 
 **La Terminal del Norte Medellín opera las 24 horas del día**, los 7 días de la semana. Sin embargo, los horarios de las diferentes empresas de transporte pueden variar.
 
@@ -198,9 +203,9 @@ Si estás buscando **hospedarte cerca de la Terminal del Norte de Medellín**, t
 En resumen, **la Terminal del Norte de Medellín es un punto de partida clave**. Si necesitas información sobre los servicios de transporte disponibles o si buscas hospedaje cerca de la terminal, no dudes en contactar con el teléfono de la terminal del Norte.
 {:id="sur"}
 
-----
-
 ## Terminal Sur de Medellín
+
+----
 
 {% include img-post.html webpb="terminales/terminal-transporte-sur-medellin-800.webp" webps="terminales/terminal-transporte-sur-medellin-376.webp" alt="Terminal Sur Medellín" title="Terminal del Sur" %}
 *Foto tomada de Google Maps "Terminal del Sur"*
@@ -208,6 +213,8 @@ En resumen, **la Terminal del Norte de Medellín es un punto de partida clave**.
 La Terminal de transporte Sur de Medellín, es uno de los principales puntos de conexión desde la ciudad y hacia el sur del país.
 
 ## Empresas de transporte en la Terminal del Sur de Medellín
+
+----
 
 La Terminal del Sur Medellín alberga a varias empresas de transporte que ofrecen servicios a una amplia gama de destinos. Estas empresas cuentan con flotas de buses modernos y seguros **para garantizar un viaje cómodo y seguro**.
 
@@ -237,7 +244,11 @@ Además, si tienes alguna duda, siempre puedes recurrir a las indicaciones de lo
 
 ## Servicios disponibles en la Terminal Sur Medellín
 
-La Terminal del Sur Medellín ofrece una variedad de servicios para garantizar una experiencia de viaje cómoda y conveniente. Aquí puedes encontrar desde **tiendas de regalos hasta restaurantes y cafeterías**. Además, la terminal cuenta con **salas de cine** para el disfrute de los viajeros y visitantes.
+----
+
+La Terminal del Sur Medellín ofrece una variedad de servicios para garantizar una experiencia de viaje cómoda y conveniente. Aquí puedes encontrar desde **tiendas de regalos hasta restaurantes y cafeterías**.
+
+>La terminal cuenta con **salas de cine** para el disfrute de los viajeros y visitantes.
 
 ### Cine en la Terminal del Sur de Medellín
 
@@ -255,19 +266,21 @@ Si tienes tiempo antes de tu viaje o simplemente quieres disfrutar de un buen ra
 
 ## Rutas desde la Terminal del Sur Medellín
 
+----
+
 La Terminal del Sur Medellín sirve como punto de partida para una variedad de rutas de autobuses que **conectan Medellín con otras ciudades y regiones del sur de Colombia**.
 
 Aquí puedes encontrar buses que te llevarán a destinos tan variados como Bogotá, Cali, Barranquilla, entre otros.
 
 ## Hoteles cerca a la terminal Sur Medellín
 
+----
+
 Si necesitas hospedarte cerca de la terminal, hay varias opciones de hoteles cercanos. Busca en el siguiente botón los **hoteles cerca de la Terminal del Sur**:
 
 [Hoteles cerca de la terminal Sur](https://www.google.com/maps/search/Hoteles/@6.2159067,-75.5904366,16z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
 Si necesitas más información sobre la Terminal Sur de Medellín, como horarios de buses o información de contacto, puedes **visitar [su sitio web oficial en la página de contacto](https://terminaldelsur.com/contactanos/){:rel="nofollow noopener noreferrer" target="_blank"} o llamar al teléfono de atención al cliente [604 444 8020](tel:6044448020){:rel="nofollow noopener noreferrer" target="_blank"} – Ext. 171**.
-
-----
 
 ## Preguntas frecuentes
 

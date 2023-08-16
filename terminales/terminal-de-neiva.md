@@ -68,8 +68,11 @@ Cuando viajes desde esta terminal de buses, puedes contar con los siguientes ser
 * Baños públicos
 * Puntos de información turística
 * Vigilancia y seguridad
+{:class="seccion"}
 
 Las empresas de transporte que operan en la terminal de Neiva han evolucionado en sus servicios a través de los años. Entre ellas destacan empresas como Coomotor, Expreso Bolivariano, Flota Magdalena, Fronteras, Rápido Tolima y Sotracauca.
+
+{% include add1.html %}
 
 #### Coomotor
 
@@ -81,10 +84,8 @@ Ofrece rutas hacia ciudades como Bogotá, Cali, Pereira, Popayán, entre otras.
 
 #### Flota Magdalena
 
-{% include add1.html %}
-
 Tiene rutas hacia ciudades como Medellín, Barranquilla, Bucaramanga, entre otras.
 
-Si necesitas contactar a alguna de estas empresas de transporte para adquirir tus pasajes, aquí te proporcionamos los teléfonos de contacto:
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
 Recuerda que la terminal de Neiva cuenta con una amplia variedad de servicios y empresas de transporte que te permitirán llegar a tu destino de manera segura y cómoda.

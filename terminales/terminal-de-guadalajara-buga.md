@@ -102,6 +102,8 @@ El terminal ofrece una variedad de servicios para los viajeros, entre ellos:
 
 ## Información Adicional
 
+----
+
 - **Empresas Asociadas:** Hay 17 empresas operando a diario en el Terminal de Transporte de Buga.
 - **Buses Diarios:** Aproximadamente 1500 buses llegan a diario al Terminal de Transporte de Buga.
 {:class="seccion"}
@@ -116,8 +118,12 @@ Las empresas ofrecen múltiples horarios y opciones para adaptarse a las necesid
 
 ## Ven a conocer Buga desde la terminal del corazón del Valle
 
+----
+
 Buga es una ciudad con un terminal de transporte que conecta a sus habitantes y visitantes con múltiples destinos en Colombia.
 
 Ya sea que viajes por negocios, placer o cualquier otro motivo, el Terminal de Buga te ofrece todas las facilidades y servicios para hacer de tu viaje una experiencia agradable.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
 Si deseas conocer más sobre otros destinos y servicios, no dudes en explorar más en nuestra página.

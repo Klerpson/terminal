@@ -1,41 +1,24 @@
 ---
 layout: terminal
+json-terminal: true
 title: Terminal de Santa Marta
 description: La terminal de Santa Marta es una central que brinda servicios de traslado terrestre de pasajeros, así como de cargas y encomiendas.
 category: magdalena
-tags: terminal
 h1: La terminal de Santa Marta
 jpg: terminales/terminal-santa-marta.jpg
-hero: terminales/terminal-santa-marta.webp
 webps: terminales/terminal-santa-marta-376.webp
 webpm: terminales/terminal-santa-marta-600.webp
-webpb: terminales/terminal-santa-marta-800.webp
 alt: Terminal de Transporte de Santa Marta
-logo: terminal-santa-marta-logo.webp
 webp1: terminales/terminal-santa-marta-exterior-600.webp
 webp2: terminales/terminal-santa-marta-exterior-376.webp
-h2_1: Teléfono de la terminal de Santa Marta
-h2_2: Tiquetes en la terminal de buses de Santa Marta
-p_1: "Ubicada al norte de Colombia y funcionando desde el año 1993, la terminal de Santa Marta llegó a transportar a más de 30,000 personas durante el feriado de Reyes del año pasado."
-empresa1: Rápido Ochoa
-empresa2: Expreso Brasilia
-empresa3: Copetran
-empresa_img_1: terminales/terminal-santa-marta-rapido-ochoa.webp
-empresa_img_2: terminales/terminal-santa-marta-brasilia.webp
-empresa_img_3: terminales/terminal-santa-marta-copetran.webp
-empresa1_telf: 6054302028
-empresa2_telf: 3215471422
-empresa3_telf: 6054301750
+subtitle: Tiquetes en la terminal de buses de Santa Marta
+intro: "Ubicada al norte de Colombia y funcionando desde el año 1993, la terminal de Santa Marta llegó a transportar a más de 30,000 personas durante el feriado de Reyes del año pasado."
 contacto: https://terminaldesantamarta.com/entidad/AtencionCiudadano
-pdf: telefonos-empresa-terminal-santa-marta
-json-terminal: true
-direccion: Calle 41 31-17
-telefono: 6054303297
-telefono2: 6054302040
-email: centraltsm@terminaldesantamarta.com
 maps: https://goo.gl/maps/5u9S4YMUkGRFuiREA
+direccion: Calle 41 31-17
+telefono: 6054303297 - 6054302040
+email: centraltsm@terminaldesantamarta.com
 ciudad: Santa Marta
-depto: Magdalena
 postal: 470005
 calificacion: 3.7
 reviews: 180
@@ -80,6 +63,7 @@ La Terminal de Transporte de Santa Marta cuenta con una amplia gama de servicios
 * Punto de información turística
 * Servicio de Wi-Fi
 * Circuitos cerrados de televisión y seguridad 24/7
+{:class="seccion"}
 
 ### Empresas de transporte en la Terminal de Transporte de Santa Marta
 
@@ -93,6 +77,7 @@ La Terminal de Transporte de Santa Marta cuenta con varias empresas de transport
 * Omega
 * Rápido Ochoa
 * Unitransco
+{:class="seccion"}
 
 ### Precios y horarios de la Terminal de Transporte de Santa Marta
 
@@ -101,5 +86,7 @@ La Terminal de Transporte de Santa Marta cuenta con varias empresas de transport
 Los precios y horarios de las diferentes empresas de transporte pueden variar, pero la Terminal de Transporte de Santa Marta tiene **un horario de funcionamiento de 24 horas al día**.
 
 Para obtener información actualizada sobre los precios y horarios de los diferentes operadores, se puede llamar al teléfono de la Terminal de Transporte de Santa Marta o visitar su sitio web oficial.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
 ¡No esperes más para comenzar tu próxima aventura en la costa caribeña de Colombia! Con la Terminal de Transporte de Santa Marta, tienes todo lo que necesitas para comenzar tu viaje sin problemas y llegar a tu destino de manera segura y cómoda. ¡Te deseamos un feliz viaje!

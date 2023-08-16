@@ -83,6 +83,7 @@ Entre los servicios que ofrece la Terminal de Transportes de Pasto se encuentran
 * Cajero automático.
 * Taxis verdes disponibles para transportarte a tu destino final.
 * Vigilancia y seguridad las 24 horas del día.
+{:class="seccion"}
 
 Además, cuenta con empresas de transporte como Cootransmayo y Bolivariano, que ofrecen servicios de alta calidad y precios asequibles.
 
@@ -98,4 +99,8 @@ Esta empresa de transporte ofrece servicios a varias ciudades en Colombia y Ecua
 
 Si necesitas transporte desde la terminal a un lugar específico en la ciudad, Supertaxis está disponible en la terminal para llevarte a tu destino final.
 
-La Terminal de Transportes de Pasto es el lugar perfecto **para comenzar tus aventuras en el sur de Colombia**. Con su amplia gama de servicios y opciones de transporte, puedes estar seguro de que tu viaje será cómodo y seguro. ¡Empaca tus maletas y comienza tu próximo viaje desde la Terminal de Transportes de Pasto!
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
+La Terminal de Transportes de Pasto es el lugar perfecto **para comenzar tus aventuras en el sur de Colombia**. Con su amplia gama de servicios y opciones de transporte, puedes estar seguro de que tu viaje será cómodo y seguro.
+
+¡Empaca tus maletas y comienza tu próximo viaje desde la Terminal de Transportes de Pasto!

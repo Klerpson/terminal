@@ -1,40 +1,24 @@
 ---
 layout: terminal
+json-terminal: true
 title: Terminal de Pitalito
 description: Ubicado en la ciudad de Pitalito, Colombia, el terminal es un lugar donde se puede ir de un pueblo a otro en todo el sur del Huila.
 category: huila
 h1: La terminal de transporte de Pitalito
 jpg: terminales/terminal-pitalito.jpg
-hero: terminales/terminal-pitalito.webp
 webps: terminales/terminal-pitalito-376.webp
 webpm: terminales/terminal-pitalito-600.webp
-webpb: terminales/terminal-pitalito-800.webp
 alt: Terminal de Pitalito Huila
-logo: terminal-pitalito-logo.webp
 webp1: terminales/terminal-pitalito-exterior-600.webp
 webp2: terminales/terminal-pitalito-exterior-376.webp
-h2_1: Teléfono terminal de Pitalito y correo
-h2_2: Tiquetes de las empresas de la terminal de Pitalito
-p_1: "Esta hermosa terminal recibe miles de pasajeros diariamente, y sus instalaciones incluyen restaurantes, zonas para guardar equipajes y más de doce compañías de autobuses."
-empresa1: Cootranshuila
-empresa2: Expreso Bolivariano
-empresa3: Coomotor
-empresa_img_1: terminales/terminal-pitalito-cootranshuila.webp
-empresa_img_2: terminales/terminal-pitalito-bolivariano.webp
-empresa_img_3: terminales/terminal-pitalito-coomotor.webp
-empresa1_telf: 3153385843
-empresa2_telf: 3108018518
-empresa3_telf: 3176369341
+subtitle: Tiquetes de las empresas de la terminal de Pitalito
+intro: "Esta hermosa terminal recibe miles de pasajeros diariamente, y sus instalaciones incluyen restaurantes, zonas para guardar equipajes y más de doce compañías de autobuses."
 contacto: https://tuterminalpitalito.com/pqrsf/
-pdf: telefonos-empresa-terminal-pitalito
-json-terminal: true
-direccion: "Carrera 4 No 31-15"
-telefono: 3168786984
-telefono2: 6088350773
-email: info@tuterminalpitalito.com
 maps: https://goo.gl/maps/TyA6LmFS6M92v83E7
+direccion: "Carrera 4 No 31-15"
+telefono: 3168786984 - 6088350773
+email: info@tuterminalpitalito.com
 ciudad: Pitalito
-depto: Huila
 postal: 417030
 calificacion: 4.1
 reviews: 3170
@@ -107,8 +91,12 @@ La terminal de transporte de Pitalito Huila es un lugar moderno y cómodo para l
 
 ### Historia de la terminal de Pitalito
 
-{% include cta-hotmart1.html %}
+{% include add3.html %}
 
 **La Terminal de Pitalito está funcionando desde el año 1999**. Constituirla legalmente tomó un período de 8 años. Ofrece servicios de transporte terrestre nacional de pasajeros con 19 empresas.
 
-Durante todo ese tiempo varias empresas que han prestado sus servicios. Estas incluyen Coopetran, Cooperativa de Transporte de Huila Ltda., Turihue Ltda., Transporte Caribe Ltda. y Transporte Rincon Ltda. Si desea obtener más información sobre cualquiera de estas empresas, puede buscar en Google sus sitios web oficiales.
+Durante todo ese tiempo varias empresas que han prestado sus servicios. Estas incluyen Coopetran, Cooperativa de Transporte de Huila Ltda., Turihue Ltda., Transporte Caribe Ltda. y Transporte Rincon Ltda.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
+Si desea obtener más información sobre cualquiera de estas empresas, puede buscar en Google sus sitios web oficiales.

@@ -74,6 +74,8 @@ Para llegar a la terminal de Manizales usando transporte público, puedes tomar 
 
 ## Empresas transportadoras: Variedad y opciones
 
+----
+
 En la Terminal de Manizales operan más de 31 empresas transportadoras. Algunas de las más destacadas son:
 
 - **Transportes Anserma** – Tel. 878 6505.
@@ -81,6 +83,7 @@ En la Terminal de Manizales operan más de 31 empresas transportadoras. Algunas 
 - **Autolujo** – Tel. 313 653 6273.
 - **Cootracol** – Tel. 301 506 4886.
 - **Cootraman** – Tel. 878 4934.
+{:class="seccion"}
 
 Estas empresas ofrecen una variedad de horarios y destinos, adaptándose a las necesidades de cada viajero.
 
@@ -111,8 +114,11 @@ La terminal de Transporte de Manizales te ofrece los siguientes servicios:
 - **Cómodas salas de espera**: Salas con mueblería y equipos adecuados para hacer más amena la espera de la salida del vehículo de transporte, incluyendo la temperatura con aire acondicionado.
 - **Abordaje de taxis y autobuses**: Usa este servicio con la garantía de la seguridad que te ofrece la terminal.
 - **Parqueaderos públicos y privados**: Sujeto a disponibilidad.
+{:class="seccion"}
 
 ## La Terminal de Transporte de Manizales: Un punto de encuentro
+
+----
 
 La **Terminal de Transporte de Manizales**, también conocida como Terminal Metropolitana de Transportes de Manizales, ha sido un punto de referencia desde su inauguración en 1988.
 
@@ -120,7 +126,7 @@ Aunque fue remodelada en 2009, su esencia sigue siendo la misma: conectar a los 
 
 ## Historia de la Terminal de Transporte de Manizales
 
-{% include cta-hotmart1.html %}
+{% include add2.html %}
 
 La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 1988. Posteriormente, ante la creciente demanda en acceso de pasajeros y vehículos, se hizo un diseño más amplio, con mejores vías de acceso, y con una mejor distribución de todos las zonas. Por esta razón, se construyo la nueva terminal y se inauguró en el 2009.​
 
@@ -129,6 +135,8 @@ La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 198
 Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en la ciudad de Manizales, con la prestación del servicio de su auditorio.
 
 ## Preguntas frecuentes sobre la Terminal de Manizales
+
+{% include add2.html %}
 
 ### ¿Qué requisitos tienen para las mascotas?
 
@@ -142,7 +150,11 @@ Muchas de las principales sí lo hacen. Sin embargo, en caso de que viajes con u
 
 Sí, la terminal cuenta con vigilancia constante de la policía. Sin embargo, siempre es recomendable tomar precauciones básicas, como vigilar el equipaje y no dejar a los niños solos.
 
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
 ## Ven a la terminal Manizales
+
+----
 
 Viajar **desde y hacia la Terminal de Transporte de Manizales** es una experiencia única que combina la belleza del paisaje colombiano con la eficiencia y comodidad de un transporte moderno.
 

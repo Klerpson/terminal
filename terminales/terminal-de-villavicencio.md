@@ -1,40 +1,24 @@
 ---
 layout: terminal
+json-terminal: true
 title: Terminal de Villavicencio
 description: La Terminal de Villavicencio es el punto de partida para explorar una de las regiones más hermosas de Colombia. ¡Conócelo! Te damos todos sus datos
 category: meta
-tags: terminal
 h1: La terminal de transporte Villavicencio
 jpg: terminales/terminal-villavicencio.jpg
-hero: terminales/terminal-villavicencio.webp
 webps: terminales/terminal-villavicencio-376.webp
 webpm: terminales/terminal-villavicencio-600.webp
-webpb: terminales/terminal-villavicencio-800.webp
 alt: Terminal de Transporte de Santa Marta
-logo: terminal-villavicencio-logo.webp
 webp1: terminales/terminal-villavicencio-meta-600.webp
 webp2: terminales/terminal-villavicencio-meta-376.webp
-h2_1: Teléfono y más datos de la terminal de Villavicencio
-h2_2: Compra tus pasajes en la terminal de Villavicencio
-p_1: "Planea tu viaje desde la Terminal de Villavicencio, incluyendo horarios de autobuses, tarifas, conexiones de transporte y mucho más."
-empresa1: Flota Libertadores
-empresa2: Expreso Bolivariano
-empresa3: Flota Macarena
-empresa_img_1: terminales/terminal-villavicencio-libertadores.webp
-empresa_img_2: terminales/terminal-villavicencio-bolivariano.webp
-empresa_img_3: terminales/terminal-villavicencio-macarena.webp
-empresa1_telf: 6087705815
-empresa2_telf: 6014249090
-empresa3_telf: 6014212256
+subtitle: Compra tus pasajes en la terminal de Villavicencio
+intro: "Planea tu viaje desde la Terminal de Villavicencio, incluyendo horarios de autobuses, tarifas, conexiones de transporte y mucho más."
 contacto: https://ttvillavo.co/contacto/
-pdf: telefonos-empresa-terminal-villavicencio
-json-terminal: true
 direccion: 'Cra. 1 # 15 - 05 Anillo Vial'
 telefono: 6086606535
 email: info@ttvillavo.co
 maps: https://goo.gl/maps/FKhwWei9UiwENVG16
 ciudad: Villavicencio
-depto: Meta
 postal: 500001
 calificacion: 4.1
 reviews: 4019
@@ -61,7 +45,9 @@ empresas:
 
 {% include add2.html %}
 
-¡Bienvenidos a la terminal de Villavicencio! Esta ciudad es **conocida como la puerta de entrada a la Orinoquía colombiana** y es un destino muy popular entre los viajeros. En este artículo, te brindaremos toda la información que necesitas sobre la terminal de transporte de Villavicencio para que puedas disfrutar al máximo de tu viaje.
+¡Bienvenidos a la terminal de Villavicencio! Esta ciudad es **conocida como la puerta de entrada a la Orinoquía colombiana** y es un destino muy popular entre los viajeros.
+
+En este artículo, te brindaremos toda la información que necesitas sobre la terminal de transporte de Villavicencio para que puedas disfrutar al máximo de tu viaje.
 
 Ubicada en el departamento de Meta, la terminal de Villavicencio es una de las más importantes de la región. Aquí tienes muchas opciones de transporte para viajar a [distintos destinos dentro]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}) y fuera del país.
 
@@ -72,5 +58,7 @@ Si estás en otra ciudad, también puedes llegar directamente a la terminal de V
 {% include add1.html %}
 
 Además, la terminal de Villavicencio cuenta con servicios como tiendas, restaurantes, cajeros automáticos y baños públicos para que puedas disfrutar de una experiencia de viaje cómoda y agradable.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
 En resumen, la terminal de Villavicencio es una excelente opción para planificar tus viajes por la región. ¡No dudes en visitarla y disfrutar un viaje más agradable!
