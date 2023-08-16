@@ -1,37 +1,23 @@
 ---
 layout: terminal
-title: Terminal de buses de Garzón y el turismo del Huila
-description: "La terminal de Garzón está en el corazón de una ciudad en crecimiento constante. Además, está muy cerca a muchos atractivos turísticos del Huila"
+json-terminal: true
+title: "Terminal de Garzón: Consejos, Rutas y Contactos para Viajeros"
+description: "¿Viajando a Garzón? Aquí encontrarás todo sobre la Terminal, empresas de transporte y destinos populares. ¡Entérate ahora!"
 category: huila
 h1: La terminal de transporte Garzón y el turismo del Huila
 jpg: terminales/terminal-garzon.jpg
 webps: terminales/terminal-garzon-376.webp
 webpm: terminales/terminal-garzon-600.webp
-webpb: terminales/terminal-garzon-800.webp
 alt: Terminal de Transporte de Garzón Huila
-logo: terminal-garzon-logo.webp
 webp1: terminales/terminal-garzon-huila-600.webp
 webp2: terminales/terminal-garzon-huila-376.webp
-h2_1: Teléfono de la terminal de Garzón y más
-h2_2: Compra tus pasajes en la terminal de Garzón
-p_1: 'La temrinal de Garzón te acerca a muchos destinos turísticos del Huila, como por ejemplo, <a href="https://gurcoff.com/la-mano-del-gigante/" target="_blank">La mano del Gigante</a>'
-empresa1: Coomotor
-empresa2: Cootranshuila
-empresa3: Líneas verdes
-empresa_img_1: terminales/terminal-garzon-coomotor.webp
-empresa_img_2: terminales/terminal-garzon-cootranshuila.webp
-empresa_img_3: terminales/terminal-garzon-lineas-verdes.webp
-empresa1_telf: 3176369329
-empresa2_telf: 6088756365
-empresa3_telf: 3143300514
+subtitle: Compra tus pasajes en la terminal de Garzón
+intro: 'Conecta con los mejores destinos desde Garzón. Información detallada de la Terminal y consejos para viajeros.'
 contacto: https://www.terminalgarzon.com/
-pdf: telefonos-empresa-terminal-garzon
-json-terminal: true
+maps: https://goo.gl/maps/Qbpri6mtjLHmxzaU9
 direccion: 'Trans 21 No. 3B-49, Garzón, Huila'
 telefono: 6088332247
-maps: https://goo.gl/maps/Qbpri6mtjLHmxzaU9
 ciudad: Garzón
-depto: Huila
 postal: 414020
 calificacion: 4.1
 reviews: 3062
@@ -69,6 +55,8 @@ La Terminal de Garzón ofrece una variedad de servicios para garantizar la comod
 
 ## Empresas de transporte que operan en la Terminal
 
+{% include add1.html %}
+
 Actualmente, 17 empresas de transporte ofrecen sus servicios en la Terminal de Garzón, conectando a la ciudad con destinos en departamentos como Antioquia, Caldas, Risaralda, Valle, Cundinamarca, Putumayo, Huila, Caquetá y más. Algunas de las principales empresas son:
 
 - Coomotor
@@ -81,19 +69,21 @@ Actualmente, 17 empresas de transporte ofrecen sus servicios en la Terminal de G
 
 Desde la Terminal de Garzón, los viajeros pueden dirigirse a una variedad de destinos, tanto nacionales como internacionales. Algunos de los destinos más populares incluyen:
 
-- Bogotá
-- Cali
-- Medellín
-- Florencia
-- Neiva
-- Pitalito
-- Pereira
+- [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá")
+- [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali")
+- [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín")
+- [Florencia]({{'terminal-de-florencia'|relative_url}} "Terminal Florencia")
+- [Neiva]({{'terminal-de-neiva'|relative_url}} "Terminal Neiva")
+- [Pitalito]({{'terminal-de-pitalito'|relative_url}} "Terminal Pitalito")
+- [Pereira]({{'terminal-de-pereira'|relative_url}} "Terminal Pereira")
 - Ibagué
 - Mocoa
 - Puerto Asís
 {:class="seccion"}
 
 ## Consejos para viajar desde la Terminal de Garzón
+
+{% include add1.html %}
 
 Si estás planeando un viaje desde la Terminal de Garzón, aquí hay algunos consejos que te ayudarán a tener una experiencia de viaje sin complicaciones:
 
@@ -108,9 +98,13 @@ La Terminal de Transporte de Garzón, ubicada en el departamento de Huila, es **
 
 A lo largo de los años, ha experimentado una serie de cambios y mejoras que la han convertido en uno de los puntos de referencia para los viajeros que se desplazan por la región.
 
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
 ## Garzón, un punto de conexión esencial en Huila
 
 La Terminal de Garzón se ha consolidado como un **punto esencial para la movilidad en el departamento de Huila y sus alrededores**.
+
+Por ejemplo, te recomendamos el sitio que está de moda en el Huila para todos los turistas que disfrutan el territorio nacional. Se llama "[El mirador de la Mano del Gigante](https://sanagustinhuila.com.co/turismo-san-agustin/mirador-mano-del-gigante-en-gigante-huila)". Y desde Garzón puedes llegar fácilmente a este lugar.
 
 Ya sea que estés planeando un viaje de negocios, unas vacaciones o simplemente quieras explorar la región, la Terminal de Garzón te ofrece todas las facilidades y servicios para que tu viaje sea una experiencia inolvidable.
 

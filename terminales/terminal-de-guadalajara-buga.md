@@ -1,38 +1,23 @@
 ---
 layout: terminal
+json-terminal: true
 title: La terminal de Buga
 description: La Terminal de Buga es una de las paradas más importantes de Colombia. Ofrece más de 50 rutas diferentes a Cali, Tuluá, Bogotá, entre otros.
 category: valle-cauca
 h1: La Terminal de transporte de Buga
 jpg: terminales/terminal-buga.jpg
-hero: terminales/terminal-buga.webp
 webps: terminales/terminal-buga-376.webp
 webpm: terminales/terminal-buga-600.webp
-webpb: terminales/terminal-buga-800.webp
 alt: Terminal de Transporte de Buga
-logo: terminal-buga-logo.webp
 webp1: terminales/terminal-buga-exterior-600.webp
 webp2: terminales/terminal-buga-exterior-376.webp
-h2_1: Teléfono de la terminal de Buga y otros datos
-h2_2: Compra tus tiquetes con las empresas de la terminal
-p_1: "La terminal de Buga es muy popular en el departamento del Valle del Cauca. Sus destinos turísticos son variados y los más comunes se encuentran muy cerca."
-empresa1: Expreso Bolivariano
-empresa2: Expreso Palmira
-empresa3: Velotax
-empresa_img_1: terminales/terminal-buga-bolivariano.webp
-empresa_img_2: terminales/terminal-buga-expreso-palmira.webp
-empresa_img_3: terminales/terminal-buga-velotax.webp
-empresa1_telf: 3204883766
-empresa2_telf: 3147909064
-empresa3_telf: 3122820081
+subtitle: Compra tus tiquetes con las empresas de la terminal
+intro: "La terminal de Buga es muy popular en el departamento del Valle del Cauca. Sus destinos turísticos son variados y los más comunes se encuentran muy cerca."
 contacto: https://terminalesmedellin.com/pqrsd/
-pdf: telefonos-empresa-terminal-buga
-json-terminal: true
+maps: https://goo.gl/maps/NjQ1yurdt2s5BTfg7
 direccion: "Calle 4 23-91"
 telefono: 3155107475
-maps: https://goo.gl/maps/NjQ1yurdt2s5BTfg7
 ciudad: Buga
-depto: Valle del Cauca
 postal: 760036
 calificacion: 4.1
 reviews: 6424
@@ -65,36 +50,74 @@ empresas:
   - Transportes Unidos Buga: 6022283111
   - Velotax: 6022280073 - 3122820081
 ---
-## Terminal de buses de Buga
+## ¿Conoces la Terminal de Buga?
+
+El Terminal de Guadalajara de Buga, conocido comúnmente como **Terminal de Buga**, es uno de los puntos de mayor concurrencia dentro del departamento del Valle del Cauca.
+
+Este terminal se destaca por sus variados destinos, algunos de turismo religioso, siendo la mayoría de sus recorridos hacia el sur de Colombia.
+
+## Operadores de Bus en Terminal de Buga
+
+El Terminal de Buga cuenta con la presencia de varios operadores, compañías y empresas de autobuses que ofrecen servicios de alta calidad. Algunas de las empresas más populares que operan en este terminal son:
+
+- **Expreso Palmira**
+- **Expreso Brasilia**
+- **Coomotor**
+- **Lineas del Valle**
+{:class="seccion"}
+
+Estas empresas garantizan la comodidad y seguridad de los pasajeros en todo momento, con buses que cuentan con interiores limpios y ordenados.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
+## Cómo llegar a la ubicación de la terminal de transporte de Buga
 
 {% include add1.html %}
 
-Si estás buscando viajar a la hermosa ciudad de Buga, en el departamento de Valle del Cauca, seguramente te interesará saber todo lo que la Terminal de Transportes tiene para ofrecer.
+**La Terminal de Buga está ubicado en la Calle 4 # 23 - 91**. Es un punto importante de referencia en la ciudad y es de fácil acceso. Para llegar al terminal puedes:
 
-**La Terminal de Transportes de Buga es de las más importantes del Valle del Cauca**. Ofrece servicios de transporte a [varias ciudades y municipios de Colombia](/), incluyendo destinos como [Cali]({{site.baseurl}}/terminal-de-cali), [Bogotá]({{site.baseurl}}/terminal-de-bogota), [Medellín]({{site.baseurl}}/terminal-de-medellin) y [Popayán]({{site.baseurl}}/terminal-de-popayan).
+- **En Taxi:** Tomar un taxi desde cualquier lugar de la ciudad.
+- **En Transporte Público:** Tomar cualquier bus que vaya por la Carrera 23 o uno que vaya por la Calle 4.
+{:class="seccion"}
 
-### Servicios en la Terminal de Transportes de Buga
+Además, tiene cerca la Básilica conocida como [Basílica del Milagroso](https://www.milagrosodebuga.com/){:rel="nofollow noopener noreferrer" target="_blank"}. Este es un destino muy concurrido por los religiosos católicos. Y muy comercial.
 
-Mientras estás en la terminal de Buga, puedes utilizar los siguientes servicios:
+Pero, más importante aún, es el fácil acceso desde esta terminal al muy conocido [Lago Calima](https://calimadarien.com/){:rel="nofollow noopener noreferrer" target="_blank"}. Desde la terminal de Buga salen rutas directas a este hermoso destino turístico Colombiano.
 
-* 30 taquillas para venta de tiquetes
-* Servicio de encomiendas
-* Parqueadero para vehículos y motos
-* Baños públicos
-* Puntos de información turística
-* Cafeterías y restaurantes
-* Salas de espera
-* Servicio de Wi-Fi gratuito
+## Servicios en el Terminal de Buga
 
-También, puedes comprar los pasajes directamente con las empresas de la terminal de Buga. La siguiente lista de precios de los pasajes desde la Terminal de Transportes de Buga son valores promedios:
+----
 
-* Pasaje a Cali: desde $15.000 COP
-* Pasaje a Bogotá: desde $70.000 COP
-* Pasaje a Medellín: desde $75.000 COP
-* Pasaje a Popayán: desde $30.000 COP
+El terminal ofrece una variedad de servicios para los viajeros, entre ellos:
 
-Para adquirir pasajes a Buga o desde Buga hacia otras ciudades, puedes visitar las taquillas de las diferentes empresas de transporte que operan en la terminal. Algunas de las compañías de transporte más populares son **Coopetrans, Expreso Bolivariano, y Fronteras**.
+- Panaderías
+- Cajeros automáticos
+- Bisutería
+- Cafés y quioskos
+- Sala de espera
+- Baños Públicos
+- Parqueadero público
+- Servicios de guarda equipaje
+- Punto de información
 
-{% include add2.html %}
+## Información Adicional
 
-Por todo lo anterior, la Terminal de Transportes de Buga ofrece una amplia gama de servicios y opciones de transporte para aquellos que deseen viajar desde o hacia la ciudad. Con precios razonables y comodidades para los viajeros, la Terminal de Transportes de Buga es la opción ideal para quienes buscan una experiencia de viaje cómoda y segura.
+- **Empresas Asociadas:** Hay 17 empresas operando a diario en el Terminal de Transporte de Buga.
+- **Buses Diarios:** Aproximadamente 1500 buses llegan a diario al Terminal de Transporte de Buga.
+{:class="seccion"}
+
+## Viajes Populares desde Terminal de Buga
+
+{% include add1.html %}
+
+Desde el Terminal de Buga, puedes viajar a diversos destinos populares como [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín"), [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"), [Pereira]({{'terminal-de-pereira'|relative_url}} "Terminal Pereira"), [Armenia]({{'terminal-de-armenia'|relative_url}} "Terminal Armenia"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali"), [Manizales]({{'terminal-de-manizales'|relative_url}} "Terminal Manizales"), Ibagué, [Barranquilla]({{'terminal-de-barranquilla'|relative_url}} "Terminal de Barranquilla"), [Neiva]({{'terminal-de-neiva'|relative_url}} "Terminal Neiva"), y Puerto Boyacá, entre otros.
+
+Las empresas ofrecen múltiples horarios y opciones para adaptarse a las necesidades de los viajeros.
+
+## Ven a conocer Buga desde la terminal del corazón del Valle
+
+Buga es una ciudad con un terminal de transporte que conecta a sus habitantes y visitantes con múltiples destinos en Colombia.
+
+Ya sea que viajes por negocios, placer o cualquier otro motivo, el Terminal de Buga te ofrece todas las facilidades y servicios para hacer de tu viaje una experiencia agradable.
+
+Si deseas conocer más sobre otros destinos y servicios, no dudes en explorar más en nuestra página.
