@@ -20,6 +20,14 @@
   
   
   
+      <url>
+        <loc>http://localhost:4000/academy</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
   
   
       <url>
