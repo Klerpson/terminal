@@ -120,8 +120,8 @@ Con más de 40 años de servicio, ha sido testigo y protagonista de la evolució
 
 ### Contacto y ubicación de la terminal de transporte de Cali
 
-- **Sitio web**: [www.terminalcali.com](https://www.terminalcali.com/)
-- **Redes Sociales**: [Facebook](https://www.facebook.com/miterminal.cali) y [Twitter](https://twitter.com/MiTerminalCali)
+- **Sitio web**: [www.terminalcali.com](https://www.terminalcali.com/){:rel="nofollow noopener noreferrer" target="_blank"}
+- **Redes Sociales**: [Facebook](https://www.facebook.com/miterminal.cali){:rel="nofollow noopener noreferrer" target="_blank"} y [Twitter](https://twitter.com/MiTerminalCali){:rel="nofollow noopener noreferrer" target="_blank"}
 - **Dirección**: Calle 30N 2AN-29, Cali
 - **Teléfono**: (+57 2) 668 36 55
 - **Horario de atención**: Lunes a viernes de 7:30 a.m. a 12:30 p.m. y de 1:00 p.m a 5:00 p.m.

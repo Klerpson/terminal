@@ -282,7 +282,7 @@
   margin: 1.5em auto;
 }
 
-.articulo li{
+.articulo li:not(ol li){
   list-style-type: disc;
   margin-left: 3em;
 }

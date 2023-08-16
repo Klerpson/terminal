@@ -94,6 +94,8 @@ La Terminal de Cúcuta tiene un lugar especial en la historia del transporte col
 
 A lo largo de los años, ha experimentado un crecimiento constante en el flujo de pasajeros. En 2019, se inició un proyecto de remodelación para mejorar la calidad de los servicios ofrecidos a la comunidad cucuteña.
 
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
 ## Preguntas Frecuentes
 
 - **¿Qué empresas ofrecen rutas a Bogotá?** Copetrán, Omega, Berlinas del Fonce y Concorde.

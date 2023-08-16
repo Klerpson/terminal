@@ -65,4 +65,6 @@ La Terminal de Transportes de Florencia es la puerta de entrada a muchas ciudade
 
 La Terminal de Transportes de Florencia es el punto de partida perfecto para explorar las maravillas de Colombia. Tiene variedad de servicios y destinos. Es un lugar seguro y cómodo para comenzar tu viaje.
 
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
 Asegúrate de comprar tus boletos en las taquillas de la terminal para garantizar una experiencia sin preocupaciones en tu próximo viaje.
