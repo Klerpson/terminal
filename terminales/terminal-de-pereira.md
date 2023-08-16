@@ -1,41 +1,24 @@
 ---
 layout: terminal
+json-terminal: true
 title: Terminal de Pereira
 description: ¿Viajas desde Pereira? Conoce todo sobre su Terminal de Transporte. Conoce todos los servicios y rutas de la Terminal de Transporte de Pereira.
 category: risaralda
-tags: terminal
 h1: La terminal de transporte Pereira
 jpg: terminales/terminal-pereira.jpg
-hero: terminales/terminal-pereira.webp
 webps: terminales/terminal-pereira-376.webp
 webpm: terminales/terminal-pereira-600.webp
-webpb: terminales/terminal-pereira-800.webp
 alt: Terminal de Transporte de Santa Marta
-logo: terminal-pereira-logo.webp
 webp1: terminales/terminal-pereira-risaralda-600.webp
 webp2: terminales/terminal-pereira-risaralda-376.webp
-h2_1: Teléfonos de la terminal de Pereira
-h2_2: Compra tus tiquetes con la terminal de Pereira
-p_1: "Planea tu viaje desde la Terminal de Pereira, incluyendo horarios de buses, precios, rutas de transporte y mucho más."
-empresa1: Flota Occidental
-empresa2: Cootranshuila
-empresa3: Expreso Bolivariano
-empresa_img_1: terminales/terminal-pereira-occidental.webp
-empresa_img_2: terminales/terminal-pereira-cootranshuila.webp
-empresa_img_3: terminales/terminal-pereira-bolivariano.webp
-empresa1_telf: 6063211651
-empresa2_telf: 3204738456
-empresa3_telf: 6063202605
+subtitle: Compra tus tiquetes con la terminal de Pereira
+intro: "Planea tu viaje desde la Terminal de Pereira, incluyendo horarios de buses, precios, rutas de transporte y mucho más."
 contacto: https://www.terminalpereira.com/ttp/contactenos/
-pdf: telefonos-empresa-terminal-pereira
-json-terminal: true
-direccion: "Calle 17 N° 23-157"
-telefono: 6063152321
-telefono2: 6063152322
-email: info@terminalpereira.com
 maps: https://goo.gl/maps/SXp5F6UWhV385UdHA
+direccion: "Calle 17 N° 23-157"
+telefono: 6063152321 - 6063152322
+email: info@terminalpereira.com
 ciudad: Pereira
-depto: Risaralda
 postal: 6600
 calificacion: 4.2
 reviews: 20041
