@@ -1,21 +1,16 @@
 ---
 layout: post
+json-post: true
 title: 'Expreso Palmira: pasajes de bus seguros y con facilidad'
 description: 'Expreso Palmira es una compañía de transporte que ofrece servicios en varias ciudades de Colombia. Ofrece muchas opciones de autobuses, rutas y horarios.'
 autor: terminaldetransporte.com
 h1: 'Expreso Palmira: compra tus pasajes de bus con facilidad y comodidad en Colombia'
-h1_alternativo: 'Viajar en bus con Expreso Palmira por Colombia'
-award: 'Expreso Palmira: viajando seguros y con facilidad'
-keywords: [bus, viajes, colombia, expreso, palmira]
 jpg: blog/expreso-palmira.jpg
-hero: blog/expreso-palmira.webp
 webps: blog/expreso-palmira-376.webp
 webpm: blog/expreso-palmira-600.webp
-webpb: blog/expreso-palmira-800.webp
 alt: Bus de Expreso Palmira
 referencias:
   - Fotos tomadas de Google Maps: https://www.google.com/maps/place/Expres%C3%B3+palmira+popayan/@2.4507012,-76.6084496,15z/data=!4m6!3m5!1s0x8e3003e28aa57ded:0xb462132c811d8d40!8m2!3d2.4507012!4d-76.6084496!16s%2Fg%2F11lrhs1c5n?entry=ttu
-json-post: true
 permalink: blog/expreso-palmira
 excerpt_separator: <!-- excerpt -->
 ---
