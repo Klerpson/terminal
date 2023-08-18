@@ -89,7 +89,7 @@ El alquiler de minibuses y vans es ideal para bodas, bautizos, comuniones y otra
 
 ### Excursiones
 
-Ya sea para un viaje de un día o varios, el alquiler de buses y minibuses es la opción perfecta para visitas turísticas.
+Tanto para un viaje de un día o varios, el alquiler de buses y minibuses es la opción perfecta para visitas turísticas.
 
 ### Eventos deportivos
 
@@ -139,7 +139,7 @@ Las políticas varían según la empresa. Algunas permiten mascotas mientras que
 
 ## Elegir el mejor bus de alquiler para tu viaje
 
-El alquiler de buses y minibuses en Colombia es una excelente opción para garantizar un transporte seguro, cómodo y eficiente. Ya sea para un evento especial, una excursión o un viaje de negocios, hay una solución de transporte adecuada para cada necesidad. No esperes más y comienza a planificar tu próximo viaje en bus. **¡Haz tu reserva hoy y disfruta de la experiencia de viajar en grupo!** Y si quieres saber más sobre este y otros temas relacionados, no dudes en seguir explorando nuestra página web.
+El alquiler de buses y minibuses en Colombia es una excelente opción para garantizar un transporte seguro, cómodo y eficiente. Es una solución de transporte adecuada para cada necesidad. No esperes más y comienza a planificar tu próximo viaje en bus.**¡Haz tu reserva hoy y disfruta de la experiencia de viajar en grupo!** Y si quieres saber más sobre este y otros temas relacionados, no dudes en seguir explorando nuestra página web.
 
 [Continuar leyendo más artículos relacionados](https://chat.openai.com/?model=gpt-4-plugins#)
 
