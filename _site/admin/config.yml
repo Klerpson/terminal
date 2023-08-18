@@ -4,8 +4,8 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
-media_folder: '/img/blog'
-public_folder: '_site/img/blog'
+media_folder: 'blog'
+public_folder: 'blog'
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -22,10 +22,10 @@ collections:
       - { label: 'Meta Description', name: 'description', widget: 'string' }
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'H1', name: 'h1', widget: 'string' }
-      - { label: 'Intro', name: 'excerpt', widget: 'string' }
       - { label: 'JPGx600', name: 'jpg', widget: 'image' }
       - { label: 'Mediumx600', name: 'webpm', widget: 'image' }
       - { label: 'Smallx376', name: 'webps', widget: 'image' }
       - { label: 'Alt', name: 'alt', widget: 'string' }
       - { label: 'URL', name: 'permalink', widget: 'string' }
+      - { label: 'Intro', name: 'excerpt', widget: 'string' }
       - { label: 'Content', name: 'body', widget: 'markdown' }
