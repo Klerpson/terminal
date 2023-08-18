@@ -14,7 +14,7 @@ excerpt: Viajar en grupo puede ser una experiencia inolvidable, pero también
   en Colombia.
 jpg: _site/img/blog/alquiler-buses.jpg
 webpm: _site/img/blog/alquiler-buses.webp
-webps: _site/img/blog/alquiler-buses.webp
+webps: _site/img/blog/alquiler-buses-s.webp
 alt: Bus en alquiler
 permalink: alquiler-buses-colombia
 ---
