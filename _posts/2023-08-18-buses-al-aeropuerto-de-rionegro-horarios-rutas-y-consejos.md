@@ -1,7 +1,7 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-08-18T11:08:05.721Z
+date: 2023-08-24T11:08:05.721Z
 title: "Buses al Aeropuerto de Rionegro: Horarios, Rutas y Consejos"
 description: Encuentra horarios, rutas y consejos para viajar en bus al
   Aeropuerto de Rionegro. ¡Planifica tu viaje ahora!
