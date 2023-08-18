@@ -18,10 +18,8 @@ webps: _site/img/blog/alquiler-buses-s.webp
 alt: Bus en alquiler
 permalink: alquiler-buses-colombia
 ---
-Do not remove this line (it will not be displayed)
-{:toc}
-
-
+\* Do not remove this line (it will not be displayed)
+{:toc} 
 
 ## Alquiler de buses para paseos en grupos
 
