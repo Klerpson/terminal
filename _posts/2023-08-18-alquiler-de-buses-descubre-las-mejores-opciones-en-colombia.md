@@ -23,6 +23,8 @@ excerpt: Viajar en grupo puede ser una experiencia inolvidable, pero también
 
 ## Alquiler de buses para paseos en grupos
 
+{% include add1.html %}
+
 Viajar en grupo puede es una experiencia inolvidable. Aunque también puede presentar desafíos logísticos. Uno de los principales es el transporte. Aquí es donde entra en juego **el alquiler de buses**.
 
 Alquilar un bus puede ser la solución perfecta para una excursión, un viaje de estudios, un evento o simplemente un paseo. Pero, ¿Cómo saber cuál es la mejor opción?
@@ -31,7 +33,7 @@ En este artículo, te presentamos todo lo que necesitas saber sobre el alquiler 
 
 ## Empresas de alquiler de buses nacionales colombianas
 
--﻿----
+-----
 
 Colombia cuenta con diversas empresas nacionales dedicadas al alquiler de buses. Estas empresas ofrecen servicios que varían en precio y calidad. Algunas de las más destacadas son [Info Express](https://transportesinfoexpress.com/){:rel="nofollow noopener noreferrer" target="_blank"} y [Estarter](https://estarter.co/){:rel="nofollow noopener noreferrer" target="_blank"}.
 
@@ -39,7 +41,7 @@ Ambas han logrado establecerse en el mercado colombiano ofreciendo una amplia ga
 
 ### Transportes Info Express
 
-E﻿ntre sus ventajas comerciales al alquilar un bus, encontramos las siguientes:
+Entre sus ventajas comerciales al alquilar un bus, encontramos las siguientes:
 
 * Buses a todo el país
 * Rutas navideñas
@@ -53,13 +55,15 @@ E﻿ntre sus ventajas comerciales al alquilar un bus, encontramos las siguientes
 
 ## Principales empresas de alquiler de buses regionales colombianas
 
--﻿----
+-----
 
 En Colombia, además de las grandes empresas nacionales, existen [numerosas empresas regionales de transporte](/) que ofrecen servicios de alquiler de buses. Estas empresas suelen estar más cerca de tu lugar de origen o destino, lo que puede reducir significativamente el costo del servicio.
 
-L﻿as siguientes son empresas que puedes buscar en internet y contratar con ellas directamente para alquilar un bus.
+Las siguientes son empresas que puedes buscar en internet y contratar con ellas directamente para alquilar un bus.
 
 ### Rutas Colombianas
+
+{% include add1.html %}
 
 * Rutas turísticas
 * Promociones
@@ -91,7 +95,7 @@ L﻿as siguientes son empresas que puedes buscar en internet y contratar con ell
 
 ## ¿Para qué sirve un bus de alquiler?
 
--﻿----
+-----
 
 Un bus de alquiler ofrece flexibilidad y comodidad. No estás sujeto a horarios fijos y puedes decidir dónde y cuándo recoger y dejar a tus pasajeros.
 
@@ -99,17 +103,21 @@ Además, puedes hacer cambios espontáneos en tu itinerario sin problemas. Por e
 
 ### Alquila un bus para tus bodas y celebraciones
 
+{% include add1.html %}
+
 El alquiler de minibuses y vans es ideal para bodas, bautizos, comuniones y otras celebraciones. Garantiza que todos los invitados lleguen al lugar del evento al mismo tiempo y sin contratiempos.
 
 ### Ir de excursión en un bus alquilado
 
-![Excursión en bus alquilado](blog/alquier-bus-excursion.webp "Excursión")
+![Excursión en bus alquilado](blog/alquier-bus-excursion.webp "Excursión"){:loading="lazy" width="320" height="320"}
 
 Tanto para un viaje de un día o varios, el alquiler de buses y minibuses es la opción perfecta para visitas turísticas.
 
 ### Asiste a tus eventos deportivos alquilando un bus para tu equipo
 
 Para equipos deportivos o aficionados que necesitan trasladarse a diferentes lugares, el alquiler de minibuses es la solución.
+
+{% include add1.html %}
 
 ### ¿Van en grupo para el aeropuerto? Alquila un bus
 
@@ -124,6 +132,8 @@ Para el traslado diario de estudiantes, el alquiler de coasters es una opción s
 Ya sea para congresos, convenciones, ferias u otros eventos, el alquiler de autocares y minibuses garantiza el transporte eficiente de todos los participantes.
 
 ## Alquiler de buses en Colombia: Preguntas frecuentes
+
+{% include add1.html %}
 
 ### ¿Cuándo merece la pena alquilar un bus?
 
@@ -143,6 +153,8 @@ La mayoría de las empresas ofrecen el servicio de alquiler con conductor inclui
 
 ### ¿Disponen los buses de alquiler de cinturones de seguridad en cada asiento?
 
+{% include add1.html %}
+
 Sí, es una normativa legal que todos los asientos de buses y minibuses estén equipados con cinturones de seguridad.
 
 ### ¿Están los buses de alquiler adaptados para pasajeros en silla de ruedas?
@@ -154,6 +166,8 @@ Algunas empresas ofrecen vehículos adaptados para personas con movilidad reduci
 Las políticas varían según la empresa. Algunas permiten mascotas mientras que otras no. Es esencial verificar esta información antes de reservar.
 
 ## Elegir el mejor bus de alquiler para tu viaje
+
+-----
 
 El alquiler de buses y minibuses en Colombia es una excelente opción para garantizar un transporte seguro, cómodo y eficiente. Es una solución de transporte adecuada para cada necesidad.
 
