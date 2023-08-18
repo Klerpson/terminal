@@ -7,12 +7,16 @@ description: Lee aquí la mejor información sobre alquiler de buses para viajar
   por Colombia. ¡Entérate de todo y reserva hoy mismo!
 autor: Camilo Cuspián
 h1: "Alquiler de buses y minibuses: Tu solución para viajes grupales en Colombia"
-excerpt: Viajar en grupo puede ser una experiencia inolvidable, pero también puede presentar desafíos logísticos. Uno de los principales es el transporte. Aquí es donde entra en juego el alquiler de buses. En este artículo, te presentamos todo lo que necesitas saber sobre el alquiler de buses y minibuses en Colombia.
-jpg: /img/blog/alquiler-buses.jpg
-webpm: /img/blog/alquiler-buses.webp
-webps: /img/blog/alquiler-buses-376.webp
+jpg: blog/alquiler-buses.jpg
+webpm: blog/alquiler-buses.webp
+webps: blog/alquiler-buses-376.webp
 alt: Bus en alquiler
 permalink: alquiler-buses-colombia
+excerpt: Viajar en grupo puede ser una experiencia inolvidable, pero también
+  puede presentar desafíos logísticos. Uno de los principales es el transporte.
+  Aquí es donde entra en juego el alquiler de buses. En este artículo, te
+  presentamos todo lo que necesitas saber sobre el alquiler de buses y minibuses
+  en Colombia.
 ---
 * Do not remove this line (it will not be displayed)
 {:toc}
