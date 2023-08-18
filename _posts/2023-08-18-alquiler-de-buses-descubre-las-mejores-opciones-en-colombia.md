@@ -21,6 +21,8 @@ permalink: alquiler-buses-colombia
 Do not remove this line (it will not be displayed)
 {:toc}
 
+
+
 ## Alquiler de buses para paseos en grupos
 
 Viajar en grupo puede es una experiencia inolvidable. Aunque también puede presentar desafíos logísticos. Uno de los principales es el transporte. Aquí es donde entra en juego **el alquiler de buses**.
