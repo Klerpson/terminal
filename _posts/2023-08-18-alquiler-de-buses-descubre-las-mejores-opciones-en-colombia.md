@@ -25,7 +25,7 @@ Alquilar un bus puede ser la solución perfecta para una excursión, un viaje de
 
 ## Empresas de alquiler de buses nacionales colombianas
 
-Colombia cuenta con diversas empresas nacionales dedicadas al alquiler de buses. Estas empresas ofrecen servicios que varían en precio y calidad. Algunas de las más destacadas son **Info Express** y **Estarter**. Ambas han logrado establecerse en el mercado colombiano ofreciendo una amplia gama de vehículos adaptados a las necesidades de sus clientes, desde buses de lujo hasta monovolúmenes.
+Colombia cuenta con diversas empresas nacionales dedicadas al alquiler de buses. Estas empresas ofrecen servicios que varían en precio y calidad. Algunas de las más destacadas son [Info Express](https://transportesinfoexpress.com/){:rel="nofollow noopener noreferrer" target="_blank"} y [Estarter](https://estarter.co/){:rel="nofollow noopener noreferrer" target="_blank"}. Ambas han logrado establecerse en el mercado colombiano ofreciendo una amplia gama de vehículos adaptados a las necesidades de sus clientes, desde buses de lujo hasta monovolúmenes.
 
 ### Transportes Info Express
 
