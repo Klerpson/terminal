@@ -228,7 +228,7 @@
 }
 
 .post-content img{
-  width: min(100%, 800px);
+  width: min(100%, 320px);
   border-radius: var(--radius);
   margin: 2em 0;
 }
