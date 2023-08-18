@@ -216,6 +216,8 @@
   width: min((100% - 1em), 920px);
   margin-inline: auto;
   margin-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .post-content a:not(.botones){
@@ -224,18 +226,21 @@
 
 .post-content ul li{
   list-style: square;
-  margin-left: 1.2rem;
+  margin-left: 3em;
 }
 
 .post-content img{
-  width: min(100%, 320px);
+  width: min(100%, 376px);
   border-radius: var(--radius);
-  margin: 2em 0;
+  margin: 2em 1em;
+  float: right;
+  align-self: center;
+  box-shadow: var(--shadow);
 }
 
 .post-content ol li{
   list-style: decimal;
-  margin-left: 2rem;
+  margin-left: 3em;
 }
 
 .post-content ol li::marker{
