@@ -19,7 +19,7 @@ alt: Bus en alquiler
 permalink: alquiler-buses-colombia
 ---
 * Do not remove this line (it will not be displayed)
-{:toc} 
+{:toc}
 
 ## Alquiler de buses para paseos en grupos
 
