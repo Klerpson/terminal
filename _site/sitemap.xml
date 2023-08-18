@@ -249,7 +249,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/alquiler-buses-colombia</loc>
+        <loc>http://localhost:4000/blog/alquiler-buses-colombia</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

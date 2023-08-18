@@ -11,7 +11,7 @@ jpg: blog/alquiler-buses.jpg
 webpm: blog/alquiler-buses.webp
 webps: blog/alquiler-buses-376.webp
 alt: Bus en alquiler
-permalink: alquiler-buses-colombia
+permalink: blog/alquiler-buses-colombia
 excerpt: Viajar en grupo puede ser una experiencia inolvidable, pero también
   puede presentar desafíos logísticos. Uno de los principales es el transporte.
   Aquí es donde entra en juego el alquiler de buses. En este artículo, te

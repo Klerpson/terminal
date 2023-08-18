@@ -5,16 +5,16 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Aug 2023 12:44:57 -0500</pubDate>
-    <lastBuildDate>Fri, 18 Aug 2023 12:44:57 -0500</lastBuildDate>
+    <pubDate>Fri, 18 Aug 2023 12:47:19 -0500</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2023 12:47:19 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
         <title>¿Buscas Alquilar un Bus en Colombia? Conoce las Mejores Opciones</title>
         <description>Lee aquí la mejor información sobre alquiler de buses para viajar por Colombia. ¡Entérate de todo y reserva hoy mismo!</description>
         <pubDate>Thu, 17 Aug 2023 06:11:02 -0500</pubDate>
-        <link>http://localhost:4000/alquiler-buses-colombia</link>
-        <guid isPermaLink="true">http://localhost:4000/alquiler-buses-colombia</guid>
+        <link>http://localhost:4000/blog/alquiler-buses-colombia</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/alquiler-buses-colombia</guid>
         
         
         
