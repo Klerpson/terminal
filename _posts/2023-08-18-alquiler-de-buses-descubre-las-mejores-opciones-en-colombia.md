@@ -1,6 +1,7 @@
 ---
 layout: post
 json-post: "true"
+date: 2023-08-24T11:11:03.877Z
 title: ¿Buscas Alquilar un Bus en Colombia? Conoce las Mejores Opciones
 description: Lee aquí la mejor información sobre alquiler de buses para viajar
   por Colombia. ¡Entérate de todo y reserva hoy mismo!
@@ -12,8 +13,8 @@ excerpt: Viajar en grupo puede ser una experiencia inolvidable, pero también
   presentamos todo lo que necesitas saber sobre el alquiler de buses y minibuses
   en Colombia.
 jpg: _site/img/blog/_-600-×-340 px-.jpg
-webps: _site/img/blog/376-×-213 px-.webp
 webpm: _site/img/blog/_-600-×-340 px-.webp
+webps: _site/img/blog/376-×-213 px-.webp
 alt: Bus en alquiler
 permalink: alquiler-buses-colombia
 ---
