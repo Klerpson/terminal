@@ -31,7 +31,7 @@ En este artículo, te presentamos todo lo que necesitas saber sobre el alquiler 
 
 ## Empresas de alquiler de buses nacionales colombianas
 
-\-﻿----
+-﻿----
 
 Colombia cuenta con diversas empresas nacionales dedicadas al alquiler de buses. Estas empresas ofrecen servicios que varían en precio y calidad. Algunas de las más destacadas son [Info Express](https://transportesinfoexpress.com/){:rel="nofollow noopener noreferrer" target="_blank"} y [Estarter](https://estarter.co/){:rel="nofollow noopener noreferrer" target="_blank"}.
 
@@ -52,6 +52,8 @@ E﻿ntre sus ventajas comerciales al alquilar un bus, encontramos las siguientes
 * Puntualidad y servicio de rastreo
 
 ## Principales empresas de alquiler de buses regionales colombianas
+
+-﻿----
 
 En Colombia, además de las grandes empresas nacionales, existen [numerosas empresas regionales de transporte](/) que ofrecen servicios de alquiler de buses. Estas empresas suelen estar más cerca de tu lugar de origen o destino, lo que puede reducir significativamente el costo del servicio.
 
@@ -88,6 +90,8 @@ L﻿as siguientes son empresas que puedes buscar en internet y contratar con ell
 * Rutas empresariales
 
 ## ¿Para qué sirve un bus de alquiler?
+
+-﻿----
 
 Un bus de alquiler ofrece flexibilidad y comodidad. No estás sujeto a horarios fijos y puedes decidir dónde y cuándo recoger y dejar a tus pasajeros.
 
