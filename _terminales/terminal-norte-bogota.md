@@ -108,146 +108,44 @@ empresas:
   - Velotax Ltda.: 2612110
 ---
 
-## Ubicación y cómo llegar a la terminal Salitre
+## La Terminal del Norte Bogotá: una historia de éxitos
+
+La Terminal del Norte ha dejado una huella imborrable en el panorama del transporte intermunicipal de Bogotá.
+
+Desde su inauguración, ha **atendido a más de 2.5 millones de viajeros**, consolidándose como un punto de referencia para aquellos que buscan viajar hacia el norte del país.
+
+Con un promedio de **983 buses al día durante el último año**, esta terminal ha logrado **movilizar a cerca de 10 mil pasajeros diarios**.
+
+## Destinos populares y servicios ofrecidos por la terminal Norte de Bogotá
 
 ----
 
-El **Terminal Salitre** es uno de los puntos neurálgicos de transporte en Bogotá. Está situada estratégicamente en la capital colombiana y, por supuesto, es el **punto de partida y llegada de miles de viajeros** diariamente.
+Los destinos más solicitados desde la Terminal del Norte incluyen ciudades y municipios muy visitados al norte del país. Algunos son:
 
-### Cómo llegar a la terminal Salitre en Transmilenio
-
-Para aquellos que optan por el sistema de transporte público de Bogotá, **el Transmilenio ofrece varias rutas** que conectan directamente con el Terminal Salitre.
-
-Las estaciones más cercanas, ambas pertenecientes a la **troncal de la Calle 26**, son:
-
-* "El Tiempo Maloka"
-* "Salitre El Greco"
-
-### Dirección detallada de la terminal Salitre
-
-Si decides llegar en vehículo propio o taxi, **la dirección exacta es Calle 22B No. 69-59**. El terminal cuenta con amplias zonas de parqueo y facilidades para el desembarque de pasajeros.
-
-{% include add1.html %}
-
-## Servicios y módulos
-
-----
-
-El Terminal Salitre no es solo un punto de tránsito. Su infraestructura está diseñada para ofrecer una variedad de servicios a los viajeros. Y, además de sus servicios, también **la terminal muy bien organizada en 3 módulos de servicio**.
-
->### Módulo 1
->
->Dedicado principalmente a **las empresas de transporte intermunicipal**. Aquí encontrarás taquillas de las principales empresas de buses que ofrecen rutas **hacia el norte y centro del país**.
->
->### Módulo 2
->
->Enfocado en **rutas hacia el sur y occidente de Colombia**. Además, cuenta con servicios adicionales como envío de paquetes y encomiendas.
->
->### Módulo 3
->
->Este módulo es el más reciente y está dedicado a rutas de corta distancia, especialmente **hacia municipios cercanos a Bogotá**.
-
-### Simit y trámites
-
-Para aquellos que requieren resolver trámites relacionados con multas de tránsito o licencias, el terminal cuenta con un punto del SIMIT.
-
-### Noticias y actualizaciones
-
-Es posible mantenerse informado sobre novedades y cambios en el servicio a través del [sitio web oficial del terminal]({{page.contacto}}){:rel="nofollow noopener noreferrer" target="_blank"} y sus redes sociales.
-
-## Empresas de transporte de la terminal Salitre
-
-----
-
-El Terminal Salitre alberga a las principales empresas de transporte terrestre del país.
-
-{% include add2.html %}
-
-### Coomotor
-
-Con más de 50 años de experiencia, Coomotor ofrece rutas hacia el sur del país, especialmente hacia el Huila y el Caquetá.
-
-### Rápido Tolima
-
-Especializados en rutas hacia el Tolima, esta empresa es una de las más tradicionales del terminal.
-
-### Bolivariano
-
-Con rutas hacia Medellín, Cali y otras ciudades principales, Bolivariano es una de las empresas más grandes y reconocidas del país.
-
-### Cootransfusa
-
-Ofreciendo rutas hacia la región del Sumapaz y el Fusagasugá, Cootransfusa es la opción ideal para quienes viajan hacia el sur de Cundinamarca.
-
-### Flota San Vicente
-
-Con rutas hacia el oriente del país, especialmente hacia el Meta y el Guaviare, esta empresa es una excelente opción para quienes buscan aventurarse hacia la Orinoquía colombiana.
-
-## Información de contacto de la terminal de transporte Salitre
-
-----
-
-Mantenerse informado es esencial antes de emprender un viaje. Y claro está, sucede lo mismo con la terminal Salitre de Bogotá.
-
-### Teléfonos de contacto
-
-El Terminal Salitre cuenta con una **línea de atención al cliente: (1) 4233600**. Aquí podrás resolver dudas sobre horarios, empresas y otros servicios.
-
-### Reservas y compra de tiquetes
-
-La mayoría de empresas presentes en el terminal ofrecen la posibilidad de comprar tiquetes en línea. Por ejemplo, puedes utilizar herramientas como PinBus y BusBud. Sin embargo, también es posible adquirirlos directamente en las taquillas del terminal.
-
-## Precios y tarifas de las empresas en la terminal Salitre Bogotá
-
-----
-
-Los precios de los pasajes varían según el destino, la empresa y la temporada del año. Es recomendable consultar directamente con las empresas o en sus sitios web para obtener información actualizada.
-
-### Pasajes más populares
-
-* Bogotá - Medellín
-* Bogotá - Cali
-* Bogotá - Ibagué
-* Bogotá - Neiva
-* Bogotá - Villavicencio
+* Tunja
+* Duitama
+* Sogamoso
+* Ubaté
+* Villa de Leyva
+* Zipaquirá
 {:class="seccion"}
 
-### Tarifas promedio
+Estos lugares, ubicados en departamentos como Boyacá, Santander y Cundinamarca, son accesibles **gracias a las 34 empresas de transporte intermunicipal que operan desde la terminal del norte de Bogotá**.
 
-Las tarifas pueden variar, pero en promedio un pasaje hacia Medellín puede costar entre $60.000 y $90.000 COP, mientras que un viaje hacia Cali puede oscilar entre $70.000 y $100.000 COP.
+Para facilitar el proceso de viaje, los usuarios tienen a su disposición **34 taquillas para la compra de tiquetes**.
 
-## Horarios y restricciones
+## Mejoras y Adaptaciones: Pensando en el Pasajero
 
-----
+La Terminal Satélite del Norte no ha dejado de evolucionar. Lo que comenzó con 19 bahías de parqueo, ahora cuenta con 41 plataformas para el ascenso de pasajeros. Además, se ha implementado un punto de control de alcoholimetría y torniquetes de acceso sistematizados, garantizando así la seguridad de los viajeros. Para aquellos que requieran atención médica, se ha habilitado un punto de atención prehospitalario.
 
-El Terminal Salitre opera todos los días del año. Sin embargo, es importante tener en cuenta las restricciones vehiculares y los horarios pico.
+## Beneficios para la Comunidad
 
-### Horarios de atención
+La creación de esta terminal ha traído consigo numerosos beneficios para la comunidad local. Antes de su existencia, la Calle 170 con Autopista Norte era un punto de abordaje caótico, marcado por el desorden y la inseguridad. Hoy, gracias a la Terminal Satélite del Norte, los habitantes de la zona disfrutan de un entorno más ordenado y seguro.
 
-El terminal abre sus puertas **desde las 4:00 a.m. hasta las 11:00 p.m.** Sin embargo, algunas empresas ofrecen rutas nocturnas, por lo que es posible encontrar movimiento incluso después del horario habitual.
+## Un Futuro Prometedor
 
-## Preguntas frecuentes
+La gerente de la Terminal del Norte, Esperanza Espitia, ha expresado su satisfacción con el desempeño de la terminal. Según ella, la Terminal Satélite del Norte ha superado todas las expectativas y ha demostrado ser una solución efectiva a los problemas de movilidad y desorden en la Autopista Norte. Con una visión clara y un compromiso con la excelencia, no hay duda de que la Terminal Satélite del Norte seguirá siendo un referente en el transporte intermunicipal de Bogotá.
 
-{% include add1.html %}
+## ¿Listo para tu próximo viaje?
 
-### ¿El terminal está funcionando durante la cuarentena?
-
-Sí, el terminal sigue operando, pero con restricciones y medidas de bioseguridad.
-
-### ¿Cómo hacer reservas en el terminal?
-
-Puedes hacerlo en línea a través de los sitios web de las empresas o directamente en las taquillas del terminal.
-
-### ¿Qué rutas son las más populares desde el Terminal Salitre?
-
-Las rutas más populares son hacia Medellín, Cali, Ibagué, Neiva y Villavicencio.
-
-### ¿Dónde se encuentra el módulo de Coomotor?
-
-Coomotor se encuentra en el Módulo 1 del terminal.
-
-### ¿Hay vacunación disponible en el terminal?
-
-Sí, hay un punto de vacunación contra la fiebre amarilla disponible para los viajeros.
-
-El Terminal Salitre es más que un punto de tránsito. Es un espacio que ofrece múltiples servicios y facilidades para hacer de tu viaje una experiencia cómoda y segura. Si estás planeando un viaje desde Bogotá, este terminal es tu mejor opción. ¡Buen viaje!
+Si estás planeando un viaje desde o hacia Bogotá, la Terminal Satélite del Norte es tu mejor opción. Con una amplia variedad de destinos, servicios de calidad y un compromiso con la seguridad, tu experiencia de viaje será inigualable. ¡Prepara tus maletas y embárcate en una nueva aventura desde la Terminal del Norte!
