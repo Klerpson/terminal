@@ -134,18 +134,34 @@ Estos lugares, ubicados en departamentos como Boyacá, Santander y Cundinamarca,
 
 Para facilitar el proceso de viaje, los usuarios tienen a su disposición **34 taquillas para la compra de tiquetes**.
 
-## Mejoras y Adaptaciones: Pensando en el Pasajero
+## Mejoras y adaptaciones de la Terminal de Transporte del Norte
 
-La Terminal Satélite del Norte no ha dejado de evolucionar. Lo que comenzó con 19 bahías de parqueo, ahora cuenta con 41 plataformas para el ascenso de pasajeros. Además, se ha implementado un punto de control de alcoholimetría y torniquetes de acceso sistematizados, garantizando así la seguridad de los viajeros. Para aquellos que requieran atención médica, se ha habilitado un punto de atención prehospitalario.
+{% include add1.html %}
 
-## Beneficios para la Comunidad
+La Terminal del Norte no ha dejado de evolucionar. Lo que comenzó con 19 bahías de parqueo, **ahora cuenta con 41 plataformas** para el ascenso de pasajeros.
 
-La creación de esta terminal ha traído consigo numerosos beneficios para la comunidad local. Antes de su existencia, la Calle 170 con Autopista Norte era un punto de abordaje caótico, marcado por el desorden y la inseguridad. Hoy, gracias a la Terminal Satélite del Norte, los habitantes de la zona disfrutan de un entorno más ordenado y seguro.
+Ahora ha implementado un punto de control de alcoholimetría y torniquetes de acceso sistematizados, garantizando así la seguridad de los viajeros. Para aquellos que requieran atención médica, se ha habilitado un punto de atención prehospitalario.
 
-## Un Futuro Prometedor
+## Beneficios de la Terminal Norte para la comunidad
 
-La gerente de la Terminal del Norte, Esperanza Espitia, ha expresado su satisfacción con el desempeño de la terminal. Según ella, la Terminal Satélite del Norte ha superado todas las expectativas y ha demostrado ser una solución efectiva a los problemas de movilidad y desorden en la Autopista Norte. Con una visión clara y un compromiso con la excelencia, no hay duda de que la Terminal Satélite del Norte seguirá siendo un referente en el transporte intermunicipal de Bogotá.
+----
 
-## ¿Listo para tu próximo viaje?
+La creación de esta terminal ha traído consigo numerosos beneficios para la comunidad local.
 
-Si estás planeando un viaje desde o hacia Bogotá, la Terminal Satélite del Norte es tu mejor opción. Con una amplia variedad de destinos, servicios de calidad y un compromiso con la seguridad, tu experiencia de viaje será inigualable. ¡Prepara tus maletas y embárcate en una nueva aventura desde la Terminal del Norte!
+Antes de su existencia, la Calle 170 con Autopista Norte era un punto de abordaje caótico, marcado por el desorden y la inseguridad. Hoy, gracias a la Terminal del Norte, los habitantes de esta zona de Bogotá disfrutan de un entorno más ordenado y seguro.
+
+## El futuro de la Terminal del Norte de Bogotá
+
+{% include add1.html %}
+
+Según la gerencia de la Terminal de Tranporte del Norte, han logrado superar todas las expectativas y han demostrado ser una solución efectiva a los problemas de movilidad y desorden en la Autopista Norte.
+
+Con una visión clara y un compromiso con la excelencia, no hay duda de que **la Terminal Satélite del Norte de Bogotá seguirá siendo un referente en el transporte intermunicipal**.
+
+## ¿Listo para tu próximo viaje desde la Terminal Norte?
+
+Si estás planeando un viaje desde o hacia Bogotá, la Terminal Satélite del Norte es tu mejor opción.
+
+Cuentas con una amplia variedad de destinos, servicios de calidad y un compromiso con la seguridad, tu experiencia de viaje será inigualable. ¡Prepara tus maletas y embárcate en una nueva aventura desde la Terminal del Norte!
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
