@@ -67,6 +67,8 @@ empresas:
 
 ¿Estás planeando un viaje a la hermosa ciudad de Pasto? ¡No busques más allá de la Terminal de Transportes de Pasto, tu punto de partida hacia aventuras emocionantes en el sur de Colombia! Aquí te presentamos todo lo que necesitas saber para viajar desde esta terminal.
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 La Terminal de Transportes de Pasto es un centro de transporte importante en el departamento de Nariño, que ofrece servicios de transporte a [varias ciudades en Colombia]({{site.baseurl}}/terminales-de-colombia) y Ecuador. **Con una ubicación privilegiada en el centro de la ciudad**, esta terminal es el lugar perfecto para comenzar tus viajes.
 
 ### Servicios de la terminal de Pasto

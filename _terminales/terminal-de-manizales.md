@@ -64,6 +64,8 @@ Viajar en bus es una de [las experiencias más auténticas que se pueden vivir e
 
 La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. **Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.**
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 ### Compra tus pasajes en la Terminal de Manizales
 
 La terminal de transporte de Manizales atiende más de 40 destinos nacionales. [Para comprar tus pasajes]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}), solo haz clic en **el botón para ver los teléfonos de las empresas de buses de la terminal de Manizales** que necesitas para comprar tu pasaje o tiquete de viaje.
@@ -150,8 +152,6 @@ Muchas de las principales sí lo hacen. Sin embargo, en caso de que viajes con u
 
 Sí, la terminal cuenta con vigilancia constante de la policía. Sin embargo, siempre es recomendable tomar precauciones básicas, como vigilar el equipaje y no dejar a los niños solos.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 ## Ven a la terminal Manizales
 
 ----
@@ -159,3 +159,5 @@ Sí, la terminal cuenta con vigilancia constante de la policía. Sin embargo, si
 Viajar **desde y hacia la Terminal de Transporte de Manizales** es una experiencia única que combina la belleza del paisaje colombiano con la eficiencia y comodidad de un transporte moderno.
 
 Ven a disfrutar de todo lo que Manizales y sus alrededores tienen para ofrecer. Y si quieres seguir descubriendo más sobre viajes en bus y otros destinos interesantes, [¡sigue navegando por nuestra página!](/)
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

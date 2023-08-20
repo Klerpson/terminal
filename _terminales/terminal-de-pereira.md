@@ -37,13 +37,13 @@ empresas:
 ---
 ## Todo lo que necesitas saber sobre la Terminal de Transporte de Pereira
 
-{% include add1.html %}
-
 La Terminal de Transporte de Pereira es un centro neurálgico de la ciudad, un punto de partida y llegada para miles de viajeros cada día.
 
 Aquí te contaremos todo lo que necesitas saber sobre esta terminal, desde sus servicios hasta cómo llegar.
 
 ### Cómo llegar a la Terminal de Transporte de Pereira
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
 Llegar a la Terminal de Transporte de Pereira es fácil, ya sea en **taxi o en transporte público**.
 
@@ -109,6 +109,6 @@ Algunos de los operadores de bus más populares en la Terminal de Transporte de 
 
 La Terminal de Transporte de Pereira es un punto de partida y llegada para miles de viajeros cada día. Con su amplia gama de servicios y su ubicación céntrica, es una parada esencial para cualquier viajero que visite Pereira.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 Ya sea que necesites un cajero automático, un lugar para comer o información sobre tu próximo viaje, la Terminal de Transporte de Pereira tiene todo lo que necesitas.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

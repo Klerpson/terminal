@@ -45,6 +45,8 @@ Valledupar, conocida como la capital mundial del vallenato, es una ciudad que no
 
 Su Terminal de Transporte es un reflejo de la dinámica y crecimiento de esta ciudad, conectando a sus habitantes y visitantes con diversos destinos del país.
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 ## Un vistazo a la Terminal de Transporte de Valledupar
 
 ----
@@ -76,7 +78,7 @@ Estas rutas son solo un ejemplo de las múltiples opciones disponibles en la Ter
 
 ## Consejos para un viaje seguro y placentero desde Valledupar
 
-{% include add1.html %}
+----
 
 Viajar desde Valledupar es una experiencia que combina la belleza del paisaje cesarense con la comodidad de sus servicios de transporte.
 
@@ -113,6 +115,6 @@ Valledupar no solo es música, cultura y tradición; también es un punto estrat
 
 La Terminal de Transporte de Valledupar te ofrece todas las facilidades para que tu viaje sea una experiencia inolvidable. Y si después de este recorrido por la terminal te quedas con ganas de más, te invitamos a explorar otros destinos y rutas disponibles.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 ¡Buen viaje y que Valledupar te acompañe con su música y su encanto!
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

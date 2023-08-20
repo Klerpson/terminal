@@ -50,9 +50,9 @@ empresas:
 ---
 ## Información sobre la terminal de Popayán
 
-{% include add1.html %}
-
 La Terminal de Popayán es la central para viajar desde el Cauca hacia otro lugar de Colombia. Los pasajeros podrán encontrar los precios ajustados a su presupuesto y los horarios más convenientes.
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
 **El Terminal de Popayán cuenta con más de 20 empresas** que transportan a sus clientes a diferentes destinos del país colombiano. Entre esos destinos se encuentran: [Pasto]({{site.baseurl}}/terminal-de-pasto), [Bogotá]({{site.baseurl}}/terminal-de-bogota), [Cali]({{site.baseurl}}/terminal-de-cali), por nombrar algunos.
 
@@ -176,9 +176,9 @@ Los servicios que conseguirás dentro del terminal son los siguientes:
 
 Tu espera se hará placentera, pues, te mantendrás conectado y con todo lo necesario al alcance de tu mano. Todas las áreas del terminal son cómodas y seguras.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 Si llegas al Terminal de Popayán desde otro destino y requieres de los servicios de un taxi, **dentro del terminal de Popayán encontrarás empresas de taxis seguras**. No te arriesgues buscándolos en la calle. Solicita tu carrera directamente por:
 
 * Supertaxis del Sur al número [8233797](tel:6028233797){:rel="nofollow"}.
 * Taxbelalcazar. Contáctalos a los números [8231133](tel:6028231133){:rel="nofollow"} y [8234301](tel:6028234301){:rel="nofollow"}.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

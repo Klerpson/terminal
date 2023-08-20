@@ -62,9 +62,9 @@ empresas:
 ---
 ## Terminal de Tunja: Un vistazo general
 
-{% include add1.html %}
-
 La **Terminal de Tunja** es un punto neurálgico de la movilidad en la región de Boyacá. Situada en la ciudad de Tunja, esta terminal de transporte se ha convertido en un referente para los viajeros que buscan desplazarse por el interior de Colombia.
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
 Por la calidad de sus servicios y una infraestructura moderna, la Terminal de Tunja ofrece una experiencia de viaje cómoda y segura.
 
@@ -151,6 +151,6 @@ La terminal continuará invirtiendo en su infraestructura y servicios para ofrec
 
 **La Terminal de Tunja es más que un punto de partida y llegada para los viajeros**. Es un espacio que facilita la movilidad, promueve el desarrollo económico y mejora la calidad de vida de los habitantes de Tunja.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 Ya sea que esté planeando un viaje o simplemente necesite un lugar para descansar y recargar energías, la Terminal de Tunja está aquí para servirle. ¡Le esperamos en su próximo viaje!
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

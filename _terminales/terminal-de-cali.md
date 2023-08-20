@@ -118,6 +118,8 @@ La Terminal de transporte de Cali ha sido un pilar fundamental en la movilidad d
 
 Con más de 40 años de servicio, ha sido testigo y protagonista de la evolución del transporte en la ciudad, **movilizando diariamente a aproximadamente 30.000 personas en 3.500 vehículos**.
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 ### Contacto y ubicación de la terminal de transporte de Cali
 
 - **Sitio web**: [www.terminalcali.com](https://www.terminalcali.com/){:rel="nofollow noopener noreferrer" target="_blank"}

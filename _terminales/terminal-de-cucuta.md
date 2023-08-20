@@ -26,7 +26,7 @@ longitude: -72.5101961
 permalink: /terminal-de-cucuta
 empresas:
   - EXPRESO BOLIVARIANO: 3204883744 - 3118107689
-  - EXPRESO BRASILIA: 018000518001 - #502 - 3205020000 - 3215470160
+  - EXPRESO BRASILIA: "018000518001 - #502 - 3205020000 - 3215470160"
   - OMEGA: 310 7693171 – 320 5805878 - 320 3330461 – 3203496612
   - COPETRAN: 313 3335681 – 313 3335682 – 313 3335680
   - BERLINAS DEL FONCE: 6075726379 – 6075875105 – 3156022683 - 3156784880
@@ -66,6 +66,8 @@ Para más información, puedes visitar el [sitio web oficial](http://www.termina
 ## Ubicación y cómo llegar a la terminal
 
 ----
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
 La Terminal de Cúcuta se encuentra estratégicamente ubicada en el centro de la ciudad, lo que facilita su acceso desde diferentes puntos.
 

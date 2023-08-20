@@ -63,8 +63,10 @@ La Terminal de Transportes de Florencia es la puerta de entrada a muchas ciudade
 * **Popayán**: La ciudad blanca de Popayán es famosa por su belleza colonial y su gastronomía. Desde la Terminal de Transportes de Florencia, puedes llegar a Popayán en un viaje de 6 horas.
 {:class="seccion"}
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 La Terminal de Transportes de Florencia es el punto de partida perfecto para explorar las maravillas de Colombia. Tiene variedad de servicios y destinos. Es un lugar seguro y cómodo para comenzar tu viaje.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 Asegúrate de comprar tus boletos en las taquillas de la terminal para garantizar una experiencia sin preocupaciones en tu próximo viaje.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

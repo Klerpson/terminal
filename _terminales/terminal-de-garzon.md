@@ -98,9 +98,9 @@ La Terminal de Transporte de Garzón, ubicada en el departamento de Huila, es **
 
 A lo largo de los años, ha experimentado una serie de cambios y mejoras que la han convertido en uno de los puntos de referencia para los viajeros que se desplazan por la región.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 ## Garzón, un punto de conexión esencial en Huila
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
 La Terminal de Garzón se ha consolidado como un **punto esencial para la movilidad en el departamento de Huila y sus alrededores**.
 
@@ -109,3 +109,6 @@ Por ejemplo, te recomendamos el sitio que está de moda en el Huila para todos l
 Ya sea que estés planeando un viaje de negocios, unas vacaciones o simplemente quieras explorar la región, la Terminal de Garzón te ofrece todas las facilidades y servicios para que tu viaje sea una experiencia inolvidable.
 
 Si deseas conocer más sobre otros [destinos y servicios de transporte en Colombia]({{'terminales-de-colombia'|relative_url}} "Terminales de transporte de Colombia"), no dudes en explorar nuestro sitio web para obtener toda la información que necesitas.
+
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

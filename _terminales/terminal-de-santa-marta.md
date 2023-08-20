@@ -45,9 +45,9 @@ empresas:
 ---
 ## Terminal de buses de Santa Marta
 
-{% include add1.html %}
-
 ¿Estás buscando el lugar perfecto para comenzar **tu próximo viaje a Santa Marta**? ¡No busques más allá de la Terminal de Transporte!
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
 Esta moderna y bien equipada **terminal es la puerta de entrada a las maravillas de la costa caribeña de Colombia**, y te ayudará a comenzar tu viaje sin problemas.
 
@@ -87,6 +87,6 @@ Los precios y horarios de las diferentes empresas de transporte pueden variar, p
 
 Para obtener información actualizada sobre los precios y horarios de los diferentes operadores, se puede llamar al teléfono de la Terminal de Transporte de Santa Marta o visitar su sitio web oficial.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 ¡No esperes más para comenzar tu próxima aventura en la costa caribeña de Colombia! Con la Terminal de Transporte de Santa Marta, tienes todo lo que necesitas para comenzar tu viaje sin problemas y llegar a tu destino de manera segura y cómoda. ¡Te deseamos un feliz viaje!
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

@@ -52,6 +52,8 @@ empresas:
 ---
 ## ¿Conoces la Terminal de Buga?
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 El Terminal de Guadalajara de Buga, conocido comúnmente como **Terminal de Buga**, es uno de los puntos de mayor concurrencia dentro del departamento del Valle del Cauca.
 
 Este terminal se destaca por sus variados destinos, algunos de turismo religioso, siendo la mayoría de sus recorridos hacia el sur de Colombia.
@@ -124,6 +126,6 @@ Buga es una ciudad con un terminal de transporte que conecta a sus habitantes y 
 
 Ya sea que viajes por negocios, placer o cualquier otro motivo, el Terminal de Buga te ofrece todas las facilidades y servicios para hacer de tu viaje una experiencia agradable.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 Si deseas conocer más sobre otros destinos y servicios, no dudes en explorar más en nuestra página.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

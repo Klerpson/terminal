@@ -45,6 +45,8 @@ empresas:
 ---
 Más allá de su encanto histórico, **Cartagena es también un punto neurálgico en términos de transporte**, siendo su Terminal de Transporte uno de los más importantes del país.
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 Cartagena, conocida como la "Perla del Caribe", es una ciudad que combina la magia de su historia colonial con la modernidad de una metrópoli en crecimiento. Sus murallas, calles empedradas y balcones floridos son el testimonio vivo de una ciudad que ha sido testigo de innumerables historias.
 
 ## La Terminal de Cartagena: Puerta de entrada y salida

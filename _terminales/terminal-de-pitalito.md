@@ -47,11 +47,11 @@ empresas:
 ---
 ## La terminal de Pitalito - Centro del Sur del Huila
 
-{% include add1.html %}
-
 Ubicado en la ciudad de Pitalito, Colombia, el terminal de transporte es un lugar donde se puede ir de un pueblo a otro en todo el sur del Huila. Es un punto central de **transporte de pasajeros y de comunicación para todos los municipios de esa región**.
 
 ### ¿Cómo comprar pasajes en la terminal de Pitalito?
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
 Te recomendamos **comprar los pasajes utilizando su [página web oficial](https://tuterminalpitalito.com/comprar-pasajes/){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
@@ -97,6 +97,6 @@ La terminal de transporte de Pitalito Huila es un lugar moderno y cómodo para l
 
 Durante todo ese tiempo varias empresas que han prestado sus servicios. Estas incluyen Coopetran, Cooperativa de Transporte de Huila Ltda., Turihue Ltda., Transporte Caribe Ltda. y Transporte Rincon Ltda.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 Si desea obtener más información sobre cualquiera de estas empresas, puede buscar en Google sus sitios web oficiales.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

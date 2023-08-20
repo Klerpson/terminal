@@ -78,6 +78,8 @@ Las empresas de transporte que operan en la terminal de Neiva han evolucionado e
 
 Esta empresa de transporte cuenta con salidas hacia [varias ciudades de Colombia]({{site.baseurl}}/terminales-de-colombia), incluyendo [Bogotá]({{site.baseurl}}/terminal-de-bogota), [Medellín]({{site.baseurl}}/terminal-de-medellin), [Cali]({{site.baseurl}}/terminal-de-cali), [Popayán]({{site.baseurl}}/terminal-de-popayan), entre otras.
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 #### Expreso Bolivariano
 
 Ofrece rutas hacia ciudades como Bogotá, Cali, Pereira, Popayán, entre otras.
@@ -86,6 +88,6 @@ Ofrece rutas hacia ciudades como Bogotá, Cali, Pereira, Popayán, entre otras.
 
 Tiene rutas hacia ciudades como Medellín, Barranquilla, Bucaramanga, entre otras.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 Recuerda que la terminal de Neiva cuenta con una amplia variedad de servicios y empresas de transporte que te permitirán llegar a tu destino de manera segura y cómoda.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
