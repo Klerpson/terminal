@@ -3,21 +3,22 @@ layout: post
 json-post: "true"
 date: 2023-08-31T11:08:05.721Z
 title: "Buses al Aeropuerto de Rionegro: Horarios, Rutas y Consejos"
-description: " Tu guía completa para viajar en bus al Aeropuerto de Rionegro.
-  Desde horarios hasta consejos prácticos. ¡Entérate y planifica tu viaje!"
+description: " Información completa para viajar en bus al Aeropuerto de
+  Rionegro. Desde horarios hasta consejos prácticos. ¡Entérate y planifica tu
+  viaje!"
 autor: Camilo Cuspián
 h1: "Viajando en bus al Aeropuerto de Rionegro: Rutas, horarios y consejos
   prácticos"
+jpg: blog/buses-aeropuerto.jpg
+webpm: blog/buses-aereopuerto-2-.webp
+webps: blog/buses-aeropuerto-s-2-.webp
+alt: Bus Aeropuerto
+permalink: bus-aeropuerto-rionegro
 excerpt: Viajar al Aeropuerto de Rionegro en bus desde Medellín ya no tiene que
   ser un desafío. Con múltiples opciones de buses disponibles, puedes elegir la
   que mejor se adapte a tus necesidades y horarios. En este artículo, te
   brindamos toda la información esencial para que tu trayecto sea cómodo y sin
   contratiempos
-jpg: _site/img/blog/600-×-340 px-.jpg
-webpm: _site/img/blog/bus-rojo-600-×-340 px-.webp
-webps: _site/img/blog/bus-rojo_-376-×-213 px-.webp
-alt: Bus Aeropuerto
-permalink: bus-aeropuerto-rionegro
 ---
 * Do not remove this line (it will not be displayed)
   {:toc}
