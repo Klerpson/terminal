@@ -14,14 +14,14 @@ contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acc
 direccion: "Diagonal 23 # 69 - 11"
 telefono: 6014233630
 email: terminalbogota@terminaldetransporte.gov.co
-maps: https://goo.gl/maps/TBg4E7juw5Bps5iaA
-ciudad: Salitre - Bogotá
+maps: https://www.google.com/search?sca_esv=558556033&rlz=1C1UEAD_esCO1023CO1023&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=AB5stBjKVUKZ1_DBON7iNH2_hZuL2x6Yfg:1692537959585&q=terminal+norte+de+bogota&rflfq=1&num=10&rllag=4769494,-74042805,105&ved=2ahUKEwjj8-Weq-uAAxV-hu4BHUT0BnoQtgN6BAgYEAg#rlfi=hd:;si:5260221393089178553,l,Chh0ZXJtaW5hbCBub3J0ZSBkZSBib2dvdGFIzsWpza2vgIAIWiYQABABGAAYARgCGAMiGHRlcm1pbmFsIG5vcnRlIGRlIGJvZ290YZIBC2J1c19zdGF0aW9uqgFVEAEqEiIOdGVybWluYWwgbm9ydGUoDjIfEAEiG1yGEVnK4Gyu5MLTHpxRSNiJoE_jssnrLnEbEjIcEAIiGHRlcm1pbmFsIG5vcnRlIGRlIGJvZ290YQ;mv:[[4.7703004,-74.0421087],[4.7686893999999995,-74.0435023]]
+ciudad: Norte - Bogotá
 postal: 110931
 calificacion: 4.3
 reviews: 1913
-latitude: 4.6549308
-longitude: -74.1175679
-permalink: /terminal-salitre-bogota
+latitude: 4.7703004
+longitude: -74.0421087
+permalink: /terminal-norte-bogota
 json-terminal: true
 empresas:
   - Líneas las Acacias: 5414667 - 5414667

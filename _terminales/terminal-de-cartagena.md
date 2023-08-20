@@ -59,7 +59,7 @@ Para llegar a ella, **la dirección exacta de esta terminal es Tv. 54 #81-2 a 81
 
 **¿Por qué es tan importante esta terminal?** Porque conecta a Cartagena con las principales ciudades del país. Ya sea que desees viajar a [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín"), [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal Cali") o [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta"), es muy probable que tu viaje comience o termine en esta terminal.
 
-## Las principales empresas de transporte de la terminal de Cartagena
+## Las principales empresas de buses de la terminal de Cartagena
 
 ----
 
@@ -85,7 +85,7 @@ La Terminal de Transporte de Cartagena no solo se destaca por ser un punto de co
 
 **¿Necesitas algo de último minuto?** No te preocupes, en la terminal encontrarás tiendas y establecimientos donde podrás comprar desde un snack para el viaje hasta un cargador para tu celular.
 
-## Viajando desde y hacia Cartagena
+## Viajando desde y hacia la terminal de transporte de Cartagena
 
 {% include add1.html %}
 
@@ -109,6 +109,10 @@ Viajar es una experiencia emocionante, pero también requiere de preparación. A
 - **Guarda bien tus pertenencias**: Aunque la terminal cuenta con seguridad, siempre es bueno estar atento y cuidar tus objetos personales.
 - **Infórmate sobre tu destino**: Si viajas a una ciudad que no conoces, investiga un poco sobre ella antes de llegar. Esto te ayudará a moverte con más facilidad una vez que llegues.
 
-## Descubre más de Cartagena y Colombia
+## Disfruta más de Cartagena desde su terminal de transporte
+
+La Terminal de Transporte de Cartagena es un punto esencial para aquellos que desean explorar la región Caribe y otras partes de Colombia.
+
+Puedes acceder a una amplia variedad de destinos y empresas de transporte, garantiza [una experiencia de viaje cómoda y eficiente]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %}) para todos los viajeros.
 
 Si este es tu primer viaje a Cartagena o si estás pensando en [explorar más rincones de Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}), te invitamos a [seguir navegando por nuestra página]({{'blog'|relative_url}}). Aquí encontrarás más artículos, consejos y recomendaciones para que tu experiencia de viaje sea inolvidable.
