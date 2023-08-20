@@ -3,9 +3,7 @@ layout: post
 json-terminal: "true"
 date: 2023-08-19
 title: "Terminal de Transporte Apartadó: Conexiones seguras en Antioquia"
-description: "Terminal de Transporte Apartadó: Inicia tu viaje con comodidad y
-  seguridad. Conexiones eficientes, servicios de calidad y atención al cliente
-  excepcional. ¡Tu aventura comienza aquí!"
+description: "Terminal de Transporte Apartadó: Inicia tu viaje con comodidad y seguridad. Conexiones eficientes, servicios de calidad y atención al cliente excepcional. ¡Tu aventura comienza aquí!"
 category: antioquia
 h1: "La terminal de transporte de Apartadó: Conexiones seguras en Antioquia"
 jpg: terminales/terminal-apartado.jpg
@@ -13,9 +11,7 @@ webpm: terminales/terminal-apartado.webp
 webps: terminales/terminal-apartado-376.webp
 alt: Terminal Apartadó
 subtitle: "Terminal de Apartadó: encuentra pasajes y servicios de bus"
-intro: La Terminal de Transporte Apartadó es tu punto de partida hacia destinos
-  asombrosos. Obtén servicios de alta calidad y conexiones eficientes para una
-  agradable experiencia de viaje
+intro: La Terminal de Transporte Apartadó es tu punto de partida hacia destinos asombrosos. Obtén servicios de alta calidad y conexiones eficientes para una agradable experiencia de viaje
 contacto: http://tta.gov.co/
 email: "terminalapartado@tta.gov.co"
 direccion: Calle 92 entre carreras 102 y 104
