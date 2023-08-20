@@ -66,7 +66,7 @@ Bucaramanga, conocida como la "Ciudad de los Parques", es un destino turístico 
 
 ## Llega hasta la Terminal de Transporte de Bucaramanga
 
-{% include add2.html %}
+----
 
 La Terminal de Bucaramanga es el principal punto de entrada y salida para los viajeros que visitan la ciudad.
 
@@ -151,10 +151,10 @@ Bucaramanga no es solo un punto de tránsito. Es una ciudad rica en cultura, gas
 
 Al visitarla, te encontrarás con amables santandereanos dispuestos a mostrarte lo mejor de su tierra. Además, su clima templado la hace perfecta para visitar en cualquier época del año.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
-
 {% include add2.html %}
 
 La Terminal de Transporte de Bucaramanga es más que un simple punto de tránsito. **Es la puerta de entrada a una ciudad llena de cultura, historia y belleza natural**.
 
 Así que si estás de paso o si Bucaramanga es tu destino final, esta guía te ayudará a aprovechar al máximo tu tiempo en la terminal y en la ciudad. **¡Buen viaje y disfruta de todo lo que Bucaramanga tiene para ofrecer!**
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
