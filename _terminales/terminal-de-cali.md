@@ -3,7 +3,7 @@ layout: terminal
 json-terminal: true
 title: "La Terminal de Cali: dulces sabores y viajes memorables"
 description: La terminal de Cali es una moderna construcción que atrae miles de visitantes a diario. Viaja seguro por esta terminal de transporte.
-category: valle-cauca
+category: Valle del Cauca
 h1: Vení ve a la terminal de transporte de Cali
 jpg: terminales/terminal-cali.jpg
 webps: terminales/terminal-cali-376.webp

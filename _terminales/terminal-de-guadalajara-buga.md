@@ -3,7 +3,7 @@ layout: terminal
 json-terminal: true
 title: La terminal de Buga
 description: La Terminal de Buga es una de las paradas más importantes de Colombia. Ofrece más de 50 rutas diferentes a Cali, Tuluá, Bogotá, entre otros.
-category: valle-cauca
+category: Valle del Cauca
 h1: La Terminal de transporte de Buga
 jpg: terminales/terminal-buga.jpg
 webps: terminales/terminal-buga-376.webp

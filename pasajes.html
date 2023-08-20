@@ -1,0 +1,87 @@
+---
+layout: compress
+title: "✨ Agradecimiento: un sentimiento que transforma vidas"
+h1: "Agradecimiento: un sentimiento que transforma vidas"
+description: "💌 Aprende sobre la gratitud y cómo puede cambiar tu vida. Encuentra mensajes de agradecimiento que expresan lo que sientes. ¡Haz clic y comienza a agradecer hoy!"
+permalink: /pasajes
+---
+{% include head.html %}
+<body>
+  {% include header.html %}
+  <main class="blog-gallery wrapper">
+    <h2>Busquemos hermosas frases de agradecimiento</h2>
+    <div class="blog-tags">
+      <button data-name="all" class="active">Todos</button>
+      <!-- get an array of the categories without dupes -->
+      {% capture filtered_categories_array %}{% for item in site.destinos %}{{ item.category }}|{% endfor %}{% endcapture %}
+      <!-- start loop -->
+      {% for item in site.destinos %}
+          <!-- create a filter from the categories -->
+          {% assign filtered_cat = item.category | append: '|' %}
+          <!-- check the filter is in the categories array -->
+          {% if filtered_categories_array contains filtered_cat %}
+          <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
+          {% endif %}
+          <!-- remove categories filter from the original array -->
+          {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+      {% endfor %}
+    </div>
+  <section class="posts">
+    <!-- get an array of the categories without dupes -->
+    {% capture filtered_categories_array %}{% for item in site.destinos %}{{ item.category }}|{% endfor %}{% endcapture %}
+    <!-- start loop -->
+    {% for item in site.destinos %}
+    <!-- create a filter from the categories -->
+    {% assign filtered_cat = item.category | append: '|' %}
+      <!-- check the filter is in the categories array -->
+      {% if filtered_categories_array contains filtered_cat %}
+      <div class="post" data-name="{{ item.category }}">
+        <span>Pasajes en {{ item.category | capitalize }}</span>
+        <div class="links">
+          {% for destino in site.destinos %}
+          {% if destino.category contains item.category %}
+          <article><a href="{{ destino.url }}"><h4>{{ destino.h1 }}</h4></a></article>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+      <!-- remove categories filter from the original array -->
+      {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+    {% endfor %}
+  </section>
+  <p>Las frases de agradecimiento son una herramienta poderosa para expresar gratitud. Nos permiten poner en palabras lo que sentimos en nuestro corazón. Una frase de agradecimiento puede ser un regalo para la persona que la recibe, un recordatorio de cuánto se aprecia su bondad.</p>
+</main>
+{% include buscador.html %}
+{% include footer.html %}
+<a href="#">{% include boton-up.html %}</a>
+  
+
+ <script async>
+  const filterButtons = document.querySelectorAll(".blog-tags button");
+  const filterPosts = document.querySelectorAll(".posts .post");
+
+  const filter = e => {
+    filterButtons.forEach(button => button.classList.toggle("active", button === e.target));
+
+    filterPosts.forEach(post => {
+      post.classList.toggle("hide", post.dataset.name !== e.target.dataset.name && e.target.dataset.name !== "all");
+    });
+  };
+
+  filterButtons.forEach(button => button.addEventListener("click", filter));
+  </script>
+  <!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+<!-- Configuration -->
+<script>
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    noResultsText: 'No tenemos este texto aún',
+    fuzzy: false
+  });
+</script>
+  </body>
+</html>

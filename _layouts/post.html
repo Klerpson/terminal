@@ -41,7 +41,6 @@ layout: default
   {% include add2.html %}
 </article>
 
-{% include comentarios.html %}
 <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
 <section class="conclusion wrapper">
   <div>
@@ -53,24 +52,3 @@ layout: default
 <a href="#">{% include boton-up.html %}</a>
 
 {% include footer.html %}
-<!-- 
-<script async>
-  const navToggle = document.querySelector("#markdown-toc");
-  const navMenu = document.querySelector("#markdown-toc li ul");
-  const body = document.querySelector("body");
-
-  navToggle.addEventListener("click", (e) => {
-    e.stopPropagation();
-    navMenu.classList.toggle("change");
-
-    if (navMenu.classList.contains("change")) {
-      navToggle.setAttribute("aria-label", "Cerrar menú");
-    } else {
-      navToggle.setAttribute("aria-label", "Abrir menú");
-    }
-  });
-
-  body.addEventListener("click", () => {
-    navMenu.classList.remove("change");
-  });
-</script> -->

@@ -12,280 +12,50 @@ noindex: true
 </section>
 {% include buscador.html %}
 
-{% assign pages = site.pages | where: "layout", "terminal" %}
-<main class="terminales wrapper">
-  <h2 id="antioquia">Terminales de Antioquia</h2>
-  <section>
-    <!-- ANTIOQUIA -->
-    {% for terminal in pages %} {% if terminal.category == "antioquia" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-
-    {% endif %} {% endfor %}
-  </section>
-  <!-- ATLANTICO -->
-  <h2 id="atlantico">Terminales de Atlántico</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "atlantico" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-
-    {% endif %} {% endfor %}
-  </section>
-  <!-- ARAUCA -->
-  <h2 id="arauca">Terminales de Arauca</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "arauca" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-
-    {% endif %} {% endfor %}
-  </section>
-  <!-- BOLIVAR -->
-  <h2 id="bolivar">Terminales de Bolivar</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "bolivar" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- Boyacá -->
-  <h2 id="boyaca">Terminales de Boyacá</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "boyaca" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-
-  {% include add3.html %}
-  <!-- CALDAS -->
-  <h2 id="caldas">Terminales de Caldas</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "caldas" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-
-  <!-- CAQUETA -->
-  <h2 id="caqueta">Terminales de Caqueta</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "caqueta" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-
-  <!-- CAUCA -->
-  <h2 id="cauca">Terminales de Cauca</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "cauca" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-
-    {% endif %} {% endfor %}
-  </section>
-  <!-- CASANARE -->
-  <h2 id="casanare">Terminales de Casanare</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "casanare" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-
-    {% endif %} {% endfor %}
-  </section>
-
-  <!-- CESAR -->
-  <h2 id="cesar">Terminales de Cesar</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "cesar" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-
-    {% endif %} {% endfor %}
-  </section>
-  <!-- CUNDINAMARCA -->
-  <h2 id="cundinamarca">Terminales de Cundinamarca</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "cundinamarca" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- HUILA -->
-  <h2 id="huila">Terminales de Huila</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "huila" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- MAGDALENA -->
-  <h2 id="magdalena">Terminales de Magdalena</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "magdalena" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-
-  {% include add1.html %}
-  <!-- META -->
-  <h2 id="meta">Terminales de Meta</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "meta" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- NARIÑO -->
-  <h2 id="narino">Terminales de Nariño</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "narino" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- NORTE DE SANTANDER -->
-  <h2 id="norte-santander">Terminales de Norte de Santander</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "norte-santander" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a>
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- Quindio -->
-  <h2 id="quindio">Terminales de Quindio</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "quindio" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a>
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- Risaralda -->
-  <h2 id="risaralda">Terminales de Risaralda</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "risaralda" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- SANTANDER -->
-  <h2 id="santander">Terminales de Santander</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "santander" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  <!-- VALLE DEL CAUCA -->
-  <h2 id="valle-cauca">Terminales del Valle del Cauca</h2>
-  <section>
-    {% for terminal in pages %} {% if terminal.category == "valle-cauca" %}
-    <article>
-      <a href="{{terminal.url}}">
-        {% include img.html hero=terminal.hero webpb=terminal.webpb
-        webpm=terminal.webpm webps=terminal.webps %}
-        <h3>{{terminal.title}}</h3></a
-      >
-    </article>
-    {% endif %} {% endfor %}
-  </section>
-  {% include add2.html %}
+<div class="blog-tags wrapper">
+  <button data-name="all" class="active">Todos</button>
+  <!-- get an array of the categories without dupes -->
+  {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
+  <!-- start loop -->
+  {% for item in site.terminales %}
+      <!-- create a filter from the categories -->
+      {% assign filtered_cat = item.category | append: '|' %}
+      <!-- check the filter is in the categories array -->
+      {% if filtered_categories_array contains filtered_cat %}
+      <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
+      {% endif %}
+      <!-- remove categories filter from the original array -->
+      {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+  {% endfor %}
+</div>
+<main class="posts terminales wrapper">
+<!-- get an array of the categories without dupes -->
+{% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
+<!-- start loop -->
+{% for item in site.terminales %}
+<!-- create a filter from the categories -->
+{% assign filtered_cat = item.category | append: '|' %}
+  <!-- check the filter is in the categories array -->
+  {% if filtered_categories_array contains filtered_cat %}
+  <div class="post" data-name="{{ item.category }}">
+    <span>Terminales en {{ item.category | capitalize }}</span>
+    <section class="links">
+      {% for destino in site.terminales %}
+      {% if destino.category contains item.category %}
+      <article>
+        <a href="{{destino.url}}">
+          {% include img.html webpm=destino.webpm webps=destino.webps %}
+          <h3>{{destino.title}}</h3></a
+        >
+      </article>
+      {% endif %}
+      {% endfor %}
+    </section>
+  </div>
+  {% endif %}
+  <!-- remove categories filter from the original array -->
+  {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+{% endfor %}
 </main>
 
 <div style="height: 150px; overflow: hidden">
@@ -341,7 +111,20 @@ noindex: true
 </section>
 
 {% include footer.html %}
+<script async>
+  const filterButtons = document.querySelectorAll(".blog-tags button");
+  const filterPosts = document.querySelectorAll(".posts .post");
 
+  const filter = e => {
+    filterButtons.forEach(button => button.classList.toggle("active", button === e.target));
+
+    filterPosts.forEach(post => {
+      post.classList.toggle("hide", post.dataset.name !== e.target.dataset.name && e.target.dataset.name !== "all");
+    });
+  };
+
+  filterButtons.forEach(button => button.addEventListener("click", filter));
+  </script>
   <!-- Script pointing to search-script.js -->
   <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
   <!-- Configuration -->

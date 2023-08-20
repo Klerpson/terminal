@@ -29,3 +29,35 @@ collections:
       - { label: 'URL', name: 'permalink', widget: 'string' }
       - { label: 'Intro', name: 'excerpt', widget: 'string' }
       - { label: 'Content', name: 'body', widget: 'markdown' }
+  - name: 'terminales'
+    label: 'Terminales'
+    folder: '_terminales/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'J-son', name: 'json-terminal', widget: 'hidden', default: 'true' }
+      - { label: 'Fecha', name: 'date', widget: 'datetime' }
+      - { label: 'Meta Title', name: 'title', widget: 'string' }
+      - { label: 'Meta Description', name: 'description', widget: 'string' }
+      - { label: 'H1', name: 'h1', widget: 'string' }
+      - { label: 'JPGx600', name: 'jpg', widget: 'image' }
+      - { label: 'Mediumx600', name: 'webpm', widget: 'image' }
+      - { label: 'Smallx376', name: 'webps', widget: 'image' }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Subtítulo', name: 'subtitle', widget: 'string' }
+      - { label: 'Intro', name: 'intro', widget: 'string' }
+      - { label: 'Web', name: 'contacto', widget: 'string' }
+      - { label: 'Dirección', name: 'direccion', widget: 'string' }
+      - { label: 'Teléfono', name: 'telefono', widget: 'string' }
+      - { label: 'URL Maps', name: 'maps', widget: 'string' }
+      - { label: 'No. Votos', name: 'reviews', widget: 'string' }
+      - { label: 'Calificación', name: 'calificacion', widget: 'string' }
+      - { label: 'Ciudad', name: 'ciudad', widget: 'string' }
+      - { label: 'Código postal', name: 'postal', widget: 'string' }
+      - { label: 'Latitud', name: 'latitude', widget: 'string' }
+      - { label: 'Longitud(-)', name: 'longitude', widget: 'string' }
+      - { label: 'URL', name: 'permalink', widget: 'string' }
+      - { label: 'Content', name: 'body', widget: 'markdown' }

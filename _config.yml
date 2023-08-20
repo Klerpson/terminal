@@ -21,3 +21,11 @@ compress_html:
     blanklines: false
     profile: false
     startings: []
+
+collections:
+  destinos:
+    output: true
+    permalink: /pasajes/:path
+  terminales:
+    output: true
+    permalink: /:path
