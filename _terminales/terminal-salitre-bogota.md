@@ -11,7 +11,7 @@ alt: Terminal Salitre Bogotá
 subtitle: Planifica tu viaje desde la Terminal de Salitre. Utiliza nuestra información actualizada sobre las empresas de transporte.
 intro: "Localizada cerca del aeropuerto El Dorado, la Terminal de Salitre es la más grande y concurrida de Bogotá. Sirve a una amplia variedad de destinos nacionales e incluso algunos internacionales."
 contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acceso-a-la-informacion-publica/pqrs/
-direccion: "Diagonal 23 # 69 - 11"
+direccion: "Diagonal 23 # 69 - 11, Bogotá"
 telefono: 6014233630
 email: terminalbogota@terminaldetransporte.gov.co
 maps: https://goo.gl/maps/TBg4E7juw5Bps5iaA
@@ -127,8 +127,6 @@ Las estaciones más cercanas, ambas pertenecientes a la **troncal de la Calle 26
 
 Si decides llegar en vehículo propio o taxi, **la dirección exacta es Calle 22B No. 69-59**. El terminal cuenta con amplias zonas de parqueo y facilidades para el desembarque de pasajeros.
 
-{% include add1.html %}
-
 ## Servicios y módulos
 
 ----
@@ -226,13 +224,11 @@ El Terminal Salitre opera todos los días del año. Sin embargo, es importante t
 
 El terminal abre sus puertas **desde las 4:00 a.m. hasta las 11:00 p.m.** Sin embargo, algunas empresas ofrecen rutas nocturnas, por lo que es posible encontrar movimiento incluso después del horario habitual.
 
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+
 ## Preguntas frecuentes
 
 {% include add1.html %}
-
-### ¿El terminal está funcionando durante la cuarentena?
-
-Sí, el terminal sigue operando, pero con restricciones y medidas de bioseguridad.
 
 ### ¿Cómo hacer reservas en el terminal?
 

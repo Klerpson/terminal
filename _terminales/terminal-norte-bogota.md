@@ -1,24 +1,24 @@
 ---
 layout: terminal
-title: "Terminal Salitre: Tu Puerta de Entrada y Salida de Bogotá"
-description: "Planifica tu viaje desde la Terminal Salitre. Encuentra información actualizada sobre • rutas • empresas de transporte y • servicios disponibles."
+title: "Bogotá: Terminal de Transporte del Norte y sus Servicios"
+description: "¿Buscas información sobre la Terminal del Norte en Bogotá? Aquí encontrarás todo lo que necesitas para comprar los pasajes de tu próximo viaje. ¡Entérate!"
 category: cundinamarca
-h1: "Terminal Salitre de Bogotá: información y servicios"
-jpg: terminales/terminal-salitre.jpg
-webpm: terminales/terminal-salitre.webp
-webps: terminales/terminal-salitre-376.webp
-alt: Terminal Salitre Bogotá
-subtitle: Planifica tu viaje desde la Terminal de Salitre. Utiliza nuestra información actualizada sobre las empresas de transporte.
-intro: "Localizada cerca del aeropuerto El Dorado, la Terminal de Salitre es la más grande y concurrida de Bogotá. Sirve a una amplia variedad de destinos nacionales e incluso algunos internacionales."
+h1: "Terminal satélite del Norte Bogotá: información actualizada y consejos útiles"
+jpg: terminales/terminal-norte-bogota.jpg
+webpm: terminales/terminal-norte-bogota.webp
+webps: terminales/terminal-norte-bogota-376.webp
+alt: Terminal Norte Bogotá
+subtitle: Utiliza la Terminal Norte de Bogotá y compra tus pasajes con las empresas de buses directamente.
+intro: "La Terminal del Norte de Bogotá te espera con múltiples servicios y destinos. Conoce la Terminal Satélite del Norte: un hub de transporte en Bogotá."
 contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acceso-a-la-informacion-publica/pqrs/
-direccion: "Diagonal 23 # 69 - 11"
-telefono: 6014233630
-email: terminalbogota@terminaldetransporte.gov.co
+direccion: "Calle 192 # 19-43, Bogotá"
+telefono: 6014233600
+email: servicio.ciudadano@terminaldetransporte.gov.co
 maps: https://www.google.com/search?sca_esv=558556033&rlz=1C1UEAD_esCO1023CO1023&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=AB5stBjKVUKZ1_DBON7iNH2_hZuL2x6Yfg:1692537959585&q=terminal+norte+de+bogota&rflfq=1&num=10&rllag=4769494,-74042805,105&ved=2ahUKEwjj8-Weq-uAAxV-hu4BHUT0BnoQtgN6BAgYEAg#rlfi=hd:;si:5260221393089178553,l,Chh0ZXJtaW5hbCBub3J0ZSBkZSBib2dvdGFIzsWpza2vgIAIWiYQABABGAAYARgCGAMiGHRlcm1pbmFsIG5vcnRlIGRlIGJvZ290YZIBC2J1c19zdGF0aW9uqgFVEAEqEiIOdGVybWluYWwgbm9ydGUoDjIfEAEiG1yGEVnK4Gyu5MLTHpxRSNiJoE_jssnrLnEbEjIcEAIiGHRlcm1pbmFsIG5vcnRlIGRlIGJvZ290YQ;mv:[[4.7703004,-74.0421087],[4.7686893999999995,-74.0435023]]
 ciudad: Norte - Bogotá
 postal: 110931
-calificacion: 4.3
-reviews: 1913
+calificacion: 3.9
+reviews: 165
 latitude: 4.7703004
 longitude: -74.0421087
 permalink: /terminal-norte-bogota
