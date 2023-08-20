@@ -43,11 +43,9 @@ empresas:
   - Transportes Luz: 0356530269 - 0356530269
   - Unitransco: 0356611822 - 0356611822 - 0356632067 - 0356632067 - 0356632072 -0356632072
 ---
-Cartagena, conocida como la "Perla del Caribe", es una ciudad que combina la magia de su historia colonial con la modernidad de una metrópoli en crecimiento.
+Más allá de su encanto histórico, **Cartagena es también un punto neurálgico en términos de transporte**, siendo su Terminal de Transporte uno de los más importantes del país.
 
-Sus murallas, calles empedradas y balcones floridos son el testimonio vivo de una ciudad que ha sido testigo de innumerables historias.
-
-Pero, más allá de su encanto histórico, **Cartagena es también un punto neurálgico en términos de transporte**, siendo su Terminal de Transporte uno de los más importantes del país.
+Cartagena, conocida como la "Perla del Caribe", es una ciudad que combina la magia de su historia colonial con la modernidad de una metrópoli en crecimiento. Sus murallas, calles empedradas y balcones floridos son el testimonio vivo de una ciudad que ha sido testigo de innumerables historias.
 
 ## La Terminal de Cartagena: Puerta de entrada y salida
 
@@ -55,9 +53,9 @@ Pero, más allá de su encanto histórico, **Cartagena es también un punto neur
 
 La Terminal de Transporte de Cartagena no es solo un edificio donde los buses llegan y salen. Es el punto de encuentro de miles de viajeros que buscan descubrir los encantos de la región Caribe o que, después de haberlo hecho, se disponen a regresar a sus hogares.
 
-Para llegar a ella, **la dirección exacta de esta terminal es Tv. 54 #81-2 a 81-234, Cartagena, Bolívar, Colombia**.
+Para llegar a ella, **la dirección exacta de esta terminal de buses es Tv. 54 #81-2 a 81-234, Cartagena, Bolívar, Colombia**.
 
-**¿Por qué es tan importante esta terminal?** Porque conecta a Cartagena con las principales ciudades del país. Ya sea que desees viajar a [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín"), [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal Cali") o [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta"), es muy probable que tu viaje comience o termine en esta terminal.
+**¿Por qué es tan importante esta terminal de transporte?** Porque conecta a Cartagena con las principales ciudades del país. Ya sea que desees viajar a [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín"), [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal Cali") o [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta"), es muy probable que tu viaje comience o termine en esta terminal.
 
 ## Las principales empresas de buses de la terminal de Cartagena
 
