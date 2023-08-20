@@ -1,13 +1,13 @@
 ---
 layout: post
 json-terminal: "true"
-date: 2023-08-21T09:41:33.295Z
+date: 2023-08-19
 title: "Terminal de Transporte Apartadó: Conexiones seguras en Antioquia"
 description: "Terminal de Transporte Apartadó: Inicia tu viaje con comodidad y
   seguridad. Conexiones eficientes, servicios de calidad y atención al cliente
   excepcional. ¡Tu aventura comienza aquí!"
 category: Antioquia
-h1: "La terminal de transporte de Apartadó: "
+h1: "La terminal de transporte de Apartadó: Conexiones seguras en Antioquia"
 jpg: blog/terminal-apartado.jpg
 webpm: blog/terminal-apartado.webp
 webps: blog/terminal-apartado-376.webp
@@ -17,7 +17,7 @@ intro: La Terminal de Transporte Apartadó es tu punto de partida hacia destinos
   asombrosos. Obtén servicios de alta calidad y conexiones eficientes para una
   agradable experiencia de viaje
 contacto: http://tta.gov.co/
-email: " terminalapartado@tta.gov.co"
+email: "terminalapartado@tta.gov.co"
 direccion: Calle 92 entre carreras 102 y 104
 telefono: 6048282525 - 3013854157
 maps: https://goo.gl/maps/2owUwqi86j55tf7a8
@@ -29,8 +29,8 @@ latitude: "7.8806458"
 longitude: "-76.6323092"
 permalink: /terminal-de-apartado
 empresas:
-  - "- Transportes Gomez Hernandez: 6044487712"
-  - "- Sotrauraba: 6044445873"
+  - "Transportes Gomez Hernandez: 6044487712"
+  - "Sotrauraba: 6044445873"
 ---
 ## La Terminal de Transporte de Apartadó
 
