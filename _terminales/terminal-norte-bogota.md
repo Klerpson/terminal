@@ -122,7 +122,7 @@ Con un promedio de **983 buses al día durante el último año**, esta terminal 
 
 Los destinos más solicitados desde la Terminal del Norte incluyen ciudades y municipios muy visitados al norte del país. Algunos son:
 
-* Tunja
+* [Tunja]({{'terminal-de-tunja'|relative_url}} "Terminal Tunja")
 * Duitama
 * Sogamoso
 * Ubaté
