@@ -246,7 +246,7 @@ SVG Icons - svgicons.sparkk.fr
   box-shadow: var(--shadow);
   transition: all .2s ease-in;
   font-family: var(--fuenteTitulos);
-  margin-inline: auto;
+  margin: 1em auto;
   cursor: pointer;
   border: none;
 }
