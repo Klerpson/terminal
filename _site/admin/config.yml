@@ -60,5 +60,5 @@ collections:
       - { label: 'Latitud', name: 'latitude', widget: 'string' }
       - { label: 'Longitud(-)', name: 'longitude', widget: 'string' }
       - { label: 'URL', name: 'permalink', widget: 'string' }
-      - { label: 'Content', name: 'body', widget: 'markdown' }
       - {label: "Empresas", name: "empresas", widget: "list" }
+      - { label: 'Content', name: 'body', widget: 'markdown' }

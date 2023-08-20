@@ -3,7 +3,7 @@ layout: terminal
 json-terminal: true
 title: Terminal de Pasto
 description: La Terminal de Pasto es una construcción relativamente reciente. Ahora es uno de los principales puntos de llegada de la ciudad de Pasto.
-category: narino
+category: Nariño
 h1: La terminal de transporte de Pasto
 jpg: terminales/terminal-pasto.jpg
 webps: terminales/terminal-pasto-376.webp
