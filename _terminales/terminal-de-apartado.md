@@ -6,7 +6,7 @@ title: "Terminal de Transporte Apartadó: Conexiones seguras en Antioquia"
 description: "Terminal de Transporte Apartadó: Inicia tu viaje con comodidad y
   seguridad. Conexiones eficientes, servicios de calidad y atención al cliente
   excepcional. ¡Tu aventura comienza aquí!"
-category: Antioquia
+category: antioquia
 h1: "La terminal de transporte de Apartadó: Conexiones seguras en Antioquia"
 jpg: blog/terminal-apartado.jpg
 webpm: blog/terminal-apartado.webp
