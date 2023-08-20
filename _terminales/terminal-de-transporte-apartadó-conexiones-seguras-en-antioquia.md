@@ -6,6 +6,7 @@ title: "Terminal de Transporte Apartadó: Conexiones seguras en Antioquia"
 description: "Terminal de Transporte Apartadó: Inicia tu viaje con comodidad y
   seguridad. Conexiones eficientes, servicios de calidad y atención al cliente
   excepcional. ¡Tu aventura comienza aquí!"
+category: Antioquia
 h1: "La terminal de transporte de Apartadó: "
 jpg: blog/terminal-apartado.jpg
 webpm: blog/terminal-apartado.webp
@@ -16,6 +17,7 @@ intro: La Terminal de Transporte Apartadó es tu punto de partida hacia destinos
   asombrosos. Obtén servicios de alta calidad y conexiones eficientes para una
   agradable experiencia de viaje
 contacto: http://tta.gov.co/
+email: " terminalapartado@tta.gov.co"
 direccion: Calle 92 entre carreras 102 y 104
 telefono: 6048282525 - 3013854157
 maps: https://goo.gl/maps/2owUwqi86j55tf7a8
