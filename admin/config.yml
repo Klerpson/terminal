@@ -61,3 +61,8 @@ collections:
       - { label: 'Longitud(-)', name: 'longitude', widget: 'string' }
       - { label: 'URL', name: 'permalink', widget: 'string' }
       - { label: 'Content', name: 'body', widget: 'markdown' }
+      - label: "Empresas"
+        name: "empresas"
+        widget: "list"
+        fields:
+          - { label: "Nombre y teléfono", widget: "string" }
