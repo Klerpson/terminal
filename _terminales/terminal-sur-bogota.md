@@ -1,27 +1,27 @@
 ---
 layout: terminal
-title: "Bogotá: Terminal de Transporte del Norte y sus Servicios"
-description: "¿Buscas información sobre la Terminal del Norte en Bogotá? Aquí encontrarás todo lo que necesitas para comprar los pasajes de tu próximo viaje. ¡Entérate!"
+title: "¿Viajas hacia o desde Bogotá? Terminal del Sur y sus destinos"
+description: "¿Viajando desde Bogotá? La Terminal del Sur es tu mejor aliado. Descubre sus • servicios • rutas • consejos para un viaje perfecto. ¡Infórmate aquí!"
 category: cundinamarca
-h1: "Terminal satélite del Norte Bogotá: información actualizada y consejos útiles"
-jpg: terminales/terminal-norte-bogota.jpg
-webpm: terminales/terminal-norte-bogota.webp
-webps: terminales/terminal-norte-bogota-376.webp
-alt: Terminal Norte Bogotá
-subtitle: Utiliza la Terminal Norte de Bogotá y compra tus pasajes con las empresas de buses directamente.
-intro: "La Terminal del Norte de Bogotá te espera con múltiples servicios y destinos. Conoce la Terminal Satélite del Norte: un hub de transporte en Bogotá."
+h1: "Terminal del Sur: El epicentro del transporte en Bogotá"
+jpg: terminales/terminal-sur-bogota.jpg
+webpm: terminales/terminal-sur-bogota.webp
+webps: terminales/terminal-sur-bogota-376.webp
+alt: Terminal Sur Bogotá
+subtitle: "Terminal del Sur Bogotá: Tu oportunidad de comprar pasajes a destinos soñados"
+intro: "Compra de pasajes o tiquetes, servicios bancarios, vacunación, etc. La Terminal del Sur en Bogotá lo tiene todo. Conoce más y prepara tu próximo viaje."
 contacto: https://www.terminaldetransporte.gov.co/la-entidad/transparencia-y-acceso-a-la-informacion-publica/pqrs/
-direccion: "Calle 192 # 19-43, Bogotá"
+direccion: "Calle 57Q #75F - 82, Bogotá"
 telefono: 6014233600
 email: servicio.ciudadano@terminaldetransporte.gov.co
-maps: https://www.google.com/search?sca_esv=558556033&rlz=1C1UEAD_esCO1023CO1023&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=AB5stBjKVUKZ1_DBON7iNH2_hZuL2x6Yfg:1692537959585&q=terminal+norte+de+bogota&rflfq=1&num=10&rllag=4769494,-74042805,105&ved=2ahUKEwjj8-Weq-uAAxV-hu4BHUT0BnoQtgN6BAgYEAg#rlfi=hd:;si:5260221393089178553,l,Chh0ZXJtaW5hbCBub3J0ZSBkZSBib2dvdGFIzsWpza2vgIAIWiYQABABGAAYARgCGAMiGHRlcm1pbmFsIG5vcnRlIGRlIGJvZ290YZIBC2J1c19zdGF0aW9uqgFVEAEqEiIOdGVybWluYWwgbm9ydGUoDjIfEAEiG1yGEVnK4Gyu5MLTHpxRSNiJoE_jssnrLnEbEjIcEAIiGHRlcm1pbmFsIG5vcnRlIGRlIGJvZ290YQ;mv:[[4.7703004,-74.0421087],[4.7686893999999995,-74.0435023]]
-ciudad: Norte - Bogotá
+maps: https://goo.gl/maps/tpusGV2xBycdw3fT7
+ciudad: Sur - Bogotá
 postal: 110931
-calificacion: 3.9
-reviews: 165
-latitude: 4.7703004
-longitude: -74.0421087
-permalink: /terminal-norte-bogota
+calificacion: 4.0
+reviews: 13125
+latitude: 4.5974837
+longitude: -74.178795
+permalink: /terminal-sur-bogota
 json-terminal: true
 empresas:
   - Líneas las Acacias: 5414667 - 5414667
@@ -107,61 +107,138 @@ empresas:
   - Transportes y Turismo Berlinas del Fonce S.A.: 7435050 - 3156020522 3186665544 - 3183545454
   - Velotax Ltda.: 2612110
 ---
-
-## La Terminal del Norte Bogotá: una historia de éxitos
-
-La Terminal del Norte ha dejado una huella imborrable en el panorama del transporte intermunicipal de Bogotá.
-
-Desde su inauguración, ha **atendido a más de 2.5 millones de viajeros**, consolidándose como un punto de referencia para aquellos que buscan viajar hacia el norte del país.
-
-Con un promedio de **983 buses al día durante el último año**, esta terminal ha logrado **movilizar a cerca de 10 mil pasajeros diarios**.
-
-## Destinos populares y servicios ofrecidos por la terminal Norte de Bogotá
+## La Terminal del Sur de Bogotá y sus servicios esenciales
 
 ----
 
-Los destinos más solicitados desde la Terminal del Norte incluyen ciudades y municipios muy visitados al norte del país. Algunos son:
+La **Terminal del Sur en Bogotá** es un punto muy importa de la ciudad para la partida y llegada de viajeros.
 
-* [Tunja]({{'terminal-de-tunja'|relative_url}} "Terminal Tunja")
-* Duitama
-* Sogamoso
-* Ubaté
-* Villa de Leyva
-* Zipaquirá
+Esta terminal es un epicentro de servicios, comodidades y conexiones que facilitan el tránsito de miles de personas diariamente.
+
+Si estás planeando un viaje desde o hacia Bogotá y eliges la Terminal del Sur como tu punto de partida o llegada, aquí encontrarás todo lo que necesitas saber.
+
+### Llega fácilmente a la terminal del Sur de Bogotá
+
+La Terminal del Sur es una de las principales estaciones de autobuses en Bogotá. **Situada en la Cl. 57n Bis Sur #75f-32**, esta terminal es atendida por *diversas empresas de transporte reconocidas como Expreso Brasilia, Copetran, Bolivariano*, entre otras.
+
+Su ubicación estratégica la hace accesible y conveniente para aquellos que residen en **el sur de la ciudad o para aquellos que se dirigen hacia destinos ubicados en esta dirección**.
+
+## Empresas transportadoras en la Terminal del Sur
+
+----
+
+La Terminal del Sur es el punto de encuentro de numerosas empresas transportadoras que ofrecen rutas a diferentes destinos del país. Estas empresas son reconocidas por su trayectoria, seguridad y calidad de servicio.
+
+A continuación, te presentamos una descripción detallada de algunas de las principales empresas que operan en esta terminal:
+
+* **Expreso Brasilia** :Una de las empresas más grandes y reconocidas en Colombia. Ofrece rutas a la Costa Atlántica, el Eje Cafetero y otras regiones del país. Sus buses son conocidos por su comodidad y servicios a bordo.
+* **Copetran** :Con más de 50 años de experiencia, Copetran conecta a Bogotá con el norte del país, especialmente con destinos en Santander y Norte de Santander.
+* **Bolivariano** :Esta empresa se destaca por sus rutas hacia el occidente y noroccidente del país. Sus buses de dos pisos ofrecen una experiencia de viaje única con asientos tipo cama y entretenimiento a bordo.
+* **Rápido Ochoa** :Con rutas hacia el Eje Cafetero, Antioquia y la Costa Atlántica, Rápido Ochoa es una excelente opción para quienes buscan comodidad y buen servicio.
+* **Velotax** :Especializados en rutas hacia el sur del país, Velotax es una de las principales opciones para viajar hacia destinos como Neiva, Popayán y Pasto.
+* **Flota Occidental** :Con una amplia cobertura en el occidente del país, Flota Occidental ofrece rutas hacia destinos como Cali, Armenia y Pereira.
+* **Flota Ospina** :Esta empresa se destaca por sus rutas hacia el Tolima y el Huila, conectando a Bogotá con ciudades como Ibagué y Neiva.
+* **Cootranshuila** :Especializados en el departamento del Huila, Cootranshuila es la principal opción para quienes viajan hacia esta región del país.
 {:class="seccion"}
 
-Estos lugares, ubicados en departamentos como Boyacá, Santander y Cundinamarca, son accesibles **gracias a las 34 empresas de transporte intermunicipal que operan desde la terminal del norte de Bogotá**.
+Es esencial mencionar que cada empresa tiene diferentes tipos de buses, desde servicios básicos hasta buses cama de lujo.
 
-Para facilitar el proceso de viaje, los usuarios tienen a su disposición **34 taquillas para la compra de tiquetes**.
+Puedes contactar directamente con cada empresa para resolver dudas o hacer reservaciones, haz clic en este botón:
 
-## Mejoras y adaptaciones de la Terminal de Transporte del Norte
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
 {% include add1.html %}
 
-La Terminal del Norte no ha dejado de evolucionar. Lo que comenzó con 19 bahías de parqueo, **ahora cuenta con 41 plataformas** para el ascenso de pasajeros.
-
-Ahora ha implementado un punto de control de alcoholimetría y torniquetes de acceso sistematizados, garantizando así la seguridad de los viajeros. Para aquellos que requieran atención médica, se ha habilitado un punto de atención prehospitalario.
-
-## Beneficios de la Terminal Norte para la comunidad
+## Servicios ofrecidos en la Terminal del Sur de Bogotá
 
 ----
 
-La creación de esta terminal ha traído consigo numerosos beneficios para la comunidad local.
+Esta terminal de Bogotá no solo ofrece servicios de transporte. Al ser un punto neurálgico de la ciudad, cuenta con una variedad de servicios diseñados para hacer la experiencia del viajero más cómoda y agradable.
 
-Antes de su existencia, la Calle 170 con Autopista Norte era un punto de abordaje caótico, marcado por el desorden y la inseguridad. Hoy, gracias a la Terminal del Norte, los habitantes de esta zona de Bogotá disfrutan de un entorno más ordenado y seguro.
+### Servicios Bancarios
 
-## El futuro de la Terminal del Norte de Bogotá
+Para aquellos que necesiten realizar transacciones financieras antes de su viaje, la terminal cuenta con cajeros automáticos y puntos de atención bancaria.
+
+### Personal 24 Horas
+
+Independientemente de la hora de tu viaje, siempre encontrarás personal dispuesto a ayudarte en lo que necesites.
+
+### Parqueaderos
+
+Si decides llegar en tu vehículo, la terminal cuenta con amplios parqueaderos para que dejes tu coche con total seguridad.
+
+### Primeros Auxilios
+
+Para cualquier emergencia médica, la terminal está equipada con un centro de primeros auxilios listo para atenderte.
+
+### Carros Maleteros
+
+Facilitan el transporte de tu equipaje desde tu vehículo o taxi hasta el bus.
+
+### Circuito Cerrado TV
+
+Para garantizar la seguridad de los viajeros y sus pertenencias, la terminal cuenta con un sistema de vigilancia constante.
+
+### Silla De Ruedas
+
+Pensando en la inclusión y comodidad de todos, se ofrecen sillas de ruedas para aquellos que las requieran.
+
+### Asignación De Taxis Seguros
+
+Si necesitas un taxi al llegar o al partir, la terminal tiene un servicio de asignación de taxis seguros para tu tranquilidad.
+
+### Policía
+
+La presencia policial garantiza la seguridad y el orden dentro de las instalaciones.
+
+### Guarda Equipaje
+
+Si tienes tiempo antes de tu viaje y deseas recorrer los alrededores, puedes dejar tu equipaje en custodia.
+
+### Wifi Gratis
+
+Mantente conectado con el servicio gratuito de wifi que ofrece la terminal.
+
+### Duchas
+
+Para aquellos viajeros que vienen de trayectos largos y desean refrescarse antes de continuar su viaje.
+
+### Restaurantes
+
+Diversas opciones gastronómicas para satisfacer cualquier antojo antes o después de tu viaje.
+
+### Espacios Comerciales
+
+Tiendas y locales comerciales donde podrás adquirir desde recuerdos hasta artículos de primera necesidad.
 
 {% include add1.html %}
 
-Según la gerencia de la Terminal de Tranporte del Norte, han logrado superar todas las expectativas y han demostrado ser una solución efectiva a los problemas de movilidad y desorden en la Autopista Norte.
+## Vacunación en la Terminal de transporte del Sur de Bogotá
 
-Con una visión clara y un compromiso con la excelencia, no hay duda de que **la Terminal Satélite del Norte de Bogotá seguirá siendo un referente en el transporte intermunicipal**.
+----
 
-## ¿Listo para tu próximo viaje desde la Terminal Norte?
+Antes de viajar a ciertos destinos, es esencial estar protegido contra enfermedades endémicas. **La Terminal del Sur ofrece servicios de vacunación** para:
 
-Si estás planeando un viaje desde o hacia Bogotá, la Terminal Satélite del Norte es tu mejor opción.
+### Fiebre amarilla
 
-Cuentas con una amplia variedad de destinos, servicios de calidad y un compromiso con la seguridad, tu experiencia de viaje será inigualable. ¡Prepara tus maletas y embárcate en una nueva aventura desde la Terminal del Norte!
+Esencial si viajas a zonas selváticas o rurales donde esta enfermedad es endémica.
+
+### Sarampión y Rubeola
+
+Asegúrate de estar protegido contra estas enfermedades antes de tu viaje.
+
+## Destinos desde la Terminal del Sur
+
+----
+
+Desde la Terminal del Sur, puedes viajar a diversos destinos nacionales. Algunos de los más populares son Neiva, Sogamoso, Ibagué, Bucaramanga, entre otros. Es esencial conocer las rutas y horarios disponibles para planificar tu viaje adecuadamente.
+
+### Lugares populares y cómo escoger tu destino
+
+Al decidir tu destino, considera factores como **la duración del viaje, el costo y las actividades** que puedes realizar al llegar. La Terminal del Sur ofrece conexiones a destinos turísticos, ciudades principales y zonas rurales.
+
+En conclusión, la **Terminal del Sur Bogotá** es más que un punto de partida. Es un centro de servicios y conexiones que facilita el viaje de miles de personas diariamente.
+
+Si deseas conocer más sobre otros destinos o servicios relacionados con el transporte en Bogotá, te invitamos a seguir explorando nuestra página web. ¡Buen viaje!
 
 [Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
