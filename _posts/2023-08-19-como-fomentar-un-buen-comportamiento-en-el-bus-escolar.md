@@ -3,20 +3,16 @@ layout: post
 json-post: "true"
 date: 2023-08-22T03:10:54.664Z
 title: Cómo fomentar un buen comportamiento en el bus escolar
-description: Asegura el buen comportamiento en el bus escolar de tus niños.
-  Conoce las normativas y estrategias que te pueden ayudar. ¡Haz clic y mejora
-  tus viajes!
+description: Asegura el buen comportamiento en el bus escolar de tus niños. Conoce las normativas y estrategias que te pueden ayudar. ¡Haz clic y mejora tus viajes!
 autor: Paula Moreno
-h1: "Fomenta el buen comportamiento en el bus escolar  "
+h1: Fomenta el buen comportamiento en el bus escolar
 jpg: blog/comportamiento-bus-escolar.jpg
 webpm: blog/comportamiento-bus-escolar.webp
 webps: blog/comportamiento-bus-escolar-s.webp
 alt: Bus escolar
 permalink: comportamiento-bus-escolar
-excerpt: Viajar en un bus escolar puede ser una experiencia agradable o un
-  desafío, dependiendo del comportamiento de los estudiantes. Aprende cómo
-  fomentar un comportamiento adecuado en el bus escolar y garantizar viajes
-  seguros y armoniosos para todos.
+excerpt: Viajar en un bus escolar puede ser una experiencia agradable o un desafío, dependiendo del comportamiento de los estudiantes. Aprende cómo fomentar un comportamiento adecuado en el bus escolar y garantizar viajes seguros y armoniosos para todos.
+slug: como-fomentar-buen-comportamiento-en-el-bus-escolar
 ---
 * Do not remove this line (it will not be displayed)
   {:toc}
