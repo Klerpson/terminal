@@ -21,7 +21,7 @@ excerpt: Viajar en un bus escolar puede ser una experiencia agradable o un
 
 
 * Do not remove this line (it will not be displayed)
-  {:toc}
+{:toc}
 
 El viaje en el autobús escolar es una experiencia diaria para muchos estudiantes. Es un espacio donde los niños interactúan, comparten y, a veces, enfrentan desafíos relacionados con el comportamiento. 
 
