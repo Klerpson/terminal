@@ -113,7 +113,3 @@ Viajar en bus al aeropuerto es una experiencia compartida por muchos. Aquí algu
 ## Conclusión: Preparativos para tu viaje desde Cali al aeropuerto
 
 Viajar en bus desde Cali al aeropuerto es una opción conveniente y económica. Con la información adecuada y una planificación cuidadosa, los viajeros pueden garantizar un viaje cómodo y a tiempo. **¡Prepara tu próximo viaje y elige el bus para una experiencia sin complicaciones!**
-
-- - -
-
-*Nota: El contenido se basa en la estructura proporcionada y puede requerir ajustes adicionales según las necesidades específicas del sitio web o la audiencia objetivo.*
