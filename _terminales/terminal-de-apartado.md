@@ -18,7 +18,7 @@ direccion: Calle 92 entre carreras 102 y 104
 telefono: 6048282525 - 3013854157
 maps: https://goo.gl/maps/2owUwqi86j55tf7a8
 reviews: "2394"
-calificacion: 3,7
+calificacion: 3.7
 ciudad: Apartadó
 postal: "057840"
 latitude: "7.8806458"
