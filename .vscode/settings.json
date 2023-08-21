@@ -7,5 +7,80 @@
     "reclinables",
     "tiquete",
     "tiquetes"
-  ]
+  ],
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        },
+        {
+          "title": "json-post",
+          "name": "json-post",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "autor",
+          "name": "autor",
+          "type": "string"
+        },
+        {
+          "title": "h1",
+          "name": "h1",
+          "type": "string"
+        },
+        {
+          "title": "jpg",
+          "name": "jpg",
+          "type": "string"
+        },
+        {
+          "title": "webpm",
+          "name": "webpm",
+          "type": "string"
+        },
+        {
+          "title": "webps",
+          "name": "webps",
+          "type": "string"
+        },
+        {
+          "title": "alt",
+          "name": "alt",
+          "type": "string"
+        },
+        {
+          "title": "permalink",
+          "name": "permalink",
+          "type": "string"
+        },
+        {
+          "title": "excerpt",
+          "name": "excerpt",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "[markdown]": {
+  }
 }
