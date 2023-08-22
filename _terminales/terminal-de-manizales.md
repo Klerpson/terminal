@@ -132,7 +132,7 @@ Aunque fue remodelada en 2009, su esencia sigue siendo la misma: conectar a los 
 
 La primera terminal de transporte de Manizales se inauguró el 25 de mayo de 1988. Posteriormente, ante la creciente demanda en acceso de pasajeros y vehículos, se hizo un diseño más amplio, con mejores vías de acceso, y con una mejor distribución de todos las zonas. Por esta razón, se construyo la nueva terminal y se inauguró en el 2009.​
 
-**La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos**. En la actualidad operca con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes.
+**La Terminal de Transportes de Manizales también se conoce como estación Los Cámbulos**. En la actualidad opera con más de 30 empresas, atendiendo hasta más de 300000 pasajeros cada mes.
 
 Por otra parte, su zona comercial la convirtió en un punto de encuentro de la ciudad. Es un punto muy importante para las actividades económicas que toman lugar en la ciudad de Manizales, con la prestación del servicio de su auditorio.
 
