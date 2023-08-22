@@ -1,6 +1,6 @@
 ---
 layout: pasaje
-json-terminal: true
+json-post: true
 title: "Aguachica en Bus: Pasajes, Precios y Rutas"
 description: ¿Buscas pasajes a Aguachica? Encuentra las mejores rutas, precios y consejos para un viaje inolvidable. ¡Haz clic y planifica tu aventura!
 category: cesar

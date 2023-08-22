@@ -79,7 +79,7 @@
       "dateModified": "{{page.date}}",
       "author": {
         "@type": "Person",
-        "name": "{{page.autor}}"
+        "name": "{% if page.autor %}{{page.autor}}{% else %}{{site.author}}{% endif %}"
       },
       "publisher": {
         "@type": "Organization",
