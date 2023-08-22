@@ -9,9 +9,10 @@ noindex: true
 {% include head.html %}
 <body>
   {% include header.html %}
-  <main class="blog-gallery wrapper">
-    <h2>Los pasajes de la terminal que te llevarán a tu destino</h2>
+  <main class="blog-gallery wrapper flow">
+    <h1>Los pasajes de la terminal que te llevarán a tu destino</h1>
     <p>Sólo haz <b>clic en el departamento que necesitas.</b> La página filtrará por ti los destinos que ofrecen sus pasajes.</p>
+    {% include buscador.html %}
     <div class="blog-tags">
       <button data-name="all" class="active">Todos</button>
       <!-- get an array of the categories without dupes -->
@@ -28,7 +29,7 @@ noindex: true
           {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
       {% endfor %}
     </div>
-  <section class="posts">
+    <section class="posts">
     <!-- get an array of the categories without dupes -->
     {% capture filtered_categories_array %}{% for item in site.destinos %}{{ item.category }}|{% endfor %}{% endcapture %}
     <!-- start loop -->
@@ -42,7 +43,7 @@ noindex: true
         <div class="links">
           {% for destino in site.destinos %}
           {% if destino.category contains item.category %}
-          <article><a href="{{ destino.url }}"><h4>{{ destino.h1 }}</h4></a></article>
+          <article><a href="{{ destino.url }}"><h3>{{ destino.h1 }}</h3></a></article>
           {% endif %}
           {% endfor %}
         </div>
@@ -52,9 +53,8 @@ noindex: true
       {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
     {% endfor %}
   </section>
-  <p>Las frases de agradecimiento son una herramienta poderosa para expresar gratitud. Nos permiten poner en palabras lo que sentimos en nuestro corazón. Una frase de agradecimiento puede ser un regalo para la persona que la recibe, un recordatorio de cuánto se aprecia su bondad.</p>
+
 </main>
-{% include buscador.html %}
 {% include footer.html %}
 <a href="#">{% include boton-up.html %}</a>
   

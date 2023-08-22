@@ -32,6 +32,15 @@
             </svg> Terminales
     </a>
     {% endif %}
+    {% if page.url contains "pasajes" %}
+    <a href="{{site.baseurl}}/pasajes" title="Pasajes" class="active">
+      <svg class="svg-icon" viewBox="0 0 20 20" fill="none"><g stroke="#082d0f" stroke-linecap="round" stroke-linejoin="round"><path d="m4.323 2.094-.362.084a1.105 1.105 0 0 1-.845 1.328 1.133 1.133 0 0 1-1.337-.854l-.724.149a.752.752 0 0 0-.566.929s.334 1.551.724 3.296M11.288 2.085a1.226 1.226 0 1 1-2.266-.929L8.27.803a.826.826 0 0 0-1.077.436l-3.12 7.345-.409.929A.826.826 0 0 0 4.1 10.59l3.77 1.606a.826.826 0 0 0 1.077-.436l3.529-8.301a.826.826 0 0 0-.399-1.049l-.789-.325Z"/></g></svg>  Pasajes
+    </a>
+    {% else %}
+    <a href="{{site.baseurl}}/pasajes" title="Pasajes">
+      <svg class="svg-icon" viewBox="0 0 20 20" fill="none"><g stroke="#082d0f" stroke-linecap="round" stroke-linejoin="round"><path d="m4.323 2.094-.362.084a1.105 1.105 0 0 1-.845 1.328 1.133 1.133 0 0 1-1.337-.854l-.724.149a.752.752 0 0 0-.566.929s.334 1.551.724 3.296M11.288 2.085a1.226 1.226 0 1 1-2.266-.929L8.27.803a.826.826 0 0 0-1.077.436l-3.12 7.345-.409.929A.826.826 0 0 0 4.1 10.59l3.77 1.606a.826.826 0 0 0 1.077-.436l3.529-8.301a.826.826 0 0 0-.399-1.049l-.789-.325Z"/></g></svg>  Pasajes
+    </a>
+    {% endif %}
    
     {% if page.url contains "blog" %}
     <a href="{{site.baseurl}}/blog" title="Blog" class="active">
@@ -54,15 +63,6 @@
                  M11.304,15.576H1.683c-0.354,0-0.641,0.287-0.641,0.642s0.287,0.641,0.641,0.641h9.621c0.354,0,0.642-0.286,0.642-0.641
                 S11.657,15.576,11.304,15.576z"></path>
             </svg> Blog
-    </a>
-    {% endif %}
-    {% if page.url contains "pasajes" %}
-    <a href="{{site.baseurl}}/pasajes" title="Pasajes" class="active">
-      <svg class="svg-icon" viewBox="0 0 20 20" fill="none"><g stroke="#082d0f" stroke-linecap="round" stroke-linejoin="round"><path d="m4.323 2.094-.362.084a1.105 1.105 0 0 1-.845 1.328 1.133 1.133 0 0 1-1.337-.854l-.724.149a.752.752 0 0 0-.566.929s.334 1.551.724 3.296M11.288 2.085a1.226 1.226 0 1 1-2.266-.929L8.27.803a.826.826 0 0 0-1.077.436l-3.12 7.345-.409.929A.826.826 0 0 0 4.1 10.59l3.77 1.606a.826.826 0 0 0 1.077-.436l3.529-8.301a.826.826 0 0 0-.399-1.049l-.789-.325Z"/></g></svg>  Pasajes
-    </a>
-    {% else %}
-    <a href="{{site.baseurl}}/pasajes" title="Pasajes">
-      <svg class="svg-icon" viewBox="0 0 20 20" fill="none"><g stroke="#082d0f" stroke-linecap="round" stroke-linejoin="round"><path d="m4.323 2.094-.362.084a1.105 1.105 0 0 1-.845 1.328 1.133 1.133 0 0 1-1.337-.854l-.724.149a.752.752 0 0 0-.566.929s.334 1.551.724 3.296M11.288 2.085a1.226 1.226 0 1 1-2.266-.929L8.27.803a.826.826 0 0 0-1.077.436l-3.12 7.345-.409.929A.826.826 0 0 0 4.1 10.59l3.77 1.606a.826.826 0 0 0 1.077-.436l3.529-8.301a.826.826 0 0 0-.399-1.049l-.789-.325Z"/></g></svg>  Pasajes
     </a>
     {% endif %}
     
