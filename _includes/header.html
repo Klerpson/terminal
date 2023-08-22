@@ -94,6 +94,16 @@
         </ul>
       </div>
     </div>
+    {% elsif page.layout == "pasaje" %}
+    <div class="post-header">
+      <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}">
+      <h1>{{page.h1}}</h1>
+      <h2>Vamos directo a los pasajes de {{page.ciudad}}</h2>
+      <div class="post-social">
+          <a href="#{{page.enlace1}}" title="{{page.cta1}}" class="botones boton-amarillo">{{page.cta1}}</a>
+          <a href="#{{page.enlace2}}" title="{{page.cta2}}" class="botones boton-amarillo">{{page.cta2}}</a>
+      </div>
+    </div>
     {% endif %}
   {% endif %}
 </header>

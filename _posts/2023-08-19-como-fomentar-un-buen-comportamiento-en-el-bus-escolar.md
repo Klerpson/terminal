@@ -12,7 +12,6 @@ webps: blog/comportamiento-bus-escolar-s.webp
 alt: Bus escolar
 permalink: comportamiento-bus-escolar
 excerpt: Viajar en un bus escolar puede ser una experiencia agradable o un desafío, dependiendo del comportamiento de los estudiantes. Aprende cómo fomentar un comportamiento adecuado en el bus escolar y garantizar viajes seguros y armoniosos para todos.
-slug: como-fomentar-buen-comportamiento-en-el-bus-escolar
 ---
 * Do not remove this line (it will not be displayed)
 {:toc}

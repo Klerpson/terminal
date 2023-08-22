@@ -1,7 +1,7 @@
 ---
 layout: terminal
 json-terminal: true
-title: Terminal de Aguachica Cesar | Compra tus pasajes
+title: Terminal de Transporte de Aguachica Cesar
 description: La Terminal de Aguachica es más que un punto de tránsito. Conoce sus empresas transportadoras, servicios y más. ¡Entra ahora!
 category: cesar
 h1: "Aguachica: un viaje por su Terminal de Transporte"
