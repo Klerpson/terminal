@@ -60,7 +60,7 @@ empresas:
 
 {% include add1.html %}
 
-Viajar en bus es una de [las experiencias más auténticas que se pueden vivir en Colombia](2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus){:rel="nofollow noopener noreferrer" target="_blank"}. Y si hablamos de **viajar desde y hacia Manizales**, la Terminal de Transporte de esta ciudad se convierte en un punto de partida y llegada esencial.
+Viajar en bus es una de [las experiencias más auténticas que se pueden vivir en Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}){:rel="nofollow noopener noreferrer" target="_blank"}. Y si hablamos de **viajar desde y hacia Manizales**, la Terminal de Transporte de esta ciudad se convierte en un punto de partida y llegada esencial.
 
 La terminal de Manizales se encuentra en el corazón de la ciudad, hacia el sur, cerca de las principales avenidas y líneas de colectivos. **Es la solución a la necesidad de transporte terrestre de la ciudad de Manizales.**
 
