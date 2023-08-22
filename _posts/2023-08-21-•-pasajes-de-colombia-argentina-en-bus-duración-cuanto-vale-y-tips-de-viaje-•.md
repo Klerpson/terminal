@@ -47,9 +47,11 @@ Hay varias rutas para viajar en bus desde Colombia a Argentina. Una opción popu
 ### Diversidad de Climas
 Desde el clima tropical de Colombia hasta el clima templado de Buenos Aires, prepárate para experimentar una variedad de temperaturas y condiciones climáticas.
 
-**Gastronomía en el Camino**: Aprovecha las paradas para degustar platos típicos de cada región. No te pierdas una arepa colombiana o un asado argentino.
+### Gastronomía en el Camino
+Aprovecha las paradas para degustar platos típicos de cada región. No te pierdas una arepa colombiana o un asado argentino.
 
-**Amistades Inesperadas**: Viajar en bus es una oportunidad para conocer a otros viajeros y compartir experiencias. Es común terminar el viaje con nuevos amigos.
+### Amistades Inesperadas
+Viajar en bus es una oportunidad para conocer a otros viajeros y compartir experiencias. Es común terminar el viaje con nuevos amigos.
 
 ## Consejos para un Viaje Cómodo y Seguro en bus hasta Argentina
 
