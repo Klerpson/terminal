@@ -18,7 +18,7 @@ excerpt: Viajar en bus de Colombia a Argentina es más que un simple trayecto; A
   adecuado para ti en cuanto a precios  y algunos consejos prácticos
 ---
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
 Viajar en bus de Colombia a Argentina es más que un simple trayecto; A lo largo de este artículo, te guiaré por las ventajas de optar por el bus mas adecuado para ti en cuanto a precios  y algunos consejos prácticos para que tu aventura sea cómoda y segura.
 
@@ -40,7 +40,7 @@ Puedes adquirir tus pasajes directamente en las terminales de buses o a través 
 
 Hay varias rutas para viajar en bus desde Colombia a Argentina. Una opción popular es tomar un bus desde Bogotá hasta Cali y luego otro desde Cali hasta Retiro en Buenos Aires. El viaje completo, incluyendo transbordos, dura aproximadamente 4 días y 5 horas.
 
-Si bien el viaje es largo, las comodidades de los buses modernos, como asientos reclinables, Wi-Fi y servicios a bordo, hacen que el trayecto sea placentero.
+> Si bien el viaje es largo, las comodidades de los buses modernos, como asientos reclinables, Wi-Fi y servicios a bordo, hacen que el trayecto sea placentero.
 
 ## ¿Qué Esperar Durante el Viaje?
 
