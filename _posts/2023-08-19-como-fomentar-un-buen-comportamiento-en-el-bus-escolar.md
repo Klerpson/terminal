@@ -112,6 +112,7 @@ Aunque cada colegio o empresa de transporte puede tener sus propias normas, exis
 * **Cuidar el autobús**: Todos los elementos del autobús deben ser tratados con respeto. No se debe estropear, ensuciar o dañar ninguna parte del vehículo.
 * **Evitar comer y beber**: Para mantener el bus limpio y evitar posibles accidentes, no se debe comer ni beber durante el trayecto.
 * **Permanecer sentado**: Es esencial permanecer sentado y no sacar ninguna parte del cuerpo por la ventana hasta que el bus se detenga por completo.
+{﻿:class="seccion"}
 
 Estas normas, aunque pueden parecer básicas, son esenciales para garantizar la seguridad y el bienestar de todos los pasajeros del bus escolar.
 
