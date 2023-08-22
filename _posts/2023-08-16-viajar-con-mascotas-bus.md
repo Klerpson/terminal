@@ -1,8 +1,8 @@
 ---
 layout: post
 json-post: "true"
-title: "Viaja con tu Mascota en Bus: Todo lo que Debes Saber | Reglamentos y Consejos"
-description: "Todo lo que necesita saber para un viaje en bus con tus mascotas: regulaciones, consejos y preparativos. ¡Entérate y disfruta de un trayecto sin inconvenientes!"
+title: "Viaja con tu Mascota en Bus | Reglamentos y Consejos"
+description: "¿Qué necesitas saber para un viajar en bus con tus mascotas? • regulaciones • consejos • preparativos ¡Entérate y disfruta de un trayecto sin inconvenientes!"
 autor: "Camilo Cuspián"
 h1: "Viajar con mascotas en bus: tips esenciales"
 jpg: blog/viajar-con-mascotas.jpg
@@ -34,11 +34,11 @@ Antes de embarcarnos en cualquier aventura con nuestra mascota, es esencial cono
 * Documentación necesaria : En la mayoría de los países es imprescindible tener al día la cartilla de vacunación de la mascota, y en algunos casos, un certificado de salud expedido por un veterinario.
 * Requisitos de salud y bienestar : Asegúrese de que su mascota esté en buen estado de salud para viajar. Es vital que hayan comido y bebido agua, pero no justo antes del viaje para evitar mareos.
 
-## Viajar con mascotas en diferentes paises
+## Viajar con mascotas en diferentes países
 
 ### Viajar con mascotas en bus en Colombia
 
-Según el [Mintransporte]( [https://mintransporte.gov.co/publicaciones/7884/antes-de-viajar-con-su-mascota-desde-las-terminales-de-transporte-verifique-con-la-empresa* a-contratar-las-](https://mintransporte.gov.co/publicaciones/7884/antes-de-viajar-con-su-mascota-desde-las-terminales-de-transporte-verifique-con-la-empresa-a-contratar-las-) politicas-de-precios-y-condiciones-supertransporte/), es crucial verificar con la empresa con la que se va a contratar las políticas de precios y condiciones.
+Según el [Mintransporte](https://mintransporte.gov.co/publicaciones/7884/antes-de-viajar-con-su-mascota-desde-las-terminales-de-transporte-verifique-con-la-empresa- a-contratar-las-politicas-de-precios-y-condiciones-supertransporte/){:rel="nofollow noopener noreferrer" target="_blank"}, es crucial verificar con la empresa con la que se va a contratar las políticas de precios y condiciones.
 
 * Regulaciones específicas : En Colombia, es obligatorio que las mascotas viajen en un guacal o maleta especial que garantice su comodidad y seguridad.
 * Tips para un viaje seguro : Es recomendable viajar en horarios donde la temperatura sea más amena para evitar golpes de calor.
@@ -59,16 +59,16 @@ Estos países tienen similitudes en sus regulaciones, pero también peculiaridad
 
 ## Compañías de buses y sus políticas sobre mascotas
 
-### Pullman bus y su politica para mascotas
+### Pullman bus y su política para mascotas
 
 Pullman es una de las principales empresas de buses en Latinoamérica.
 
 * Procedimientos y reglas específicas : Es obligatorio que las mascotas viajen en un guacal y en la bodega del bus. Además, se debe presentar la documentación pertinente y pagar un extra.
 * Consejos para viajar con Pullman bus : Reserve con anticipación y asegúrese de tener todo en regla para evitar contratiempos.
 
-### Otras compañias populares y sus politicas
+### Otras compañías populares y sus políticas
 
-* Comparativa entre empresas : Mientras que [Copetran](https://www.copetran.com/viaja-con-tus-mascotas/) tiene una política abierta para viajar con mascotas, otros, como [Flota La Macarena](https://www.flotalamacarena.com/flotas-politica/politica-de-mascotas/) , requieren procedimientos específicos.
+* Comparativa entre empresas : Mientras que [Copetran](https://www.copetran.com/viaja-con-tus-mascotas/){:rel="nofollow noopener noreferrer" target="_blank"} tiene una política abierta para viajar con mascotas, otros, como [Flota La Macarena](https://www.flotalamacarena.com/flotas-politica/politica-de-mascotas/){:rel="nofollow noopener noreferrer" target="_blank"} , requieren procedimientos específicos.
 
 ## Preparativos previos al viaje
 
