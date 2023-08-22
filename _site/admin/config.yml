@@ -84,5 +84,7 @@ collections:
       - { label: 'Mediumx600', name: 'webpm', widget: 'image' }
       - { label: 'Smallx376', name: 'webps', widget: 'image' }
       - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Botón 1', name: 'cta1', widget: 'string' }
+      - { label: 'Botón 2', name: 'cta2', widget: 'string' }
       - { label: 'URL', name: 'permalink', widget: 'string' }
       - { label: 'Content', name: 'body', widget: 'markdown' }
