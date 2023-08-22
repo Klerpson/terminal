@@ -32,12 +32,6 @@
   
   
   
-      <url>
-        <loc>http://localhost:4000/pasajes</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
   
   
   
