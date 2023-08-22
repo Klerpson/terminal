@@ -12,7 +12,7 @@ jpg: blog/buses-colombia-argentina.jpg
 webpm: blog/buses-colombia-argentina-m.webp
 webps: blog/buses-colombia-argentina-s.webp
 alt: bus de colombia a Argentina
-permalink: pasaje-bus-argentina
+permalink: blog/pasaje-bus-argentina
 excerpt: Viajar en bus de Colombia a Argentina es más que un simple trayecto; A
   lo largo de este artículo, te guiaré por las ventajas de optar por el bus mas
   adecuado para ti en cuanto a precios  y algunos consejos prácticos
