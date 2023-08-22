@@ -1,30 +1,23 @@
 ---
 layout: terminal
 json-terminal: true
+date: 2023-08-22T13:03:34.866Z
 title: Terminal de Transporte de Aguachica Cesar
-description: La Terminal de Aguachica es más que un punto de tránsito. Conoce sus empresas transportadoras, servicios y más. ¡Entra ahora!
+description: La Terminal de Aguachica es más que un punto de tránsito. Conoce
+  sus empresas transportadoras, servicios y más. ¡Entra ahora!
 category: cesar
 h1: "Aguachica: un viaje por su Terminal de Transporte"
 jpg: terminales/terminal-aguachica.jpg
-webps: terminales/terminal-aguachica-376.webp
 webpm: terminales/terminal-aguachica-600.webp
+webps: terminales/terminal-aguachica-376.webp
 alt: Terminal de Aguachica
-webp1: terminales/terminal-aguachica-cesar-600.webp
-webp2: terminales/terminal-aguachica-cesar-376.webp
 subtitle: Compra tus pasajes con las empresas de buses de la terminal de Aguachica
-intro: "La terminal de Aguachica está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
-contacto: http://terminalaguachica.com/web/contacto/
-maps: https://goo.gl/maps/12vWWRazPkHTLTVE7
-direccion: 'Carrera 12 No. 7 - 62'
-telefono: 6055651370
+intro: La terminal de Aguachica está cerca al centro histórico. Es el centro de
+  transporte de toda la región de la costa caribeña colombiana.
 email: info@terminalaguachica.com
-ciudad: Aguachica
-postal: 205010
+direccion: Carrera 12 No. 7 - 62
+maps: https://goo.gl/maps/12vWWRazPkHTLTVE7
 calificacion: 3.9
-reviews: 4216
-latitude: 8.3061032
-longitude: -73.6305622
-permalink: /terminal-de-aguachica
 empresas:
   - COOINTRABOS LTD: 6055779548
   - COOINTRACUR LTD: 6055750602
@@ -52,6 +45,16 @@ empresas:
   - SOTRAMAGDALEN: 3123046695 - 3156220876
   - EXTRA RAPIDO LOS MOTILONES S.: 6075492822 - 6075778072
   - EMPRESA DE TRANSPORTES LUSITANIA S.A: 6076420077
+contacto: http://terminalaguachica.com
+telefono: 6055651370
+reviews: 4216
+ciudad: Aguachica
+postal: 205010
+latitude: 8.3061032
+longitude: -73.6305622
+permalink: /terminal-de-aguachica
+webp1: terminales/terminal-aguachica-cesar-600.webp
+webp2: terminales/terminal-aguachica-cesar-376.webp
 ---
 ## La terminal de transporte de Aguachica
 
