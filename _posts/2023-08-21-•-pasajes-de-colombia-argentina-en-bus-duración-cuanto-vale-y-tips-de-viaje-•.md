@@ -44,7 +44,8 @@ Hay varias rutas para viajar en bus desde Colombia a Argentina. Una opción popu
 
 ## ¿Qué te ofrece tu pasaje en bus hacia Argentina?
 
-**Diversidad de Climas**: Desde el clima tropical de Colombia hasta el clima templado de Buenos Aires, prepárate para experimentar una variedad de temperaturas y condiciones climáticas.
+### Diversidad de Climas
+Desde el clima tropical de Colombia hasta el clima templado de Buenos Aires, prepárate para experimentar una variedad de temperaturas y condiciones climáticas.
 
 **Gastronomía en el Camino**: Aprovecha las paradas para degustar platos típicos de cada región. No te pierdas una arepa colombiana o un asado argentino.
 
