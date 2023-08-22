@@ -3,15 +3,20 @@ layout: post
 json-post: "true"
 date: 2023-08-20T03:10:54.664Z
 title: Cómo fomentar un buen comportamiento en el bus escolar
-description: Asegura el buen comportamiento en el bus escolar de tus niños. Conoce las normativas y estrategias que te pueden ayudar. ¡Haz clic y mejora tus viajes!
+description: Asegura el buen comportamiento en el bus escolar de tus niños.
+  Conoce las normativas y estrategias que te pueden ayudar. ¡Haz clic y mejora
+  tus viajes!
 autor: Paula Moreno
 h1: Fomenta el buen comportamiento en el bus escolar
 jpg: blog/comportamiento-bus-escolar.jpg
 webpm: blog/comportamiento-bus-escolar.webp
 webps: blog/comportamiento-bus-escolar-s.webp
 alt: Bus escolar
-permalink: comportamiento-bus-escolar
-excerpt: Viajar en un bus escolar puede ser una experiencia agradable o un desafío, dependiendo del comportamiento de los estudiantes. Aprende cómo fomentar un comportamiento adecuado en el bus escolar y garantizar viajes seguros y armoniosos para todos.
+permalink: blog/comportamiento-bus-escolar
+excerpt: Viajar en un bus escolar puede ser una experiencia agradable o un
+  desafío, dependiendo del comportamiento de los estudiantes. Aprende cómo
+  fomentar un comportamiento adecuado en el bus escolar y garantizar viajes
+  seguros y armoniosos para todos.
 ---
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -24,7 +29,7 @@ A continuación, se detallan las pautas y recomendaciones para fomentar un compo
 
 ## ¿Por qué es importante el buen comportamiento en el bus escolar?
 
------
+- - -
 
 ### Beneficios de mantener la disciplina durante el trayecto del bus escolar
 
@@ -34,7 +39,7 @@ A continuación, se detallan las pautas y recomendaciones para fomentar un compo
 
 ## Reglas básicas para el comportamiento en el bus escolar
 
------
+- - -
 
 ### Respeto hacia el conductor y otros estudiantes en el bus
 
@@ -54,7 +59,7 @@ Hablar en un tono moderado y evitar gritar o hacer ruidos que puedan distraer al
 
 ## Estrategias para promover un comportamiento positivo en el bus escolar
 
------
+- - -
 
 ### Programas de recompensas para buen comportamiento
 
@@ -72,7 +77,7 @@ Mantener una comunicación abierta y constante entre la escuela, los padres y lo
 
 ## Consejos para padres: cómo preparar a tu hijo para el viaje en bus escolar
 
------
+- - -
 
 ### Hablar sobre la importancia del respeto y la seguridad
 
