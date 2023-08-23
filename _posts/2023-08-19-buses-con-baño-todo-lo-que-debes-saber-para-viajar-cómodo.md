@@ -2,7 +2,7 @@
 layout: post
 json-post: "true"
 date: 2023-08-02T02:30:53.906Z
-title: "Buses con baño: Todo lo que debes saber para viajar cómodo"
+title: Buses con baño | Lo que debes saber para viajar cómodo
 description: Viaja cómodo en buses con baños ¡Entérate aquí de su historia,
   funcionamiento y consejos para su uso!
 autor: Camilo Cuspián
