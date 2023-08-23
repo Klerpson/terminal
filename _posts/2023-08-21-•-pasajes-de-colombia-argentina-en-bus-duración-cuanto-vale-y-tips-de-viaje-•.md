@@ -2,8 +2,7 @@
 layout: post
 json-post: "true"
 date: 2023-09-22T00:08:13.981Z
-title: • Pasajes de Colombia - Argentina en bus | Duración, cuanto vale y Tips
-  de Viaje •
+title: "Pasajes de bus: Colombia - Argentina • Duración • Precios • Tips"
 description: Pasajes de Colombia a Argentina en bus | Entérate de cuanto vale,
   duraciones y tips para un viaje cómodo y seguro
 autor: Camilo Cuspián
