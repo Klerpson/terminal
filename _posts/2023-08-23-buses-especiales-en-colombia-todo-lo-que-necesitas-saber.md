@@ -22,27 +22,19 @@ En el mundo del transporte de pasajeros, **los buses de servicios especiales se 
 Si buscas adquirir uno o conocer más sobre ellos en Bogotá y alrededores, este artículo es para ti.
 
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
 ## ¿Qué son los buses de servicios especiales?
 
 Los buses de servicios especiales son vehículos diseñados para satisfacer necesidades específicas de transporte que no pueden ser cubiertas por los buses convencionales.
 
-Estos buses pueden ser adaptados para diferentes propósitos, desde el transporte de personas con movilidad reducida hasta el traslado de grupos grandes en eventos especiales.
+Estos buses pueden ser adaptados para diferentes propósitos. Por ejemplo, son muy útiles en el transporte de personas con movilidad reducida, o en el traslado de grupos grandes para asisitir a eventos especiales.
 
 ## Ventajas de optar por un bus de servicios especiales
 
-**Eficiencia en el transporte:** 
-
-Estos vehículos están diseñados para maximizar el espacio y ofrecer comodidad a los pasajeros, lo que los hace ideales para viajes largos o para transportar a un gran número de personas.
-
-**Adaptabilidad a diferentes necesidades**
-
-Ya sea que necesites un bus con rampas para sillas de ruedas o un vehículo con un espacio amplio para equipaje, ***los buses de servicios especiales pueden ser adaptados para satisfacer estas demandas.***
-
-**Seguridad garantizada**
-
-Estos buses suelen contar con características de seguridad adicionales, como cinturones de seguridad para todos los asientos y sistemas avanzados de frenado.
+* **Eficiencia en el transporte:** Estos vehículos están diseñados para maximizar el espacio y ofrecer comodidad a los pasajeros, lo que los hace ideales para viajes largos o para transportar a un gran número de personas.
+* **Adaptabilidad a diferentes necesidades:** Ya sea que necesites un bus con rampas para sillas de ruedas o un vehículo con un espacio amplio para equipaje, ***los buses de servicios especiales pueden ser adaptados para satisfacer estas demandas.***
+* **Seguridad garantizada:** Estos buses suelen contar con características de seguridad adicionales, como cinturones de seguridad para todos los asientos y sistemas avanzados de frenado.
 
 - - -
 
