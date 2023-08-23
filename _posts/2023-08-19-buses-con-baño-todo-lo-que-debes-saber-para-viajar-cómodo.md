@@ -57,7 +57,7 @@ Para garantizar una experiencia agradable para todos los pasajeros, es esencial 
 
 El mantenimiento regular es esencial para garantizar que el baño en un bus funcione correctamente. Además, mantener el baño limpio no solo es crucial para la higiene, sino que también ***fomenta un uso respetuoso por parte de los pasajeros.***
 
-  Los operadores de buses suelen tener protocolos estrictos para limpiar y desinfectar los baños, garantizando así la ***seguridad y comodidad*** de todos a bordo.
+Los operadores de buses suelen tener protocolos estrictos para limpiar y desinfectar los baños, garantizando así la ***seguridad y comodidad*** de todos a bordo.
 
 > ***Los buses con baño*** han revolucionado la forma en que viajamos, ofreciendo *comodidad y conveniencia* en largos viajes por carretera. Al entender cómo funcionan y seguir las pautas adecuadas, podemos garantizar un cómodo y agradable viaje para todos a bordo. 
 
