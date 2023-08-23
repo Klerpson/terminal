@@ -21,7 +21,7 @@ excerpt: Viajar en bus con baño incorporado eleva la experiencia de comodidad e
 
 ## Beneficios de viajar en buses con baño
 
- Viajar largas distancias puede ser un desafío, especialmente cuando se trata de necesidades básicas como ir al baño. 
+Viajar largas distancias puede ser un desafío, especialmente cuando se trata de necesidades básicas como ir al baño. 
 
 Los buses con baño ofrecen una solución conveniente para este problema, ***permitiendo a los pasajeros viajar con comodidad y sin interrupciones.*** Estos son algunos de los beneficios de elegir un bus con baño:
 
@@ -31,7 +31,7 @@ Los buses con baño ofrecen una solución conveniente para este problema, ***per
 
 ## Historia de los baños en buses
 
- La incorporación del baño en los ómnibus de larga distancia ***comenzó en la década del 60***. Originalmente, se proveían para servicios especiales donde el confort era una prioridad. 
+La incorporación del baño en los ómnibus de larga distancia ***comenzó en la década del 60***. Originalmente, se proveían para servicios especiales donde el confort era una prioridad. 
 
 Sin embargo, no fue hasta la década del 80 que los baños se convirtieron en una característica estándar en muchos buses, especialmente con el auge de la industria carrocera en lugares como Argentina.
 
