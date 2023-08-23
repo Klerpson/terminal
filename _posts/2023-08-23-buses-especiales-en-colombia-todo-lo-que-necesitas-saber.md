@@ -1,7 +1,7 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-08-23T03:23:58.168Z
+date: 2023-09-05T03:23:58.168Z
 title: "Buses especiales en Colombia: Todo lo que necesitas saber"
 description: "Buses de servicio especial en Colombia: Encuentra la mejor opción
   ¡Haz clic y conoce las ventajas de estos vehículos únicos"
