@@ -17,7 +17,7 @@ excerpt: Viajar en buses internacionales, se ha convertido en una opción popula
   empresas y consejos prácticos para tu viaje
 ---
 * Do not remove this line (it will not be displayed)
-  {:toc}
+{:toc}
 
 Viajar en buses internacionales, se ha convertido en una opción popular para muchos. Esta guía te ofrece una información detallada sobre las rutas, empresas y consejos prácticos para tu viaje.
 
@@ -35,7 +35,7 @@ Los Estados Unidos, conocido por su vasta extensión territorial, cuenta con una
 
 Viajar en bus en este país es una experiencia que combina comodidad, seguridad y vistas panorámicas.
 
-* **Diversidad de empresas**: Hay una amplia variedad de empresas que ofrecen servicios de bus, desde las más lujosas hasta las más económicas.
+* **Diversidad de empresas**: Algunas de las principales incluyen Greyhound, Megabus y Coach USA. Es esencial investigar y comparar estas opciones para encontrar la que mejor se adapte a tus necesidades y presupuesto.
 * **Conectividad**: Las principales ciudades como Nueva York, Los Ángeles y Chicago están bien conectadas por esta red de transporte.
 * **Comodidades a bordo**: Muchos buses ofrecen servicios como Wi-Fi, asientos reclinables y entretenimiento a bordo.
 
@@ -56,8 +56,6 @@ Viajar en bus puede ser una experiencia placentera si se toman en cuenta algunos
 
 ## El bus, una opción para descubrir nuevos horizontes
 
-> Viajar en buses internacionales es una excelente manera de descubrir nuevos destinos, conocer nuevas culturas y disfrutar de paisajes únicos.
+> Viajar en buses internacionales es una excelente manera de visitar nuevos destinos, conocer nuevas culturas y disfrutar de paisajes únicos.
 
- Ya sea que viajes dentro de un país o cruces fronteras internacionales, el bus te ofrece una experiencia única. 
-
-Si estás interesado en conocer más sobre destinos y opciones de viaje en bus, te invitamos a seguir explorando nuestra página web para más información.
+Si estás interesado en conocer más sobre destinos y opciones de viaje en bus, te invitamos a seguir informandote en nuestra página web para más información.
