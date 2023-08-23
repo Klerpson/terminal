@@ -59,7 +59,7 @@ Aprovecha las paradas para degustar platos típicos de cada región. No te pierd
 
 Viajar en bus es una oportunidad para conocer a otros viajeros y compartir experiencias. Es común terminar el viaje con nuevos amigos.
 
-## Consejos para un Viaje Cómodo y Seguro en bus hasta Argentina
+## Consejos para un viaje cómodo y seguro en bus hasta Argentina
 
 * **Empaque Inteligente.** Dado que estarás en el bus durante varios días, es esencial llevar lo necesario. Considera llevar una almohada de viaje, tapones para los oídos, una manta ligera y snacks. Además, no olvides tus documentos y un pequeño botiquín de primeros auxilios.
 * **Vestimenta Adecuada.** Opta por ropa cómoda y lleva capas que puedas agregar o quitar según el clima. Un buen par de zapatos es esencial, especialmente si decides explorar durante las paradas.
