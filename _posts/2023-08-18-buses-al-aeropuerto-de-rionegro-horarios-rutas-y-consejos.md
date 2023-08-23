@@ -60,6 +60,8 @@ Los buses a el Aeropuerto de Rionegro [Combuses](https://combusessa.com/) están
 
 ## Consejos para viajar
 
+Viajar en bus a el ***aeropuerto de Rionegro puede ser práctico y cómodo*** si se toman en cuenta ciertos consejos. A continuación, te ofrecemos recomendaciones clave para que tu trayecto sea placentero y sin contratiempos.
+
 * **Equipaje:** Se permite llevar hasta 2 maletas por persona.
 * **Ruta:** La empresa opera exclusivamente entre puntos específicos de Medellín y el Aeropuerto de Rionegro.
 * **Mascotas:** Consulta previamente la política de traslado de mascotas.
