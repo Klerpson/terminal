@@ -30,6 +30,8 @@ Puedes adquirir tus pasajes directamente en las terminales de buses o a través 
 
 ## ¿Por qué elegir el bus para viajar a Argentina?
 
+_﻿___
+
 **Económico**: Viajar en bus es una de las opciones más económicas. Según el sitio web *[Rome2Rio](https://www.rome2rio.com/es/s/Colombia/Buenos-Aires),* el costo del viaje en bus varía entre $100 y $460, lo que puede representar un ahorro significativo en comparación con otros medios de transporte.
 
 **Paisajes Inigualables**: Atravesarás diversos ecosistemas, desde las montañas colombianas hasta las llanuras argentinas. Cada kilómetro recorrido es una postal en movimiento.
