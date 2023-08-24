@@ -20,7 +20,7 @@ excerpt: Viajar al Aeropuerto de Rionegro en bus desde Medellín ya no tiene que
   contratiempos
 ---
 * Do not remove this line (it will not be displayed)
-  {:toc}
+{:toc}
 
 ## ¿Por qué elegir el bus para llegar al Aeropuerto de Rionegro?
 
