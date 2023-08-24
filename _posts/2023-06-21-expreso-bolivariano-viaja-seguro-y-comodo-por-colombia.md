@@ -22,6 +22,8 @@ La empresa cuenta con una amplia flota de autobuses, **una cobertura en más de 
 
 ## Pasajes y compra de tiquetes en Expreso Bolivariano
 
+{% include add2.html %}
+
 ### Compra de tiquetes por Internet a través de Pinbus y redBus
 
 Expreso Bolivariano ofrece la compra de tiquetes por Internet a través de las plataformas de [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}) y [redBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}).
@@ -80,7 +82,7 @@ Algunos de los horarios más frecuentes son los que se presentan **desde Bogotá
 
 ## Expreso Bolivariano y la calidad de sus servicios
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 Expreso Bolivariano es una firma de transporte colombiana con un enfoque principal es la **seguridad**, la **comodidad** y la **tecnología** de sus autobuses, lo que les ha permitido ganar la confianza y preferencia de una amplia base de clientes leales.
 

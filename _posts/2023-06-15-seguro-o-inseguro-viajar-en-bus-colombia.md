@@ -24,7 +24,7 @@ En Colombia, la seguridad en el transporte público es un tema importante a tene
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-# ¿Es seguro o inseguro viajar en bus en Colombia?
+## ¿Es seguro o inseguro viajar en bus en Colombia?
 
 {% include add3.html %}
 
@@ -61,7 +61,7 @@ Por este motivo, es fundamental tener en cuenta las pautas de seguridad y ser re
 
 ### Pautas de seguridad para pasajeros durante el viaje en autobús
 
-{% include img-post.html webpb="blog/seguridad-bus-colombia-cinturon-800.webp" webps="blog/seguridad-bus-colombia-cinturon-376.webp" alt="Pasajero utilizando el cinturón de seguridad" title="Cinturón de seguridad" %}
+{% include img-post.html webpm="blog/seguridad-bus-colombia-cinturon-800.webp" webps="blog/seguridad-bus-colombia-cinturon-376.webp" alt="Pasajero utilizando el cinturón de seguridad" title="Cinturón de seguridad" %}
 
 Para aumentar la seguridad durante el viaje en autobús, es importante seguir algunas pautas de seguridad básicas. Algunas de estas pautas pueden ser:
 
