@@ -36,13 +36,13 @@ Estos buses pueden ser adaptados para diferentes propósitos. Por ejemplo, son m
 * **Adaptabilidad a diferentes necesidades:** Ya sea que necesites un bus con rampas para sillas de ruedas o un vehículo con un espacio amplio para equipaje, ***los buses de servicios especiales pueden ser adaptados para satisfacer estas demandas.***
 * **Seguridad garantizada:** Estos buses suelen contar con características de seguridad adicionales, como cinturones de seguridad para todos los asientos y sistemas avanzados de frenado.
 
-- - -
-
 ## Factores a considerar al comprar un bus de servicio especial
 
 * **Propósito del vehículo:** Es fundamental tener claro para qué se utilizará el bus, ya que esto determinará las características que debe tener.
 * **Capacidad:** Dependiendo del número de pasajeros que se espera transportar, se deberá optar por un bus de mayor o menor tamaño.
 * **Precio:** Como en cualquier inversión, es esencial establecer un presupuesto y buscar opciones que se ajusten a él.
+
+- - -
 
 ## Buses de servicio especial en Bogotá
 
@@ -58,4 +58,4 @@ Encuentra **[aquí ](https://www.tucarro.com.co/)**una selección de buses, como
 
 Si estás considerando adquirir un bus especial, te invitamos a **ver las diferentes opciones disponibles en el mercado** y a elegir la que mejor se adapte a tus necesidades. ¡Haz tu elección y disfruta de los beneficios de contar con un transporte adaptado a ti!
 
-Y﻿ recuerda si deseas seguir aprendiendo sobre cómo hacer de tus viajes sean seguros y agradables, continúa leyendo nuestros artículos del blog.
+Y﻿ recuerda si deseas seguir aprendiendo sobre cómo hacer de tus viajes sean de tu agrado y no un dolor de cabeza, continúa leyendo nuestros artículos del blog.
