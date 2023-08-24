@@ -1,30 +1,41 @@
 ---
-layout: post
-title: "Transportes Omega: Comodidad y seguridad en tu viaje ↩"
-description: 'Transportes Omega es una empresa que destaca por su comodidad y seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14 departamentos del país.'
-autor: terminaldetransporte.com
-h1: 'Transportes Omega: Comodidad y seguridad en tu próximo viaje intermunicipal'
-h1_alternativo: 'Viajar en Transportes Omega por Colombia'
-award: 'Transportes Omega: viaja seguro y cómodo por Colombia'
-date: 2023-07-03
-keywords: [bus, viajes, colombia, omega, transporte]
-jpg: blog/transportes-omega.jpg
-hero: blog/transportes-omega.webp
-webps: blog/transportes-omega-376.webp
-webpm: blog/transportes-omega-600.webp
-webpb: blog/transportes-omega-800.webp
-alt: Expreso Bolivariano Bus
-json-post: true
-permalink: blog/transportes-omega-comodidad-seguridad
+h1_alternativo: Viajar en Transportes Omega por Colombia
+excerpt: "**Transportes Omega es una empresa de transporte terrestre
+  intermunicipal** que destaca por su comodidad y seguridad en sus servicios.
+  Con más de 300 buses y 70 agencias, cubre 14 departamentos del país."
 referencias:
   - Imágenes tomadas de la página web oficial: https://www.expresobrasilia.com/
+layout: post
+json-post: true
+date: 2023-07-03
+autor: terminaldetransporte.com
+jpg: blog/transportes-omega.jpg
+webpb: blog/transportes-omega-800.webp
 excerpt_separator: <!-- excerpt -->
+title: "Transportes Omega: Comodidad y seguridad en tu viaje ↩"
+h1: "Transportes Omega: Comodidad y seguridad en tu próximo viaje intermunicipal"
+webpm: blog/transportes-omega-600.webp
+alt: Expreso Bolivariano Bus
+keywords:
+  - bus
+  - viajes
+  - colombia
+  - omega
+  - transporte
+description: Transportes Omega es una empresa que destaca por su comodidad y
+  seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14
+  departamentos del país.
+webps: blog/transportes-omega-376.webp
+permalink: blog/transportes-omega-comodidad-seguridad
+hero: blog/transportes-omega.webp
+award: "Transportes Omega: viaja seguro y cómodo por Colombia"
 ---
 **Transportes Omega es una empresa de transporte terrestre intermunicipal** que destaca por su comodidad y seguridad en sus servicios. Con más de **300 buses** y **70 agencias**, cubre **14 departamentos** del país.
 
 <!-- excerpt -->
+
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
 [En su sitio web oficial](https://omega.com.co){:rel="nofollow noopener noreferrer" target="_blank"} se puede encontrar información detallada sobre sus rutas y horarios, así como la compra segura y rápida de pasajes en línea.
 
@@ -40,13 +51,15 @@ En el sitio web oficial de Transportes Omega, se encuentra disponible **un mapa 
 
 [Página de rutas](https://omega.com.co/rutas/){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
+![Terminal donde funciona Omega](blog/terminal-apartado-376.webp "Punto Omega terminal")
+
 ### Compra rápida y segura de pasajes en línea
 
 Otra de las ventajas de Transportes Omega es la posibilidad de comprar tus pasajes vía online.
 
-En páginas como [RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}) o [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}), podrás escoger el destino y horario que mejor se ajuste a tus necesidades, y realizar la compra de forma rápida y segura a través de diferentes medios de pago electrónicos.
+En páginas como \[RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}) o \[Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}), podrás escoger el destino y horario que mejor se ajuste a tus necesidades, y realizar la compra de forma rápida y segura a través de diferentes medios de pago electrónicos.
 
->Transportes Omega también ofrece diferentes descuentos y promociones en plataformas como Pinbus para la compra de pasajes, lo que permite ahorrar dinero en tus viajes intermunicipales.
+> Transportes Omega también ofrece diferentes descuentos y promociones en plataformas como Pinbus para la compra de pasajes, lo que permite ahorrar dinero en tus viajes intermunicipales.
 
 ## Servicios de Omega
 
@@ -70,7 +83,7 @@ Transportes Omega cuenta con una amplia flota de autobuses disponibles para los 
 
 El servicio Alfa de Omega ofrece una experiencia de viaje excepcional. Los pasajeros de Alfa pueden disfrutar de **asientos más amplios y cómodos, con inclinación de hasta 140 °**, **pantallas de televisión personalizadas, servicio de comida y bebida, y acceso a una zona VIP** en las diferentes agencias de la empresa.
 
-----
+- - -
 
 ## Transportes Omega
 
@@ -93,7 +106,7 @@ La seguridad es primordial, por lo cual se **realizan inspecciones regulares en 
 
 Con Transportes Omega los pasajeros pueden estar seguros y cómodos durante todo su viaje.
 
-----
+- - -
 
 ## Principales ciudades para Omega
 
@@ -119,7 +132,7 @@ En ambos casos, se proporcionará la información necesaria para elegir los hora
 
 ## Otros operadores
 
-Además de Transportes Omega, existen otras empresas de transporte intermunicipal en Colombia, como [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Expreso Bolivariano") y [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Expreso Brasilia"), que compiten en términos de precios y servicios.
+Además de Transportes Omega, existen otras empresas de transporte intermunicipal en Colombia, como \[Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Expreso Bolivariano") y \[Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Expreso Brasilia"), que compiten en términos de precios y servicios.
 
 ### Comparación de precios y servicios
 
@@ -165,7 +178,7 @@ Este servicio es considerado el más lujoso de la compañía, y cuenta con una a
 * Baño premium con productos de aseo de alta calidad
 * Prioridad en el abordaje y descenso del autobús
 
-----
+- - -
 
 ### Preguntas frecuentes de los usuarios de Transporte Omega
 
@@ -207,8 +220,8 @@ Todas las encomiendas deben ser empacadas de manera adecuada para evitar daños 
 
 * Llega con anticipación al punto de partida para evitar retrasos y asegurar un buen asiento en el autobús.
 * Revisa las condiciones de transporte antes de abordar y sigue las instrucciones del conductor y personal de la compañía durante el viaje.
-* Lleva contigo solo el [equipaje necesario y asegura tus pertenencias]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}) en todo momento.
+* Lleva contigo solo el \[equipaje necesario y asegura tus pertenencias]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}) en todo momento.
 * Utiliza el cinturón de seguridad siempre que sea posible y evita levantarte del asiento mientras el autobús está en movimiento.
 * Si viajas con niños pequeños, lleva contigo todo lo necesario para su cuidado y entretenimiento durante el viaje.
 
-Esta gran empresa colombiana es una de las más reconocidas por su buen servicio. Si te gustaría [disfrutar al máximo de un viaje en bus por Colombia]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}), considera contar con Transportes Omega.
+Esta gran empresa colombiana es una de las más reconocidas por su buen servicio. Si te gustaría \[disfrutar al máximo de un viaje en bus por Colombia]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}), considera contar con Transportes Omega.
