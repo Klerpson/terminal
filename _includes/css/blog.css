@@ -165,11 +165,13 @@
 /******** toc ********/
 
 #markdown-toc {
+  display: block;
+  width: min(100%, 440px);
   background-color: var(--complemento2);
   padding: 1.5em;
-  display: inline-block;
-  margin: 2em 0;
+  margin: 2em 1em 2em 0;
   border-radius: var(--radius);
+  float: left;
 }
 
 #markdown-toc::before {
@@ -180,10 +182,6 @@
 #markdown-toc a{
   color: var(--secundario);
   font-size: .8rem;
-}
-
-#markdown-toc ul{
-  margin-left: 1rem;
 }
 
 #markdown-toc li{
@@ -284,8 +282,6 @@
   width: min((100% - 1em), 920px);
   margin-inline: auto;
   margin-bottom: 4rem;
-  display: flex;
-  flex-direction: column;
 }
 
 .post-content a:not(.botones){

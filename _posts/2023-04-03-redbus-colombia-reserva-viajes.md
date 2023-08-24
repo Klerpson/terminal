@@ -38,13 +38,13 @@ Una de las mayores ventajas de RedBus Colombia es su [servicio al cliente](https
 
 **Comprar pasajes RedBus es muy fácil**. En [la página web de RedBus](https://www.redbus.co/){:rel="nofollow noopener noreferrer" target="_blank"}, simplemente debes ingresar tu lugar de origen y destino, la fecha del viaje, y la cantidad de pasajeros.
 
-{% include img-post.html webpb="blog/redbus-800.webp" webps="blog/redbus-376.webp" alt="Página web de redbus.co" title="redbus.co" %}
-
 En segundos, la plataforma te mostrará todas las opciones disponibles para el día y hora que has seleccionado. Una vez que hayas elegido tu pasaje, puedes pagar en línea con tarjeta de crédito o débito.
 
 Si tienes dudas o problemas al comprar tus pasajes, puedes llamar al RedBus teléfono de atención al cliente. El personal de servicio al cliente está siempre dispuesto a ayudarte a solucionar cualquier problema que tengas.
 
 Además, si tienes algún problema con tu reserva, puedes comunicarte con ellos para cancelar o cambiar tu pasaje.
+
+{% include img-post.html webpm="blog/redbus-800.webp" webps="blog/redbus-376.webp" alt="Página web de redbus.co" title="redbus.co" %}
 
 ### Cupones de descuento de RedBus
 
