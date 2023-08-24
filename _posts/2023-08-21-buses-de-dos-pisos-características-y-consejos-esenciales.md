@@ -23,7 +23,7 @@ Los buses de dos pisos han sido una innovación en el transporte público de muc
 Estos buses, además de tener un diseño distintivo, también tienen una serie de características que los hacen ideales para ciertos tipos de rutas y demandas de pasajeros. Lee aquí más información.
 
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
 ## Características generales de los buses de dos pisos
 
@@ -99,4 +99,4 @@ Conducir un vehículo de estas características puede requerir habilidades adici
 
 > Los buses de dos pisos representan una solución de transporte innovadora y eficiente que se adapta a las necesidades de las ciudades modernas.
 
-Si te ha resultado útil esta información, no dejes de leer nuestros próximos artículos donde profundizamos en temas que seguramente te ayudarán a tomar decisiones más informadas en el mundo del transporte para hacer tus viajes más cómodos.
+Si te ha resultado útil esta información, no dejes de leer nuestros próximos artículos. Profundizamos en temas que seguramente te ayudarán a tomar decisiones más informadas, en el mundo del transporte, para hacer tus viajes más cómodos.
