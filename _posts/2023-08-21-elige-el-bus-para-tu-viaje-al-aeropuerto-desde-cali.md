@@ -18,7 +18,7 @@ excerpt: Viajar desde Cali a el aeropuerto puede presentar varios desafíos,
   transporte ofrece una solución eficiente y económica
 ---
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
 ## ¿Por qué elegir el bus para ir al aeropuerto desde Cali?
 
@@ -40,9 +40,9 @@ Por otro lado, aunque el transporte público puede ser una opción, no ofrece la
 
 ## Rutas y horarios de buses desde Cali al aeropuerto
 
-> Cali cuenta con diversas rutas de *buses que conectan la ciudad con el aeropuerto*. Estas rutas están diseñadas para cubrir las principales zonas y garantizar que los viajeros lleguen a tiempo para sus vuelos.
+Cali cuenta con diversas rutas de *buses que conectan la ciudad con el aeropuerto*. Estas rutas están diseñadas para cubrir las principales zonas y garantizar que los viajeros lleguen a tiempo para sus vuelos.
 
-### Puntos de partida en Cali
+### Puntos de partida en Cali hacia el aeropuerto
 
 Los principales puntos de partida en Cali incluyen la **Terminal de Transportes**, el centro de la ciudad y algunas zonas residenciales. Es esencial consultar los horarios y puntos de partida con anticipación.
 
@@ -54,9 +54,7 @@ El trayecto **desde Cali al aeropuerto suele durar entre 30 a 45 minutos**, depe
 
 Los buses hacia el aeropuerto tienen salidas frecuentes, especialmente durante las horas pico. Es recomendable llegar al punto de partida con al menos 15 minutos de anticipación.
 
-## Empresas de buses que ofrecen el servicio
-
-Varias empresas en Cali ofrecen **servicios de bus al aeropuerto**. Es vital elegir una compañía confiable y con buenas críticas para garantizar un viaje seguro y cómodo.
+> Varias empresas en Cali ofrecen **servicios de bus al aeropuerto**. Es vital elegir una compañía confiable y con buenas críticas para garantizar un viaje seguro y cómodo.
 
 ### Características y servicios a bordo
 
@@ -102,4 +100,4 @@ Para aquellos que necesitan desplazarse a otras partes de la ciudad o regiones c
 
 Viajar en bus desde Cali al aeropuerto es una opción conveniente y económica. Con la información adecuada y una planificación cuidadosa, los viajeros pueden garantizar un viaje cómodo y a tiempo. 
 
-Si deseas una información mas detallada sobre otros destinos y consejos de viaje ﻿**continúa leyendo en nuestra web. (lo de negrita pensaba un link)**
+Si deseas una información más detallada sobre otros destinos y consejos de viaje ﻿**continúa leyendo en nuestra web.**
