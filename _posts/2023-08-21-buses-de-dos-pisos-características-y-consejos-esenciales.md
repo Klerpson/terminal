@@ -18,16 +18,16 @@ excerpt: Los buses de dos pisos han sido una innovación en el transporte públi
   para ciertos tipos de rutas y demandas de pasajeros. Encuentra aquí más
   información.
 ---
-* Do not remove this line (it will not be displayed)
-  {:toc}
-
 Los buses de dos pisos han sido una innovación en el transporte público de muchas ciudades alrededor del mundo. 
 
 Estos buses, además de tener un diseño distintivo, también tienen una serie de características que los hacen ideales para ciertos tipos de rutas y demandas de pasajeros. Lee aquí más información.
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ## Características generales de los buses de dos pisos
 
-L﻿a mayoría de *los buses de dos pisos tienen en común las siguientes características*:
+La mayoría de *los buses de dos pisos tienen en común las siguientes características*:
 
 • Suelen tener una longitud de 12 metros y un ancho de 2,55 metros.
 
@@ -91,7 +91,7 @@ Un mantenimiento adecuado puede prolongar la vida útil de un bus de dos pisos y
 
 Como es natural, cuando adquieres cualquier compra, **el fabricante de tu producto tienes recomendaciones** para su uso. Por esta razón, **aprende cuáles son y síguelas** con dedicación. Esto prolongará la vida útil de tu bus de dos pisos.
 
-T﻿ambién, es muy necesario que **programes las revisiones periódicas de tu vehículo**. Siempre es mejor prevenir que reparar.
+También, es muy necesario que **programes las revisiones periódicas de tu vehículo**. Siempre es mejor prevenir que reparar.
 
 ### Beneficios de conducir un bus de dos pisos
 
@@ -99,4 +99,4 @@ Conducir un vehículo de estas características puede requerir habilidades adici
 
 > Los buses de dos pisos representan una solución de transporte innovadora y eficiente que se adapta a las necesidades de las ciudades modernas.
 
-Si estás considerando adquirir uno o simplemente quieres aprender más sobre ellos, te invitamos a seguir leyendo nuestros artículos de este blog donde podrás ampliar tus conocimientos sobre este fascinante mundo del transporte para hacer tus viajes más cómodos.
+Si te ha resultado útil esta información, no dejes de leer nuestros próximos artículos donde profundizamos en temas que seguramente te ayudarán a tomar decisiones más informadas en el mundo del transporte para hacer tus viajes más cómodos.
