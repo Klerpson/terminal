@@ -82,6 +82,4 @@ Existen dos rutas principales entre Medellín y el aeropuerto: la Vía Las Palma
 
 Viajar en ***bus al Aeropuerto de Rionegro es una opción conveniente y económica***. Con horarios flexibles, servicios a bordo de calidad y puntos de venta accesibles, los buses de Aeropuerto Combuses se presentan como una excelente alternativa para los viajeros. 
 
-Si deseas conocer más sobre rutas y servicios en Medellín, no dudes en informarte más en nuestros artículos de nuestra página.
-
-**¡Buen viaje y hasta la próxima!**
+Si deseas conocer más sobre rutas y servicios en Medellín, no dudes en informarte más en nuestros artículos de nuestra página. ¡Buen viaje y hasta la próxima!
