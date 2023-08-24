@@ -23,13 +23,13 @@ Viajar en bus de Colombia a Argentina es más que un simple trayecto. A lo largo
 
 ## Costo de los pasajes hacia Argentina y dónde adquirirlos
 
-El precio de los pasajes hacia Argentina varía según la temporada, la ruta y la empresa de buses. Según *[Horario de Buses](https://www.horariodebuses.com.co/argentina.html){:rel="nofollow noopener noreferrer" target="_blank"}*, **los precios oscilan entre $100 y $460**. Es recomendable comprar los boletos con anticipación, especialmente durante la temporada alta.
+El precio de los pasajes hacia Argentina varía según la temporada, la ruta y la empresa de buses. Según *[Horario de Buses](https://www.horariodebuses.com.co/argentina.html)*, **los precios oscilan entre $100 y $460**. Es recomendable comprar los boletos con anticipación, especialmente durante la temporada alta.
 
-Puedes adquirir tus pasajes directamente en las terminales de buses o a través de sitios web como *[Kayak](https://www.kayak.com.co/vuelos/Bogota-Aeropuerto-Internacional-El-Dorado-BOG/Argentina-AR0){:rel="nofollow noopener noreferrer" target="_blank"}* y *[Busbud](https://www.busbud.com/es-419/country/co){:rel="nofollow noopener noreferrer" target="_blank"}*, que ofrecen comparativas de precios y horarios.
+Puedes adquirir tus pasajes directamente en las terminales de buses o a través de sitios web como *[Kayak](https://www.kayak.com.co/vuelos/Bogota-Aeropuerto-Internacional-El-Dorado-BOG/Argentina-AR0)*, que ofrecen comparativas de precios y horarios.
 
 ## ¿Por qué elegir el bus para viajar desde Colombia hasta Argentina?
 
-**Economía**: Viajar en bus es una de las opciones más económicas. Según el sitio web *[Rome2Rio](https://www.rome2rio.com/es/s/Colombia/Buenos-Aires){:rel="nofollow noopener noreferrer" target="_blank"},* el costo del viaje en bus varía entre $100 y $460, lo que puede representar un ahorro significativo en comparación con otros medios de transporte.
+**Economía**: Viajar en bus es una de las opciones más económicas. Según el sitio web *[Rome2Rio](https://www.rome2rio.com/es/s/Colombia/Buenos-Aires),* el costo del viaje en bus varía entre $100 y $460, lo que puede representar un ahorro significativo en comparación con otros medios de transporte.
 
 **Paisajes inigualables**: Atravesarás diversos ecosistemas, desde las montañas colombianas hasta las llanuras argentinas. Cada kilómetro recorrido es una postal en movimiento.
 
