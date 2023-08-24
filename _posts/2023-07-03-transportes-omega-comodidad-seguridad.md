@@ -74,7 +74,7 @@ El servicio Alfa de Omega ofrece una experiencia de viaje excepcional. Los pasaj
 
 ## Transportes Omega
 
-{% include img-post.html webpb="blog/transportes-omega-bus-800.webp" webps="blog/transportes-omega-bus-376.webp" alt="Bus Transportes Omega" title="Transportes Omega" %}
+{% include img-post.html webpm="blog/transportes-omega-bus-800.webp" webps="blog/transportes-omega-bus-376.webp" alt="Bus Transportes Omega" title="Transportes Omega" %}
 *Imagen ilustrativa de la flota de Omega*
 
 Desde su inicio en el año 1948 en Togüí, Transportes Omega se ha enfocado en brindar comodidad a sus pasajeros y seguridad en sus servicios. La flota es diversa, **ofreciendo transporte básico y premium** con diferentes comodidades y servicios adicionales.

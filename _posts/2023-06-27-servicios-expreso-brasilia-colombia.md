@@ -87,7 +87,7 @@ La compañía cuenta con buses Mercedes Benz y Chevrolet, y todos ellos tienen c
 * Los buses están equipados con asientos cómodos y amplios, garantizando una experiencia cómoda durante el viaje.
 * Los buses tienen un sistema de iluminación interno de última tecnología, que proporciona una luz óptima para la lectura y otros propósitos.
 
-{% include img-post.html webpb="blog/expreso-brasilia-bus-800.webp" webps="blog/expreso-brasilia-bus-376.webp" alt="Bus Expreso Brasilia" title="Expreso Brasilia" %}
+{% include img-post.html webpm="blog/expreso-brasilia-bus-800.webp" webps="blog/expreso-brasilia-bus-376.webp" alt="Bus Expreso Brasilia" title="Expreso Brasilia" %}
 
 ### Sistema de comunicación central y conductores
 
