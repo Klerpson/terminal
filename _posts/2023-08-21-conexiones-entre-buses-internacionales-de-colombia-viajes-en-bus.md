@@ -26,8 +26,8 @@ Viajar en buses internacionales, se ha convertido en una opción popular para mu
 Colombia, puerta de entrada a Sudamérica, cuenta con diversas empresas que **ofrecen rutas internacionales,** conectando el país con sus vecinos.
 
 * **Líneas de los Andes**: Esta empresa se destaca por su ***servicio de transporte internacional terrestre*** por toda Suramérica, incluyendo destinos como Venezuela, Ecuador, Perú y más. Ofrecen comodidades como buses tipo cama y alimentación a bordo.
-* **Busbud en Colombia**: Una plataforma que facilita la búsqueda y compra de tiquetes de bus en Colombia. Conecta con ***ciudades como Bogotá, Medellín y Cartagena*** y ofrece servicios con diversas empresas confiables.
-* **Empresas destacadas en Colombia**: Entre las principales empresas de ***buses internacionales en Colombia*** encontramos a Copetran, Expreso Bolivariano, Expreso Brasilia y Berlinas Del Fonce. Cada una con sus características y servicios que las hacen únicas.
+* **[Busbud](https://www.bing.com/aclick?ld=e8ZDvQ4F7gBDlLILzpYl9lbjVUCUymKg1LrYzUI1wb7ZJfsu0d3R-HuJMxRoGnyzhmxeKvwnNUyC9WgkQg_ESpa4DW9dWk-Uj2nBX03mWJkrkGg-YfJ7AYV8Bw6nEpYRf6BerBFWk9vJmOfox8p9BqHJ7Cfty9ZEVsYwuKKSXIDCClaSXqogg_mQodiyBw5aFOp02aNg&u=aHR0cHMlM2ElMmYlMmZ3d3cuYnVzYnVkLmNvbSUyZmVzLTQxOSUyZiUzZm1zY2xraWQlM2QxNjVlZDM4MjZhOWUxNDg0YTkwOWI3NjU1N2NhZTBjYiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZGJyYW5kLWVzJTI2dXRtX3Rlcm0lM2RidXNidWQlMjZ1dG1fY29udGVudCUzZEJ1c2J1ZA&rlid=165ed3826a9e1484a909b76557cae0cb&ntb=1) en Colombia**: Una plataforma que facilita la búsqueda y compra de tiquetes de bus en Colombia. Conecta con ***ciudades como Bogotá, Medellín y Cartagena*** y ofrece servicios con diversas empresas confiables.
+* **Empresas destacadas en Colombia**: Entre las principales empresas de ***buses internacionales en Colombia*** encontramos a Copetran, Expreso Bolivariano, Expreso Brasilia y Berlinas Del [Fonce](https://www.bing.com/ck/a?!&&p=bb43666cf772c3c7JmltdHM9MTY5MjgzNTIwMCZpZ3VpZD0xYzkzOTAzNi0wODdiLTZkODAtMWY4Zi04MzQxMDlkNDZjYmYmaW5zaWQ9NTE4NQ&ptn=3&hsh=3&fclid=1c939036-087b-6d80-1f8f-834109d46cbf&psq=Fonce&u=a1aHR0cHM6Ly9mb25jZXAuZ292LmNvLw&ntb=1). Cada una con sus características y servicios que las hacen únicas.
 
 ## Buses internacionales en Estados Unidos: Una experiencia única
 
@@ -35,7 +35,7 @@ Los Estados Unidos, conocido por su vasta extensión territorial, cuenta con una
 
 Viajar en bus en este país es una experiencia que combina comodidad, seguridad y vistas panorámicas.
 
-* **Diversidad de empresas**: Algunas de las principales incluyen Greyhound, Megabus y Coach USA. Es esencial investigar y comparar estas opciones para encontrar la que mejor se adapte a tus necesidades y presupuesto.
+* **Diversidad de empresas**: Algunas de las principales incluyen [Greyhound](https://www.bing.com/ck/a?!&&p=0bcd6c8cc7ea395aJmltdHM9MTY5MjgzNTIwMCZpZ3VpZD0xYzkzOTAzNi0wODdiLTZkODAtMWY4Zi04MzQxMDlkNDZjYmYmaW5zaWQ9NTIxMQ&ptn=3&hsh=3&fclid=1c939036-087b-6d80-1f8f-834109d46cbf&psq=Greyhound&u=a1aHR0cHM6Ly93d3cuZ3JleWhvdW5kLmNvbS8&ntb=1), [Megabus](https://www.bing.com/ck/a?!&&p=e3b1d587a3890ec8JmltdHM9MTY5MjgzNTIwMCZpZ3VpZD0xYzkzOTAzNi0wODdiLTZkODAtMWY4Zi04MzQxMDlkNDZjYmYmaW5zaWQ9NTIwNQ&ptn=3&hsh=3&fclid=1c939036-087b-6d80-1f8f-834109d46cbf&psq=Megabus&u=a1aHR0cHM6Ly93d3cubWVnYWJ1cy5nb3YuY28v&ntb=1) y [Coach USA](https://www.bing.com/ck/a?!&&p=567689244d67121aJmltdHM9MTY5MjgzNTIwMCZpZ3VpZD0xYzkzOTAzNi0wODdiLTZkODAtMWY4Zi04MzQxMDlkNDZjYmYmaW5zaWQ9NTI3OQ&ptn=3&hsh=3&fclid=1c939036-087b-6d80-1f8f-834109d46cbf&psq=Coach+USA&u=a1aHR0cHM6Ly93d3cuY29hY2h1c2EuY29tLw&ntb=1). Es esencial investigar y comparar estas opciones para encontrar la que mejor se adapte a tus necesidades y presupuesto.
 * **Conectividad**: Las principales ciudades como Nueva York, Los Ángeles y Chicago están bien conectadas por esta red de transporte.
 * **Comodidades a bordo**: Muchos buses ofrecen servicios como Wi-Fi, asientos reclinables y entretenimiento a bordo.
 
@@ -58,4 +58,4 @@ Viajar en bus puede ser una experiencia placentera si se toman en cuenta algunos
 
 > Viajar en buses internacionales es una excelente manera de visitar nuevos destinos, conocer nuevas culturas y disfrutar de paisajes únicos.
 
-Si estás interesado en conocer más sobre destinos y opciones de viaje en bus, te invitamos a seguir informandote en nuestra página web para más información.
+Si estás interesado en conocer más sobre destinos y opciones de viaje en bus, te invitamos a seguir informándote en nuestra página web para más información.
