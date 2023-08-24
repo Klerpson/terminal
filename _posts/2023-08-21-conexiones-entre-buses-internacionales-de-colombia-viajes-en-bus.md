@@ -13,8 +13,8 @@ webps: blog/buses-internacionales-s.webp
 alt: Buses internacionales
 permalink: blog/buses-internacionales
 excerpt: Viajar en buses internacionales, se ha convertido en una opción popular
-  para muchos. Esta guía te ofrece una información  detallada sobre las rutas,
-  empresas y consejos prácticos para tu viaje
+  para muchos. Esta guía te ofrece una información detallada sobre las rutas,
+  empresas y consejos prácticos para tu viaje.
 ---
 * Do not remove this line (it will not be displayed)
 {:toc}
