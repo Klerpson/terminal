@@ -74,7 +74,7 @@ Viajar en bus a el ***aeropuerto de Rionegro puede ser práctico y cómodo*** si
 
 ### Terminales de Transporte al Aeropuerto con Combuses
 
-Existen dos rutas principales entre Medellín y el aeropuerto: la Vía Las Palmas y la autopista Medellín a Bogotá. Las principales terminales de Aeropuerto [Combuses](https://combusessa.com/) son:
+Existen dos rutas principales entre Medellín y el aeropuerto: la Vía Las Palmas y la autopista Medellín a Bogotá. Las principales terminales de Aeropuerto Combuses son:
 
 * **Sede San Diego en Medellín**
 * **Aeropuerto José María Córdova**
