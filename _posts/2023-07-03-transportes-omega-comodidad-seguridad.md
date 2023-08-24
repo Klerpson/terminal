@@ -1,8 +1,8 @@
 ---
 h1_alternativo: Viajar en Transportes Omega por Colombia
-excerpt: "**Transportes Omega es una empresa de transporte terrestre
-  intermunicipal** que destaca por su comodidad y seguridad en sus servicios.
-  Con más de 300 buses y 70 agencias, cubre 14 departamentos del país."
+excerpt: Transportes Omega es una empresa de transporte terrestre intermunicipal
+  que destaca por su comodidad y seguridad en sus servicios. Con más de 300
+  buses y 70 agencias, cubre 14 departamentos del país.
 referencias:
   - Imágenes tomadas de la página web oficial: https://www.expresobrasilia.com/
 layout: post
