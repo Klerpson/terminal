@@ -17,7 +17,7 @@ excerpt: Viajar en bus con baño incorporado eleva la experiencia de comodidad e
   facilidades a bordo. Aquí encontraras información sobre los buses con baño.
 ---
 * Do not remove this line (it will not be displayed
-  {:toc}
+{:toc}
 
 ## Beneficios de viajar en buses con baño
 
