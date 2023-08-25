@@ -23,11 +23,11 @@ Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cab
 
 ### Copetran: Opciones y Precios
 
-Copetran es una de las empresas líderes en transporte terrestre en Colombia. Ofrecen varias opciones de horarios y tipos de bus, desde servicios estándar hasta buses de lujo. Los precios varían según la comodidad y los servicios ofrecidos. Puedes comprar los pasajes directamente en su [página web](https://www.copetran.com.co/), en taquillas o incluso en agencias de viaje asociadas.
+[Copetran](https://www.copetran.com.co/) es una de las empresas líderes en transporte terrestre en Colombia. **Ofrecen varias opciones de horarios y tipos de bus**, desde servicios estándar hasta buses de lujo. Los precios varían según la comodidad y los servicios ofrecidos. Puedes comprar los pasajes directamente en su [página web](https://www.copetran.com.co/), en taquillas o incluso en agencias de viaje asociadas.
 
 ### Otros Proveedores de Servicio
 
-Además de Copetran, hay otras empresas que ofrecen servicios similares, como Expreso Brasilia y Berlinas. Cada una tiene sus propias ventajas y desventajas en términos de precio, horario y comodidades. Es recomendable comparar varias opciones antes de tomar una decisión.
+Además de Copetran, **hay otras empresas que ofrecen servicios similares**, como Expreso Brasilia y Berlinas. Cada una tiene sus propias ventajas y desventajas en términos de precio, horario y comodidades. Es recomendable comparar varias opciones antes de tomar una decisión.
 
 ### Compra en Línea vs Taquilla
 
