@@ -3,7 +3,7 @@ layout: post
 json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
-date: 2023-08-31T13:17:13.992Z
+date: 2023-08-24T16:49:27.877Z
 title: Rutas y precios de pasajes a San Gil | Lo que debes saber
 description: Infórmate de todo sobre tu viaje a San Gil aquí. Encontraras cómo
   comprar pasajes y qué llevar. ¡Haz clic para obtener todos los detalles!
