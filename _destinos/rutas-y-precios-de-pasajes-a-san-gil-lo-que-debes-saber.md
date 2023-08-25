@@ -17,9 +17,9 @@ cta1: Consulta precios de los pasajes
 cta2: "Ver rutas disponibles "
 permalink: pasajes/san-gil
 ---
-## Cómo comprar pasajes para San Gil
-
 Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cabeza es cómo comprar los pasajes. **Copetran** es una de las empresas más populares para este destino, pero no es la única opción. Aquí te explicamos cómo puedes adquirir tus boletos de varias maneras.
+
+{:id="enlace1"}
 
 ### Copetran: Opciones y precios para viajar en San Gil
 
@@ -31,11 +31,29 @@ Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cab
 
 La compra en línea ofrece la ventaja de comparar precios y horarios desde la comodidad de tu hogar. Sin embargo, en la taquilla podrías encontrar ofertas de último minuto o descuentos especiales que no están disponibles en línea. Ambas opciones tienen sus pros y contras, y la elección dependerá de tus necesidades y preferencias.
 
+{:id="enlace1"}
+
+## Dónde comprar tu pasaje desde y hacia San Gil
+
+Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cabeza es cómo comprar los pasajes. Aquí te mostramos donde puedes adquirir tus boletos a precios competitivos.  
+
+1. **[RedBus](https://www.redbus.co/)**: Una de las plataformas más populares para comprar boletos de bus en Colombia. Ofrece múltiples opciones de rutas y compañías. El precio aproximado para un viaje a San Gil varía entre $30,000 y $60,000 COP, dependiendo del servicio y la compañía.
+2. **[Busbud](https://www.busbud.com/)**: Sitio web internacional que permite comparar y comprar boletos de bus para rutas en varios países. Los precios para San Gil suelen ser competitivos, alrededor de $40,000 COP.
+3. **[Pinbus](https://www.pinbus.com/)**: Plataforma colombiana para comprar boletos de bus. Ofrece descuentos y promociones frecuentes. Los precios para San Gil suelen comenzar en $35,000 COP.
+4. **[Expreso Brasilia](https://www.expresobrasilia.com/)**: Sitio web de una de las compañías de bus más grandes de Colombia. Los precios para San Gil suelen estar alrededor de $50,000 COP.
+5. **[Copetran](https://www.copetran.com.co/)**: Sitio oficial de la empresa de transporte Copetran, donde puedes comprar boletos para rutas específicas como San Gil. Los precios varían, pero suelen comenzar en $40,000 COP.
+6. **[Bolivariano](https://www.bolivariano.com.co/)**: Otra empresa de transporte con su propia plataforma para la compra de boletos en línea. Los precios para San Gil suelen estar alrededor de $45,000 COP.
+7. **[FlixBus](https://www.flixbus.com/)**: Aunque más común en Europa, FlixBus está expandiendo sus servicios en Colombia. Los precios para San Gil no están disponibles actualmente en su plataforma.
+8. **[Ticket Online](https://www.ticketonline.com.co/)**: Un agregador que ofrece boletos de varias compañías de bus, permitiendo comparar precios y horarios. Los precios para San Gil suelen comenzar en $35,000 COP.
+9. **[Rome2rio](https://www.rome2rio.com/)**: Más que una plataforma de boletos ofrece información sobre cómo llegar de un lugar a otro, pero también ofrece enlaces para comprar boletos. Los precios varían según la compañía seleccionada.
+
+Estas plataformas ofrecen diversas opciones de pago y algunas incluso tienen aplicaciones móviles para facilitar el proceso. Los precios son aproximados y pueden variar según la temporada y disponibilidad.
+
+{:id="enlace2"}
+
 ## Rutas Disponibles
 
 San Gil es un destino accesible desde varias ciudades importantes de Colombia. Aquí te presentamos las rutas más comunes y lo que necesitas saber sobre cada una de ellas.
-
-{:id="enlace1"}
 
 ### Desde Bogotá a San Gil
 
@@ -48,10 +66,6 @@ Desde Medellín, el viaje es un poco más largo, con una duración aproximada de
 ### Desde Bucaramanga a San Gil
 
 Si estás en Bucaramanga, estás de suerte. San Gil está a solo 2 horas y hay numerosos servicios que cubren esta ruta. Es una excelente opción si buscas un viaje rápido y económico.
-
-## Costo de los Pasajes
-
-El costo de los pasajes para San Gil puede variar significativamente dependiendo de varios factores. Aquí te explicamos qué debes tener en cuenta al planificar tu presupuesto.
 
 ### Factores que Afectan el Precio
 
