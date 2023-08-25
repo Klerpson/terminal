@@ -40,7 +40,7 @@ Viajar en bus es más que un medio de transporte; es una ventana al paisaje colo
 
 ## Precios de los pasajes a Aguachica
 
-El costo es crucial al planificar. Ya sea que busques lujo o economía, hay opciones para ti:
+El costo es crucial al planificar. Ya sea que busques lujo o economía, hay opciones de precios para ti:
 
 * **Web Consulta y Pinbus**: Estas plataformas te garantizan las mejores ofertas y promociones en tiempo real. No solo ahorras dinero, sino también tiempo.
 * **Copetran**: Si buscas un viaje de lujo, [Copetran](https://www.bing.com/ck/a?!&&p=dd95b4138fcc153bJmltdHM9MTY5MjgzNTIwMCZpZ3VpZD0wOGMyZTVjNS1lYTk0LTYyZWYtMmRjYS1mNmJkZWIzYjYzNDMmaW5zaWQ9NTE5MA&ptn=3&hsh=3&fclid=08c2e5c5-ea94-62ef-2dca-f6bdeb3b6343&psq=copetran&u=a1aHR0cHM6Ly93d3cuY29wZXRyYW4uY29tLw&ntb=1) te lleva de Aguachica a Bucaramanga en un servicio de alta gama. Aunque puede ser un poco más costoso, las comodidades valen cada centavo.
@@ -50,7 +50,7 @@ El costo es crucial al planificar. Ya sea que busques lujo o economía, hay opci
 
 La planificación es esencial, y estas plataformas te facilitan la tarea:
 
-* **Web Consulta**: Especializado en ofrecerte los mejores precios y horarios.
+* **[Rome2Rio](https://www.rome2rio.com/)**: Especializado en ofrecerte los mejores precios y horarios.
 * **Pinbus**: Más que un buscador, es tu compañero de viaje. Información actualizada, promociones y todo lo que necesitas en un solo lugar.
   {:class="seccion"}
 
