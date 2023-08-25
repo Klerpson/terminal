@@ -100,13 +100,8 @@ Si optas por un servicio premium, podrás disfrutar de comodidades adicionales c
 
 Si es tu primera vez viajando a San Gil en bus, es probable que tengas muchas preguntas. Aquí respondemos a las más comunes.
 
-### Política de Equipaje
-
-La mayoría de las empresas permiten una maleta grande y un artículo personal sin costo adicional. Sin embargo, si planeas llevar más equipaje, es posible que se apliquen cargos adicionales.
-
-### Política de Cancelación y Reembolso
-
-La política de cancelación y reembolso varía según la empresa. Algunas ofrecen reembolsos completos si cancelas con suficiente antelación, mientras que otras aplican cargos por cancelación.
+* **Politica de equipaje**: La mayoría de las empresas permiten una maleta grande y un artículo personal sin costo adicional. Sin embargo, si planeas llevar más equipaje, es posible que se apliquen cargos adicionales.
+* **Política de Cancelación y Reembolso:** La política de cancelación y reembolso varía según la empresa. Algunas ofrecen reembolsos completos si cancelas con suficiente antelación, mientras que otras aplican cargos por cancelación.
 
 ## Consejos para un Viaje Seguro y Cómodo
 
@@ -119,10 +114,6 @@ Es recomendable llevar snacks, una botella de agua y elementos de entretenimient
 ### Cómo Aprovechar las Ofertas y Descuentos
 
 *Mantente atento a ofertas y descuentos, especialmente durante la temporada baja.* Suscribirte a boletines de noticias de las empresas de transporte o seguirlos en redes sociales puede ser una excelente manera de estar al tanto de las promociones.
-
-## Opiniones de Viajeros
-
-Antes de tomar una decisión, es útil leer opiniones de otros viajeros. Esto te dará una idea más clara de qué esperar y qué empresa podría ser la mejor para ti.
 
 ## Alternativas de Viaje
 
