@@ -43,15 +43,13 @@ Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cab
 4. **[Expreso Brasilia](https://www.expresobrasilia.com/)**: Sitio web de una de las compañías de bus más grandes de Colombia. Los precios para San Gil suelen estar alrededor de $50,000 COP.
 5. **[Copetran](https://www.copetran.com.co/)**: Sitio oficial de la empresa de transporte Copetran, donde puedes comprar boletos para rutas específicas como San Gil. Los precios varían, pero suelen comenzar en $40,000 COP.
 6. **[Bolivariano](https://www.bolivariano.com.co/)**: Otra empresa de transporte con su propia plataforma para la compra de boletos en línea. Los precios para San Gil suelen estar alrededor de $45,000 COP.
-7. **[FlixBus](https://www.flixbus.com/)**: Aunque más común en Europa, FlixBus está expandiendo sus servicios en Colombia. Los precios para San Gil no están disponibles actualmente en su plataforma.
-8. **[Ticket Online](https://www.ticketonline.com.co/)**: Un agregador que ofrece boletos de varias compañías de bus, permitiendo comparar precios y horarios. Los precios para San Gil suelen comenzar en $35,000 COP.
-9. **[Rome2rio](https://www.rome2rio.com/)**: Más que una plataforma de boletos ofrece información sobre cómo llegar de un lugar a otro, pero también ofrece enlaces para comprar boletos. Los precios varían según la compañía seleccionada.
+7. **[Ticket Online](https://www.ticketonline.com.co/)**: Un agregador que ofrece boletos de varias compañías de bus, permitiendo comparar precios y horarios. Los precios para San Gil suelen comenzar en $35,000 COP.
 
 Estas plataformas ofrecen diversas opciones de pago y algunas incluso tienen aplicaciones móviles para facilitar el proceso. Los precios son aproximados y pueden variar según la temporada y disponibilidad.
 
 {:id="enlace2"}
 
-## Rutas Disponibles
+## Rutas disponibles y más demandadas hacia San Gil
 
 San Gil es un destino accesible desde varias ciudades importantes de Colombia. Aquí te presentamos las rutas más comunes y lo que necesitas saber sobre cada una de ellas.
 
@@ -65,15 +63,13 @@ Desde Medellín, el viaje es un poco más largo, con una duración aproximada de
 
 ### Desde Bucaramanga a San Gil
 
-Si estás en Bucaramanga, estás de suerte. San Gil está a solo 2 horas y hay numerosos servicios que cubren esta ruta. Es una excelente opción si buscas un viaje rápido y económico.
+Si estás en Bucaramanga, San Gil te queda a solo 2 horas y hay numerosos servicios que cubren esta ruta. Es una excelente opción si buscas un viaje rápido y económico.
 
-### Factores que Afectan el Precio
-
-Los precios pueden variar según la temporada, el día de la semana y la hora del día. Además, el tipo de bus que elijas también influirá en el costo. Los buses de lujo, que ofrecen servicios como Wi-Fi, asientos reclinables y entretenimiento a bordo, son naturalmente más caros.
+> Los precios pueden variar según la temporada, el día de la semana y la hora del día. Además, el tipo de bus que elijas también influirá en el costo. Los buses de lujo, que ofrecen servicios como Wi-Fi, asientos reclinables y entretenimiento a bordo, son naturalmente más caros.
 
 ### Comparación de Precios entre Proveedores
 
-Es crucial comparar precios entre diferentes proveedores antes de hacer una compra. Puedes usar sitios web de comparación de precios o aplicaciones móviles que ofrecen esta función. Algunas veces, comprar pasajes con antelación puede resultar en descuentos significativos.
+Es crucial comparar p*recios entre diferentes proveedores antes de hacer una compra*. Puedes usar sitios web de comparación de precios o aplicaciones móviles que ofrecen esta función. Algunas veces, comprar **pasajes con antelación puede resultar en descuentos significativos**.
 
 ## Duración del Viaje
 
@@ -94,7 +90,6 @@ El nivel de comodidad en el bus dependerá del tipo de servicio que elijas. Aqu�
 ### Servicios Básicos
 
 Los servicios básicos incluyen aire acondicionado, asientos reclinables
-
  y un baño a bordo. Estos son estándar en la mayoría de los buses que van a San Gil.
 
 ### Servicios Premium
