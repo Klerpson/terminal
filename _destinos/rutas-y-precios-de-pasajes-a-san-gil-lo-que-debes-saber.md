@@ -17,17 +17,15 @@ cta1: Consulta precios de los pasajes
 cta2: "Ver rutas disponibles "
 permalink: pasajes/san-gil
 ---
-## Cómo Comprar Pasajes para San Gil
+## Cómo comprar pasajes para San Gil
 
 Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cabeza es cómo comprar los pasajes. **Copetran** es una de las empresas más populares para este destino, pero no es la única opción. Aquí te explicamos cómo puedes adquirir tus boletos de varias maneras.
 
-### Copetran: Opciones y Precios
+### Copetran: Opciones y precios para viajar en San Gil
 
 [Copetran](https://www.copetran.com.co/) es una de las empresas líderes en transporte terrestre en Colombia. **Ofrecen varias opciones de horarios y tipos de bus**, desde servicios estándar hasta buses de lujo. Los precios varían según la comodidad y los servicios ofrecidos. Puedes comprar los pasajes directamente en su [página web](https://www.copetran.com.co/), en taquillas o incluso en agencias de viaje asociadas.
 
-### Otros Proveedores de Servicio
-
-Además de Copetran, **hay otras empresas que ofrecen servicios similares**, como Expreso Brasilia y Berlinas. Cada una tiene sus propias ventajas y desventajas en términos de precio, horario y comodidades. Es recomendable comparar varias opciones antes de tomar una decisión.
+> Además de Copetran, **hay otras empresas que ofrecen servicios similares**, como [Expreso Brasilia](https://www.bing.com/ck/a?!&&p=b2f667a609bb5e82JmltdHM9MTY5MjkyMTYwMCZpZ3VpZD0yOGRlMjQ4NS0zMDg4LTY3MzItMDQwYy0zN2ZkMzEyNzY2MDgmaW5zaWQ9NTIwMg&ptn=3&hsh=3&fclid=28de2485-3088-6732-040c-37fd31276608&psq=expreso+brasilia&u=a1aHR0cHM6Ly93d3cuZXhwcmVzb2JyYXNpbGlhLmNvbS8&ntb=1) y [Berlinas](https://www.berlinasdelfonce.com/rutas-y-horarios/). Cada una tiene sus propias ventajas y desventajas en términos de precio, horario y comodidades. Es recomendable comparar varias opciones antes de tomar una decisión.
 
 ### Compra en Línea vs Taquilla
 
@@ -36,6 +34,8 @@ La compra en línea ofrece la ventaja de comparar precios y horarios desde la co
 ## Rutas Disponibles
 
 San Gil es un destino accesible desde varias ciudades importantes de Colombia. Aquí te presentamos las rutas más comunes y lo que necesitas saber sobre cada una de ellas.
+
+{:id="enlace1"}
 
 ### Desde Bogotá a San Gil
 
@@ -67,7 +67,7 @@ El tiempo que tardarás en llegar a San Gil dependerá de tu punto de partida y 
 
 ### Tiempo Estimado desde Diferentes Ciudades
 
-Desde Bogotá, el viaje puede durar alrededor de 7 horas, mientras que desde Medellín, la duración es de aproximadamente 9 horas. Si partes desde Bucaramanga, el viaje es mucho más corto, con una duración estimada de solo 2 horas.
+Desde Bogotá, el viaje puede durar alrededor de 7 horas, mientras que, desde Medellín, la duración es de aproximadamente 9 horas. Si partes desde Bucaramanga, el viaje es mucho más corto, con una duración estimada de solo 2 horas.
 
 ### Paradas en el Camino
 
