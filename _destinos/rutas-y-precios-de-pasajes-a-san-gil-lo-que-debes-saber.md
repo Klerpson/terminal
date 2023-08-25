@@ -29,8 +29,7 @@ Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cab
 
 ### Compra en Línea vs Taquilla
 
-La compra en línea ofrece la ventaja de comparar precios y horarios desde la comodidad de tu hogar. Sin embargo, en la taquilla podrías encontrar ofertas de último minuto o descuentos especiales que no están disponibles en línea. Ambas opciones tienen sus pros y contras, y **la elección dependerá de tus necesidades y preferencias.**
-
+La compra en línea ofrece la ventaja de comparar precios y horarios desde la comodidad de tu hogar. Sin embargo, en la taquilla podrías encontrar ofertas de último minuto o descuentos especiales que no están disponibles en línea. Ambas opciones tienen sus pros y contras, y **la elección dependerá de tus necesidades y preferencias.
 {:id="enlace1"}
 
 ## Dónde comprar tu pasaje desde y hacia San Gil
@@ -46,7 +45,6 @@ Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cab
 7. **[Ticket Online](https://www.ticketonline.com.co/)**: Un agregador que ofrece boletos de varias compañías de bus, permitiendo comparar precios y horarios. Los precios para San Gil suelen comenzar en $35,000 COP.
 
 Estas plataformas ofrecen diversas opciones de pago y algunas incluso tienen aplicaciones móviles para facilitar el proceso. Los precios son aproximados y pueden variar según la temporada y disponibilidad.
-
 {:id="enlace2"}
 
 ## Rutas disponibles y más demandadas hacia San Gil
