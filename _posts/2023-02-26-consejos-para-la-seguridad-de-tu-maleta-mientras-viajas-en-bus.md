@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 5 consejos útiles para la seguridad de tu maleta mientras viajas en bus
-description: Cuando estás en un bus, tu maleta es tu compañera constante, por lo que es fundamental asegurarse de que esté bien protegida. En este artículo, te brindaremos algunos consejos útiles.
-autor: terminaldetransporte.com
-h1: 5 consejos para cuidar tu maleta mientras viajas
+title: "La seguridad de tu maleta mientras viajas en bus | Tips"
+description: Cuando estás en un bus, tu maleta es tu compañera constante, por lo que es fundamental asegurarse de que esté bien protegida. Mira estos consejos útiles.
+autor: Julian Franco
+h1: 5 consejos para cuidar tu maleta mientras viajas en bus
 h1_alternativo: 5 trucos sencillos para cuidar la seguridad de tu maleta
 award: Los mejores consejos para cuidar tu maleta de viaje
 date: 2023-02-26
