@@ -20,7 +20,7 @@ excerpt: Viajar al Aeropuerto de Rionegro en bus desde Medellín ya no tiene que
 
 ----
 
-**Viajar en bus al Aeropuerto Internacional José María Córdova, ubicado en Rionegro,** es una opción eficiente y económica.
+**Viajar en bus al Aeropuerto Internacional José María Córdoba, ubicado en Rionegro,** es una opción eficiente y económica.
 
 Estos *buses ofrecen una conexión directa entre [la terminal de Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal de transporte Medellín") y el aeropuerto*, siendo una alternativa confiable para quienes buscan evitar inconvenientes de tráfico o altos costos de taxi.
 
@@ -40,7 +40,7 @@ La línea de ***buses a el aeropuerto de Rionegro*** [Combuses](https://combuses
 
 {% include add1.html %}
 
-**El costo del pasaje en bus desde Medellín al Aeropuerto José María Córdova es de $9,500 COP**. Los tiquetes pueden adquirirse directamente en las taquillas de las terminales de Medellín y del aeropuerto, o al abordar el bus.
+**El costo del pasaje en bus desde Medellín al Aeropuerto José María Córdoba es de $9,500 COP**. Los tiquetes pueden adquirirse directamente en las taquillas de las terminales de Medellín y del aeropuerto, o al abordar el bus.
 
 **Agencias de Aeropuerto Combuses en Colombia:**
 
