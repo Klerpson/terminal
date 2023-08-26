@@ -1,7 +1,7 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-08-24T11:08:05.721Z
+date: 2023-08-24
 title: "Buses al Aeropuerto de Rionegro: Horarios, Rutas y Consejos"
 description: " Información para viajar en bus, al Aeropuerto de Rionegro. Desde horarios hasta consejos prácticos, ¡para que puedas planificar tu viaje!"
 autor: Camilo Cuspián
@@ -49,7 +49,17 @@ La línea de ***buses a el aeropuerto de Rionegro*** [Combuses](https://combuses
 * **OFICINA DETRÁS DEL HOTEL NUTIBARA:** Carrera 50a No 53-13
 {:class="seccion"}
 
+### Terminales de Transporte al Aeropuerto con Combuses
+
+Existen dos rutas principales entre Medellín y el aeropuerto: la Vía Las Palmas y la autopista Medellín a Bogotá. Las principales terminales de Aeropuerto Combuses son:
+
+* **Sede San Diego en Medellín**
+* **Aeropuerto José María Córdova**
+* **Sede Centro Medellín**
+
 ## Servicios a bordo del bus que te lleva al aeropuerto de Rionegro
+
+----
 
 Los buses a el Aeropuerto de Rionegro Combuses están [equipados con diversas comodidades para garantizar un viaje placentero]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %} "Difrutar el viaje en Bus"):
 
@@ -66,23 +76,17 @@ Los buses a el Aeropuerto de Rionegro Combuses están [equipados con diversas co
 
 Viajar en bus a el ***aeropuerto de Rionegro puede ser práctico y cómodo*** si se toman en cuenta ciertos consejos. A continuación, te ofrecemos recomendaciones clave para que tu trayecto sea placentero y sin contratiempos.
 
-* **Equipaje:** Se permite llevar hasta 2 maletas por persona.
-* **Ruta:** La empresa opera exclusivamente entre puntos específicos de Medellín y el Aeropuerto de Rionegro.
-* **Mascotas:** Consulta previamente la política de traslado de mascotas.
+1. **Equipaje:** Se permite llevar hasta 2 maletas por persona.
+2. **Ruta:** La empresa opera exclusivamente entre puntos específicos de Medellín y el Aeropuerto de Rionegro.
+3. **Mascotas:** Consulta previamente la política de traslado de mascotas.
 
 ### Preguntas frecuentes
+
+----
 
 * **¿Tienen cobro adicional por la maleta?** No, solo se paga el pasaje por persona y la maleta es gratis.
 * **¿Cuál es el tiempo de recorrido?** Depende del tráfico, pero generalmente oscila entre 50 y 60 minutos.
 * **¿Hasta qué hora hay salidas desde el aeropuerto?** La última salida es generalmente a las 00:00.
-
-### Terminales de Transporte al Aeropuerto con Combuses
-
-Existen dos rutas principales entre Medellín y el aeropuerto: la Vía Las Palmas y la autopista Medellín a Bogotá. Las principales terminales de Aeropuerto Combuses son:
-
-* **Sede San Diego en Medellín**
-* **Aeropuerto José María Córdova**
-* **Sede Centro Medellín**
 
 Viajar en ***bus al Aeropuerto de Rionegro es una opción conveniente y económica***. Con horarios flexibles, servicios a bordo de calidad y puntos de venta accesibles, los buses de Aeropuerto Combuses se presentan como una excelente alternativa para los viajeros.
 
