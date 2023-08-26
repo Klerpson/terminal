@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Aug 2023 13:05:35 -0500</pubDate>
-    <lastBuildDate>Sat, 26 Aug 2023 13:05:35 -0500</lastBuildDate>
+    <pubDate>Sat, 26 Aug 2023 13:07:02 -0500</pubDate>
+    <lastBuildDate>Sat, 26 Aug 2023 13:07:02 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -60,7 +60,7 @@
       <item>
         <title>Buses con baño | Asegura tu comodidad y salud al viajar</title>
         <description>Viaja cómodo en buses con baños ¡Infórmate aquí de su historia, funcionamiento y consejos para su uso!</description>
-        <pubDate>Tue, 01 Aug 2023 21:30:53 -0500</pubDate>
+        <pubDate>Wed, 02 Aug 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/bus-baño</link>
         <guid isPermaLink="true">http://localhost:4000/bus-baño</guid>
         
