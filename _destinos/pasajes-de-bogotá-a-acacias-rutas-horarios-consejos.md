@@ -19,16 +19,17 @@ permalink: pasaje/bogota-acacias
 ---
 Viajar en bus de Bogotá a Acacias es una opción económica y cómoda. Además, es una oportunidad para disfrutar del paisaje colombiano y conocer más sobre la cultura y tradiciones de ambas ciudades.
 
-## Empresas de transporte y horarios
+### Empresas de transporte y horarios
 
 * **Flota La Macarena:** Esta empresa ofrece salidas desde las 00:40 hasta las 23:30 hrs, aproximadamente cada 30 minutos. Los servicios incluyen Platino Plus, Platino Vip, Cimarrón Dorado, Diamante, y Vip. Los precios varían, pero suelen comenzar desde $50.000.
 * **Expreso Bolivariano:** Esta empresa tiene una salida a las 15:20 desde el Terminal Salitre. El servicio ofrecido es 2G Gold Básico con un precio desde $33.000.
 
-## Terminales de salida y llegada
+### Terminales de salida y llegada
 
 * **Terminal de Salida en Bogotá:** La mayoría de los buses parten desde el Terminal Salitre de Bogotá, que es el principal punto de salida de la ciudad.
 * **Terminal de Llegada en Acacias:** Los buses generalmente llegan a la Terminal de Acacias, que es el principal punto de llegada en la ciudad.
-{:id="enlace1"}
+  {:id="enlace1"}
+
 ## Precios de los pasajes
 
 El costo del pasaje varía según la empresa de transporte y el tipo de servicio. Por ejemplo, un pasaje con Expreso Bolivariano puede costar desde $33.000, mientras que con Flota La Macarena, el precio puede llegar hasta $50.000.
@@ -37,17 +38,16 @@ El costo del pasaje varía según la empresa de transporte y el tipo de servicio
 
 Existen varias opciones para adquirir tus boletos. Puedes comprarlos directamente en las taquillas de los terminales de transporte, en las agencias de las empresas de buses, o a través de sus páginas web y call centers. Además, algunos sitios web, como Horario de Buses, ofrecen la opción de comprar pasajes en línea.
 {:id="enlace2"}
-## Distancia y duración del viaje
+
+### Distancia y duración del viaje
 
 * **Distancia:** La distancia entre Bogotá y Acacias es de aproximadamente 230 km.
 * **Tiempo estimado:** El viaje en bus tiene una duración promedio de 4 horas, aunque este tiempo puede variar dependiendo del tráfico y las paradas en la ruta.
 
-## Consejos para un viaje seguro
+> Es importante seguir algunas recomendaciones de bioseguridad al viajar en bus, especialmente en tiempos de pandemia. Asegúrate de usar mascarilla, mantener el distanciamiento social y seguir las indicaciones del personal de la empresa de transporte.
 
-Es importante seguir algunas recomendaciones de bioseguridad al viajar en bus, especialmente en tiempos de pandemia. Asegúrate de usar mascarilla, mantener el distanciamiento social y seguir las indicaciones del personal de la empresa de transporte.
+#### ¿Listo para tu viaje?
 
-## ¿Listo para tu viaje?
-
-Viajar de Bogotá a Acacias en bus es una experiencia única. No solo te permite conocer más sobre Colombia, sino que también es una opción económica y cómoda. ¡Prepara tus maletas y disfruta del viaje!
+Viajar de Bogotá a Acacias en bus te permite conocer más sobre Colombia, también es una opción económica y cómoda. ¡Prepara tus maletas y disfruta del viaje!
 
 **¡Continúa explorando más destinos y opciones de viaje en nuestra página web!**
