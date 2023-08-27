@@ -8,7 +8,7 @@ title: Pasajes de Bogotá a Acacias | Rutas | Horarios | Consejos
 description: Encuentra todo lo que necesitas para tu viaje en bus de Bogotá a
   Acacias, aquí te mostramos cómo viajar de manera correcta.
 category: Meta
-h1: "Pasajes de Bogotá a Acacias: Tu Manual para un Viaje Perfecto"
+h1: "Pasajes de Bogotá a Acacias: Tu manual para un viaje perfecto"
 jpg: img/blog/pasaje-bogota-acacias.jpg
 webpm: img/blog/pasaje-bogota-acacias.webp
 webps: img/blog/pasaje-bogota-acacias-s.webp
@@ -28,7 +28,7 @@ Viajar en bus de Bogotá a Acacias es una opción económica y cómoda. Además,
 
 * **Terminal de Salida en Bogotá:** La mayoría de los buses parten desde el Terminal Salitre de Bogotá, que es el principal punto de salida de la ciudad.
 * **Terminal de Llegada en Acacias:** Los buses generalmente llegan a la Terminal de Acacias, que es el principal punto de llegada en la ciudad.
-
+{:id="enlace1"}
 ## Precios de los pasajes
 
 El costo del pasaje varía según la empresa de transporte y el tipo de servicio. Por ejemplo, un pasaje con Expreso Bolivariano puede costar desde $33.000, mientras que con Flota La Macarena, el precio puede llegar hasta $50.000.
@@ -36,7 +36,7 @@ El costo del pasaje varía según la empresa de transporte y el tipo de servicio
 ## ¿Cómo comprar pasajes?
 
 Existen varias opciones para adquirir tus boletos. Puedes comprarlos directamente en las taquillas de los terminales de transporte, en las agencias de las empresas de buses, o a través de sus páginas web y call centers. Además, algunos sitios web, como Horario de Buses, ofrecen la opción de comprar pasajes en línea.
-
+{:id="enlace2"}
 ## Distancia y duración del viaje
 
 * **Distancia:** La distancia entre Bogotá y Acacias es de aproximadamente 230 km.
