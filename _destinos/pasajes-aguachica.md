@@ -17,6 +17,7 @@ cta1: Ver precios de pasajes
 cta2: Ver rutas
 permalink: pasajes/aguachica
 ---
+ <!--Se deben corregir los subtítulos con mayúsculas. Lo demás está muy bien-->
 **Aguachica** no es solo un destino; es toda una experiencia. Quizá vives en Aguachica y estás buscando los mejores precios. O quizá eres un viajero con ganas de aventuras.
 
 Nosotros te contamos más sobre **cómo comprar tu pasaje y llegar en bus** a este hermoso destino colombiano del departamento del Cesar.
@@ -77,16 +78,14 @@ La planificación es esencial, y estas plataformas te facilitan la tarea:
 
 * **[Rome2Rio](https://www.rome2rio.com/)**: Especializado en ofrecerte los mejores precios y horarios.
 * **[Pinbus](https://www.pinbus.com/rutas/bogota-a-aguachica)**: Más que un buscador, es tu compañero de viaje. Información actualizada, promociones y todo lo que necesitas en un solo lugar.
-  {:class="seccion"}
+{:class="seccion"}
 
 ## Destinos desde Aguachica
 
 * **Barranquilla**: Conoce la cultura caribeña, disfruta de sus playas y su gastronomía.
 * **Bogotá**: La capital te espera con su historia, arte y vibrante vida nocturna.
 * **Sierra Nevada de Santa Marta**: Un paraíso natural, ideal para los amantes de la aventura.
-  {:class="seccion"}
-
-  {:id="enlace2"}
+{:class="seccion" id="enlace2"}
 
 ## Rutas hacia Aguachica: Opciones de Transporte y Pasajes
 
