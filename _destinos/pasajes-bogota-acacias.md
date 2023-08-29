@@ -3,7 +3,7 @@ layout: post
 json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
-date: 2023-09-07T15:50:53.815Z
+date: 2023-08-27
 title: Pasajes de Bogotá a Acacias | Rutas | Horarios | Consejos
 description: Encuentra todo lo que necesitas para tu viaje en bus de Bogotá a
   Acacias, aquí te mostramos cómo viajar de manera correcta.
