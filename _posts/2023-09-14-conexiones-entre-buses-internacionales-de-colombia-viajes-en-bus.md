@@ -3,8 +3,7 @@ layout: post
 json-post: "true"
 date: 2023-09-14T18:02:50.095Z
 title: Conexiones entre buses internacionales de Colombia | Viajes en bus
-description: Aprende sobre las empresas de buses que conectan Colombia con
-  destinos internacionales. ¡Infórmate, compara y viaja!
+description: Aprende sobre las empresas de buses que conectan Colombia con destinos internacionales. ¡Infórmate, compara y viaja!
 autor: Camilo Cuspián
 h1: "Buses internacionales: Rutas y destinos dentro y fuera de Colombia"
 jpg: blog/buses-internacionales.jpg
@@ -12,9 +11,7 @@ webpm: blog/buses-internacionales-m.webp
 webps: blog/buses-internacionales-s.webp
 alt: Buses internacionales
 permalink: blog/buses-internacionales
-excerpt: Viajar en buses internacionales, se ha convertido en una opción popular
-  para muchos. Esta guía te ofrece una información detallada sobre las rutas,
-  empresas y consejos prácticos para tu viaje.
+excerpt: Viajar en buses internacionales, se ha convertido en una opción popular para muchos. Esta guía te ofrece una información detallada sobre las rutas, empresas y consejos prácticos para tu viaje.
 ---
 * Do not remove this line (it will not be displayed)
 {:toc}
