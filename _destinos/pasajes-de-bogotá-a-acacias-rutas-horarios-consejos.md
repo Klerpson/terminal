@@ -32,11 +32,11 @@ Viajar en bus de Bogotá a Acacias es una opción económica y cómoda. Además,
 
 ## Precios de los pasajes
 
-El costo del pasaje varía según la empresa de transporte y el tipo de servicio. Por ejemplo, un pasaje con Expreso Bolivariano puede costar desde $33.000, mientras que con Flota La Macarena, el precio puede llegar hasta $50.000.
+El costo del pasaje varía según la empresa de transporte y el tipo de servicio. Por ejemplo, **un pasaje con Expreso Bolivariano puede costar desde $33.000, mientras que con Flota La Macarena, el precio puede llegar hasta $50.000**.
 
 ## ¿Cómo comprar pasajes?
 
-Existen varias opciones para adquirir tus boletos. Puedes comprarlos directamente en las taquillas de los terminales de transporte, en las agencias de las empresas de buses, o a través de sus páginas web y call centers. Además, algunos sitios web, como Horario de Buses, ofrecen la opción de comprar pasajes en línea.
+Existen varias opciones para adquirir tus boletos. Puedes comprarlos directamente en las taquillas de los terminales de transporte, en las agencias de las empresas de buses, o a través de sus páginas web y call centers. Además, algunos sitios web, como Pinbus, ofrecen la opción de comprar pasajes en línea.
 {:id="enlace2"}
 
 ### Distancia y duración del viaje
