@@ -36,7 +36,7 @@ Con **Pinbus**, puedes encontrar pasajes a precios competitivos y horarios flexi
 ### Otras formas de llegar
 
 Si bien el bus es la opción más popular, hay quienes prefieren viajar en taxi o incluso volar. Plataformas como **Expedia** y **KAYAK** te permiten comparar diferentes medios de transporte y elegir el que mejor se adapte a tus necesidades y presupuesto.
-
+{:id="enlace1"}
 ## Precios de los pasajes Bogotá a Anapoima
 
 1. **RedBus**
@@ -61,6 +61,11 @@ Si bien el bus es la opción más popular, hay quienes prefieren viajar en taxi 
 * **Planifica con anticipación**: Asegúrate de comprar tus boletos con tiempo, especialmente durante la temporada alta.
 * **Empaca ligero**: Anapoima tiene un clima cálido, así que lleva ropa fresca y cómoda.
 * **Explora la región**: Aprovecha tu visita para conocer otros destinos cercanos como La Mesa o Apulo.
+{:id="enlace2"}
+### Rutas más frecuentadas:
+
+* Bogotá a Anapoima
+* Ocaña a Anapoima
 
 ## Conclusión
 
