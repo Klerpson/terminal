@@ -1,22 +1,17 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-08-28T16:08:46.129Z
+date: 2023-08-28
 title: "Buses de dos pisos: Características y ventajas"
-description: ¿Buscas información detallada sobre buses de dos pisos? Llegaste a
-  el lugar correcto. Acomódate y déjate informar.
+description: ¿Buscas información detallada sobre buses de dos pisos? Llegaste a el lugar correcto. Acomódate y déjate informar.
 autor: Paula Moreno
-h1: " Buses de dos pisos: Características, especificaciones y ventajas"
+h1: "Buses de dos pisos: Características, especificaciones y ventajas"
 jpg: blog/buses-dos-pisos-600.jpg
 webpm: blog/buses-dos-pisos-600.webp
 webps: blog/buses-dos-pisos-376.webp
 alt: Bus de dos pisos
 permalink: blog/buses-dos-pisos
-excerpt: Los buses de dos pisos han sido una innovación en el transporte público
-  de muchas ciudades alrededor del mundo. Estos vehículos, además de tener un
-  diseño distintivo, ofrecen una serie de características que los hacen ideales
-  para ciertos tipos de rutas y demandas de pasajeros. Encuentra aquí más
-  información.
+excerpt: Los buses de dos pisos han sido una innovación en el transporte público de muchas ciudades alrededor del mundo. Estos vehículos, además de tener un diseño distintivo, ofrecen una serie de características que los hacen ideales para ciertos tipos de rutas y demandas de pasajeros. Encuentra aquí más información.
 ---
 Los buses de dos pisos han sido una innovación en el transporte público de muchas ciudades alrededor del mundo.
 
@@ -41,7 +36,7 @@ La mayoría de *los buses de dos pisos tienen en común las siguientes caracter�
 
 Optar por un bus de dos pisos no solo es una cuestión de capacidad. **Estos buses ofrecen una experiencia diferente al pasajero**, ya que ofrecen una vista panorámica tanto para rutas regulares como turísticas y una distribución diferente de los asientos que puede ser más cómoda para viajes largos.
 
-----
+{% include add1.html %}
 
 ## Medidas estándar y personalizaciones del bus de 2 pisos
 
@@ -58,6 +53,8 @@ Es importante considerar aspectos como **la altura total del vehículo**, especi
 Tienes opciones de personalización, tanto en el diseño interior como exterior, y en las características técnicas específicas.
 
 Estas adaptaciones pueden ser esenciales para operar en ciertas condiciones o para ofrecer servicios específicos, como rutas turísticas.
+
+----
 
 ## Precios y factores que influyen en la compra de un bus de dos pisos
 
@@ -77,7 +74,7 @@ Más allá del precio inicial, es esencial considerar otros costos asociados, co
 
 Otros factores importantes son **la marca, el país de fabricación y las características adicionales** pueden influir en el precio final.
 
-----
+{% include add1.html %}
 
 ## Consejos para la compra y mantenimiento para un bus doble
 
@@ -101,4 +98,4 @@ Conducir un vehículo de estas características puede requerir habilidades adici
 
 >Los buses de dos pisos representan una solución de transporte innovadora y eficiente que se adapta a las necesidades de las ciudades modernas.
 
-Si te ha resultado útil esta información, no dejes de leer nuestros próximos artículos. Profundizamos en temas que seguramente te ayudarán a tomar decisiones más informadas, en el mundo del transporte, para hacer tus viajes más cómodos.
+Si te ha resultado útil esta información, no dejes de leer nuestros próximos artículos. Profundizamos en temas que seguramente te ayudarán a tomar decisiones más informadas, [en el mundo del transporte](/), para hacer tus [viajes más cómodos]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}).
