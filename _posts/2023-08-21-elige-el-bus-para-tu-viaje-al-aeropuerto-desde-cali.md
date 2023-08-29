@@ -18,7 +18,7 @@ excerpt: Viajar desde Cali a el aeropuerto puede presentar varios desafíos,
   transporte ofrece una solución eficiente y económica
 ---
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
 ## ¿Por qué elegir el bus para ir al aeropuerto desde Cali?
 
@@ -84,15 +84,11 @@ Siempre es esencial estar atento a las pertenencias y evitar hablar con extraño
 
 Al llegar al aeropuerto, los viajeros encontrarán una variedad de servicios y facilidades.
 
-### Servicios disponibles en el aeropuerto
-
 El aeropuerto ofrece **tiendas, restaurantes, casas de cambio** y servicios de alquiler de coches.
 
 ### Cómo orientarse al llegar
 
 Hay señalizaciones claras y personal dispuesto a ayudar a los viajeros a orientarse.
-
-### Conexiones con otros medios de transporte
 
 Para aquellos que necesitan desplazarse a otras partes de la ciudad o regiones cercanas, hay taxis, buses locales y servicios de transporte privado disponibles.
 
