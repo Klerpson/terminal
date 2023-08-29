@@ -26,17 +26,23 @@ Viajar en bus de Bogotá a Acacias es una opción económica y cómoda. Además,
 
 ### Terminales de salida de Bogotá y llegada a Acacías
 
-* **Terminal de Salida en Bogotá:** La mayoría de los buses parten desde el Terminal Salitre de Bogotá, que es el principal punto de salida de la ciudad.
+* **[Terminal de Salida en Bogotá]({{'terminal-norte-bogota'|relative_url}} "Terminal Norte Bogotá"):** La mayoría de los buses parten desde el Terminal Salitre de Bogotá, que es el principal punto de salida de la ciudad.
 * **Terminal de Llegada en Acacias:** Los buses generalmente llegan a la Terminal de Acacias, que es el principal punto de llegada en la ciudad.
-  {:id="enlace1"}
+{:id="enlace1"}
 
 ## Precios de los pasajes Bogotá - Acacías
 
-El costo del pasaje varía según la empresa de transporte y el tipo de servicio. Por ejemplo, **un pasaje con Expreso Bolivariano puede costar desde $33.000, mientras que con Flota La Macarena, el precio puede llegar hasta $50.000**.
+El costo del pasaje varía según la empresa de transporte y el tipo de servicio.
+
+Para mencionar dos opciones, **un pasaje con Expreso Bolivariano puede costar desde $33.000, mientras que con Flota La Macarena, el precio puede llegar hasta $50.000**.
+
+----
 
 ## ¿Cómo comprar pasajes a Acacías?
 
-Existen varias opciones para adquirir tus boletos. Puedes comprarlos directamente en las taquillas de los terminales de transporte, en las agencias de las empresas de buses, o a través de sus páginas web y call centers. Además, algunos sitios web, como Pinbus, ofrecen la opción de comprar pasajes en línea.
+Hoy en día, tenemos varias opciones para adquirir los boletos del bus. Puedes comprarlos directamente en las taquillas de los terminales de transporte, en las agencias de las empresas de buses, o a través de sus páginas web y call centers.
+
+De la misma manera, hoy podemos acceder a [sitios web como Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %} "App Pinbus"), que ofrecen la opción de comprar pasajes en línea.
 {:id="enlace2"}
 
 ### Distancia y duración del viaje
