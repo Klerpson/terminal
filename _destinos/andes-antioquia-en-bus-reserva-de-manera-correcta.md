@@ -8,7 +8,7 @@ title: Andes Antioquia en bus | Reserva de manera correcta
 description: "¿Cómo llegar a Andes Antioquia en bus? Infórmate de todo lo que
   necesitas para que tengas un viaje cómodo seguro y económico. "
 category: Antioquia
-h1: "Tu pasaje en Bus a Andes Antioquia: Lo Que Necesitas Saber"
+h1: "Tu pasaje en bus a Andes Antioquia: Lo que necesitas saber"
 jpg: blog/pasaje-andes-antioquia.jpg
 webpm: blog/pasaje-andes-antioquia.webp
 webps: blog/pasaje-andes-antioquia-s.webp
@@ -35,7 +35,7 @@ Según [Web3](https://www.centraldepasajes.com.ar/pasaje-micro/pasaje-a-san-mart
 
 ### Horarios y Precios
 
-Los horarios varían según la empresa y la temporada. Sin embargo, la mayoría de los buses salen por la mañana o por la tarde. En cuanto a los precios, estos pueden variar desde **$1,000 ARS hasta $4,000 ARS**, dependiendo del tipo de servicio que elijas.
+Los horarios varían según la empresa y la temporada. Sin embargo, la mayoría de los buses salen por la mañana o por la tarde. En cuanto a los precios, estos pueden variar, dependiendo del tipo de servicio que elijas.
 
 ### Paradas Importantes en la Ruta
 
