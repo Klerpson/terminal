@@ -26,16 +26,12 @@ La elección del bus adecuado puede hacer o deshacer tu experiencia de viaje. **
 ### Paradas Importantes en la Ruta
 
 Conocer las paradas en tu ruta te permite planificar mejor tu viaje. Algunas rutas ofrecen **paradas estratégicas** en puntos turísticos o ciudades importantes. Esto te da la oportunidad de **explorar más** durante tu viaje.
-
+* {:id="enlace1"}
 ## Rutas de Bus a San Martín de los Andes
 
 ### Empresas de Bus que Ofrecen el Servicio
 
 Según [Web3](https://www.centraldepasajes.com.ar/pasaje-micro/pasaje-a-san-martin-de-los-andes.html), hay varias empresas de bus que ofrecen servicios a San Martín de los Andes. Algunas de las más populares son **Andesmar** y **Via Bariloche**. Ambas ofrecen diferentes tipos de buses, desde opciones económicas hasta servicios de lujo.
-
-### Horarios y Precios
-
-Los horarios varían según la empresa y la temporada. Sin embargo, la mayoría de los buses salen por la mañana o por la tarde. En cuanto a los precios, estos pueden variar, dependiendo del tipo de servicio que elijas.
 
 ### Paradas Importantes en la Ruta
 
@@ -70,7 +66,7 @@ Mantente atento a las **ofertas y descuentos** que las empresas de bus ofrecen r
 ### Empresas de Bus que Ofrecen el Servicio
 
 Según [Web1](https://terminalesmedellin.com/es/destino/andes/), hay varias empresas de bus que ofrecen servicios a Andes Antioquia. Entre las más populares se encuentran **Expreso Brasilia** y **Rápido Ochoa**. Al igual que en el caso de San Martín de los Andes, estas empresas ofrecen diferentes tipos de buses para satisfacer diversas necesidades.
-
+* {:id="enlace1"}
 ### Horarios y Precios
 
 Los horarios y precios pueden variar, pero generalmente los buses salen cada **2-3 horas** desde Medellín. Los precios oscilan entre **$20,000 COP y $50,000 COP**, dependiendo del tipo de servicio y la empresa que elijas.
