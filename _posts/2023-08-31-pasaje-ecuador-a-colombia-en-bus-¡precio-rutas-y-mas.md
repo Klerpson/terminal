@@ -17,16 +17,14 @@ excerpt: Si estás pensando en viajar desde Ecuador a Colombia en bus, estás en
   el lugar correcto. A continuación, te presentamos una guía completa que te
   llevará paso a paso en este emocionante viaje.
 ---
-
-
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
 Viajar en bus es una de las maneras de poder disfrutar de paisajes cambiantes y la oportunidad de conocer de cerca la cultura local. 
 
  Si estás pensando en viajar **desde Ecuador a Colombia en bus**, estás en el lugar correcto. A continuación, te presentamos una guía completa que te llevará paso a paso en este emocionante viaje.
 
-## ¿Por qué elegir el bus para tu viaje?
+## ¿Por qué elegir el bus para tu viaje Colombia - Ecuador?
 
 **Economía y accesibilidad.** Viajar en bus *es una opción práctica y económica*. A diferencia de los vuelos, no necesitas hacer reservas con meses de anticipación y puedes decidir tu fecha de viaje con flexibilidad.
 
