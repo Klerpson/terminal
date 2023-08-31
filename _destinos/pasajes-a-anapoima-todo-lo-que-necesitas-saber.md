@@ -5,8 +5,8 @@ enlace1: enlace1
 enlace2: enlace2
 date: 2023-09-15T01:22:52.421Z
 title: Pasajes a Anapoima | Todo lo que Necesitas Saber
-description: De Bogotá a Anapoima, aquí encontrarás precios, horarios y todo
-  sobre cómo hacer que tu viaje sea lo más agradable. ¡Infórmate ya!
+description: De Bogotá a Anapoima, precios de pasasjes, horarios y todo sobre
+  cómo hacer que tu viaje sea lo más agradable. ¡Infórmate con nosotros!
 category: Cundinamarca
 h1: "Viaja de Bogotá a Anapoima en Bus: Tu Ruta Detallada "
 jpg: img/blog/pasaje-bogota-anapoima.jpg
