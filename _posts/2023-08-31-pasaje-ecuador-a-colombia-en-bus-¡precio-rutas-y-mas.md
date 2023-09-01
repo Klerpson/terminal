@@ -18,7 +18,7 @@ excerpt: Si estás pensando en viajar desde Ecuador a Colombia en bus, estás en
   llevará paso a paso en este emocionante viaje.
 ---
 * Do not remove this line (it will not be displayed)
-  {:toc}
+{:toc}
 
 Viajar en bus es una de las maneras de poder disfrutar de paisajes cambiantes y la oportunidad de conocer de cerca la cultura local. 
 
