@@ -57,6 +57,6 @@ Basándonos en la información recopilada, la ruta más popular y recomendada pa
 * **Seguridad:** Aunque viajar en bus es generalmente seguro, siempre es bueno tomar precauciones. No dejes tus pertenencias desatendidas y *mantente alerta* en las paradas del bus.
 * **Salud:** Lleva contigo un pequeño botiquín de primeros auxilios. Dado que estarás en el bus durante varias horas, es bueno tener a mano medicamentos básicos, como analgésicos y medicamentos para el mareo.
 
-Viajar en bus desde Ecuador a Colombia es una experiencia que te permitirá conocer de cerca dos países hermanos y disfrutar de paisajes impresionantes.
+Viajar en bus desde Ecuador a Colombia es una experiencia, te permitirá conocer de cerca dos países hermanos y disfrutar de paisajes impresionantes.
 
 Si estás buscando una *forma auténtica y económica de viajar*, el bus es tu mejor opción. Y si después de este viaje te quedas con ganas de más, **no dudes en explorar otras rutas y destinos en nuestra página web.**
