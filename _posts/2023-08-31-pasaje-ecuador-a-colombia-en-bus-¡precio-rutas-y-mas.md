@@ -18,11 +18,11 @@ excerpt: Si estás pensando en viajar desde Ecuador a Colombia en bus, estás en
   llevará paso a paso en este emocionante viaje.
 ---
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
-Viajar en bus es una de las maneras de poder disfrutar de paisajes cambiantes y la oportunidad de conocer de cerca la cultura local. 
+Viajar en bus es una de las maneras de poder disfrutar de paisajes cambiantes y la oportunidad de conocer de cerca la cultura local.
 
- Si estás pensando en viajar **desde Ecuador a Colombia en bus**, estás en el lugar correcto. A continuación, te presentamos una guía completa que te llevará paso a paso en este emocionante viaje.
+Si estás pensando en viajar **desde Ecuador a Colombia en bus**, estás en el lugar correcto. A continuación, te presentamos una guía completa que te llevará paso a paso en este emocionante viaje.
 
 ## ¿Por qué elegir el bus para tu viaje Colombia - Ecuador?
 
@@ -32,7 +32,7 @@ Viajar en bus es una de las maneras de poder disfrutar de paisajes cambiantes y 
 
 **Conexión con la cultura local.** Los buses te permiten interactuar con locales, escuchar sus historias y compartir experiencias. Es una forma auténtica de viajar y conectarse con la esencia de cada país.
 
-> Antes de embarcarte en tu viaje, es esencial estar bien preparado. Asegúrate de tener todos tus documentos en regla, especialmente tu pasaporte y cualquier visa que puedas necesitar. Además, *investiga sobre las condiciones climáticas y empaca de acuerdo a ello.*
+> Antes de embarcarte en tu viaje, es esencial estar bien preparado. Asegúrate de tener todos tus documentos en regla, especialmente tu pasaporte y cualquier visa que puedas necesitar. Además, *investiga sobre las condiciones climáticas y empaca de acuerdo a ello*.
 
 **Consejo:** Siempre lleva contigo snacks, agua y algo de entretenimiento, como un libro o música, para hacer el viaje más ameno.
 
@@ -42,7 +42,7 @@ Viajar en bus es una de las maneras de poder disfrutar de paisajes cambiantes y 
 
 Basándonos en la información recopilada, la ruta más popular y recomendada para viajar en bus desde **Quito a Bogotá es la siguiente**:
 
-1. **Quito - Tulcán:** Esta es la primera etapa de tu viaje. Desde Quito, puedes tomar buses de diversas empresas como Transporte Ormeño, Expreso Tulcan, entre otros. El viaje dura aproximadamente 5 horas y 22 minutos, cubriendo una distancia de 240 km.
+1. **Quito - Tulcán:** Esta es la primera etapa de tu viaje. Desde Quito, puedes tomar buses de diversas empresas como Transporte Ormeño, Expreso Tulcán, entre otros. El viaje dura aproximadamente 5 horas y 22 minutos, cubriendo una distancia de 240 km.
 2. **Tulcán - Ipiales:** Una vez en *Tulcán*, deberás cruzar la frontera **Ecuador-Colombia** por el Puente Internacional **Rumichaca**. Es un proceso sencillo, pero no olvides sellar tu pasaporte en ambos lados de la frontera.
 3. **Ipiales - Cali:** Desde **Ipiales**, puedes tomar un **bus directo a Cali**. El viaje dura alrededor de 11 horas, y hay varias empresas que ofrecen este servicio, como Expreso Bolivariano y Fronteras.
 4. **Cali - Bogotá:** Finalmente, **desde Cali**, puedes tomar un bus directo a Bogotá. El viaje dura otras 11 horas aproximadamente. Varias empresas ofrecen este servicio, y los precios varían según la clase y comodidades del bus.
@@ -59,4 +59,4 @@ Basándonos en la información recopilada, la ruta más popular y recomendada pa
 
 Viajar en bus desde Ecuador a Colombia es una experiencia que te permitirá conocer de cerca dos países hermanos y disfrutar de paisajes impresionantes.
 
- Si estás buscando una *forma auténtica y económica de viajar*, el bus es tu mejor opción. Y si después de este viaje te quedas con ganas de más, **no dudes en explorar otras rutas y destinos en nuestra página web**.
+Si estás buscando una *forma auténtica y económica de viajar*, el bus es tu mejor opción. Y si después de este viaje te quedas con ganas de más, **no dudes en explorar otras rutas y destinos en nuestra página web.**
