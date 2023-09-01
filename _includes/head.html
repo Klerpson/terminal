@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
       <title>{{ page.title}}</title>
       <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}">
-      <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+      <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
       <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
       <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}">
   {% if page.noindex %}
@@ -141,7 +141,7 @@
   <link rel="stylesheet" href="{{site.baseurl}}/css/fonts/styles.css">
 
 <!-- Google Tag Manager -->
-<script async>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script defer>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
