@@ -50,6 +50,31 @@ h1: "Bienvenido a tu Terminal de Transporte: Tu portal para viajar en bus en Col
       </ul>
     </div>
   </section>
+  <div style="width: min(100%, 1200px); margin-inline: auto;">{% include add1.html %}</div>
+  <section class="flow wrapper seccion">
+    <h2>Compra pasajes, mira horarios de buses y las rutas que necesitas</h2>
+    <p>Gracias a <b>terminaldetransporte.com</b> puedes acceder a toda la información para planificar tu próximo viaje. ¿Qué información te preparamos? Estos son algunos datos.</p>
+    <hr>
+    <h3>Bus de pasajeros: Precios y más</h3>
+    <p>Si estás buscando información sobre <strong>el precio en el bus de pasajeros</strong>, estás en el lugar correcto. Compara precios de diferentes empresas de buses y elige la mejor opción para tu bolsillo.</p>
+    <a href="{{'pasajes'|relative_url}}" class="boton-verde botones">Ver Pasajes y Rutas</a>
+    <h4>Cuánto cuestan los pasajes por rutas</h4>
+    <p>¿Te preguntas <strong>cuánto cuestan los pasajes</strong>? Aquí encontrarás una lista completa de precios para diferentes rutas y empresas de buses.</p>
+    <h4>Cuánto vale el pasaje de diferentes ciudades</h4>
+    <p>Elimina todas tus dudas sobre <i>qué vale el pasaje</i> para diferentes rutas y empresas de buses. Descubre <strong>cuánto vale el pasaje de</strong> Bogotá a Medellín, Cali a Neiva, y muchas más rutas.</p>
+    <hr>
+    <h3>Empresas de buses: Tu mejor opción</h3>
+    <p>Conoce las diferentes <strong>empresas de buses</strong> que ofrecen servicios de transporte y elige la que mejor se adapte a tus necesidades.</p>
+    <h4>"¿A qué hora sale el bus?" Horarios de salida de buses</h4>
+    <p>¿Te preguntas a qué hora sale el bus? En <i>terminaldetransporte.com</i>, te ofrecemos los horarios de salida de buses actualizados para que puedas planificar tu viaje con tranquilidad.</p>
+    <hr>
+    <h3>Estación o terminales de bus: Información completa</h3>
+    <p>Todo lo que necesitas saber sobre la <strong>estación de bus</strong> más cercana a ti. Localización, servicios y más.</p>
+    <a href="{{'terminales-de-colombia'|relative_url}}" class="boton-verde botones">Ver las terminales</a>
+    <h4>Ruta bus: Planifica tu viaje</h4>
+    <p>Descubre cómo planificar tu viaje eligiendo la mejor <strong>ruta de bus</strong> con nuestra guía completa.</p>
+  </section>
+  
   <section class="cta flow">
     <p>
       En nuestra página <strong>Terminal de Transporte</strong>
@@ -58,9 +83,11 @@ h1: "Bienvenido a tu Terminal de Transporte: Tu portal para viajar en bus en Col
     </p>
     <a href="/blog" class="boton-verde botones">Visita nuestro blog</a>
   </section>
-
   <section class="blog-intro wrapper">
-    <h3>Últimos artículos de nuestro blog</h3>
+    <h2>Últimos artículos de nuestro blog</h2>
+    <p>Te enseñamos <strong>cómo aprovechar al máximo los viajes en bus</strong>. Algunos consejos pueden estar relacionados con estos temas como <i>evitar un bus lleno</i>, <i>cuidar tu maleta de viaje</i>, <i>alquilar un bus</i>, <i>cómo comprar con tu plata física o digital tus pasajes,</i> etc</p>
+    
+    <h3>Haz clic y lee más sobre los viajes en bus desde las terminales Colombianas</h3>
     {% assign post1 = site.posts[0] %}
     <article>
       <a href="{{site.baseurl}}{{ post1.url }}">
@@ -101,16 +128,11 @@ h1: "Bienvenido a tu Terminal de Transporte: Tu portal para viajar en bus en Col
       </a>
     </article>
   </section>
-  <div style="width: min(100%, 1200px); margin-inline: auto;">{% include add1.html %}</div>
-  
   <div style="height: 150px; overflow: hidden">
     <svg preserveAspectRatio="none" style="height:100%;width:100%" viewBox="0 0 500 150"><path d="M0 49.98c393.62 121.24 289.21 20.58 508.17 54.15L500 150H0Z" style="stroke:none;fill:#9dc5bb"></svg>
   </div>
   <section class="conclusion wrapper">
-    <h2>
-      La <i>Terminal de Transporte</i> es tu guía segura para viajar por
-      Colombia
-    </h2>
+    <h2>La <i>Terminal de Transporte</i> te ayuda a viajar en bus por Colombia</h2>
     {% include add2.html %}
     <ul>
       <li>
