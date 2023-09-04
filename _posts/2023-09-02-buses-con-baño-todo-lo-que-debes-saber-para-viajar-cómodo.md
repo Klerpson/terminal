@@ -3,15 +3,18 @@ layout: post
 json-post: "true"
 date: 2023-09-02
 title: Buses con baño | Asegura tu comodidad y salud al viajar
-description: Viaja cómodo en buses con baños ¡Infórmate aquí de su historia, funcionamiento y consejos para su uso!
+description: Viaja cómodo en buses con baños ¡Infórmate aquí de su historia,
+  funcionamiento y consejos para su uso!
 autor: Camilo Cuspián
 h1: "Viajando en bus con baños: Tu higiene y comodidad"
-jpg: blog/baños-buses.jpg
-webpm: blog/baños-buses.webp
-webps: blog/baños-buses-s.webp
+jpg: blog/buses-baños.jpg
+webpm: blog/buses-baños.webp
+webps: blog/buses-baños-s.webp
 alt: Bus con baño
 permalink: bus-baño
-excerpt: Viajar en bus con baño incorporado eleva la experiencia de comodidad en los trayectos largos, garantizando un viaje sin interrupciones y con todas las facilidades a bordo. Aquí encontraras información sobre los buses con baño.
+excerpt: Viajar en bus con baño incorporado eleva la experiencia de comodidad en
+  los trayectos largos, garantizando un viaje sin interrupciones y con todas las
+  facilidades a bordo. Aquí encontraras información sobre los buses con baño.
 ---
 * Do not remove this line (it will not be displayed)
 {:toc}
