@@ -14,28 +14,19 @@ noindex: true
 
 <div class="blog-tags wrapper">
   <button data-name="all" class="active">Todos</button>
-  <!-- get an array of the categories without dupes -->
   {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
-  <!-- start loop -->
   {% for item in site.terminales %}
-      <!-- create a filter from the categories -->
       {% assign filtered_cat = item.category | append: '|' %}
-      <!-- check the filter is in the categories array -->
       {% if filtered_categories_array contains filtered_cat %}
       <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
       {% endif %}
-      <!-- remove categories filter from the original array -->
       {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
   {% endfor %}
 </div>
 <main class="posts terminales wrapper">
-<!-- get an array of the categories without dupes -->
 {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
-<!-- start loop -->
 {% for item in site.terminales %}
-<!-- create a filter from the categories -->
 {% assign filtered_cat = item.category | append: '|' %}
-  <!-- check the filter is in the categories array -->
   {% if filtered_categories_array contains filtered_cat %}
   <div class="post" data-name="{{ item.category }}">
     <span>Terminales en {{ item.category | capitalize }}</span>
@@ -45,15 +36,13 @@ noindex: true
       <article>
         <a href="{{destino.url}}">
           {% include img.html webpm=destino.webpm webps=destino.webps %}
-          <h3>{{destino.title}}</h3></a
-        >
+          <h3>{{destino.title}}</h3></a>
       </article>
       {% endif %}
       {% endfor %}
     </section>
   </div>
   {% endif %}
-  <!-- remove categories filter from the original array -->
   {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
 {% endfor %}
 </main>

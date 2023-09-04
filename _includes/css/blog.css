@@ -151,6 +151,10 @@
   border-radius: var(--radius);
 }
 
+.post h3{
+  margin: 0;
+}
+
 .post .links{
   padding: 0 0 2rem;
 }

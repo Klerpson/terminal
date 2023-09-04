@@ -15,28 +15,19 @@ noindex: true
     {% include buscador.html %}
     <div class="blog-tags">
       <button data-name="all" class="active">Todos</button>
-      <!-- get an array of the categories without dupes -->
       {% capture filtered_categories_array %}{% for item in site.destinos %}{{ item.category }}|{% endfor %}{% endcapture %}
-      <!-- start loop -->
       {% for item in site.destinos %}
-          <!-- create a filter from the categories -->
           {% assign filtered_cat = item.category | append: '|' %}
-          <!-- check the filter is in the categories array -->
           {% if filtered_categories_array contains filtered_cat %}
           <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
           {% endif %}
-          <!-- remove categories filter from the original array -->
           {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
       {% endfor %}
     </div>
     <section class="posts">
-    <!-- get an array of the categories without dupes -->
     {% capture filtered_categories_array %}{% for item in site.destinos %}{{ item.category }}|{% endfor %}{% endcapture %}
-    <!-- start loop -->
     {% for item in site.destinos %}
-    <!-- create a filter from the categories -->
     {% assign filtered_cat = item.category | append: '|' %}
-      <!-- check the filter is in the categories array -->
       {% if filtered_categories_array contains filtered_cat %}
       <div class="post" data-name="{{ item.category }}">
         <span>Pasajes en {{ item.category | capitalize }}</span>
@@ -49,7 +40,6 @@ noindex: true
         </div>
       </div>
       {% endif %}
-      <!-- remove categories filter from the original array -->
       {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
     {% endfor %}
   </section>
@@ -73,9 +63,7 @@ noindex: true
 
   filterButtons.forEach(button => button.addEventListener("click", filter));
   </script>
-  <!-- Script pointing to search-script.js -->
 <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
-<!-- Configuration -->
 <script>
   var sjs = SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
