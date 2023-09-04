@@ -19,68 +19,47 @@ permalink: pasaje/bogota-aguaazul
 ---
 **Viajar de Bogotá a Aguazul Casanare** en bus es una experiencia que muchos eligen por sus múltiples ventajas. En este artículo, vas a encontrar todo lo que necesitas saber para que tu viaje sea un éxito. 
 
-### Conexión entre Ciudades
-
-Aguazul es una joya oculta del departamento de Casanare que se ha vuelto cada vez más atractiva para los visitantes. La **conexión en bus** entre Bogotá y Aguazul facilita la llegada a este destino, que es ideal tanto para escapadas de fin de semana como para viajes de negocio.
-
 ## ¿Cómo Comprar un Pasaje de Bogotá a Aguazul?
 
 Puedes comprar tu boleto en diversas **terminales de transporte** o directamente en las taquillas de las empresas de buses que recorren esta ruta.
 
-### Compra en Línea
+### Compra tu pasaje de Bogotá - Aguazul en línea
 
 Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con anticipación, lo que es especialmente útil en temporada alta. En muchos casos, se ofrecen descuentos por compra anticipada.
 
-1. **[HorarioDeBuses](https://www.horariodebuses.com.co/bogota/bogota-a-aguazul)**
-
-   * Precios: Varían según la fecha y la clase de servicio. Desde **$75.000** COP.
-   * Empresas: 
-2. **[RedBus](https://www.redbus.com/es-419/pasajes-de-bus/bogota-a-aguazul)**
+1. **[RedBus](https://www.redbus.com/es-419/pasajes-de-bus/bogota-a-aguazul)**
 
    * Precios: Dependen de la disponibilidad y el tipo de asiento. A partir de **$75.000 - $80.000** COP.
-   * Rutas Destacadas: Ofrece una variedad de horarios para el trayecto Bogotá - Aguazul.
-3. **[BusBud](https://www.busbud.com/es-419/autobus-bogota-aguazul/r/d2g64p-d2ummj)**
+   * Empresas: Libertadores, Concorde. 
+2. **[BusBud](https://www.busbud.com/es-419/autobus-bogota-aguazul/r/d2g64p-d2ummj)**
 
    * Precios: Los precios oscilan según el nivel de confort. Desde **$75.000** COP.
-   * Rutas Destacadas: Conexiones frecuentes entre Bogotá y Aguazul con opciones de autobuses modernos.
-4. **[PinBus](https://pinbus.com/pasajes-de-bus/bogota-aguazul)**
+   * Empresas: Libertadores.
+3. **[PinBus](https://pinbus.com/pasajes-de-bus/bogota-aguazul)**
 
    * Precios: Los precios varían según la disponibilidad y el tipo de asiento. Desde **$75.000** COP.
-   * Rutas Destacadas: Ofrece opciones cómodas y accesibles para el viaje Bogotá - Aguazul.
+   * Empresas: Libertadores, Concorde. 
 
-## Rutas de Autobús Más Frecuentadas
+**Rutas Más Frecuentadas:**
 
-1. **Bogotá - Aguazul**: Una de las rutas más populares y pintorescas, que te llevará desde la vibrante Bogotá hasta la encantadora Aguazul en Casanare. Experimenta el cambio de paisaje mientras atraviesas carreteras panorámicas.
-2. **Villavicencio - Yopal**: Conectando dos ciudades importantes, esta ruta ofrece una experiencia emocionante y diversa. Disfruta de la belleza natural y las vistas a lo largo del camino.
-3. **Bogotá - Villavicencio**: Viaja desde la capital hasta la puerta de entrada a los Llanos Orientales. Esta ruta te permitirá explorar la rica cultura llanera.
-4. **Villavicencio - Puerto Gaitán**: Una ruta que te llevará a un destino menos conocido pero igualmente fascinante. Descubre la autenticidad de Puerto Gaitán y sus alrededores.
-5. **Yopal - Paz de Ariporo**: Conecta dos destinos en Casanare y explora la región a través de esta ruta. Descubre las tradiciones locales y la hospitalidad de la gente.
+1. Bogotá - Aguazul: Esta es la ruta principal que conecta la capital colombiana con Aguazul en Casanare. Es una ruta muy demandada debido a la belleza de los paisajes y las experiencias que ofrece.
+2. Otras Rutas: Además de la ruta directa, algunas empresas también ofrecen rutas con paradas intermedias en diferentes ciudades. Estas rutas pueden brindar opciones adicionales para tu viaje.
 
-Esperamos que esta información te sea útil al planificar tu próximo viaje en autobús por Colombia. Recuerda verificar los precios y la disponibilidad directamente en los sitios web mencionados para obtener la información más actualizada. ¡Feliz viaje!
-
-Para obtener información detallada y actualizada, te sugiero que visites directamente estas páginas web o realices una búsqueda en línea.
-
-### Precios y Descuentos
-
-Los precios varían según la empresa y las comodidades ofrecidas en el bus. Sin embargo, los **descuentos por compra anticipada** o para grupos grandes son comunes, por lo que vale la pena investigar.
-
-## Empresas de Bus que Ofrecen la Ruta
-
-### Características del Servicio
-
-Cada empresa ofrece diferentes **servicios y comodidades**. Algunas incluyen alimentación y entretenimiento a bordo, así que considera estos aspectos cuando elijas una empresa.
-
-### Reputación y Calificaciones
-
-Antes de comprar tu boleto, es recomendable que revises las **calificaciones y comentarios** de otros usuarios. Esto te dará una idea de la calidad del servicio que puedes esperar.
-
-## Horarios y Frecuencias
-
-### Horarios de Salida
+## Horarios y Frecuencias de Bogotá - Aguazul
 
 Los **horarios de salida** suelen ser variados, con opciones que van desde muy temprano en la mañana hasta tarde en la noche.
 
+* **Libertadores**
+
+  Primer bus:   02:00 hrs
+
+  Último bus:   12:10 hrs
+*
+*
+
 ### Duración del Viaje
+
+
 
 La **duración del viaje** puede variar dependiendo de las condiciones de la carretera y las paradas que haga el bus. Sin embargo, en general, el viaje suele tomar entre 4 y 6 horas.
 
