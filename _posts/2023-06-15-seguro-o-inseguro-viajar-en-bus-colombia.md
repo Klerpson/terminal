@@ -96,7 +96,7 @@ Las colisiones de vehículos pueden ser inevitables, pero reducir el riesgo de s
 * **Conocer las rutas y horarios** de los autobuses puede ayudar a minimizar el riesgo de sufrir un accidente.
 * Asegurarse de que el autobús en el que se viaja **cuenta con revisiones técnicas recientes y está en buen estado**.
 * **Evitar viajar de noche o en condiciones climáticas adversas**, como fuertes lluvias o nevadas.
-* **No distraer** al conductor durante el viaje.
+* **No distraer** al conductor durante el viaje. Por ejemplo, si no se da un buen uso a [las escobillas del carro](https://amzn.to/3Z1oP1H){:rel="nofollow sponsored" target="_blank"} podría distraer y tener consecuencias.
 * **Usar siempre el cinturón de seguridad** (de ser posible) y ajustarlo correctamente.
 
 ### ¿Cuáles son las medidas de seguridad en caso de un accidente en el autobús?
