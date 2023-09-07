@@ -8,7 +8,7 @@ h1: La terminal de transporte de Neiva
 jpg: terminales/terminal-neiva.jpg
 webps: terminales/terminal-neiva-376.webp
 webpm: terminales/terminal-neiva-600.webp
-alt: Terminal de Transporte de Neiva Huila
+alt: Terminal de Transportes Neiva
 webp1: terminales/terminal-neiva-exterior-600.webp
 webp2: terminales/terminal-neiva-exterior-376.webp
 subtitle: Tiquetes en la terminal de Neiva
@@ -87,6 +87,8 @@ Ofrece rutas hacia ciudades como Bogotá, Cali, Pereira, Popayán, entre otras.
 #### Flota Magdalena
 
 Tiene rutas hacia ciudades como Medellín, Barranquilla, Bucaramanga, entre otras.
+
+## Viaja desde la terminal de transportes Neiva
 
 Recuerda que la terminal de Neiva cuenta con una amplia variedad de servicios y empresas de transporte que te permitirán llegar a tu destino de manera segura y cómoda.
 
