@@ -1,23 +1,16 @@
 ---
 layout: post
 json-terminal: "true"
-date: 2023-09-08T19:00:36.875Z
 title: "Conoce la Terminal de Buenaventura: Horarios, Rutas y Más"
-description: ¿Necesitas información sobre el Terminal de Buenaventura? Tenemos
-  la guía más completa. ¡Haz clic y viaja tranquilo!
+description: ¿Necesitas información sobre el Terminal de Buenaventura? Tenemos la guía más completa. ¡Haz clic y viaja tranquilo!
 category: Valle del Cauca
 h1: Muévete como pez en el mar en la Terminal de Buenaventura
 jpg: blog/terminal-buenaventura.jpg
 webpm: blog/terminal-buenaventura.webp
 webps: blog/terminal-buenaventura-376.webp
 alt: Terminal Buenaventura
-subtitle: Teléfonos y más datos de las empresas de la terminal de Tranporte de
-  Buenaventura
-intro: "Bienvenido a la guía más completa sobre el Terminal de Transporte de
-  Buenaventura. Si estás planeando un viaje desde o hacia esta ciudad portuaria,
-  has llegado al lugar correcto. Aquí encontrarás todo lo que necesitas saber:
-  desde horarios y rutas hasta opiniones de viajeros y consejos para hacer tu
-  experiencia más placentera. ¡Vamos allá!"
+subtitle: Teléfonos y más datos de las empresas de la terminal de Transporte de Buenaventura
+intro: "Bienvenido a la guía más completa sobre el Terminal de Transporte de Buenaventura. Si estás planeando un viaje desde o hacia esta ciudad portuaria, has llegado al lugar correcto. Aquí encontrarás todo lo que necesitas saber: desde horarios y rutas hasta opiniones de viajeros y consejos para hacer tu experiencia más placentera. ¡Vamos allá!"
 contacto: https://terminalbuenaventura.gov.co/
 email: terminal_transportes@buenaventura.gov.co
 direccion: "Carrera 5 # 7 - 32 Piso 2"
@@ -30,9 +23,19 @@ postal: "764501"
 latitude: "3.885165"
 longitude: "-77.0783442"
 permalink: terminal-de-buenaventura
+empresas:
+  - Flota Magdalena: 3102873788
+  - Expreso Trejos: 6022423247 - 3147909077
+  - Expreso Palmira: 3105452791 - 3112730419
+  - Coomoepal: 3136294367
+  - Transmar: 6022422680
+  - Ciudad Señora: 6022366161
+  - Coopetrans Tulua: 6022423449
+  - Transur: 6026603535
+  - Las Palmas: 6028277999
+  - Velotax: 3116296494
+  - Empresa Arauca: 3206968738
 ---
-# Tu guía definitiva para moverte como pez en el agua en la Terminal de Buenaventura
-
 ## Cómo llegar a la Terminal de Buenaventura
 
 ### En taxi
@@ -42,6 +45,8 @@ Si estás en cualquier punto de la ciudad, un taxi te llevará sin problemas. Es
 ### En transporte público
 
 Toma cualquier bus que vaya por la Carrera 3 o uno que vaya por la Calle 2 en el Edificio CAD en el Centro de Buenaventura. Fácil y económico.
+
+{% include add1.html %}
 
 ## Servicios que te esperan en la Terminal
 
@@ -64,6 +69,8 @@ Deja tus cosas en un lugar seguro mientras te mueves por la terminal.
 ### Locales comerciales
 
 Desde snacks hasta souvenirs, hay un poco de todo para que no te falte nada.
+
+{% include add1.html %}
 
 ## Operadores de bus: ¿Quiénes son y qué ofrecen?
 
@@ -139,17 +146,3 @@ Según una encuesta realizada por la administración de la Terminal de transport
 ### ¿Buscas más información? Encuentra todo lo que necesitas aquí
 
 Si aún tienes dudas o quieres conocer más detalles sobre la Terminal de transporte Buenaventura, te invitamos a seguir explorando en nuestra web donde encontrarás toda la información que necesitas.
-
-| Nombre de la Empresa  | Teléfono         |
-|-----------------------|------------------|
-| Flota Magdalena       | 310 2873788      |
-| Expreso Trejos        | 6022423247 - 3147909077  |
-| Expreso Palmira       | 3105452791 - 3112730419  |
-| Coomoepal             | 3136294367    |
-| Transmar              | 6022422680    |
-| Ciudad Señora         | 6022366161    | 
-| Coopetrans Tulua      | 6022423449    |
-| Transur               | 6026603535    |
-| Las Palmas            | 6028277999    |
-| Velotax               | 3116296494    |
-| Empresa Arauca        | 3206968738    |
