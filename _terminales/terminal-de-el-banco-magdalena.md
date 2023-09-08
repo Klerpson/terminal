@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: terminal
 json-terminal: "true"
 date: 2023-09-08
 title: "Terminal de El Banco Magdalena: Tu Conexión con Colombia"
