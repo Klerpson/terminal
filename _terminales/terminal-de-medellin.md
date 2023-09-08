@@ -94,7 +94,7 @@ Desde aquí, puedes tomar buses a la [Terminal de Transporte de Bogotá]({{'term
 Estas conexiones hacen de la Terminal de Transporte de Medellín un punto de partida clave para viajar a diferentes partes del país.
 {:id="norte"}
 
-## La terminal Norte Medellín
+## La terminal Norte de Medellín
 
 ----
 
