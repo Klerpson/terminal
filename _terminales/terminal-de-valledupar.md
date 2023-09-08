@@ -11,7 +11,7 @@ webpm: terminales/terminal-valledupar-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-valledupar-cesar-600.webp
 webp2: terminales/terminal-valledupar-cesar-376.webp
-subtitle: Compra tus pasajes en la terminal de valledupar
+subtitle: Compra tus pasajes en la terminal de Valledupar
 intro: "¡Ven a conocer la Terminal de Valledupar y disfruta de la experiencia de viajar en uno de los lugares más modernos y seguros de Colombia!"
 contacto: http://www.terminaldetransportesdevalledupar.gov.co/peticiones-quejas-reclamos
 direccion: 'Carrera 7A 44–156 Local 101'
