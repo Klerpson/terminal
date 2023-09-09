@@ -13,7 +13,7 @@ webp1: terminales/terminal-tunja-boyaca-600.webp
 webp2: terminales/terminal-tunja-boyaca-376.webp
 subtitle: Empresas transportadoras de la terminal de Tunja
 intro: "Planea tu viaje desde la Terminal de Tunja. Mira los horarios de sus autobuses, tarifas, conexiones de transporte y los servicios que tienes a disposición."
-contacto: https://terminaltunja.com/servicioalciudadano/
+contacto: https://terminaltunja.com/
 direccion: 'Av. Circunvalar # 18-221'
 telefono: 3102346565
 email: informacion@terminaltunja.com
@@ -68,13 +68,13 @@ La **Terminal de Tunja** es un punto neurálgico de la movilidad en la región d
 
 Por la calidad de sus servicios y una infraestructura moderna, la Terminal de Tunja ofrece una experiencia de viaje cómoda y segura.
 
-### Ubicación y accesibilidad
+### Ubicación y accesibilidad de la terminal Tunja
 
 La Terminal de Tunja se encuentra estratégicamente ubicada en la ciudad de Tunja, facilitando el acceso a los viajeros.
 
 Su ubicación permite una fácil conexión con las principales vías de la ciudad, lo que **facilita el tránsito de los buses y la llegada de los pasajeros**. Además, la terminal cuenta con amplias instalaciones que permiten un flujo eficiente de personas y vehículos.
 
-### Servicios disponibles
+### Servicios disponibles de la terminal de Tunja
 
 La Terminal de Tunja ofrece una amplia gama de servicios para los viajeros. Entre ellos se incluyen:
 
@@ -89,7 +89,7 @@ Además, la terminal cuenta con un personal altamente capacitado para atender la
 
 Diversas empresas de transporte operan en la Terminal de Tunja, ofreciendo rutas a diferentes regiones del país. Estas empresas cuentan con una flota de buses modernos y seguros, garantizando un viaje cómodo y seguro a los pasajeros.
 
-## Rutas y destinos desde la Terminal de Tunja
+## Rutas y destinos desde la Terminal de transporte Tunja
 
 {% include add3.html %}
 
@@ -105,13 +105,13 @@ Las empresas de transporte que operan en la terminal **ofrecen una frecuencia re
 
 Algunos de los destinos más populares desde la Terminal de Tunja incluyen las ciudades de [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminales de Bogotá"), [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali"), entre otras. Además, la terminal también ofrece rutas a diferentes regiones del país, lo que permite a los viajeros [explorar la diversidad y la belleza de Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}).
 
-## La transformación de la Terminal de Tunja
+## La transformación de la terminal de transporte de Tunja
 
 {% include add2.html %}
 
 La Terminal de Tunja ha experimentado una notable transformación en los últimos años. Con inversiones significativas en infraestructura y servicios, la terminal ha mejorado su capacidad para atender a los viajeros y se ha posicionado como un referente en el sector del [transporte terrestre en Colombia](/).
 
-### De antiguo a nuevo: La evolución de la Terminal
+### De antiguo a nuevo: La evolución de la terminal de Tunja
 
 La Terminal de Tunja ha evolucionado desde sus inicios como una pequeña estación de buses hasta convertirse en **una terminal de transporte moderna y eficiente**.
 
@@ -127,7 +127,7 @@ Entre estas innovaciones se incluyen la **modernización de las salas de espera,
 
 La transformación de la Terminal de Tunja ha tenido un impacto positivo en la movilidad de la ciudad. Con una **mayor capacidad** para atender a los viajeros y una **mejor conexión** con las principales vías de la ciudad, la terminal ha contribuido a mejorar la movilidad en Tunja y a facilitar el desplazamiento de los ciudadanos.
 
-## Experiencia de usuario en la Terminal de Tunja
+## Experiencia de usuario en la Terminal de transporte Tunja
 
 {% include add1.html %}
 
@@ -141,7 +141,7 @@ Los pasajeros que han utilizado la Terminal de Tunja han expresado su satisfacci
 
 La seguridad y la comodidad son prioridades en la Terminal de Tunja. La terminal cuenta con medidas de seguridad rigurosas para garantizar [la seguridad de los viajeros]({% post_url 2023-06-15-seguro-o-inseguro-viajar-en-bus-colombia %}). Además, las instalaciones de la terminal están diseñadas para ofrecer un ambiente cómodo y relajante para los viajeros.
 
-## Proyecciones futuras para la Terminal de Tunja
+## Proyecciones futuras para la terminal Tunja
 
 ----
 
