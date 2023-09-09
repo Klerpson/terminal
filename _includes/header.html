@@ -53,9 +53,7 @@
   {% include gallery.html %}
   {% elsif page.layout == "terminal" %}
   <div class="post-header">
-      {% if page.webp %}
       <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}">
-      {% endif %}
       <h1>{{page.h1}}</h1>
       <h2>Datos de la terminal de {{page.ciudad}}</h2>
       <div class="post-social">
