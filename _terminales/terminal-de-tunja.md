@@ -3,7 +3,7 @@ layout: terminal
 json-terminal: true
 title: "Terminal de Tunja: Un vistazo general"
 description: Compra tus tiquetes directamente con la Terminal de Tunja. ¿Sabes de su impacto y proyecciones futuras? ¡Emprende tu viaje hoy!
-category: boyaca
+category: Boyacá
 h1: "Terminal de Tunja: Un vistazo general"
 jpg: terminales/terminal-tunja.jpg
 webps: terminales/terminal-tunja-376.webp
