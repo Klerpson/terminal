@@ -1,20 +1,15 @@
 ---
 layout: post
+json-post: true
+date: 2023-06-27
 title: 'Viaja cómodamente con Expreso Brasilia por Colombia'
 description: 'Expreso Brasilia es una empresa de transporte reconocida en Colombia y otros países por ofrecer servicios de alta calidad y seguridad en sus recorridos.'
-autor: terminaldetransporte.com
+autor: Julian Franco
 h1: 'Viaja con comodidad y seguridad: los servicios de Expreso Brasilia en Colombia'
-h1_alternativo: 'Viaja con Expreso Brasilia por Colombia'
-award: 'Expreso Brasilia: viaja seguro y cómodo'
-date: 2023-06-27
-keywords: [bus, viajes, colombia, expreso, brasilia]
 jpg: blog/expreso-brasilia.jpg
-hero: blog/expreso-brasilia.webp
 webps: blog/expreso-brasilia-376.webp
 webpm: blog/expreso-brasilia-600.webp
-webpb: blog/expreso-brasilia-800.webp
 alt: Expreso Brasilia Bus
-json-post: true
 permalink: blog/expreso-brasilia-viajar-comodamente-por-colombia
 excerpt_separator: <!-- excerpt -->
 ---
