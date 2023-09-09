@@ -49,37 +49,15 @@ Toma cualquier bus que vaya por la Carrera 3 o uno que vaya por la Calle 2 en el
 
 {% include add1.html %}
 
-## Servicios que te esperan en la Terminal de Transporte de Buenaventura
-
-### Sala de espera
-
-Cómodos asientos y un ambiente tranquilo para que la espera no se haga eterna.
-
-### Vigilancia y seguridad
-
-Cámaras de seguridad y personal de vigilancia las 24 horas para que te sientas seguro.
-
-### Baños y aseo en la terminal
-
-Baños limpios y bien mantenidos, porque los detalles importan.
-
-### Guarda equipajes
-
-Deja tus cosas en un lugar seguro mientras te mueves por la terminal.
-
-### Locales comerciales
-
-En la *terminal de Buenaventura* puedes conseguir snacks y souvenirs, hay un poco de todo para que no te falte nada. 
-
-{% include add1.html %}
-
 ## Operadores de buses de Buenaventura: ¿Quiénes son y qué ofrecen?
 
 ### Flota Magdalena
 
 **Flota Magdalena** es una de las empresas más reconocidas en la Terminal de Buenaventura. Son especialmente conocidos por su **puntualidad y servicio al cliente**.
 
-Ofrecen rutas a destinos populares como Cali, Bogotá y Medellín. Sus buses están equipados con asientos cómodos y un sistema de entretenimiento a bordo para hacer tu viaje más placentero.
+Ofrecen rutas a [destinos populares como Cali]({{'terminal-de-cali'|relative_url}} "Terminal buses Cali"), la [terminal de buses Salitre de Bogotá]({{'terminal-salitre-bogota'|relative_url}} "Terminal Salitre") y la [terminal Sur Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Sur Medellín").
+
+Sus buses están equipados con asientos cómodos y un sistema de entretenimiento a bordo para hacer tu viaje más placentero.
 
 ### Expreso Palmira
 
@@ -113,15 +91,43 @@ Es ideal para quienes tienen que llegar a su destino a primera hora y quieren ev
 
 Para los noctámbulos o quienes tienen horarios laborales extendidos, la terminal ofrece servicios **hasta las 8:00 p.m.**. Así que si prefieres viajar de noche, tienes una ventana de tiempo bastante amplia para hacerlo.
 
+----
+
 ## Contacto y atención al cliente en la Terminal de transporte Buenaventura
 
 ### Números de teléfono
 
-Si tienes alguna duda o necesitas información adicional, la Terminal de transporte Buenaventura pone a tu disposición una **variedad de números de teléfono**. Desde consultas generales hasta información sobre rutas específicas, hay un número para cada necesidad.
+Si tienes alguna duda o necesitas información adicional, la Terminal de transporte Buenaventura pone a tu disposición el número {{page.telefono}}. Desde consultas generales hasta información sobre rutas específicas, hay un número para cada necesidad.
 
 ### Horarios de atención
 
-La atención al cliente en la Terminal de transporte Buenaventura es bastante extensa. **Operan desde las 4:00 a.m. hasta las 8:00 p.m.**, lo que te da suficiente flexibilidad para resolver cualquier inquietud o realizar trámites como la compra de boletos.
+La atención al cliente en la Terminal de transporte Buenaventura es bastante extensa.
+
+**Operan desde las 4:00 a.m. hasta las 8:00 p.m.**, lo que te da suficiente flexibilidad para resolver cualquier inquietud o realizar trámites como la compra de boletos.
+
+## Servicios que te esperan en la Terminal de Transporte de Buenaventura
+
+### Sala de espera
+
+Cómodos asientos y un ambiente tranquilo para que la espera no se haga eterna.
+
+### Vigilancia y seguridad
+
+Cámaras de seguridad y personal de vigilancia las 24 horas para que te sientas seguro.
+
+### Baños y aseo en la terminal
+
+Baños limpios y bien mantenidos, porque los detalles importan.
+
+### Guarda equipajes
+
+Deja tus cosas en un lugar seguro mientras te mueves por la terminal.
+
+### Locales comerciales
+
+En la *terminal de Buenaventura* puedes conseguir snacks y souvenirs, hay un poco de todo para que no te falte nada.
+
+{% include add1.html %}
 
 - - -
 
@@ -158,4 +164,4 @@ La gerente de la Terminal, Epifania Mosquera, mencionó que este diagnóstico es
 
 ### ¿Buscas más información? Encuentra todo lo que necesitas aquí
 
-Si aún tienes dudas o quieres conocer más **detalles sobre la Terminal de transporte Buenaventura**, te invitamos a seguir explorando en nuestra web donde encontrarás toda la información que necesitas.
+Si aún tienes dudas o quieres conocer más **detalles sobre la Terminal de transporte Buenaventura**, te invitamos a [seguir explorando en nuestra web](/) donde encontrarás toda la información que necesitas.
