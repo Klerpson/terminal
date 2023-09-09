@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: terminal
 json-terminal: "true"
 date: 2023-09-09T00:21:12.756Z
 title: "Terminal de Transporte Chiquinquira: Tu Conexión con Boyacá"
