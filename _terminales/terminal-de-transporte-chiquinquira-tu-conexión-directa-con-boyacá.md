@@ -7,14 +7,14 @@ description: Viaja con comodidad y seguridad desde la Terminal de Transporte
   Chiquinquirá. Conoce horarios, rutas y empresas disponibles. ¡Tu viaje
   comienza aquí!
 category: Boyacá
-h1: 'Todo lo que necesitas saber sobre la Terminal de Transporte de
-  Chiquinquirá: Tu puerta de entrada a una ciudad acogedora"'
+h1: "Terminal de Transporte de Chiquinquirá: Tu puerta de entrada a una ciudad
+  acogedora"
 jpg: blog/terminal-chiquinquira_600.jpg
 webpm: blog/terminal-chiquinquira_600.webp
 webps: blog/terminal-chiquinquira_376.webp
 alt: Terminal de Chiquinquirá - Teléfono y otros datos
-subtitle: terminal de transporte de chiquinquira
-intro: La Terminal de Transporte Chiquinquira es el punto de partida para
+subtitle: Pasajes y empresas de la terminal de transporte de Chiquinquira
+intro: La terminal de transporte Chiquinquira es el punto de partida para
   explorar esta hermosa ciudad. Conecta con destinos locales y nacionales,
   facilitando tus viajes.
 contacto: www.terminaldechiquinquira.com
@@ -30,8 +30,6 @@ latitude: "5.6062405"
 longitude: "-73.8202684"
 permalink: /terminal-de-chiquinquira
 ---
-# Todo lo que necesitas saber sobre la Terminal de Transporte de Chiquinquirá
-
 ## Ubicación y contacto de la Terminal de Transporte de Chiquinquirá
 
 La Terminal de Transporte de Chiquinquirá se encuentra ubicada en la Carrera 9 Número 3a – 81, Oficina 102, en la ciudad de Chiquinquirá, Boyacá. Para cualquier consulta o necesidad, puedes contactar a la terminal a través de los siguientes números de teléfono: 726-21.95, +57 3208966382, +57 3108072052.
