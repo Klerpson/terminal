@@ -25,9 +25,6 @@ Lee cómo comprar tiquetes en línea o cómo contactar a su servicio de atenció
 
 {% include img-post.html webpb="blog/pinbus-tiquetes-800.webp" webps="blog/pinbus-tiquetes-376.webp" alt="Comprar tiquetes en línea" title="Tiquetes en línea" %}
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Compra de tiquetes con Pinbus
 
 {% include add1.html %}

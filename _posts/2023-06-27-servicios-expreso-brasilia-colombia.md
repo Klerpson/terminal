@@ -21,9 +21,6 @@ excerpt_separator: <!-- excerpt -->
 Con más de 60 agencias y puntos de venta en todo el país, con **Expreso Brasilia podrás escoger entre sus más de 1000 destinos internacionales y nacionales**.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 Además, **con Expreso Brasilia puedes hacer tus reservas en línea** desde la plataforma [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}) o [Redbus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}).
 
 ## Expreso Brasilia y su presencia nacional

@@ -21,9 +21,6 @@ excerpt_separator: <!-- excerpt -->
 ¿Algunas vez imaginaste que **viajar en bus** tiene muchos beneficios para ti y para el medio ambiente? En este artículo te contamos algunos de ellos. También te damos algunos consejos para que tu experiencia sea más cómoda y segura.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Los beneficios de viajar en bus
 
 {% include add1.html %}

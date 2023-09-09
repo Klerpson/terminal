@@ -34,9 +34,6 @@ award: "Transportes Omega: viaja seguro y cómodo por Colombia"
 
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-  {:toc}
-
 [En su sitio web oficial](https://omega.com.co){:rel="nofollow noopener noreferrer" target="_blank"} se puede encontrar información detallada sobre sus rutas y horarios, así como la compra segura y rápida de pasajes en línea.
 
 Omega ofrece diferentes tipos de autobuses, desde los más básicos hasta el servicio Alfa, el cual se considera el servicio premium de la compañía. Además, se ofrecen servicios de encomiendas y giros.

@@ -15,9 +15,6 @@ excerpt: Viajar desde Cali a el aeropuerto puede presentar varios desafíos,
   especialmente durante las horas pico. **Elegir el bus correcto** como medio de
   transporte ofrece una solución eficiente y económica
 ---
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## ¿Por qué elegir el bus para ir al aeropuerto desde Cali?
 
 Viajar **al aeropuerto desde Cali puede presentar varios desafíos**, especialmente durante las horas pico. *Elegir el bus* como medio de transporte ofrece una solución *eficiente y económica*. 

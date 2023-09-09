@@ -17,9 +17,6 @@ Viajar en grupo puede ser una experiencia inolvidable, pero también puede prese
 
 En este artículo, te presentamos todo lo que necesitas saber **sobre el alquiler de buses y minibuses en Colombia**.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Alquiler de buses para paseos en grupos
 
 Alquilar un bus puede ser la solución perfecta para una excursión, un viaje de estudios, un evento o simplemente un paseo. Pero, ¿Cómo saber cuál es la mejor opción?

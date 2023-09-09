@@ -21,9 +21,6 @@ excerpt_separator: <!-- excerpt -->
 En Colombia, la seguridad en el transporte público es un tema importante a tener en cuenta. ¿Pero puede afectar la inseguridad tu próximo viaje en bus por Colombia?
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## ¿Es seguro o inseguro viajar en bus en Colombia?
 
 {% include add3.html %}

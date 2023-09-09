@@ -23,9 +23,6 @@ excerpt_separator: <!-- excerpt -->
 
 En este artículo te enseñaremos **5 trucos sencillos para cuidar la seguridad de tu maleta** en tu próximo viaje en bus. Con estos consejos, podrás relajarte y disfrutar del viaje sin preocupaciones.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## El riesgo que corre tu maleta de viaje
 
 Viajar en autobús puede ser una experiencia emocionante, pero también es importante tener en cuenta la seguridad de tus pertenencias durante el viaje. De acuerdo con los registros de la Policía Nacional, [en el primer trimestre del año 2022 se registraron más de 500 denuncias](https://www.portafolio.co/economia/hurto-en-transporte-publico-un-delito-que-se-expande-en-las-ciudades-530869){:rel="nofollow noopener noreferrer" target="_blank"} por este tipo de robo en el transporte público en solo 6 de las ciudades principales de Colombia.

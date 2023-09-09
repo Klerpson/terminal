@@ -21,9 +21,6 @@ excerpt_separator: <!-- excerpt -->
 RedBus Colombia es una plataforma de venta de pasajes en línea que se ha destacado por la calidad de su servicio al cliente y la facilidad de su plataforma.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 En este artículo te contaremos todo lo que necesitas saber sobre RedBus Colombia, desde cómo comprar pasajes en línea, su teléfono de servicio al cliente y hasta cómo obtener un cupón de descuento.
 
 ## El teléfono de contacto de RedBus

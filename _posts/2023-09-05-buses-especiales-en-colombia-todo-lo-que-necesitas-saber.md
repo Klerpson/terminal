@@ -17,9 +17,6 @@ En el mundo del transporte de pasajeros, **los buses de servicios especiales se 
 
 Si buscas adquirir uno o conocer más sobre ellos en Bogotá y alrededores, este artículo es para ti.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## ¿Qué son los buses de servicios especiales?
 
 Los buses de servicios especiales son *vehículos diseñados para satisfacer necesidades específicas* de transporte que no pueden ser cubiertas por los buses convencionales.

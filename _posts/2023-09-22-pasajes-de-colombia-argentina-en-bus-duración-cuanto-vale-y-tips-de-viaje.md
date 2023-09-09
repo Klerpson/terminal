@@ -16,9 +16,6 @@ excerpt: Viajar en bus de Colombia a Argentina es más que un simple trayecto. A
   lo largo de este artículo, te guiaré por las ventajas de optar por el bus más
   adecuado para ti en cuanto a precios y algunos consejos prácticos.
 ---
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 Viajar en bus de Colombia a Argentina es más que un simple trayecto. A lo largo de este artículo, te guiaré por las ventajas de optar por el bus más adecuado para ti en cuanto a precios, y algunos consejos prácticos para que tu aventura sea cómoda y segura.
 
 ## Costo de los pasajes hacia Argentina y dónde adquirirlos

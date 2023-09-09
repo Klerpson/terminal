@@ -24,9 +24,6 @@ Colombia es un país con muchos secretos, y hay muchos lugares interesantes para
 
 Ahora, sin más preámbulos, aquí están los **5 destinos de Colombia que puedes visitar en autobús**.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Visita estos 5 destinos de Colombia en bus
 
 {% include cta-hotmart1.html %}

@@ -13,9 +13,6 @@ alt: Bus escolar
 permalink: comportamiento-bus-escolar
 excerpt: Viajar en un bus escolar puede ser una experiencia agradable o un desafío, dependiendo del comportamiento de los estudiantes. Aprende cómo fomentar un comportamiento adecuado en el bus escolar y garantizar viajes seguros y armoniosos para todos.
 ---
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 **El viaje en el autobús escolar es una experiencia diaria** para muchos estudiantes. Es un espacio donde los niños interactúan, comparten y, a veces, enfrentan desafíos relacionados con el comportamiento.
 
 La importancia de mantener un ambiente seguro y respetuoso en el autobús escolar no solo se basa en la educación y los buenos modales, sino también en garantizar la seguridad de todos los pasajeros.

@@ -15,9 +15,6 @@ excerpt: Expreso Bolivariano es una empresa de transporte colombiana con más de
 Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. Ofrece una gran variedad de **servicios de autobús intermedio y de lujo en Colombia y Perú**, con enfoque en la seguridad, comodidad y tecnología de los autobuses.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 La empresa cuenta con una amplia flota de autobuses, **una cobertura en más de 22 ciudades de Colombia y en Perú**, con múltiples horarios y destinos populares para los viajeros.
 
 ## Pasajes y compra de tiquetes en Expreso Bolivariano

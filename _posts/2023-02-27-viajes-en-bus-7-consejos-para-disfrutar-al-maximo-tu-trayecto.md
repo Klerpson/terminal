@@ -26,9 +26,6 @@ En este artículo te vamos a compartir **los mejores consejos y trucos para que 
 
 Así que siéntate, relájate y prepárate para descubrir todo lo que necesitas saber para convertir un simple viaje en bus en una aventura inolvidable.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Viajar en bus y divertirse al mismo tiempo
 
 ¿Estás planificando un viaje en bus y no sabes cómo hacer para que el tiempo vuele? ¡No te preocupes! Te preparamos 7 consejos para disfrutar al máximo tu trayecto y hacer de tu viaje una experiencia inolvidable.

@@ -16,9 +16,6 @@ Viajar con nuestra mascota puede ser una experiencia emocionante, pero también 
 
 Cada país y compañía de bus tiene regulaciones específicas que debemos conocer, para garantizar que el viaje sea seguro y placentero para todos.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Ventajas de viajar en bus con tu mascota
 
 [El bus ofrece varias ventajas]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %}) cuando buscamos llevar a nuestras mascotas en nuestros viajes:
