@@ -69,17 +69,17 @@ Para llegar a la Terminal de Transporte de Apartadó, puedes utilizar servicios 
 
 Estos servicios te proporcionarán direcciones en vivo para ayudarte a navegar por la ciudad.
 
-## Servicios en la Terminal de Apartadó
+## Servicios en la terminal de Apartadó
 
 {% include add1.html %}
 
-La Terminal de Transporte de Apartadó ofrece una variedad de servicios para los viajeros.
+La terminal de transporte de Apartadó ofrece una variedad de servicios para los viajeros.
 
-La terminal ofrece comodidas como tiendas, restaurantes, baños, salas de espera, servicio de encomiendas y servicio de taxis.
+La terminal ofrece comodidades como tiendas, restaurantes, baños, salas de espera, servicio de encomiendas y servicio de taxis.
 
 Por otra parte, la terminal cuenta con servicios de seguridad y vigilancia para garantizar la seguridad de los pasajeros y sus pertenencias.
 
-## Compra de pasajes en la Terminal de Apartadó
+## Compra de pasajes en la terminal Apartadó
 
 ----
 
@@ -87,15 +87,15 @@ En la Terminal de Transporte de Apartadó, puedes comprar pasajes para viajar a 
 
 Además, puedes comprar tus pasajes en línea a través de sitios web como [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}).
 
-### Rutas populares desde la Terminal de Apartadó
+### Rutas populares desde la terminal de Apartadó
 
 Algunas de las rutas populares que salen desde la Terminal de Transporte de Apartadó incluyen Apartadó - Medellín, Apartadó - Montería, Apartadó - Turbo, entre otras.
 
-### Rutas populares que llegan a la Terminal de Apartadó
+### Rutas populares que llegan a la terminal de Apartadó
 
-Algunas de las rutas populares que llegan a la Terminal de Transporte de Apartadó incluyen Medellín - Apartadó, Montería - Apartadó, Turbo - Apartadó, entre otras.
+Algunas de las rutas populares que llegan a la terminal de Transporte de Apartadó incluyen Medellín - Apartadó, Montería - Apartadó, Turbo - Apartadó, entre otras.
 
-## Información adicional sobre la Terminal de Apartadó
+## Información adicional sobre la erminal de transporte de Apartadó
 
 ----
 
