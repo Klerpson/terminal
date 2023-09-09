@@ -12,6 +12,17 @@ layout: compress
   {% include header.html %}
   {{ content }}
   <a href="#">{% include boton-up.html %}</a>
+  <script>
+    const previousTitle = document.title;
   
+  window.addEventListener('blur', () => {
+    document.title = '😱 ¡No te vayas! ¡Regresa! 🚨';
+  });
+  
+  window.addEventListener('focus', () => {
+    document.title = previousTitle;
+  });
+  
+   </script>
 </body>
 </html>
