@@ -9,6 +9,20 @@ layout: null
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
   ,
+  {% for terminal in site.terminales %}
+    {
+      "title"    : "{{ terminal.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ terminal.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
+  {% for pasaje in site.pasajes %}
+    {
+      "title"    : "{{ pasaje.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ pasaje.url }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
   {% for page in site.pages %}
    {
      {% if page.title != nil %}

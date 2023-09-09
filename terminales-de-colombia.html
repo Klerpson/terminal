@@ -100,7 +100,7 @@ noindex: true
 </section>
 
 {% include footer.html %}
-<script async>
+<script>
   const filterButtons = document.querySelectorAll(".blog-tags button");
   const filterPosts = document.querySelectorAll(".posts .post");
 
@@ -115,7 +115,7 @@ noindex: true
   filterButtons.forEach(button => button.addEventListener("click", filter));
   </script>
   <!-- Script pointing to search-script.js -->
-  <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+  <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" async></script>
   <!-- Configuration -->
   <script>
     var sjs = SimpleJekyllSearch({
