@@ -12,7 +12,6 @@ noindex: true
   <main class="blog-gallery wrapper flow">
     <h1>Los pasajes de la terminal que te llevarán a tu destino</h1>
     <p>Sólo haz <b>clic en el departamento que necesitas.</b> La página filtrará por ti los destinos que ofrecen sus pasajes.</p>
-    {% include buscador.html %}
     <div class="blog-tags">
       <button data-name="all" class="active">Todos</button>
       {% capture filtered_categories_array %}{% for item in site.destinos %}{{ item.category }}|{% endfor %}{% endcapture %}

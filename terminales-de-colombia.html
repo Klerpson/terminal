@@ -6,23 +6,22 @@ h1: Las terminales de transporte de toda Colombia
 permalink: /terminales-de-colombia
 noindex: true
 ---
-<section class="wrapper">
+<section class="wrapper flow">
   <h1>{{page.h1}}</h1>
-  <p>Intenta buscar por la terminal que necesitas. Por ejemplo: <strong>"Terminal de Cali", "Terminal de Medellín", "Terminal de Popayán", etc.</strong> También, puedes bajar y ver nuestra lista organizada por departamentos.</p>
+  <p>Haz <b>clic en el botón del departamento</b>, luego selecciona la termianl que buscas. Allí encontrarás los <i>teléfonos, empresas de buses, datos de contacto, etc.</i></p>
+  <div class="blog-tags">
+    <button data-name="all" class="active">Todos</button>
+    {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
+    {% for item in site.terminales %}
+        {% assign filtered_cat = item.category | append: '|' %}
+        {% if filtered_categories_array contains filtered_cat %}
+        <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
+        {% endif %}
+        {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+    {% endfor %}
+  </div>
 </section>
-{% include buscador.html %}
 
-<div class="blog-tags wrapper">
-  <button data-name="all" class="active">Todos</button>
-  {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
-  {% for item in site.terminales %}
-      {% assign filtered_cat = item.category | append: '|' %}
-      {% if filtered_categories_array contains filtered_cat %}
-      <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
-      {% endif %}
-      {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
-  {% endfor %}
-</div>
 <main class="posts terminales wrapper">
 {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
 {% for item in site.terminales %}
