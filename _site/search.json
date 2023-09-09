@@ -1,6 +1,16 @@
 [
   
     {
+      "title"    : "Elige el bus para tu viaje al aeropuerto desde Cali",
+      "url"      : "/buses-aeropuerto-cali"
+    } ,
+  
+    {
+      "title"    : "Buses de servicio especial en Colombia: Todo lo que necesitas saber",
+      "url"      : "/blog/buses-servicio-especial"
+    } ,
+  
+    {
       "title"    : "Buses con baño | Asegura tu comodidad y salud al viajar",
       "url"      : "/bus-baño"
     } ,

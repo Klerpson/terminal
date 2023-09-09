@@ -37,7 +37,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'terminal' }
       - { label: 'J-son', name: 'json-terminal', widget: 'hidden', default: 'true' }
       - { label: 'Fecha', name: 'date', widget: 'datetime' }
       - { label: 'Meta Title', name: 'title', widget: 'string' }
@@ -71,7 +71,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'pasaje' }
       - { label: 'J-son', name: 'json-post', widget: 'hidden', default: 'true' }
       - { label: 'Enlace 1', name: 'enlace1', widget: 'hidden', default: 'enlace1' }
       - { label: 'Enlace 2', name: 'enlace2', widget: 'hidden', default: 'enlace2' }
