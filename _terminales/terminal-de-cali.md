@@ -51,15 +51,55 @@ empresas:
   - Flota Ospina: 6023860045 - 6023860045
   - Taxcentral: 6026616310 - 6026616310
 ---
+### Cómo comprar tiquetes en la terminal de Cali
+
+Si estás planeando un viaje, la Terminal de Cali tiene varias opciones para ti. Aquí encontrarás empresas como [Bolivariano y Velotax](#telefonos) que ofrecen rutas a diferentes destinos.
+
+#### Pasos para comprar tiquetes
+
+1. [Consulta el directorio de empresas](#telefonos).
+2. Compara precios y horarios.
+3. Dirígete a la taquilla correspondiente.
+4. Realiza el pago (efectivo o tarjeta).
+
+#### Comparativa de empresas y precios
+
+| Empresa       | Destino más popular | Rango de precios  |
+|---------------|---------------------|-------------------|
+| Bolivariano   | Bogotá              | $50,000 - $80,000 |
+| Velotax       | Medellín            | $40,000 - $70,000 |
+
+### Todo sobre el parqueadero y cómo llegar
+
+#### Opciones de Transporte
+
+- **En coche propio**: Amplio parqueadero disponible.
+- **Transporte público**: Ruta del MIO.
+- **Taxi o Uber**: Opción más rápida pero costosa.
+
+Si vas en tu propio coche, el parqueadero de la terminal es bastante amplio y suele tener un costo por hora. Si prefieres el transporte público, la ruta del MIO te deja justo en la entrada.
+
+----
+
 ## Principales empresas y destinos de la terminal de Cali
 
-La Terminal de Cali cuenta con diversas empresas que ofrecen rutas a diferentes destinos nacionales. Algunas de las más destacadas son:
+[La Terminal de Cali cuenta con diversas](#telefonos) empresas que ofrecen rutas a diferentes destinos nacionales. Algunas de las más destacadas son:
 
 - **Coomotor**: Teléfono 57 4 4057372
 - **Expreso bolivariano**: Teléfono 57 4 485 57 96
 - **Expreso Brasilia**: Teléfono 091 2636611
 - **Copetran**: Teléfono 57 4 668 75 04
 {:class="seccion"}
+
+### Empresas de transporte y servicios adicionales
+
+#### Directorio de servicios
+
+- **Tiendas de conveniencia**: Para tus compras de último minuto.
+- **Restaurantes**: Desde comidas rápidas hasta opciones más saludables.
+- **Información turística**: Folletos y mapas disponibles.
+
+Además de ser un punto clave para el transporte intermunicipal, la Terminal de Cali ofrece una variedad de servicios que podrían interesarte.
 
 ### Rutas populares de las empresas de la terminal
 
@@ -68,7 +108,7 @@ La Terminal de Cali cuenta con diversas empresas que ofrecen rutas a diferentes 
 - **Cali a [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín")**: Empresa Arauca
 {:class="seccion"}
 
-## Servicios adicionales de la Terminal de Cali
+### Servicios adicionales de la Terminal de Cali
 
 {% include add1.html %}
 
@@ -110,20 +150,12 @@ Si estás planeando un viaje desde la Terminal de Cali, es importante tener en c
 
 {% include add1.html %}
 
-## Historia y relevancia de la Terminal de Cali
-
 ----
+
+## Historia y relevancia de la Terminal de Cali
 
 La Terminal de transporte de Cali ha sido un pilar fundamental en la movilidad de la región **desde su inauguración en 1974**.
 
 Con más de 40 años de servicio, ha sido testigo y protagonista de la evolución del transporte en la ciudad, **movilizando diariamente a aproximadamente 30.000 personas en 3.500 vehículos**.
 
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
-
-### Contacto y ubicación de la terminal de transporte de Cali
-
-- **Sitio web**: [www.terminalcali.com](https://www.terminalcali.com/){:rel="nofollow noopener noreferrer" target="_blank"}
-- **Redes Sociales**: [Facebook](https://www.facebook.com/miterminal.cali){:rel="nofollow noopener noreferrer" target="_blank"} y [Twitter](https://twitter.com/MiTerminalCali){:rel="nofollow noopener noreferrer" target="_blank"}
-- **Dirección**: Calle 30N 2AN-29, Cali
-- **Teléfono**: (+57 2) 668 36 55
-- **Horario de atención**: Lunes a viernes de 7:30 a.m. a 12:30 p.m. y de 1:00 p.m a 5:00 p.m.
