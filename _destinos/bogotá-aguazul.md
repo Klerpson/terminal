@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pasaje
 json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
