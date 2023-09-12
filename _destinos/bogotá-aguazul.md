@@ -4,7 +4,7 @@ json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
 date: 2023-09-10
-title: "Bogotá - Aguazul: Precios y rutas "
+title: "Bogotá - Aguazul: Precios y rutas"
 description: Pasajes de Bogotá a Aguazul. Te damos toda la información para que disfrutes de un viaje en bus cómodo y seguro.
 category: Casanare
 h1: "Pasajes de Bogotá a Aguazul: Todo lo que necesitas saber"
@@ -18,7 +18,7 @@ permalink: pasajes/bogota-aguazul
 ---
 **Viajar de Bogotá a Aguazul Casanare en bus** es una experiencia que muchos eligen por sus múltiples ventajas. En este artículo, vas a encontrar todo lo que necesitas saber para que tu viaje sea un éxito.
 
-## ¿Cómo Comprar un Pasaje de Bogotá a Aguazul?
+## ¿Cómo comprar un Pasaje de Bogotá a Aguazul?
 
 Puedes comprar tu boleto en diversas **terminales de transporte** o directamente en las taquillas de las empresas de buses que recorren esta ruta.
 {:id="enlace1"}
@@ -46,7 +46,7 @@ Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con an
 1. Bogotá - Aguazul: Esta es la ruta principal que conecta la capital colombiana con Aguazul en Casanare. Es una ruta muy demandada debido a la belleza de los paisajes y las experiencias que ofrece.
 2. Otras Rutas: Además de la ruta directa, algunas empresas también ofrecen rutas con paradas intermedias en diferentes ciudades. Estas rutas pueden brindar opciones adicionales para tu viaje.
 
-## Horarios y Frecuencias de Bogotá - Aguazul
+## Horarios y frecuencias de Bogotá - Aguazul
 
 Los horarios de salida suelen ser variados. Aproximadamente **cada 3 o 4 horas sale cada bus**, con opciones que van desde muy temprano en la mañana hasta tarde en la noche.
 
@@ -65,4 +65,4 @@ Los horarios de salida suelen ser variados. Aproximadamente **cada 3 o 4 horas s
 
   Duración promedio de viaje: 8 horas 30 minutos.
 
-Tu viaje está a solo un clic de distancia. ¡Aprovecha la oportunidad y comienza tu travesía hoy mismo! Sigue leyendo nuestros artículos para planificar tu próximo destino y disfrutar tus viajes en bus por las **[terminales de transporte de Colombia.](https://terminaldetransporte.com/)**
+Tu viaje está a solo un clic de distancia. ¡Aprovecha la oportunidad y comienza tu travesía hoy mismo! Sigue leyendo nuestros artículos para planificar tu próximo destino y disfrutar tus viajes en bus por las **[terminales de transporte de Colombia.](/)**
