@@ -68,8 +68,8 @@ Si estás planeando un viaje, la Terminal de Cali tiene varias opciones para ti.
 
 | Empresa       | Destino más popular | Rango de precios  |
 |---------------|---------------------|-------------------|
-| Bolivariano   | Bogotá              | $50,000 - $80,000 |
-| Velotax       | Medellín            | $40,000 - $70,000 |
+| Bolivariano   | [Terminal Salitre]({{'terminal-salitre-bogota'|relative_url}} "Terminal Salitre")    | $50,000 - $80,000 |
+| Velotax       | [Terminal Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín")   | $40,000 - $70,000 |
 
 ### Todo sobre el parqueadero y cómo llegar
 
@@ -79,7 +79,7 @@ Si estás planeando un viaje, la Terminal de Cali tiene varias opciones para ti.
 - **Transporte público**: Ruta del MIO.
 - **Taxi o Uber**: Opción más rápida pero costosa.
 
-Si vas en tu propio coche, el parqueadero de la terminal es bastante amplio y suele tener un costo por hora. Si prefieres el transporte público, la ruta del MIO te deja justo en la entrada.
+Si vas en tu propio coche, el parqueadero de la terminal es bastante amplio y suele tener un costo por hora. Si prefieres el transporte público, *la ruta del MIO te deja justo en la entrada*.
 
 ----
 
@@ -107,7 +107,7 @@ Además de ser un punto clave para el transporte intermunicipal, la Terminal de 
 
 - **Cali a [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá")**: Empresa Velotax
 - **Cali a [Armenia]({{'terminal-de-armenia'|relative_url}} "Terminal Armenia")**: Empresa Expreso Palmira
-- **Cali a [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín")**: Empresa Arauca
+- **Cali a [Popayán]({{'terminal-de-popayan'|relative_url}} "Terminal Popayán")**: Empresa Transipiales
 {:class="seccion"}
 
 ### Servicios adicionales de la Terminal de Cali
@@ -129,7 +129,6 @@ La Terminal no solo ofrece servicios de transporte, sino que también cuenta con
 - Rampas eléctricas y ascensores
 - Restaurantes y Panaderías
 - Vigilancia privada
-{:class="seccion"}
 
 ## ¿Por qué la Terminal de Cali es un punto de referencia?
 
@@ -147,8 +146,7 @@ Si estás planeando un viaje desde la Terminal de Cali, es importante tener en c
 2. Verifica siempre los horarios y destinos disponibles
 3. No dudes en consultar cualquier duda con el personal de la Terminal
 4. No olvides llevar los deliciosos dulces vallecaucanos a tu destino
-
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+{:class="seccion"}
 
 {% include add1.html %}
 
@@ -159,3 +157,5 @@ Si estás planeando un viaje desde la Terminal de Cali, es importante tener en c
 La Terminal de transporte de Cali ha sido un pilar fundamental en la movilidad de la región **desde su inauguración en 1974**.
 
 Con más de 40 años de servicio, ha sido testigo y protagonista de la evolución del transporte en la ciudad, **movilizando diariamente a aproximadamente 30.000 personas en 3.500 vehículos**.
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
