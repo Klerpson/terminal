@@ -18,7 +18,7 @@ permalink: pasajes/bogota-aguazul
 ---
 **Viajar de Bogotá a Aguazul Casanare en bus** es una experiencia que muchos eligen por sus múltiples ventajas. En este artículo, vas a encontrar todo lo que necesitas saber para que tu viaje sea un éxito.
 
-## ¿Cómo comprar un Pasaje de Bogotá a Aguazul?
+## ¿Cómo comprar un pasaje de Bogotá a Aguazul?
 
 Puedes comprar tu boleto en diversas **terminales de transporte** o directamente en las taquillas de las empresas de buses que recorren esta ruta.
 {:id="enlace1"}
