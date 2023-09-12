@@ -17,7 +17,7 @@ cta1: Ver precios
 cta2: Ver rutas
 permalink: pasajes/bogota-aguazul
 ---
-**Viajar de Bogotá a Aguazul Casanare en bus** es una experiencia que muchos eligen por sus múltiples ventajas. En este artículo, vas a encontrar todo lo que necesitas saber para que tu viaje sea un éxito. 
+**Viajar de Bogotá a Aguazul Casanare en bus** es una experiencia que muchos eligen por sus múltiples ventajas. En este artículo, vas a encontrar todo lo que necesitas saber para que tu viaje sea un éxito.
 
 ## ¿Cómo Comprar un Pasaje de Bogotá a Aguazul?
 
@@ -31,7 +31,7 @@ Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con an
 1. **[RedBus](https://www.redbus.com/es-419/pasajes-de-bus/bogota-a-aguazul)**
 
    * Precios: Dependen de la disponibilidad y el tipo de asiento. A partir de **$75.000 - $80.000** COP.
-   * Empresas: Libertadores, Concorde. 
+   * Empresas: Libertadores, Concorde.
 2. **[BusBud](https://www.busbud.com/es-419/autobus-bogota-aguazul/r/d2g64p-d2ummj)**
 
    * Precios: Los precios oscilan según el nivel de confort. Desde **$75.000** COP.
@@ -39,7 +39,7 @@ Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con an
 3. **[PinBus](https://pinbus.com/pasajes-de-bus/bogota-aguazul)**
 
    * Precios: Los precios varían según la disponibilidad y el tipo de asiento. Desde **$75.000** COP.
-   * Empresas: Libertadores, Concorde. 
+   * Empresas: Libertadores, Concorde.
      {:id="enlace2"}
 
 ## Rutas disponibles Bogotá - Aguazul
@@ -60,9 +60,9 @@ Los horarios de salida suelen ser variados. Aproximadamente **cada 3 o 4 horas s
   Duración promedio de viaje: 8 horas 30 minutos.
 * **Concorde - (+57) 3107883333**
 
-  Primer bus: 09:00 AM hrs 
+  Primer bus: 09:00 AM hrs.
 
-  Último bus: 11:00 PM hrs. 
+  Último bus: 11:00 PM hrs.
 
   Duración promedio de viaje: 8 horas 30 minutos.
 
