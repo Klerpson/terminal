@@ -22,6 +22,7 @@ permalink: pasaje/bogota-aguaazul
 ## ¿Cómo Comprar un Pasaje de Bogotá a Aguazul?
 
 Puedes comprar tu boleto en diversas **terminales de transporte** o directamente en las taquillas de las empresas de buses que recorren esta ruta.
+{:id="enlace1"}
 
 ### Compra tu pasaje de Bogotá - Aguazul en línea
 
@@ -39,6 +40,7 @@ Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con an
 
    * Precios: Los precios varían según la disponibilidad y el tipo de asiento. Desde **$75.000** COP.
    * Empresas: Libertadores, Concorde. 
+     {:id="enlace2"}
 
 ## Rutas disponibles Bogotá - Aguazul
 
@@ -47,20 +49,21 @@ Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con an
 
 ## Horarios y Frecuencias de Bogotá - Aguazul
 
-Los **horarios de salida** suelen ser variados, con opciones que van desde muy temprano en la mañana hasta tarde en la noche.
+Los horarios de salida suelen ser variados. Aproximadamente **cada 3 o 4 horas sale cada bus**, con opciones que van desde muy temprano en la mañana hasta tarde en la noche.
 
-* **Libertadores**
+* **Libertadores - (+57) 3173001000**
 
-  Primer bus: 02:00 AM hrs 
+  Primer bus: 02:00 AM hrs.
 
-  Último bus: 12:10 PM hrs 
+  Último bus: 12:10 PM hrs.
 
-  Duración promedio de viaje: 8 horas 30 minutos
-* **Concorde**
+  Duración promedio de viaje: 8 horas 30 minutos.
+* **Concorde - (+57) 3107883333**
 
   Primer bus: 09:00 AM hrs 
 
   Último bus: 11:00 PM hrs. 
 
-  Duración promedio de viaje: 8 horas 30 minutos
-*
+  Duración promedio de viaje: 8 horas 30 minutos.
+
+Tu viaje está a solo un clic de distancia. ¡Aprovecha la oportunidad y comienza tu travesía hoy mismo! Sigue leyendo nuestros artículos para planificar tu próximo destino y disfrutar tus viajes en bus por las **[terminales de transporte de Colombia.](https://terminaldetransporte.com/)**
