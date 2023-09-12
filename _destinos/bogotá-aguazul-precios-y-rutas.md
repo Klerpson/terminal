@@ -8,11 +8,11 @@ title: "Bogotá - Aguazul: Precios y rutas "
 description: Pasajes de Bogotá a Aguazul. Te damos toda la información para que
   disfrutes de un viaje en bus cómodo y seguro.
 category: Casanare
-h1: "Viaja de Bogotá a Aguazul: Todo lo que necesitas saber"
+h1: "Pasajes de Bogotá a Aguazul: Todo lo que necesitas saber"
 jpg: blog/aguaazul-bogota.jpg
 webpm: blog/aguaazul-bogota.webp
 webps: blog/aguaazul-bogota-376.webp
-alt: Aguaazul
+alt: Viaje a Aguazul
 cta1: Ver precios
 cta2: Ver rutas
 permalink: pasaje/bogota-aguaazul
