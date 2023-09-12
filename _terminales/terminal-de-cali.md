@@ -1,10 +1,10 @@
 ---
 layout: terminal
 json-terminal: true
-title: "La Terminal de Cali: dulces sabores y viajes memorables"
-description: La terminal de Cali es una moderna construcción que atrae miles de visitantes a diario. Viaja seguro por esta terminal de transporte.
+title: "Terminal de Cali: Info sobre • Horarios • Rutas • Servicios"
+description: La información más completa sobre la Terminal de Cali. Conoce los horarios, rutas y servicios que te harán la vida más fácil en tus viajes.
 category: Valle del Cauca
-h1: Vení ve a la terminal de transporte de Cali
+h1: "Guía definitiva de la Terminal de Cali: Horarios, rutas, pasajes, etc"
 jpg: terminales/terminal-cali.jpg
 webps: terminales/terminal-cali-376.webp
 webpm: terminales/terminal-cali-600.webp
@@ -12,7 +12,7 @@ alt: Terminal de Cali
 webp1: terminales/terminal-cali-exterior-600.webp
 webp2: terminales/terminal-cali-exterior-376.webp
 subtitle: Compra pasajes en la terminal de Cali
-intro: "La terminal de Cali ha sido vital para el desarrollo de la ciudad. Y es el punto de partida perfecto para conocer y probar lo mejor del Valle."
+intro: "¿Viajas desde o hacia Cali? Aquí encontrarás horarios actualizados, rutas y consejos útiles para hacer tu viaje más cómodo. Te preparamos la guía más completa para viajar por la Terminal de Cali como un experto."
 contacto: https://cali.com/pqrsd/
 direccion: "Calle 30 N 2an - 29"
 telefono: 6026683655 - 3227279676
