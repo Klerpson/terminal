@@ -51,6 +51,8 @@ empresas:
   - Flota Ospina: 6023860045 - 6023860045
   - Taxcentral: 6026616310 - 6026616310
 ---
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+
 ### Cómo comprar tiquetes en la terminal de Cali
 
 Si estás planeando un viaje, la Terminal de Cali tiene varias opciones para ti. Aquí encontrarás empresas como [Bolivariano y Velotax](#telefonos) que ofrecen rutas a diferentes destinos.
@@ -157,5 +159,3 @@ Si estás planeando un viaje desde la Terminal de Cali, es importante tener en c
 La Terminal de transporte de Cali ha sido un pilar fundamental en la movilidad de la región **desde su inauguración en 1974**.
 
 Con más de 40 años de servicio, ha sido testigo y protagonista de la evolución del transporte en la ciudad, **movilizando diariamente a aproximadamente 30.000 personas en 3.500 vehículos**.
-
-![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
