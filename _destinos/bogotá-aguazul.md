@@ -3,15 +3,14 @@ layout: post
 json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
-date: 2023-09-26T02:39:36.471Z
+date: 2023-09-10
 title: "Bogotá - Aguazul: Precios y rutas "
-description: Pasajes de Bogotá a Aguazul. Te damos toda la información para que
-  disfrutes de un viaje en bus cómodo y seguro.
+description: Pasajes de Bogotá a Aguazul. Te damos toda la información para que disfrutes de un viaje en bus cómodo y seguro.
 category: Casanare
 h1: "Pasajes de Bogotá a Aguazul: Todo lo que necesitas saber"
-jpg: blog/aguaazul-bogota.jpg
-webpm: blog/aguaazul-bogota.webp
-webps: blog/aguaazul-bogota-376.webp
+jpg: blog/aguazul-bogota.jpg
+webpm: blog/aguazul-bogota.webp
+webps: blog/aguazul-bogota-376.webp
 alt: Viaje a Aguazul
 cta1: Ver precios
 cta2: Ver rutas
