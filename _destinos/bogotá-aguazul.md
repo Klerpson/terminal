@@ -15,7 +15,7 @@ webps: blog/aguaazul-bogota-376.webp
 alt: Viaje a Aguazul
 cta1: Ver precios
 cta2: Ver rutas
-permalink: pasaje/bogota-aguazul
+permalink: pasajes/bogota-aguazul
 ---
 **Viajar de Bogotá a Aguazul Casanare en bus** es una experiencia que muchos eligen por sus múltiples ventajas. En este artículo, vas a encontrar todo lo que necesitas saber para que tu viaje sea un éxito. 
 
