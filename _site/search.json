@@ -1,12 +1,17 @@
 [
   
     {
-      "title"    : "Elige el bus para tu viaje al aeropuerto desde Cali",
+      "title"    : "Buses internacionales de Colombia | Conexiones en bus",
+      "url"      : "/blog/buses-internacionales"
+    } ,
+  
+    {
+      "title"    : "El Bus Para Tu Viaje al Aeropuerto de Cali. ¡Súbete aquí!",
       "url"      : "/buses-aeropuerto-cali"
     } ,
   
     {
-      "title"    : "Buses de servicio especial en Colombia: Todo lo que necesitas saber",
+      "title"    : "Buses de Servicio Especial en Colombia ¿Necesitas Uno?",
       "url"      : "/blog/buses-servicio-especial"
     } ,
   

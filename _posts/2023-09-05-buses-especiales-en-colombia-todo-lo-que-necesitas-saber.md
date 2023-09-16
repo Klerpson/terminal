@@ -2,7 +2,7 @@
 layout: post
 json-post: "true"
 date: 2023-09-05T03:23:58.168Z
-title: "Buses de servicio especial en Colombia: Todo lo que necesitas saber"
+title: "Buses de Servicio Especial en Colombia ¿Necesitas Uno?"
 description: "Buses de servicio especial en Colombia: Encuentra la mejor opción ¡Haz clic y conoce las ventajas de estos vehículos únicos!"
 autor: Paula Moreno
 h1: "Buses de servicio especial: Viaja de manera diferente en Colombia"

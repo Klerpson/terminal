@@ -5,12 +5,24 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Sep 2023 13:32:13 -0500</pubDate>
-    <lastBuildDate>Wed, 13 Sep 2023 13:32:13 -0500</lastBuildDate>
+    <pubDate>Sat, 16 Sep 2023 18:15:41 -0500</pubDate>
+    <lastBuildDate>Sat, 16 Sep 2023 18:15:41 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
-        <title>Elige el bus para tu viaje al aeropuerto desde Cali</title>
+        <title>Buses internacionales de Colombia | Conexiones en bus</title>
+        <description>Aprende sobre las empresas de buses que conectan Colombia con destinos internacionales. ¡Infórmate, compara y viaja!</description>
+        <pubDate>Thu, 14 Sep 2023 13:02:50 -0500</pubDate>
+        <link>http://localhost:4000/blog/buses-internacionales</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/buses-internacionales</guid>
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>El Bus Para Tu Viaje al Aeropuerto de Cali. ¡Súbete aquí!</title>
         <description>Evita imprevistos en tu viaje al aeropuerto. Encuentra toda la información sobre buses desde Cali y viaja con confianza. ¡Haz clic y descubre más!</description>
         <pubDate>Thu, 07 Sep 2023 10:38:04 -0500</pubDate>
         <link>http://localhost:4000/buses-aeropuerto-cali</link>
@@ -22,7 +34,7 @@
       </item>
     
       <item>
-        <title>Buses de servicio especial en Colombia: Todo lo que necesitas saber</title>
+        <title>Buses de Servicio Especial en Colombia ¿Necesitas Uno?</title>
         <description>Buses de servicio especial en Colombia: Encuentra la mejor opción ¡Haz clic y conoce las ventajas de estos vehículos únicos!</description>
         <pubDate>Mon, 04 Sep 2023 22:23:58 -0500</pubDate>
         <link>http://localhost:4000/blog/buses-servicio-especial</link>
@@ -111,18 +123,6 @@
         <pubDate>Fri, 21 Jul 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/expreso-palmira</link>
         <guid isPermaLink="true">http://localhost:4000/blog/expreso-palmira</guid>
-        
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>Transportes Omega: Comodidad y seguridad en tu viaje ↩</title>
-        <description>Transportes Omega es una empresa que destaca por su comodidad y seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14 departamentos del país.</description>
-        <pubDate>Mon, 03 Jul 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/transportes-omega-comodidad-seguridad</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/transportes-omega-comodidad-seguridad</guid>
         
         
         

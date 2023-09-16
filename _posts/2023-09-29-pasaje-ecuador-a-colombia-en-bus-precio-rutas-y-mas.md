@@ -10,7 +10,7 @@ jpg: blog/colombia-ecuador.jpg
 webpm: blog/colombia-ecuador.webp
 webps: blog/colombia-ecuador-s.webp
 alt: Precio pasaje Colombia Ecuador
-permalink: blog/colombia-ecuador
+permalink: blog/colombia-ecuador-en-bus
 excerpt: Si estás pensando en viajar desde Ecuador a Colombia en bus, estás en el lugar correcto. A continuación, te presentamos una guía completa que te llevará paso a paso en este emocionante viaje.
 ---
 Si estás pensando en viajar **desde Ecuador a Colombia en bus**, estás en el lugar correcto. A continuación, te presentamos una guía completa que te llevará paso a paso en este emocionante viaje.
