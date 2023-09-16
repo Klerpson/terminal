@@ -15,7 +15,7 @@ excerpt: Viajar desde Cali a el aeropuerto puede presentar varios desafíos, esp
 ---
 ## ¿Por qué elegir el bus para ir al aeropuerto desde Cali?
 
-Viajar **al aeropuerto desde Cali puede presentar varios desafíos**, especialmente durante las horas pico. *Elegir el bus* como medio de transporte ofrece una solución *eficiente y económica*. 
+Viajar **al aeropuerto desde Cali puede presentar varios desafíos**, especialmente durante las horas pico. *Elegir el bus* como medio de transporte ofrece una solución *eficiente y económica*.
 
 Los buses están diseñados para proporcionar comodidad, puntualidad y seguridad, lo que los convierte en una opción preferida para muchos viajeros.
 
@@ -24,14 +24,17 @@ Los buses están diseñados para proporcionar comodidad, puntualidad y seguridad
 * **Economía**: Viajar en bus suele ser más barato que otros medios de transporte.
 * **Puntualidad**: Los buses tienen horarios fijos y rutas establecidas, lo que garantiza llegar a tiempo.
 * **Comodidad**: Los asientos espaciosos y la posibilidad de llevar equipaje sin costos adicionales son ventajas notables.
+{:class="seccion"}
 
 ### Comparativa con otros medios de transporte
 
-Mientras que los taxis o servicios de transporte privado *pueden ser más rápidos*, también son significativamente más caros. Además, durante las horas pico, el tráfico puede ser impredecible. 
+Mientras que los taxis o servicios de transporte privado *pueden ser más rápidos*, también son significativamente más caros. Además, durante las horas pico, el tráfico puede ser impredecible.
 
 Por otro lado, aunque el transporte público puede ser una opción, no ofrece la misma comodidad y directividad que un bus específico para el aeropuerto.
 
 ## Rutas y horarios de buses desde Cali al aeropuerto
+
+{% include add1.html %}
 
 Cali cuenta con diversas rutas de *buses que conectan la ciudad con el aeropuerto*. Estas rutas están diseñadas para cubrir las principales zonas y garantizar que los viajeros lleguen a tiempo para sus vuelos.
 
@@ -58,6 +61,8 @@ La mayoría de los buses cuentan con **Wi-Fi, aire acondicionado** y espacios pa
 Las tarifas varían según la empresa y la ruta. Es posible comprar boletos en línea, en la terminal o directamente en el bus.
 
 ## Consejos para un viaje cómodo y seguro en bus desde Cali al aeropuerto
+
+{% include add1.html %}
 
 Un viaje al aeropuerto debe ser planificado con anticipación para evitar contratiempos.
 
@@ -87,6 +92,6 @@ Para aquellos que necesitan desplazarse a otras partes de la ciudad o regiones c
 
 ## Preparativos para tu viaje desde Cali al aeropuerto
 
-Viajar en bus desde Cali al aeropuerto es una opción conveniente y económica. Con la información adecuada y una planificación cuidadosa, los viajeros pueden garantizar un viaje cómodo y a tiempo. 
+Viajar en bus desde Cali al aeropuerto es una opción conveniente y económica. Con la información adecuada y una planificación cuidadosa, los viajeros pueden garantizar un viaje cómodo y a tiempo.
 
 Si deseas una información más detallada sobre otros destinos y consejos de viaje ﻿**continúa leyendo en nuestra web.**

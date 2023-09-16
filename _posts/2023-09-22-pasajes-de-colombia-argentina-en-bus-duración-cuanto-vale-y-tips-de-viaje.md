@@ -12,17 +12,19 @@ webpm: blog/buses-colombia-argentina-m.webp
 webps: blog/buses-colombia-argentina-s.webp
 alt: Bus de Colombia a Argentina
 permalink: blog/pasaje-bus-argentina
-excerpt: Viajar en bus de Colombia a Argentina es más que un simple trayecto. A
-  lo largo de este artículo, te guiaré por las ventajas de optar por el bus más
-  adecuado para ti en cuanto a precios y algunos consejos prácticos.
+excerpt: Viajar en bus de Colombia a Argentina es más que un simple trayecto. A lo largo de este artículo, te guiaré por las ventajas de optar por el bus más adecuado para ti en cuanto a precios y algunos consejos prácticos.
 ---
 Viajar en bus de Colombia a Argentina es más que un simple trayecto. A lo largo de este artículo, te guiaré por las ventajas de optar por el bus más adecuado para ti en cuanto a precios, y algunos consejos prácticos para que tu aventura sea cómoda y segura.
 
 ## Costo de los pasajes hacia Argentina y dónde adquirirlos
 
-El precio de los pasajes hacia Argentina varía según la temporada, la ruta y la empresa de buses. Según *[Horario de Buses](https://www.horariodebuses.com.co/argentina.html)*, **los precios oscilan entre $100 y $460**. Es recomendable comprar los boletos con anticipación, especialmente durante la temporada alta.
+{% include add1.html %}
 
-Puedes adquirir tus pasajes directamente en las terminales de buses o a través de sitios web como *[Kayak](https://www.kayak.com.co/vuelos/Bogota-Aeropuerto-Internacional-El-Dorado-BOG/Argentina-AR0)*, que ofrecen comparativas de precios y horarios.
+El precio de los pasajes hacia Argentina varía según la temporada, la ruta y la empresa de buses. Según *Horario de Buses*, **los precios oscilan entre $100 y $460**.
+
+>Es recomendable comprar los boletos con anticipación, especialmente durante la temporada alta.
+
+Puedes adquirir tus pasajes directamente en las terminales de buses o a través de sitios web como *[Kayak](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fcars)*, que ofrecen comparativas de precios y horarios.
 
 ## ¿Por qué elegir el bus para viajar desde Colombia hasta Argentina?
 
@@ -41,6 +43,8 @@ El viaje completo, incluyendo transbordos, **dura aproximadamente 4 días y 5 ho
 > Si bien el viaje es largo, las comodidades de los buses modernos, como asientos reclinables, Wi-Fi y servicios a bordo, hacen que el trayecto sea placentero.
 
 ## ¿Qué te ofrece tu pasaje en bus hacia Argentina?
+
+{% include add1.html %}
 
 Al adquirir un pasaje en bus hacia Argentina, te das la oportunidad de visitar un país lleno de maravillas. Veamos *qué más incluye tu boleto y cómo aprovecharlo al máximo.*
 

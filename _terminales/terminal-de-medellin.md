@@ -133,6 +133,10 @@ Por ejemplo, Expreso Brasilia es conocida por su amplia cobertura de rutas y su 
 
 En la terminal operan empresas como **Copetran, [Expreso Bolivariano]({% post_url 2023-07-03-transportes-omega-comodidad-seguridad %}), Flota Occidental, Rápido Ochoa, [Transportes Omega]({% post_url 2023-07-03-transportes-omega-comodidad-seguridad %}), [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), entre otras**. Haz clic en el siguiente botón para contactar directamente con estas empresas.
 
+>## Necesitas un hotel cerca a la terminal
+Con KAYAK encuentras los mejor calificados y con promociones constantes.
+[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
+
 ## Pasajes en la terminal del Norte de Medellín
 
 {% include add2.html %}
@@ -198,7 +202,7 @@ Se recomienda a los pasajeros que verifiquen los horarios de llegada con la empr
 
 Si estás buscando **hospedarte cerca de la Terminal del Norte de Medellín**, te recomendamos buscar hoteles ubicados en la zona. Para ayudarte a encontrarlos, haz clic en el siguiente botón.
 
-[Hoteles cerca de la terminal Norte Medellín](https://www.google.com/maps/search/Hoteles/@6.2776731,-75.5729304,16z){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+[Hoteles cerca de la terminal Norte Medellín](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults){:rel="nofollow sponsored" target="_blank" id="boton"}
 
 En resumen, **la Terminal del Norte de Medellín es un punto de partida clave**. Si necesitas información sobre los servicios de transporte disponibles o si buscas hospedaje cerca de la terminal, no dudes en contactar con el teléfono de la terminal del Norte.
 {:id="sur"}
@@ -211,6 +215,10 @@ En resumen, **la Terminal del Norte de Medellín es un punto de partida clave**.
 *Foto tomada de Google Maps "Terminal del Sur"*
 
 La Terminal de transporte Sur de Medellín, es uno de los principales puntos de conexión desde la ciudad y hacia el sur del país.
+
+>## Necesitas un hotel cerca a la terminal
+Con KAYAK encuentras los mejor calificados y con promociones constantes.
+[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
 
 ## Empresas de transporte en la Terminal del Sur de Medellín
 
@@ -278,7 +286,7 @@ Aquí puedes encontrar buses que te llevarán a destinos tan variados como Bogot
 
 Si necesitas hospedarte cerca de la terminal, hay varias opciones de hoteles cercanos. Busca en el siguiente botón los **hoteles cerca de la Terminal del Sur**:
 
-[Hoteles cerca de la terminal Sur](https://www.google.com/maps/search/Hoteles/@6.2159067,-75.5904366,16z/data=!3m1!4b1){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
+[Hoteles cerca de la terminal Sur](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults){:rel="nofollow sponsored" target="_blank" id="boton"}
 
 Si necesitas más información sobre la Terminal Sur de Medellín, como horarios de buses o información de contacto, puedes **visitar [su sitio web oficial en la página de contacto](https://terminaldelsur.com/contactanos/){:rel="nofollow noopener noreferrer" target="_blank"} o llamar al teléfono de atención al cliente [604 444 8020](tel:6044448020){:rel="nofollow noopener noreferrer" target="_blank"} – Ext. 171**.
 
@@ -324,4 +332,6 @@ Puedes comprar tus tiquetes en línea a través de la página web de la Terminal
 
 Existen **varias opciones de transporte desde el aeropuerto** hasta la Terminal del Sur Medellín, incluyendo **taxis, buses y servicios de transporte privado**.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+>## Necesitas un hotel cerca a la terminal
+Con KAYAK encuentras los mejor calificados y con promociones constantes.
+[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}

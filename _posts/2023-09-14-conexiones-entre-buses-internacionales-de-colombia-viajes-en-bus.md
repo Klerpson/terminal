@@ -25,6 +25,8 @@ Colombia, puerta de entrada a Sudamérica, cuenta con diversas empresas que **of
 
 ### Buses internacionales: Cruzando fronteras
 
+{% include add1.html %}
+
 Viajar en bus entre países es una experiencia agradable, y una opción popular entre los viajeros que buscan una alternativa económica al avión.  
 
 * **Documentación necesaria**: Al cruzar fronteras, es esencial *tener todos los documentos en regla*, como pasaporte y visado si es necesario.
@@ -42,6 +44,8 @@ Viajar en bus puede ser una experiencia agradable si se toman en cuenta algunos 
 ----
 
 ## El bus, una opción para descubrir nuevos horizontes
+
+{% include add1.html %}
 
 > Viajar en buses internacionales es una excelente manera de visitar nuevos destinos, conocer nuevas culturas y disfrutar de paisajes únicos.
 

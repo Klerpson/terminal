@@ -25,6 +25,8 @@ Estos buses pueden ser adaptados para diferentes propósitos. Por ejemplo, son m
 
 ## Ventajas de optar por un bus de servicios especiales
 
+{% include add1.html %}
+
 * **Eficiencia en el transporte:** Estos vehículos están diseñados para maximizar el espacio y [ofrecer comodidad a los pasajeros]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}), lo que los hace ideales para viajes largos o para transportar a un gran número de personas.
 * **Adaptabilidad a diferentes necesidades:** Ya sea que en ocasiones busques un bus con rampas para sillas de ruedas, o quizá un vehículo con un espacio amplio para equipaje, *los buses de servicios especiales pueden ser adaptados para satisfacer estas demandas**.***
 * **Seguridad garantizada:** Estos buses suelen contar con características de seguridad adicionales para cuidar a los pasajeros o para [cuidar los equipajes]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}), como cinturones de seguridad para todos los asientos y sistemas avanzados de frenado.
@@ -42,6 +44,8 @@ Estos buses pueden ser adaptados para diferentes propósitos. Por ejemplo, son m
 Bogotá cuenta con una amplia ***oferta de buses de servicios especiales***. Ya sea para empresas de turismo o para organizaciones que requieren transportar a sus empleados, en Bogotá es posible encontrar el vehículo perfecto.
 
 ### Lugares para adquirir un bus especial en Bogotá
+
+{% include add1.html %}
 
 Existen numerosos concesionarios y vendedores privados que ofrecen buses de servicios especiales en la ciudad. Es recomendable investigar y comparar opciones antes de tomar una decisión.
 
