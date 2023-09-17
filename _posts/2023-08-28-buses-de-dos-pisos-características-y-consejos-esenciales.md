@@ -28,6 +28,7 @@ La mayoría de *los buses de dos pisos tienen en común las siguientes caracter�
 * El bus tiene un peso de 16.000 kilogramos, una autonomía de carga de 280 kilómetros y puede alcanzar los 69 km/h.
 * Cámaras de seguridad, puertos USB y WIFI.
 * Chasis a base de acero de alta resistencia.
+{:class="seccion"}
 
 ## Ventajas de optar por un bus de dos pisos
 
