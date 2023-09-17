@@ -70,6 +70,6 @@ Viajar en bus es una oportunidad para conocer a otros viajeros y compartir exper
 
 ### Tu seguridad viajando de Colombia a Argentina
 
-Aunque [viajar en bus de Colombia a Argentina es generalmente seguro]({% post_url 2023-06-15-seguro-o-inseguro-viajar-en-bus-colombia %}), siempre es bueno tomar precauciones. [No dejes tus pertenencias desatendidas]({{% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}}) y mantén tus objetos de valor cerca de ti.
+Aunque [viajar en bus de Colombia a Argentina es generalmente seguro]({% post_url 2023-06-15-seguro-o-inseguro-viajar-en-bus-colombia %}), siempre es bueno tomar precauciones. [No dejes tus pertenencias desatendidas]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}) y mantén tus objetos de valor cerca de ti.
 
 Si estás buscando una forma económica y cómoda de viajar entre estos dos países, el bus es una excelente opción. ¡Prepara tu maleta, abre tu mente y disfruta del viaje!
