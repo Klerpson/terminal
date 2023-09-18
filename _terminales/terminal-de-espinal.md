@@ -22,7 +22,7 @@ ciudad: "Espinal "
 postal: "252431"
 latitude: "4.1645743"
 longitude: "-74.883418"
-permalink: "/terminal-de-espinal "
+permalink: "/terminal-de-espinal"
 empresas:
   - Autofusa: 300-4423940
   - Cootranstol: 608-2483476
