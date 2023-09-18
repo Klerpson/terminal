@@ -13,14 +13,14 @@ webp1: terminales/terminal-buga-exterior-600.webp
 webp2: terminales/terminal-buga-exterior-376.webp
 subtitle: Compra tus tiquetes con las empresas de la terminal
 intro: "La terminal de Buga es muy popular en el departamento del Valle del Cauca. Sus destinos turísticos son variados y los más comunes se encuentran muy cerca."
-contacto: https://terminalesmedellin.com/pqrsd/
-maps: https://goo.gl/maps/NjQ1yurdt2s5BTfg7
+contacto: https://www.terminaldebuga.com/
+maps: https://maps.app.goo.gl/LMy8sEPBMpg4FSQV6
 direccion: "Calle 4 23-91"
 telefono: 3155107475
 ciudad: Buga
 postal: 760036
 calificacion: 4.1
-reviews: 6424
+reviews: 7402
 latitude: 3.898876
 longitude: -76.3135591
 permalink: /terminal-de-buga
@@ -58,9 +58,9 @@ El Terminal de Guadalajara de Buga, conocido comúnmente como **Terminal de Buga
 
 Este terminal se destaca por sus variados destinos, algunos de turismo religioso, siendo la mayoría de sus recorridos hacia el sur de Colombia.
 
-## Operadores de Bus en Terminal de Buga
+## Empresas de buses en Terminal de Buga
 
-El Terminal de Buga cuenta con la presencia de varios operadores, compañías y empresas de autobuses que ofrecen servicios de alta calidad. Algunas de las empresas más populares que operan en este terminal son:
+[La terminal de transporte de Buga cuenta con la presencia de varios operadores](#telefonos), compañías y empresas de autobuses que ofrecen servicios de alta calidad. Algunas de las empresas más populares que operan en este terminal son:
 
 - **Expreso Palmira**
 - **Expreso Brasilia**

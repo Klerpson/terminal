@@ -12,7 +12,7 @@ webps: blog/terminal-melgar_376.webp
 alt: Tiquetes de las empresas de la terminal de Melgar
 subtitle: Información completa de la terminal de transportes de Melgar
 intro: La Terminal de Transporte Melgar es el principal centro de conexiones de viaje en Tolima, ofreciendo servicios de transporte a numerosos destinos
-contacto: www.terminalmelgar.com
+contacto: https://terminalmelgar.com
 email: contactenos@terminalmelgar.com
 direccion: kilómetro 3 vía melgar Bogotá vereda san José
 telefono: 3178332791 - 3106009065

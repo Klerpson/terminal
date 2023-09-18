@@ -11,7 +11,7 @@ webps: blog/terminal-espinal_376.webp
 alt: Terminal de transportes de Espinal en el Tolima
 subtitle: "Compra pasajes de las empresas de la terminal de Espinal"
 intro: La Terminal de Transporte Espinal es tu puerta de entrada para explorar la región. Conéctate con rutas locales y nacionales, y disfruta de servicios enfocados en los viajeros.
-contacto: www.terminalespinal.com.co
+contacto: https://www.terminalespinal.com.co
 email: informacion@terminalespinal.com.co
 direccion: Kilómetro 1 Variante Espinal – Ibagué
 telefono: 3208475289

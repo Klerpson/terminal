@@ -12,7 +12,7 @@ webps: blog/terminal-ibague_376.webp
 alt: Terminal de buses de Ibagué Tolima
 subtitle: "Tiquetes de las empresas de buses de la terminal de Ibagué"
 intro: La Terminal de Transporte Ibagué es clave para tus desplazamientos en Colombia. Aquí encontrarás información esencial para que tu viaje sea placentero y eficiente.
-contacto: www.terminalibague.com
+contacto: https://terminalibague.com
 email: gerencia@terminalibague.com
 direccion: "CRA 2 # 20-86 of 203 Ibagué Tolima "
 telefono: "6085152111"
