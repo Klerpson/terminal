@@ -3,6 +3,20 @@
   display: grid;
 }
 
+.terminal-header {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 580px), 1fr));
+  gap: 1em;
+  place-items: center;
+}
+
+.terminal-header ul li{
+  display: flex;
+  align-items: center;
+  gap: .5em;
+  margin-bottom: .5em;
+}
+
 .terminales section{
   display: grid;
   gap: .8rem;

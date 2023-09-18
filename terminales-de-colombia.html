@@ -15,7 +15,7 @@ noindex: true
     {% for item in site.terminales %}
         {% assign filtered_cat = item.category | append: '|' %}
         {% if filtered_categories_array contains filtered_cat %}
-        <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
+        <button data-name="{{ item.category}}">{{ item.category | upcase }}</button>
         {% endif %}
         {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
     {% endfor %}
@@ -28,7 +28,7 @@ noindex: true
 {% assign filtered_cat = item.category | append: '|' %}
   {% if filtered_categories_array contains filtered_cat %}
   <div class="post" data-name="{{ item.category }}">
-    <span>Terminales en {{ item.category | capitalize }}</span>
+    <span>Terminales en {{ item.category | upcase }}</span>
     <section class="links">
       {% for destino in site.terminales %}
       {% if destino.category contains item.category %}

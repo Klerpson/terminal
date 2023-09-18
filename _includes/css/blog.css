@@ -220,7 +220,8 @@
   gap: 4px;
 }
 
-.post-social ul li svg{
+.post-social ul li svg,
+.terminal-header svg{
   width: 32px;
   height: 32px;
   text-shadow: 1rem 1rem 0;

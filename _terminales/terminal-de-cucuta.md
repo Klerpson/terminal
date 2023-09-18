@@ -3,7 +3,7 @@ layout: terminal
 json-terminal: true
 title: "Terminal de Cúcuta: Información Completa y Servicios Asociados"
 description: ¿Buscas detalles sobre el Terminal de Cúcuta? Conoce las empresas, rutas y servicios. ¡Haz clic y prepárate para tu próximo viaje!
-category: norte-santander
+category: norte santander
 h1: "Conoce el Terminal de Transporte de Cúcuta: Historia y Servicios Actuales"
 jpg: terminales/terminal-cucuta.jpg
 webps: terminales/terminal-cucuta-376.webp
