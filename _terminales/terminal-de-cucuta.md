@@ -50,9 +50,9 @@ empresas:
   - COOTRASAR: 310 7892985
   - CATATUMBO TRAINDLS: 301 6424472 - 320 9944997
 ---
-## Empresas de Transporte y contacto
+## Empresas de Transporte y teléfonos en la terminal Cúcuta
 
-La Terminal de Cúcuta alberga a varias empresas de transporte reconocidas en el país. Aquí te presentamos algunas de ellas junto con sus números de contacto:
+[La Terminal de Cúcuta alberga a varias empresas de transporte](#telefonos) reconocidas en el país. Aquí te presentamos algunas de ellas junto con sus números de contacto:
 
 - **Berlinas del Bonce**: 5726379 – 5727869
 - **Copetran**: 587 42 05 – 572 88 68
@@ -61,11 +61,9 @@ La Terminal de Cúcuta alberga a varias empresas de transporte reconocidas en el
 - **Omega**: (57) (7) 5780356
 {:class="seccion"}
 
-Para más información, puedes visitar el [sitio web oficial](http://www.terminalcucuta.gov.co/){:rel="nofollow noopener noreferrer" target="_blank"} o seguirlos en [Facebook](https://www.facebook.com/TerminalCucuta){:rel="nofollow noopener noreferrer" target="_blank"} y [Twitter](https://twitter.com/TerminalCucuta){:rel="nofollow noopener noreferrer" target="_blank"}.
+Para más información, puedes visitar el [sitio web oficial]({{page.contacto}}){:rel="nofollow noopener noreferrer" target="_blank"} o seguirlos en [Facebook](https://www.facebook.com/TerminalCucuta){:rel="nofollow noopener noreferrer" target="_blank"} y [Twitter](https://twitter.com/TerminalCucuta){:rel="nofollow noopener noreferrer" target="_blank"}.
 
-## Ubicación y cómo llegar a la terminal
-
-----
+## Ubicación de la terminal de Cúcuta y cómo llegar
 
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
@@ -73,7 +71,17 @@ La Terminal de Cúcuta se encuentra estratégicamente ubicada en el centro de la
 
 **Su dirección exacta es Av.8 # 1-25, Barrio Callejón, Cúcuta**, Norte de Santander. Si necesitas comunicarte, los números de teléfono son: **5836580 y 5481719**.
 
-## Servicios ofrecidos por la terminal de Cúcuta
+### Información de contacto detallada
+
+Te tenemos cubierto en el tema de comunicación. Aquí tienes una tabla comparativa con las diferentes formas de **contactar con la terminal de Cúcuta**:
+
+| Método de Contacto | Detalles                  | ¿Para qué es útil?          |
+|--------------------|---------------------------|-----------------------------|
+| Teléfono           | {{page.telefono}}              | Consultas rápidas           |
+| WhatsApp           | XXX-XXX-XXXX              | Mensajes y consultas        |
+| Email              | {{page.email}} | Consultas más detalladas    |
+
+88## Servicios ofrecidos por la terminal de Cúcuta
 
 ----
 
@@ -87,23 +95,56 @@ La Terminal de Cúcuta ofrece una variedad de servicios para garantizar la comod
 - Baños
 - Zonas de abordaje
 - Transportadora de equipaje
-- Servicio de equipajeros
+- Servicio de transporte de equipajes
 - Seguridad privada
 
-## Historia de la Terminal de Cúcuta
+### Fotos del terminal
+
+Si eres visual, esta sección es para ti. En el siguiente botón de Google Maps tienes una galería de fotos para que sepas exactamente qué esperar en la terminal de transporte de Cúcuta
+
+[Fotos terminal Cúcuta]({{page.maps}}){:class="botones boton-verde"}
+
+Algunas de las **fotos de la terminal de Cúcuta** que puedes encontar son:
+
+- Taquillas
+- Áreas de Espera
+- Tiendas y Restaurantes
+
+**¿Por qué es útil?** De esta manera podrás:
+
+- Ubicarte mejor.
+- Te da una idea de las instalaciones.
+
+---
+
+## Historia de la terminal de tranporte de Cúcuta
 
 La Terminal de Cúcuta tiene un lugar especial en la historia del transporte colombiano. Fundada en 1967, **se convirtió en la primera ciudad de Colombia en contar con una terminal de transporte de pasajeros**.
 
 A lo largo de los años, ha experimentado un crecimiento constante en el flujo de pasajeros. En 2019, se inició un proyecto de remodelación para mejorar la calidad de los servicios ofrecidos a la comunidad cucuteña.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+## Preguntas frecuentes sobre la terminal Cúcuta
 
-## Preguntas Frecuentes
+¿Tienes dudas? Aquí te dejamos una lista de preguntas y respuestas que te sacarán de apuros:
 
-- **¿Qué empresas ofrecen rutas a Bogotá?** Copetrán, Omega, Berlinas del Fonce y Concorde.
-- **¿Qué empresas viajan a Medellín?** Copetrán, Expreso Brasilia, Expreso Bolivariano y Omega.
-- **¿Hay alguna empresa que viaje directamente a Cali?** Sí, Expreso Bolivariano ofrece una ruta directa a Cali.
-- **¿Qué empresas ofrecen rutas a Barranquilla?** Puedes optar por Expreso Brasilia o Copetrán.
+1. **¿Cómo se llama el terminal de Cúcuta?**
+    - Respuesta: Terminal de Transporte de Cúcuta
+2. **¿Qué servicios ofrece el terminal?**
+    - Respuesta: Venta de pasajes, restaurantes, tiendas.
+    - 🌟 **Consejo**: Lleva algo de efectivo para disfrutar de estos servicios.
+3. **¿Cómo comprar pasajes?**
+    - Respuesta: Taquillas o plataformas en línea.
+    - 🌟 **Consejo**: Compra con antelación para asegurar tu lugar.
+4. **¿Qué empresas ofrecen rutas a desde Cúcuta a Bogotá?**
+    - Copetrán, Omega, Berlinas del Fonce y Concorde.
+5. **¿Qué empresas viajan desde Cúcuta a Medellín?**
+    - Copetrán, Expreso Brasilia, Expreso Bolivariano y Omega.
+6. **¿Hay alguna empresa que viaje directamente desde Cúcuta a Cali?**
+    - Sí, Expreso Bolivariano ofrece una ruta directa a Cali.
+7. **¿Qué empresas ofrecen rutas desde Cúcuta a Barranquilla?**
+    - Puedes optar por Expreso Brasilia o Copetrán.
+
+{% include add1.html %}
 
 ## Viaja desde Cúcuta con su Terminal de Transporte
 
@@ -112,3 +153,5 @@ A lo largo de los años, ha experimentado un crecimiento constante en el flujo d
 La Terminal de Cúcuta es un punto esencial para el transporte en la región. Con su rica historia y variedad de servicios, sigue siendo una elección popular entre los viajeros.
 
 Si planeas **visitar Cúcuta o viajar desde allí**, esta terminal tiene todo lo que necesitas para un viaje cómodo y seguro. ¡Buen viaje y disfruta de tu experiencia en Cúcuta!
+
+[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}

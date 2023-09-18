@@ -12,7 +12,7 @@ webps: blog/terminal-chiquinquira_376.webp
 alt: Terminal de Chiquinquirá - Teléfono y otros datos
 subtitle: Pasajes y empresas de la terminal de transporte de Chiquinquira
 intro: La terminal de transporte Chiquinquira es el punto de partida para explorar esta hermosa ciudad. Conecta con destinos locales y nacionales, facilitando tus viajes.
-contacto: www.terminaldechiquinquira.com
+contacto: https://terminaldechiquinquira.com
 email: servicioalcliente@terminaldechiquinquira.com
 direccion: "Cra. 9 # 3a 81 Int 122, Chiquinquirá, Boyacá"
 telefono: 6087262195 - 3173668674 - 3173668179
