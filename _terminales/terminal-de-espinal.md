@@ -9,7 +9,7 @@ jpg: blog/terminal-espinal_600.jpg
 webpm: blog/terminal-espinal_600.webp
 webps: blog/terminal-espinal_376.webp
 alt: terminal de transoportes de el Espinal en el Tolima
-subtitle: "Tiquetes de las empresas de la terminal de Espinal  "
+subtitle: "Compra pasajes de las empresas de la terminal de Espinal"
 intro: La Terminal de Transporte Espinal es tu puerta de entrada para explorar la región. Conéctate con rutas locales y nacionales, y disfruta de servicios enfocados en los viajeros.
 contacto: www.terminalespinal.com.co
 email: informacion@terminalespinal.com.co
