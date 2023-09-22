@@ -5,9 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Sep 2023 15:41:18 -0500</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2023 15:41:18 -0500</lastBuildDate>
+    <pubDate>Fri, 22 Sep 2023 10:54:15 -0500</pubDate>
+    <lastBuildDate>Fri, 22 Sep 2023 10:54:15 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Pasajes de bus: Colombia - Argentina • Duración • Precios</title>
+        <description>Pasajes de Colombia a Argentina en bus | Entérate de cuanto vale un pasaje, duraciones de trayectos y tips para un viaje cómodo y seguro</description>
+        <pubDate>Thu, 21 Sep 2023 19:08:13 -0500</pubDate>
+        <link>http://localhost:4000/blog/pasaje-bus-colombia-argentina</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/pasaje-bus-colombia-argentina</guid>
+        
+        
+        
+        
+      </item>
     
       <item>
         <title>Buses internacionales de Colombia | Conexiones en bus</title>
@@ -111,18 +123,6 @@
         <pubDate>Wed, 16 Aug 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/viajar-con-mascotas-bus</link>
         <guid isPermaLink="true">http://localhost:4000/blog/viajar-con-mascotas-bus</guid>
-        
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>Expreso Palmira: pasajes de bus seguros y con facilidad</title>
-        <description>Expreso Palmira es una compañía de transporte que ofrece servicios en varias ciudades de Colombia. Ofrece muchas opciones de autobuses, rutas y horarios.</description>
-        <pubDate>Fri, 21 Jul 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/expreso-palmira</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/expreso-palmira</guid>
         
         
         
