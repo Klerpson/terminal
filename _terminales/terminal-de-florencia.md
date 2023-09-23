@@ -42,8 +42,6 @@ Si tienes planes de viajar desde esta terminal, aquí te proporcionaremos inform
 
 ### Servicios disponibles en la Terminal de Transportes de Florencia
 
-{% include cta-hotmart1.html %}
-
 La Terminal de Transportes de Florencia ofrece una amplia variedad de servicios para garantizar la comodidad de los pasajeros durante su estadía en la estación. Estos son algunos de los servicios que podrás encontrar:
 
 * Taquillas: **La taquilla Coomotor Florencia está ubicada en la entrada principal** de la terminal y es el lugar donde puedes comprar tus boletos para los diferentes destinos que se ofrecen desde la terminal.
@@ -59,6 +57,7 @@ La Terminal de Transportes de Florencia ofrece una amplia variedad de servicios 
 La Terminal de Transportes de Florencia es la puerta de entrada a muchas ciudades principales de Colombia. Estos son algunos de los destinos más populares que se pueden visitar desde la terminal:
 
 * **Bogotá**: La capital colombiana es una ciudad llena de vida y cultura. Desde la Terminal de Transportes de Florencia, puedes tomar un autobús que te llevará directamente a Bogotá en un viaje de aproximadamente 10 horas.
+
 * **Neiva**: La ciudad de Neiva es conocida por su hermosa arquitectura colonial y por ser el hogar del famoso festival de música andina Mono Núñez. Desde la Terminal de Transportes de Florencia, puedes llegar a Neiva en un viaje de 5 horas.
 * **Popayán**: La ciudad blanca de Popayán es famosa por su belleza colonial y su gastronomía. Desde la Terminal de Transportes de Florencia, puedes llegar a Popayán en un viaje de 6 horas.
 {:class="seccion"}

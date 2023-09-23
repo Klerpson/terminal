@@ -53,7 +53,7 @@ Viajar en bus te permite *hacer paradas en diferentes ciudades y conocer muchos 
 
 ### Viajando en bus puedes hacer conexión con la cultura de tu destino
 
-{% include cta-hotmart1.html %}
+{% include add2.html %}
 
 Viajar en bus te permite conectarte con la cultura local. Podrás **ver paisajes impresionantes, interactuar con la gente local, y disfrutar de la auténtica comida y música de cada región**. Es una oportunidad única para sumergirse en la cultura y conocer más sobre el tu destino.
 
@@ -74,4 +74,3 @@ Como ves, **viajar en bus** tiene muchas ventajas que quizás no habías conside
 Viajar en bus no solo es económico y cómodo, sino que también te permite conectarte con la cultura y tener una experiencia única. ¡No te lo pierdas!
 
 Y si quieres planificar tu viaje de manera efectiva y obtener consejos útiles para tu aventura en Colombia, te recomendamos [comprar una guía de viajes de Colombia](https://go.hotmart.com/M80153395U "Comprar la guía turística de Colombia."){:rel="nofollow noopener noreferrer" target="_blank"}. Con ella, podrás tener información detallada sobre los destinos, la cultura y las atracciones turísticas del país. ¡Haz que tus viajes sean más fáciles y divertidos!
-

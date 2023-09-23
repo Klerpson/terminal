@@ -166,6 +166,8 @@ Expreso Bolivariano cuenta con una amplia flota de autobuses principalmente de l
 
 ## Historia de Expreso Bolivariano
 
+{% include add3.html %}
+
 La historia de Expreso Bolivariano comenzó en 1956 en la ciudad de Fusagasugá, cuando su fundador, Juan Mahecha, decidió crear una empresa de transporte que ofreciera comodidad y seguridad a los pasajeros.
 
 Desde entonces, la empresa ha crecido y se ha expandido, **convirtiéndose en una de las principales compañías de transporte** por carretera en [Colombia]({{'terminales-de-colombia'|relative_url}}) y Perú.

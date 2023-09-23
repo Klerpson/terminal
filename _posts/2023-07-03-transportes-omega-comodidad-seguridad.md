@@ -54,7 +54,7 @@ En el sitio web oficial de Transportes Omega, se encuentra disponible **un mapa 
 
 Otra de las ventajas de Transportes Omega es la posibilidad de comprar tus pasajes vía online.
 
-En páginas como \[RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}) o \[Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}), podrás escoger el destino y horario que mejor se ajuste a tus necesidades, y realizar la compra de forma rápida y segura a través de diferentes medios de pago electrónicos.
+En páginas como [RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}) o [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}), podrás escoger el destino y horario que mejor se ajuste a tus necesidades, y realizar la compra de forma rápida y segura a través de diferentes medios de pago electrónicos.
 
 > Transportes Omega también ofrece diferentes descuentos y promociones en plataformas como Pinbus para la compra de pasajes, lo que permite ahorrar dinero en tus viajes intermunicipales.
 
@@ -129,7 +129,7 @@ En ambos casos, se proporcionará la información necesaria para elegir los hora
 
 ## Otros operadores
 
-Además de Transportes Omega, existen otras empresas de transporte intermunicipal en Colombia, como \[Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Expreso Bolivariano") y \[Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Expreso Brasilia"), que compiten en términos de precios y servicios.
+Además de Transportes Omega, existen otras empresas de transporte intermunicipal en Colombia, como [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Expreso Bolivariano") y [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Expreso Brasilia"), que compiten en términos de precios y servicios.
 
 ### Comparación de precios y servicios
 
@@ -179,7 +179,7 @@ Este servicio es considerado el más lujoso de la compañía, y cuenta con una a
 
 ### Preguntas frecuentes de los usuarios de Transporte Omega
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 #### ¿Puedo llevar equipaje adicional?
 
@@ -217,8 +217,8 @@ Todas las encomiendas deben ser empacadas de manera adecuada para evitar daños 
 
 * Llega con anticipación al punto de partida para evitar retrasos y asegurar un buen asiento en el autobús.
 * Revisa las condiciones de transporte antes de abordar y sigue las instrucciones del conductor y personal de la compañía durante el viaje.
-* Lleva contigo solo el \[equipaje necesario y asegura tus pertenencias]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}) en todo momento.
+* Lleva contigo solo el [equipaje necesario y asegura tus pertenencias]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}) en todo momento.
 * Utiliza el cinturón de seguridad siempre que sea posible y evita levantarte del asiento mientras el autobús está en movimiento.
 * Si viajas con niños pequeños, lleva contigo todo lo necesario para su cuidado y entretenimiento durante el viaje.
 
-Esta gran empresa colombiana es una de las más reconocidas por su buen servicio. Si te gustaría \[disfrutar al máximo de un viaje en bus por Colombia]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}), considera contar con Transportes Omega.
+Esta gran empresa colombiana es una de las más reconocidas por su buen servicio. Si te gustaría [disfrutar al máximo de un viaje en bus por Colombia]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}), considera contar con Transportes Omega.

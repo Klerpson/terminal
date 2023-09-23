@@ -25,6 +25,8 @@ En este artículo te enseñaremos **5 trucos sencillos para cuidar la seguridad 
 
 ## El riesgo que corre tu maleta de viaje
 
+{% include add1.html %}
+
 Viajar en autobús puede ser una experiencia emocionante, pero también es importante tener en cuenta la seguridad de tus pertenencias durante el viaje. De acuerdo con los registros de la Policía Nacional, [en el primer trimestre del año 2022 se registraron más de 500 denuncias](https://www.portafolio.co/economia/hurto-en-transporte-publico-un-delito-que-se-expande-en-las-ciudades-530869){:rel="nofollow noopener noreferrer" target="_blank"} por este tipo de robo en el transporte público en solo 6 de las ciudades principales de Colombia.
 
 Y como siempre es mejor prevenir que lamentar, especialmente **cuando se trata de proteger tus objetos de valor en tu maleta de viaje**, te regalamos 5 consejos muy fáciles de aplicar.
@@ -51,13 +53,13 @@ Al elegir una cerradura adicional para asegurar tu maleta de viaje en un bus, es
 
 Recuerda, ninguna cerradura es 100% segura. Por esto, es recomendable utilizar más de una cerradura y combinar diferentes tipos para aumentar la seguridad de la maleta.
 
-{% include cta-hotmart1.html %}
-
 Además, es importante utilizar correctamente la cerradura o cierre elegido, siguiendo las instrucciones del fabricante y asegurándose de que esté bien colocado y bloqueado.
 
 Finalmente, es importante recordar que la seguridad de la maleta también depende de otros factores, como mantenerla siempre a la vista y no despachar objetos de valor en ella. Hablemos de esto en los siguientes 2 puntos.
 
 ### 3. No despaches objetos de valor
+
+{% include add1.html %}
 
 Es importante evitar despachar objetos de valor en la maleta, ya que pueden ser robados o dañados durante el transporte. En su lugar, se pueden llevar en la bolsa de mano o en un bolso que se lleve en el asiento del autobús.
 

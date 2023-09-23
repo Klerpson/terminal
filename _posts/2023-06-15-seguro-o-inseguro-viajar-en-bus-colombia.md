@@ -23,7 +23,7 @@ En Colombia, la seguridad en el transporte público es un tema importante a tene
 
 ## ¿Es seguro o inseguro viajar en bus en Colombia?
 
-{% include add3.html %}
+{% include add2.html %}
 
 Entre los medios de **transporte más seguros se encuentra el autobús**, aunque es necesario tomar precauciones. Es fundamental conocer las pautas de seguridad para pasajeros y conductores y utilizar el cinturón de seguridad si es posible.
 
@@ -48,6 +48,8 @@ En 2022, **la cifra total de accidentes en el transporte público fue de 14.523,
 La seguridad en el autobús es fundamental ya que este es uno de los medios de transporte en los que más personas se trasladan diariamente.
 
 Por este motivo, es fundamental tener en cuenta las pautas de seguridad y ser responsable en el uso del medio de transporte.
+
+{% include add1.html %}
 
 ### ¿Cuál es la responsabilidad de los conductores y pasajeros en la seguridad durante el viaje en autobús?
 
@@ -84,6 +86,8 @@ Asegúrate de que la sillita Infantil se ajuste a las necesidades del niño, la 
 
 ## ¿Qué hacer en caso de un accidente en el autobús?
 
+{% include add3.html %}
+
 Es importante conocer las medidas que se deben tomar en caso de sufrir un accidente mientras se viaja en un autobús.
 
 Las colisiones de vehículos pueden ser inevitables, pero reducir el riesgo de sufrir lesiones graves es posible siguiendo unos sencillos consejos.
@@ -107,6 +111,8 @@ Las colisiones de vehículos pueden ser inevitables, pero reducir el riesgo de s
 Conocer y aplicar estas medidas de seguridad es fundamental para minimizar los daños en caso de sufrir un accidente en un autobús. Además, siempre es recomendable tener un seguro de viajes que cubra en caso de emergencias durante el trayecto, esto puede ser una gran ayuda en caso de sufrir un percance.
 
 ## Seguridad en los viajes en general
+
+{% include add1.html %}
 
 En esta sección se tratarán diferentes temas relacionados con la seguridad en los viajes en general, incluyendo los medios de transporte más seguros en el mundo, la importancia de contratar un seguro de viajes MAPFRE, la comparación entre la seguridad de viajar en avión o en autobús y los números de riesgo de sufrir accidentes de [transporte en Colombia](/).
 

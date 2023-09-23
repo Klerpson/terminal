@@ -63,7 +63,7 @@ empresas:
 ---
 ## Terminal de buses de Pasto
 
-{% include add3.html %}
+{% include add2.html %}
 
 ¿Estás planeando un viaje a la hermosa ciudad de Pasto? ¡No busques más allá de la Terminal de Transportes de Pasto, tu punto de partida hacia aventuras emocionantes en el sur de Colombia! Aquí te presentamos todo lo que necesitas saber para viajar desde esta terminal.
 
@@ -73,7 +73,7 @@ La Terminal de Transportes de Pasto es un centro de transporte importante en el 
 
 ### Servicios de la terminal de Pasto
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 Entre los servicios que ofrece la Terminal de Transportes de Pasto se encuentran la **venta de tiquetes, paquetería, información turística, servicios de aseo, baños públicos, restaurantes y locales comerciales**.
 

@@ -28,9 +28,9 @@ Así que siéntate, relájate y prepárate para descubrir todo lo que necesitas 
 
 ## Viajar en bus y divertirse al mismo tiempo
 
-¿Estás planificando un viaje en bus y no sabes cómo hacer para que el tiempo vuele? ¡No te preocupes! Te preparamos 7 consejos para disfrutar al máximo tu trayecto y hacer de tu viaje una experiencia inolvidable.
+{% include add1.html %}
 
-{% include cta-hotmart1.html %}
+¿Estás planificando un viaje en bus y no sabes cómo hacer para que el tiempo vuele? ¡No te preocupes! Te preparamos 7 consejos para disfrutar al máximo tu trayecto y hacer de tu viaje una experiencia inolvidable.
 
 ### 1. Disfruta del paisaje
 
@@ -51,6 +51,8 @@ No todos tenemos la habilidad de hacer nuevos amigos. Pero si quizá eres un apa
 Otra opción es **descargar tus películas y series preferidas**. ¡El tiempo pasará volando!
 
 ### 4. Crea una playlist de tus canciones favoritas
+
+{% include add1.html %}
 
 La música es una excelente compañera de viaje. Prepara **una lista de reproducción con tus canciones preferidas**, lleva tus audífonos y disfruta del trayecto.
 
@@ -74,7 +76,7 @@ Dormir en un bus puede no ser muy cómodo, por lo que es importante que descanse
 
 ## Disfruta tu viaje en bus desde las terminales Colombianas
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 Siguiendo estos consejos, estamos seguros de que podrás disfrutar al máximo de tu próximo viaje en bus.
 

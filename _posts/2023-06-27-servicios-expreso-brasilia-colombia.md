@@ -20,7 +20,7 @@ Además, **con Expreso Brasilia puedes hacer tus reservas en línea** desde la p
 
 ## Expreso Brasilia y su presencia nacional
 
-{% include add3.html %}
+{% include add2.html %}
 
 La flota de [Expreso Brasilia](https://www.expresobrasilia.com/){:rel="nofollow noopener noreferrer" target="_blank"} cuenta con modernos autobuses y diversos servicios a bordo desde conexión a internet, aire acondicionado y bocadillos.
 
@@ -158,7 +158,7 @@ Allí encontrarás información sobre temas como la compra de pasajes, cambios y
 
 ## Servicios a bordo y ofertas
 
-{% include cta-hotmart1.html %}
+{% include add1.html %}
 
 Expreso Brasilia se dedica a brindar la mejor experiencia de viaje posible, y eso incluye servicios a bordo que harán que su viaje sea cómodo y agradable. En esta sección, se presentan algunos de los servicios que los pasajeros pueden esperar al subir a bordo de un autobús de Expreso Brasilia.
 

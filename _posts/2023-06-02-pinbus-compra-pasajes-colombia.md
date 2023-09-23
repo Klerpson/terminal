@@ -48,7 +48,7 @@ Todos amamos un buen descuento, y Pinbus ofrece muchas oportunidades para obtene
 
 ## Pinbus Colombia: tu línea directa de contacto
 
-{% include cta-hotmart1.html %}
+{% include add2.html %}
 
 ¿Necesitas ayuda o tienes alguna consulta sobre Pinbus? Pinbus tiene un equipo de atención al cliente listo para asistirte.
 
