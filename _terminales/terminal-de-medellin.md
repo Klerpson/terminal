@@ -1,30 +1,26 @@
 ---
 layout: terminal
 json-terminal: true
+date: 2023-09-26T16:07:00.941Z
 title: Terminal de transporte del norte y del sur de Medellín
-description: Las terminales de transporte del Norte y del Sur de Medellín están listas para que tu viaje sea el mejor. Entra y mira los teléfonos para comprar tu pasaje ☎️
+description: Las terminales de transporte del Norte y del Sur de Medellín están
+  listas para que tu viaje sea el mejor. Entra y mira los teléfonos para comprar
+  tu pasaje ☎️
 category: antioquia
 h1: Las terminales de transporte Norte de Medellín y Sur de Medellín.
 jpg: terminales/terminal-medellin.jpg
-webps: terminales/terminal-medellin-376.webp
 webpm: terminales/terminal-medellin-600.webp
+webps: terminales/terminal-medellin-376.webp
 alt: Terminal Norte Medellín
-webp1: terminales/terminal-medellin-sur-600.webp
-webp2: terminales/terminal-medellin-sur-376.webp
-subtitle: Compra tus tiquetes con las empresas de la terminal Sur y la terminal Norte de Medellín
-intro: "La Terminal del Norte funciona hacia el oriente y norte de Medellín. La terminal Sur hacia el sur y el oriente de Medellín, y hacia el Eje cafetero y del sur de Colombia."
-contacto: https://terminalesmedellin.com/pqrsd/
-maps: https://goo.gl/maps/Yq8qVN27RFw937TR9
-direccion: Carrera 64C No. 78 – 580
-telefono: 6044448020 - 6045206540
+subtitle: Compra tus tiquetes con las empresas de la terminal Sur y la terminal
+  Norte de Medellín
+intro: La Terminal del Norte funciona hacia el oriente y norte de Medellín. La
+  terminal Sur hacia el sur y el oriente de Medellín, y hacia el Eje cafetero y
+  del sur de Colombia.
 email: informacion@terminalesmedellin.com
-ciudad: Medellín
-postal: 050040
+direccion: Carrera 64C No. 78 – 580
+maps: https://goo.gl/maps/Yq8qVN27RFw937TR9
 calificacion: 4.4
-reviews: 2503
-latitude: 6.2165971
-longitude: -75.5908489
-permalink: /terminal-de-medellin
 empresas:
   - Arauca: 6042607023 6042607023
   - Coonorte: 6042608458 6042608458 6073176369322 3176369322
@@ -36,8 +32,10 @@ empresas:
   - Cootrayal: 6042305052 6042305052 6048502248 6048502248
   - Copetran: 6042607023 6042607023 6042308697 6042308697 6048872632 6048872632
   - Coopetransa: 6044801580 6044801580
-  - Expreso Bolivariano: 6044364068 6044364068 6042309814 6042309814 6043611607 6043611607 6043611173 6043611173
-  - Expreso Brasilia: 6042309931 6042309931 6044364068 6044364068 6046042295 6046042295 6043610204 6043610204
+  - Expreso Bolivariano: 6044364068 6044364068 6042309814 6042309814 6043611607
+      6043611607 6043611173 6043611173
+  - Expreso Brasilia: 6042309931 6042309931 6044364068 6044364068 6046042295
+      6046042295 6043610204 6043610204
   - Expreso Cisneros: 6042933131 6042933131
   - Expreso Entrerrios: 6043610975 6043610975
   - Expreso Internacional Ormeño: 6042933131 6042933131 6042309432 6042309432
@@ -45,13 +43,15 @@ empresas:
   - Flota Cordova Rionegro: 6044425707 6044425707 6073217924800 3217924800
   - Flota El Carmen: 6042309257 6042309257 6044440504 6044440504
   - Flota Granada: 6042606811 6042606811 6045434941 6045434941
-  - Flota Magdalena: 6042309452 6042309452 6043613119 6043613119 6043227715 6043227715 6042300933 6042300933
+  - Flota Magdalena: 6042309452 6042309452 6043613119 6043613119 6043227715
+      6043227715 6042300933 6042300933
   - Flota Nordeste: 6042309452 6042309452 6073102843745 3102843745
   - Flota Occidental: 6043611312 6043611312
   - Flota Rionegro: 6044443079 6044443079
   - Omega: 6042607330 6042607330
   - Rápido Rionegro: 6042309162 6042309162 6047561670 6047561670 6073202745573 3202745573
-  - Rápido Ochoa: 6044417017 6044417017 6042304192 6042304192 6042304112 6042304112 6042607330 6042607330
+  - Rápido Ochoa: 6044417017 6044417017 6042304192 6042304192 6042304112 6042304112
+      6042607330 6042607330
   - Rápido Tolima: 6044448888 6044448888 6042308998 6042308998
   - Sonar Exp Sonson Argelia: 6073153890432 3153890432
   - Sotragur: 6044364385 6044364385
@@ -62,8 +62,17 @@ empresas:
   - Sotrasanvicente y Guatape la Piedra: 6042606067 6042606067 6043611689 6043611689
   - Sotraurabá: 6042306637 6042306637 6042309237 6042309237
   - Sotrayar: 6044445873 6044445873 6042603818 6042603818
+contacto: https://terminalesmedellin.com/pqrsd/
+telefono: 6044448020 - 6045206540
+reviews: 2503
+ciudad: Medellín
+postal: 50040
+latitude: 6.2165971
+longitude: -75.5908489
+permalink: /terminal-de-medellin
+webp1: terminales/terminal-medellin-sur-600.webp
+webp2: terminales/terminal-medellin-sur-376.webp
 ---
-
 ## ¿Qué es la Terminal de Transporte de Medellín?
 
 {% include add1.html %}
@@ -96,7 +105,7 @@ Estas conexiones hacen de la Terminal de Transporte de Medellín un punto de par
 
 ## La terminal Norte de Medellín
 
-----
+- - -
 
 {% include img-post.html webpb="terminales/terminal-transporte-norte-medellin-800.webp" webps="terminales/terminal-transporte-norte-medellin-376.webp" alt="Terminal Norte Medellín" title="Terminal del Norte" %}
 *Foto tomada de Google Maps "Terminal del Norte"*
@@ -105,7 +114,7 @@ La **Terminal del Norte Medellín**, un punto de referencia importante en la ciu
 
 Esta ubicación central facilita el acceso tanto para los residentes locales como para los visitantes.
 
->La terminal está bien conectada con el resto de la ciudad a través de una red de transporte público eficiente, que incluye autobuses, taxis y el sistema de metro.
+> La terminal está bien conectada con el resto de la ciudad a través de una red de transporte público eficiente, que incluye autobuses, taxis y el sistema de metro.
 
 ### Cómo llegar a la terminal del Norte Medellín
 
@@ -131,17 +140,18 @@ Cada una de las empresas de transporte que operan desde la Terminal del Norte Me
 
 Por ejemplo, Expreso Brasilia es conocida por su amplia cobertura de rutas y su compromiso con la comodidad y la seguridad de los pasajeros. Copetran, por otro lado, es famosa por su larga historia y su amplia gama de servicios.
 
-En la terminal operan empresas como **Copetran, [Expreso Bolivariano]({% post_url 2023-07-03-transportes-omega-comodidad-seguridad %}), Flota Occidental, Rápido Ochoa, [Transportes Omega]({% post_url 2023-07-03-transportes-omega-comodidad-seguridad %}), [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), entre otras**. Haz clic en el siguiente botón para contactar directamente con estas empresas.
+En la terminal operan empresas como **Copetran, \[Expreso Bolivariano]({% post_url 2023-07-03-transportes-omega-comodidad-seguridad %}), Flota Occidental, Rápido Ochoa, \[Transportes Omega]({% post_url 2023-07-03-transportes-omega-comodidad-seguridad %}), \[Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), entre otras**. Haz clic en el siguiente botón para contactar directamente con estas empresas.
 
->## Necesitas un hotel cerca a la terminal
-Con KAYAK encuentras los mejor calificados y con promociones constantes.
-[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
+> ## Necesitas un hotel cerca a la terminal
+>
+> Con KAYAK encuentras los mejor calificados y con promociones constantes.
+> [Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
 
 ## Pasajes en la terminal del Norte de Medellín
 
 {% include add2.html %}
 
-La compra de pasajes en la Terminal del Norte Medellín es un proceso sencillo y conveniente. Un método es utilizar las herramientas en línea como [PinBus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}) o [RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}).
+La compra de pasajes en la Terminal del Norte Medellín es un proceso sencillo y conveniente. Un método es utilizar las herramientas en línea como \[PinBus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}) o \[RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}).
 
 Las taquillas de las diferentes empresas de transporte están ubicadas en un área central de la terminal, y el personal está disponible para ayudar a los pasajeros con la compra de pasajes.
 
@@ -152,7 +162,7 @@ Para comprar pasajes en la Terminal del Norte Medellín, simplemente debes:
 1. Acercarte a la taquilla de la empresa de transporte de tu elección
 2. Indicar tu destino
 3. Elegir la fecha y hora de salida
-{:class="seccion"}
+   {:class="seccion"}
 
 También puedes comprar pasajes en línea a través de los sitios web de las diferentes empresas de transporte.
 
@@ -170,7 +180,7 @@ La Terminal del Norte Medellín sirve como punto de partida para una variedad de
 
 Desde la Terminal del Norte Medellín, puedes tomar un autobús a destinos nacionales como Bogotá, Cali, Cartagena, [Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal Santa Marta"), Bucaramanga, entre otros.
 
->Las empresas de transporte ofrecen servicios regulares a estos y otros destinos en todo el país.
+> Las empresas de transporte ofrecen servicios regulares a estos y otros destinos en todo el país.
 
 ### Destinos internacionales
 
@@ -178,7 +188,7 @@ Aunque la mayoría de las rutas desde la Terminal del Norte Medellín son nacion
 
 ## Horarios de la terminal del norte Medellín
 
-----
+- - -
 
 **La Terminal del Norte Medellín opera las 24 horas del día**, los 7 días de la semana. Sin embargo, los horarios de las diferentes empresas de transporte pueden variar.
 
@@ -209,20 +219,21 @@ En resumen, **la Terminal del Norte de Medellín es un punto de partida clave**.
 
 ## Terminal Sur de Medellín
 
-----
+- - -
 
 {% include img-post.html webpb="terminales/terminal-transporte-sur-medellin-800.webp" webps="terminales/terminal-transporte-sur-medellin-376.webp" alt="Terminal Sur Medellín" title="Terminal del Sur" %}
 *Foto tomada de Google Maps "Terminal del Sur"*
 
 La Terminal de transporte Sur de Medellín, es uno de los principales puntos de conexión desde la ciudad y hacia el sur del país.
 
->## Necesitas un hotel cerca a la terminal
-Con KAYAK encuentras los mejor calificados y con promociones constantes.
-[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
+> ## Necesitas un hotel cerca a la terminal
+>
+> Con KAYAK encuentras los mejor calificados y con promociones constantes.
+> [Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
 
 ## Empresas de transporte en la Terminal del Sur de Medellín
 
-----
+- - -
 
 La Terminal del Sur Medellín alberga a varias empresas de transporte que ofrecen servicios a una amplia gama de destinos. Estas empresas cuentan con flotas de buses modernos y seguros **para garantizar un viaje cómodo y seguro**.
 
@@ -252,11 +263,11 @@ Además, si tienes alguna duda, siempre puedes recurrir a las indicaciones de lo
 
 ## Servicios disponibles en la Terminal Sur Medellín
 
-----
+- - -
 
 La Terminal del Sur Medellín ofrece una variedad de servicios para garantizar una experiencia de viaje cómoda y conveniente. Aquí puedes encontrar desde **tiendas de regalos hasta restaurantes y cafeterías**.
 
->La terminal cuenta con **salas de cine** para el disfrute de los viajeros y visitantes.
+> La terminal cuenta con **salas de cine** para el disfrute de los viajeros y visitantes.
 
 ### Cine en la Terminal del Sur de Medellín
 
@@ -274,7 +285,7 @@ Si tienes tiempo antes de tu viaje o simplemente quieres disfrutar de un buen ra
 
 ## Rutas desde la Terminal del Sur Medellín
 
-----
+- - -
 
 La Terminal del Sur Medellín sirve como punto de partida para una variedad de rutas de autobuses que **conectan Medellín con otras ciudades y regiones del sur de Colombia**.
 
@@ -282,7 +293,7 @@ Aquí puedes encontrar buses que te llevarán a destinos tan variados como Bogot
 
 ## Hoteles cerca a la terminal Sur Medellín
 
-----
+- - -
 
 Si necesitas hospedarte cerca de la terminal, hay varias opciones de hoteles cercanos. Busca en el siguiente botón los **hoteles cerca de la Terminal del Sur**:
 
@@ -332,6 +343,7 @@ Puedes comprar tus tiquetes en línea a través de la página web de la Terminal
 
 Existen **varias opciones de transporte desde el aeropuerto** hasta la Terminal del Sur Medellín, incluyendo **taxis, buses y servicios de transporte privado**.
 
->## Necesitas un hotel cerca a la terminal
-Con KAYAK encuentras los mejor calificados y con promociones constantes.
-[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
+> ## Necesitas un hotel cerca a la terminal
+>
+> Con KAYAK encuentras los mejor calificados y con promociones constantes.
+> [Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
