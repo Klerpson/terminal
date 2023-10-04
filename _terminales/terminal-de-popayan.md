@@ -1,10 +1,10 @@
 ---
 layout: terminal
 json-terminal: true
-title: Terminal de Popayán
+title: Terminal de Popayán | Lo que debes saber antes de viajar
 description: La Terminal de transporte Popayán es la mejor elección en el Cauca para encontrar los precios ajustados a su presupuesto y los horarios más convenientes
 category: cauca
-h1: La terminal de Popayán en el corazón del Cauca
+h1: La terminal Popayán en el corazón del Cauca 
 jpg: terminales/terminal-popayan.jpg
 webps: terminales/terminal-popayan-376.webp
 webpm: terminales/terminal-popayan-600.webp
@@ -48,7 +48,7 @@ empresas:
   - Transipiales: 6028231393
   - Velotax: 6028231872 - 6028240726
 ---
-## Información sobre la terminal de Popayán
+## Información sobre la terminal de transporte de Popayán
 
 La Terminal de Popayán es la central para viajar desde el Cauca hacia otro lugar de Colombia. Los pasajeros podrán encontrar los precios ajustados a su presupuesto y los horarios más convenientes.
 
