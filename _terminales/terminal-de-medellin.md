@@ -94,12 +94,12 @@ Desde aquí, puedes tomar buses a la [Terminal de Transporte de Bogotá]({{'term
 Estas conexiones hacen de la Terminal de Transporte de Medellín un punto de partida clave para viajar a diferentes partes del país.
 {:id="norte"}
 
+{% include img-post.html webpm="terminales/terminal-transporte-norte-medellin-800.webp" webps="terminales/terminal-transporte-norte-medellin-376.webp" alt="Terminal Norte Medellín" title="Terminal del Norte" %}
+*Foto tomada de Google Maps "Terminal del Norte"*
+
 ## La terminal Norte de Medellín
 
 ----
-
-{% include img-post.html webpb="terminales/terminal-transporte-norte-medellin-800.webp" webps="terminales/terminal-transporte-norte-medellin-376.webp" alt="Terminal Norte Medellín" title="Terminal del Norte" %}
-*Foto tomada de Google Maps "Terminal del Norte"*
 
 La **Terminal del Norte Medellín**, un punto de referencia importante en la ciudad, se encuentra estratégicamente **ubicada en la Carrera 64C No. 78 – 580**.
 

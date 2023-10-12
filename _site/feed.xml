@@ -5,9 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Sep 2023 11:31:09 -0500</pubDate>
-    <lastBuildDate>Fri, 22 Sep 2023 11:31:09 -0500</lastBuildDate>
+    <pubDate>Wed, 11 Oct 2023 21:58:27 -0500</pubDate>
+    <lastBuildDate>Wed, 11 Oct 2023 21:58:27 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Pasaje Ecuador a Colombia en bus | ¡Precio rutas y mas!</title>
+        <description>Viaje en bus de Colombia a Ecuador, atraviesa paisajes impresionantes y conecta con la cultura local. Aquí las mejores rutas, consejos y detalles. </description>
+        <pubDate>Thu, 28 Sep 2023 21:43:37 -0500</pubDate>
+        <link>http://localhost:4000/blog/colombia-ecuador-en-bus</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/colombia-ecuador-en-bus</guid>
+        
+        
+        
+        
+      </item>
     
       <item>
         <title>Pasajes de bus: Colombia - Argentina • Duración • Precios</title>
@@ -111,18 +123,6 @@
         <pubDate>Thu, 17 Aug 2023 06:11:02 -0500</pubDate>
         <link>http://localhost:4000/blog/alquiler-buses-colombia</link>
         <guid isPermaLink="true">http://localhost:4000/blog/alquiler-buses-colombia</guid>
-        
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>Viaja con tu Mascota en Bus | Reglamentos y Consejos</title>
-        <description>¿Qué necesitas saber para un viajar en bus con tus mascotas? • regulaciones • consejos • preparativos ¡Entérate y disfruta de un trayecto sin inconvenientes!</description>
-        <pubDate>Wed, 16 Aug 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/viajar-con-mascotas-bus</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/viajar-con-mascotas-bus</guid>
         
         
         
