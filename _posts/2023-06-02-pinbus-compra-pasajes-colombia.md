@@ -23,7 +23,7 @@ excerpt_separator: <!-- excerpt -->
 
 Lee cómo comprar tiquetes en línea o cómo contactar a su servicio de atención al cliente, ¡incluso te mostraremos cómo conseguir increíbles descuentos con Pinbus!
 
-{% include img-post.html webpb="blog/pinbus-tiquetes-800.webp" webps="blog/pinbus-tiquetes-376.webp" alt="Comprar tiquetes en línea" title="Tiquetes en línea" %}
+{% include img-post.html webpm="blog/pinbus-tiquetes-800.webp" webps="blog/pinbus-tiquetes-376.webp" alt="Comprar tiquetes en línea" title="Tiquetes en línea" %}
 
 ## Compra de tiquetes con Pinbus
 
@@ -54,9 +54,9 @@ Todos amamos un buen descuento, y Pinbus ofrece muchas oportunidades para obtene
 
 Ya estés en Bogotá, Medellín, Cali o cualquier otra ciudad de Colombia, puedes contactarlos [a través de la página de contacto de Pinbus](https://pinbus.com/contacto?originPath=home){:rel="nofollow noopener noreferrer" target="_blank"}.
 
-### ¿Cómo contactar a Pinbus?
+{% include img-post.html webpm="blog/pinbus-800.webp" webps="blog/pinbus-376.webp" alt="Comprar tiquetes en con Pinbus" title="Página de Pinbus" %}
 
-{% include img-post.html webpb="blog/pinbus-800.webp" webps="blog/pinbus-376.webp" alt="Comprar tiquetes en con Pinbus" title="Página de Pinbus" %}
+### ¿Cómo contactar a Pinbus?
 
 Si necesitas ayuda inmediata, no dudes en marcar [el número de teléfono de Pinbus: 300 387 0041](tel:573003870041). Su equipo de atención al cliente siempre está listo para asistirte.
 

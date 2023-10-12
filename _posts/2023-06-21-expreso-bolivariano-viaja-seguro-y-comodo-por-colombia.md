@@ -106,7 +106,7 @@ Algunos autobuses cuentan con **entretenimiento a bordo**, como pantallas de tel
 
 ## Autobuses de Expreso Bolivariano
 
-{% include img-post.html webpb="blog/expreso-bolivariano-800.webp" webps="blog/expreso-bolivariano-376.webp" alt="Bus Expreso Bolivariano" title="Expreso Bolivariano" %}
+{% include img-post.html webpm="blog/expreso-bolivariano-800.webp" webps="blog/expreso-bolivariano-376.webp" alt="Bus Expreso Bolivariano" title="Expreso Bolivariano" %}
 
 Expreso Bolivariano cuenta con una amplia flota de autobuses principalmente de las marcas Marcopolo y Busscar, los cuales tienen diferentes tipos y comodidades para adaptarse a las necesidades de los viajeros. A continuación, se presentan algunas imágenes de los autobuses de Expreso Bolivariano:
 
