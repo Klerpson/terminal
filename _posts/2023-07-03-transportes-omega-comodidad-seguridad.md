@@ -48,7 +48,7 @@ En el sitio web oficial de Transportes Omega, se encuentra disponible **un mapa 
 
 [Página de rutas](https://omega.com.co/rutas/){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
-![Terminal donde funciona Omega](blog/terminal-apartado-376.webp "Punto Omega terminal")
+![Terminal donde funciona Omega]({{'blog/terminal-apartado-376.webp'|relative_url}} "Punto Omega terminal")
 
 ### Compra rápida y segura de pasajes en línea
 
