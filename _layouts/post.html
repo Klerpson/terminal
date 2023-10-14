@@ -3,7 +3,7 @@ layout: default
 ---
 <section class="post-header">
   {% if page.jpg %}
-  <{% include img.html webpm=page.webpm webps=page.webps alt=page.alt %}>
+  {% include img.html webpm=page.webpm webps=page.webps alt=page.alt %}
   {% else %}
   <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}" loading="lazy">
   {% endif %}
