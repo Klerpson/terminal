@@ -180,24 +180,6 @@
         <priority>1.0</priority>
        </url>
   
-      <url>
-        <loc>http://localhost:4000/blog/manizales-luce-su-terminal-de-transporte</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/conoce-bucaramanga-desde-su-terminal-de-transporte</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/cucuta-y-la-terminal-de-la-frontera-con-venezuela</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
   
       <url>
         <loc>http://localhost:4000/pasajes/aguachica</loc>

@@ -9,16 +9,21 @@ h1: ¡Descubre las mejores ofertas de pasajes a Lima en bus!
 avif: blog/ofertas-lima-bus.avif
 alt: Ofertas de pasajes a Lima
 permalink: blog/ofertas-pasajes-bus-lima-colombia
-excerpt: ¡Encuentra aquí las mejores ofertas para viajar en bus a Lima! Descubre
-  una experiencia única y ahorra tiempo y dinero
+excerpt: ¡Encuentra aquí las mejores ofertas para viajar en bus a Lima! Descubre una experiencia única y ahorra tiempo y dinero
 ---
-Si estás planeando un viaje a Lima, la capital de Perú, seguramente estés buscando las mejores opciones para llegar allí. 
+Si estás planeando un viaje a Lima, la capital de Perú, seguramente estés buscando las mejores opciones para llegar allí.
 
-En este artículo, te mostraremos **las ventajas de viajar en bus a Lima y cómo encontrar las mejores ofertas de pasajes**. Viajar en autobús puede ser una alternativa conveniente y económica, y en Lima encontrarás una gran variedad de empresas de transporte que ofrecen tarifas competitivas y opciones de viaje flexibles.
+>Si lo que buscas es un pasaje en avión, [mira estas promociones](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fflights "Promociones pasajes"){:rel="nofollow noopener noreferrer sponsored" target="_blank"}
+
+En este artículo, te mostraremos **[las ventajas de viajar en bus]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %}) a Lima y cómo encontrar las mejores ofertas de pasajes**.
+
+Viajar en autobús puede ser una alternativa conveniente y económica, y en Lima encontrarás una gran variedad de empresas de transporte que ofrecen tarifas competitivas y opciones de viaje flexibles.
 
 ## Empresas de transporte de Bogotá a Lima
 
-Si estás pensando en viajar en bus desde Bogotá a Lima, hay un par de opciones que podrían interesarte. Aquí te dejo una comparativa de dos empresas que ofrecen este servicio:
+Si estás pensando en [viajar en bus desde Bogotá]({{'terminal-sur-bogota'|relative_url}} "terminal sur bogota") a Lima, hay un par de opciones que podrían interesarte.
+
+Aquí te dejo una comparativa de dos empresas que ofrecen este servicio:
 
 ### Comparativa de Empresas
 
@@ -37,11 +42,12 @@ Si estás pensando en viajar en bus desde Bogotá a Lima, hay un par de opciones
 * Para ciudadanos venezolanos, es necesario presentar pasaportes sellados.
 * Menores de edad necesitan permisos autenticados en notaría si no viajan con ambos padres.
 * Los viajeros colombianos solo necesitan presentar cédula y pasaporte.
-* No se permiten mascotas en viajes internacionales.
+* [No se permiten mascotas]({% post_url 2023-08-16-viajar-con-mascotas-bus %}) en viajes internacionales.
+{:class="seccion"}
 
 #### Nota Importante
 
-Los horarios y precios están sujetos a cambios y deben confirmarse directamente con la empresa de transportes.
+Los horarios y precios están sujetos a cambios y deben confirmarse [directamente con la empresa de transportes](/).
 
 ## Ventajas de viajar en bus a Lima
 
@@ -55,13 +61,15 @@ Los pasajes en bus suelen ser mucho más accesibles, lo que te permite ahorrar d
 
 Los buses modernos están equipados con asientos reclinables, aire acondicionado y servicios de entretenimiento a bordo, lo que garantiza un viaje cómodo.
 
-Algunas empresas de transporte ofrecen opciones de servicio premium, como asientos más espaciosos, Wi-Fi gratuito y comidas a bordo, para aquellos que buscan una experiencia de viaje más lujosa.
+Algunas empresas de transporte ofrecen opciones de servicio premium, como asientos más espaciosos, [buses con baño]({% post_url 2023-09-02-buses-con-baño-todo-lo-que-debes-saber-para-viajar-cómodo %}), Wi-Fi gratuito y comidas a bordo, para aquellos que buscan una experiencia de viaje más lujosa.
 
-A﻿hora puedes elegir entre diferentes opciones de horarios y tipos de buses, como buses cama, semicama o ejecutivo, según tus preferencias y necesidades.
+Ahora puedes elegir entre diferentes opciones de horarios y tipos de buses, como buses cama, semicama o ejecutivo, según tus preferencias y necesidades.
 
 ### Flexibilidad de rutas y paradas
 
-Los buses a Lima tienen una amplia variedad de rutas y paradas, lo que te brinda la flexibilidad de elegir el punto de partida y la ruta más conveniente para ti. Algunas empresas de transporte incluso ofrecen paradas en lugares turísticos importantes en el camino hacia Lima, lo que te permite hacer paradas intermedias y disfrutar de otros destinos de Perú en tu viaje.
+Los buses a Lima tienen una amplia variedad de rutas y paradas, lo que te brinda la flexibilidad de elegir el punto de partida y la ruta más conveniente para ti.
+
+Algunas empresas de transporte incluso ofrecen paradas en lugares turísticos importantes en el camino hacia Lima, lo que te permite hacer paradas intermedias y disfrutar de otros destinos de Perú en tu viaje.
 
 ![Comprando pasajes en bus a Lima](/img/blog/ofertas-pasajes-lima-bus.avif "Comprar pasajes bus Lima")
 
