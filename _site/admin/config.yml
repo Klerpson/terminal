@@ -42,9 +42,7 @@ collections:
       - { label: 'Meta Description', name: 'description', widget: 'string' }
       - { label: 'Departamento', name: 'category', widget: 'string' }
       - { label: 'H1', name: 'h1', widget: 'string' }
-      - { label: 'JPGx600', name: 'jpg', widget: 'image' }
-      - { label: 'Mediumx600', name: 'webpm', widget: 'image' }
-      - { label: 'Smallx376', name: 'webps', widget: 'image' }
+      - { label: 'avif', name: 'avif', widget: 'image' }
       - { label: 'Alt', name: 'alt', widget: 'string' }
       - { label: 'Subtítulo', name: 'subtitle', widget: 'string' }
       - { label: 'Intro', name: 'intro', widget: 'string' }
@@ -78,9 +76,7 @@ collections:
       - { label: 'Meta Description', name: 'description', widget: 'string' }
       - { label: 'Departamento', name: 'category', widget: 'string' }
       - { label: 'H1', name: 'h1', widget: 'string' }
-      - { label: 'JPGx600', name: 'jpg', widget: 'image' }
-      - { label: 'Mediumx600', name: 'webpm', widget: 'image' }
-      - { label: 'Smallx376', name: 'webps', widget: 'image' }
+      - { label: 'avif', name: 'avif', widget: 'image' }
       - { label: 'Alt', name: 'alt', widget: 'string' }
       - { label: 'Botón 1', name: 'cta1', widget: 'string' }
       - { label: 'Botón 2', name: 'cta2', widget: 'string' }

@@ -55,7 +55,11 @@
   <h1>{{page.h1}}</h1>
   <a href="#telefonos" class="botones boton-verde">Teléfonos empresas</a>
   <div class="terminal-header seccion">
-      <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}">
+    {% if page.jpg %}
+    <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}">
+    {% else %}
+    <img src="{{site.baseurl}}/img/{{page.avif}}" alt="{{page.alt}}">
+    {% endif %}
       <div class="flow">
         <h2>Datos de la terminal de {{page.ciudad}}</h2>
         <ul>
@@ -71,7 +75,11 @@
     </div>
     {% elsif page.layout == "pasaje" %}
     <div class="post-header">
-      <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}">
+      {% if page.jpg %}
+    <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}">
+    {% else %}
+    <img src="{{site.baseurl}}/img/{{page.avif}}" alt="{{page.alt}}">
+    {% endif %}
       <h1>{{page.h1}}</h1>
       <h2>Vamos directo a los pasajes de {{page.ciudad}}</h2>
       <div class="post-social">

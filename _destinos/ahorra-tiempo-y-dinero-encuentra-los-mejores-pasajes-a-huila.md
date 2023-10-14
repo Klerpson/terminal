@@ -8,7 +8,7 @@ autor: Andres Franco
 h1: ¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila
 avif: blog/pasajes-huila-bus.avif
 alt: Pasajes a Huila económicos y convenientes
-permalink: pasajes-a-huila-bus
+permalink: pasajes/pasajes-a-huila-bus
 excerpt: Ahorra tiempo y dinero ¡Descubre los mejores pasajes para viajar en bus hacia el Huila y disfruta de tus vacaciones al máximo!
 ---
 La región de Huila, ubicada en el sur de Colombia, es conocida por su belleza natural, su rica cultura y su increíble biodiversidad.
