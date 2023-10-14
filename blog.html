@@ -16,7 +16,11 @@ h1: El blog de los viajes en bus por Colombia está en nuestra terminal
     <!--------- ARTICULO PRINCIPAL --------->
     <article class="blog-first">
       {% assign post1 = site.posts[0] %}
+      {% if post1.jpg %}
       {% include img.html webpm=post1.webpm webps=post1.webps alt=post1.alt %}
+      {% else %}
+      <img src="{{site.baseurl}}/img/{{post1.avif}}" alt="{{post1.alt}}" loading="lazy">
+      {% endif %}
       <div>
         <h3>{{ post1.h1 | truncate: 80 }}</h3>
         {{ post1.excerpt | truncate: 180 | markdownify}}
