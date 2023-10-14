@@ -27,61 +27,45 @@
 }
 
 .tiquetes{
-  position: relative;
-  background-color: var(--secundario);
-  box-shadow: 0 0 0 100vmax var(--secundario);
+  background-color: var(--complemento1);
+  box-shadow: 0 0 0 100vmax var(--complemento1);
   clip-path: inset(0 -100vmax);
   display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 2em;
-  padding: 4rem 16px;
-  color: white;
-  overflow: visible;
+  flex-direction: column;
+  align-items: center;
 }
 
 .tiquetes div{
-  display: grid;
-  place-items: center;
-  width: min(100%, 520px);
+  max-width: 920px;
+  text-align: center;
 }
 
-.tiquetes div img{
-  border-radius: 16px 30%;
-  box-shadow: var(--shadow);
-  max-width: 100%;
-  aspect-ratio: 1/1;
-}
-
-.tiquetes div h2{
-  align-self: flex-end;
-}
-
-.tiquetes div ul{
+.tiquetes ul{
   padding: 0;
   display: flex;
-  flex-wrap: wrap;
   gap: 1em;
-  margin-top: 1em;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-.tiquetes div ul li{
-  flex: 1 0 120px;
-  background-color: var(--complemento1);
+.tiquetes ul li{
+  flex: 1 0 320px;
+  max-width: 312px;
+  background-color: white;
   display: grid;
   padding: .7rem;
   border-radius: 12px;
   box-shadow: var(--shadow);
   color: var(--grisFuentes);
-  place-content: center;
+  align-items: flex-start;
+  justify-content: center;
 }
 
-.tiquetes div ul li span{
-  font-size: 2rem;
-  font-weight: 700;
+.tiquetes ul li span{
+  font-size: 1.2rem;
+  font-weight: bolder;
   font-family: var(--fuenteGraficas);
 }
-
 
 .blog-intro{
   display: flex;
