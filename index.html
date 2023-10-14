@@ -88,7 +88,11 @@ h1: "Bienvenido a tu Terminal de Transporte: Tu portal para viajar en bus en Col
     <article>
       <a href="{{site.baseurl}}{{ post1.url }}">
         <img
+        {% if post1.jpg %}
           src="{{ site.baseurl }}/img/{{ post1.webps }}"
+          {% else %}
+          src="{{ site.baseurl }}/img/{{ post1.avif }}"
+          {% endif %}
           alt="{{ post1.alt }}"
           loading="lazy"
           width="376"
@@ -101,7 +105,11 @@ h1: "Bienvenido a tu Terminal de Transporte: Tu portal para viajar en bus en Col
     <article>
       <a href="{{site.baseurl}}{{ post2.url }}">
         <img
+        {% if post2.jpg %}
           src="{{ site.baseurl }}/img/{{ post2.webps }}"
+          {% else %}
+          src="{{ site.baseurl }}/img/{{ post2.avif }}"
+          {% endif %}
           alt="{{ post2.alt }}"
           loading="lazy"
           width="376"
@@ -114,7 +122,11 @@ h1: "Bienvenido a tu Terminal de Transporte: Tu portal para viajar en bus en Col
     <article>
       <a href="{{site.baseurl}}{{ post3.url }}">
         <img
+        {% if post3.jpg %}
           src="{{ site.baseurl }}/img/{{ post3.webps }}"
+          {% else %}
+          src="{{ site.baseurl }}/img/{{ post3.avif }}"
+          {% endif %}
           alt="{{ post3.alt }}"
           loading="lazy"
           width="376"

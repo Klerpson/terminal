@@ -3,8 +3,7 @@ layout: post
 json-post: "true"
 date: 2023-10-13T23:42:31.899Z
 title: ¡Descubre las mejores ofertas de pasajes a Lima en bus!
-description: ¡Te contamos las mejores ofertas para viajar en bus a Lima!
-  Descubre una experiencia única y ahorra tiempo y dinero. 🏃🏼 ¡Entra ahora!
+description: ¡Te contamos las mejores ofertas para viajar en bus a Lima! 🚌 Descubre una experiencia única y ahorra tiempo y dinero. 🏃🏼 ¡Entra ahora!
 autor: Andres Franco
 h1: ¡Descubre las mejores ofertas de pasajes a Lima en bus!
 avif: blog/ofertas-lima-bus.avif
@@ -30,8 +29,8 @@ Si estás pensando en viajar en bus desde Bogotá a Lima, hay un par de opciones
 
 #### Detalles Adicionales
 
-* **Lineas de los Andes**: Realiza viajes todos los días. Para más info o comprar pasajes, puedes visitar su [sitio web](https://www.lineasdelosandes.com.co/).
-* **Cruz del Sur**: Tiene salidas los lunes de cada semana. Reservas y compra de pasajes en su [página web](https://www.cruzdelsur.com.pe/).
+* **Lineas de los Andes**: Realiza viajes todos los días. Para más info o comprar pasajes, puedes visitar su [sitio web](https://www.lineasdelosandes.com.co/){:rel="nofollow noopener noreferrer" target="_blank"}.
+* **Cruz del Sur**: Tiene salidas los lunes de cada semana. Reservas y compra de pasajes en su [página web](https://www.cruzdelsur.com.pe/){:rel="nofollow noopener noreferrer" target="_blank"}.
 
 #### Documentación y Requisitos
 
@@ -64,7 +63,7 @@ A﻿hora puedes elegir entre diferentes opciones de horarios y tipos de buses, c
 
 Los buses a Lima tienen una amplia variedad de rutas y paradas, lo que te brinda la flexibilidad de elegir el punto de partida y la ruta más conveniente para ti. Algunas empresas de transporte incluso ofrecen paradas en lugares turísticos importantes en el camino hacia Lima, lo que te permite hacer paradas intermedias y disfrutar de otros destinos de Perú en tu viaje.
 
-![Comprando pasajes en bus a Lima](blog/ofertas-pasajes-lima-bus.avif "Comprar pasajes bus Lima")
+![Comprando pasajes en bus a Lima](/img/blog/ofertas-pasajes-lima-bus.avif "Comprar pasajes bus Lima")
 
 ## Consejos para encontrar las mejores ofertas de pasajes a Lima en bus
 
