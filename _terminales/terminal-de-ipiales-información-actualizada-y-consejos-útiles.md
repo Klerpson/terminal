@@ -8,29 +8,30 @@ description: Encuentra horarios, teléfonos y servicios en la Terminal de
 category: Nariño
 h1: "Todo lo que debes saber sobre la terminal de Ipiales: horarios, teléfonos,
   pasajes y más"
-jpg: blog/ipiales_600.jpg
-webpm: blog/ipiales_600.webp
-webps: blog/ipiales_376.webp
+avif: blog/terminal-ipiales.avif
 alt: "terminal de ipiales "
 subtitle: Terminal de Ipiales  - Teléfono y otros datos
 intro: " La Terminal de Ipiales es el nexo clave para viajeros en la región. Con
   servicios modernos y diversas rutas, esta guía te ofrece todo lo que necesitas
   saber para tu próximo viaje. Desde horarios y tarifas hasta consejos útiles,
   encuentra aquí tu camino hacia una experiencia de viaje perfecta."
-contacto: .
 email: .
 direccion: "Carrera 2 # 2-81, Barrio La Laguna, Ipiales, Nariño, Colombia."
-telefono: " 310 453 8478, 317 781 0513."
+telefono: " 310 453 8478 - 317 781 0513"
 maps: https://goo.gl/maps/iJr5x7TaWWmaSc5J9
-reviews: 1,861
 calificacion: "3.9"
-ciudad: .
-postal: .
-latitude: .
-longitude: .
-permalink: .
+jpg: blog/ipiales_600.jpg
+contacto: .
+reviews: 1,861
+ciudad: Ipiales
+postal: "524060"
+latitude: "0.8329066"
+longitude: "-77.643084"
+permalink: terminal-de-ipiales
+webpm: blog/ipiales_600.webp
+webps: blog/ipiales_376.webp
 ---
-# Todo lo que necesitas saber sobre la Terminal de Ipiales
+# La colorida Terminal de Transporte de Ipiales
 
 El Terminal de Ipiales, ubicado en el corazón de la ciudad, es el principal punto de conexión para viajeros que buscan desplazarse entre diferentes municipios y departamentos. Con una infraestructura moderna y una amplia gama de servicios, esta terminal se ha convertido en una referencia para los viajeros y transportistas.
 
@@ -88,4 +89,6 @@ Si deseas obtener más información o resolver dudas adicionales, no dudes en co
 * **Teléfonos**: (+57) (2) 773 0072, 725 5923, 310 453 8478, 317 781 0513.
 * **Correo**: secretaria@terminalipiales.gov.co
 
-¡Gracias por elegir la Terminal Ipiales como tu punto de conexión! Te esperamos pronto y te deseamos un viaje placentero y seguro. Y si después de este artículo aún tienes ganas de seguir explorando, te invitamos a descubrir más destinos y aventuras en nuestra página web. ¡Hasta pronto!
+¡Gracias por elegir la Terminal Ipiales como tu punto de conexión! Te esperamos pronto y te deseamos un viaje placentero y seguro.
+
+Y si después de este artículo aún tienes ganas de seguir explorando, te invitamos a descubrir más destinos y aventuras en nuestra página web. ¡Hasta pronto!
