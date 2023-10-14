@@ -3,6 +3,7 @@
   flex-wrap: wrap;
   gap: 1em;
   justify-content: center;
+  align-items: center;
 }
 
 .gallery a{
@@ -24,6 +25,11 @@
   font-family: var(--fuenteTexto);
   margin: 0;
   padding: 4px;
+}
+
+.gallery .botones{
+  margin: 0;
+  width: min(100%, 376px);
 }
 
 .tiquetes{

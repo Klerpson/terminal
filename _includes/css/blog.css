@@ -45,7 +45,7 @@
 .blog-posts article {
   flex: 1 0 320px;
   border-radius: var(--radius);
-  border: 1px solid var(--gris1);
+  border: 2px solid var(--principal);
   transition: .2s all ease-in;
   overflow: hidden;
 }
@@ -68,11 +68,12 @@
 }
 
 .blog-posts article h3{
-  font-size: .9rem;
-  line-height: 1.2;
+  font-size: clamp(1rem, 18px, 20px);
+  line-height: 1;
   padding: .8rem;
   font-family: var(--textTexto);
   margin: 0;
+  font-weight: lighter;
 }
 
 .blog-posts article img{

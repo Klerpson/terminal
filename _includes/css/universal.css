@@ -251,10 +251,6 @@ SVG Icons - svgicons.sparkk.fr
   border: none;
 }
 
-.botones::before{
-  content: "↪ ";
-}
-
 .boton-verde {
   color: white !important;
   background-color: var(--principal);
