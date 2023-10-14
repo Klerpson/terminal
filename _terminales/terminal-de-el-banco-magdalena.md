@@ -4,7 +4,7 @@ json-terminal: "true"
 date: 2023-09-08
 title: "Terminal de El Banco Magdalena: Tu Conexión con Colombia"
 description: De Expreso Brasilia a Copetran, conoce las opciones de viaje en El Banco Magdalena. ¡Haz clic para saber más!
-category: Magdalena
+category: magdalena
 h1: "Terminal de transporte de El Banco Magdalena: En bus por Colombia"
 jpg: blog/terminal-el-banco-magdalena.jpg
 webpm: blog/terminal-el-banco-magdalena.webp

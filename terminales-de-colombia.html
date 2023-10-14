@@ -28,13 +28,17 @@ noindex: true
 {% assign filtered_cat = item.category | append: '|' %}
   {% if filtered_categories_array contains filtered_cat %}
   <div class="post" data-name="{{ item.category }}">
-    <span>Terminales en {{ item.category | upcase }}</span>
+    <span>🚌 Terminales en {{ item.category | upcase }}</span>
     <section class="links">
       {% for destino in site.terminales %}
       {% if destino.category contains item.category %}
       <article>
         <a href="{{destino.url}}">
-          {% include img.html webpm=destino.webpm webps=destino.webps %}
+          {% if destino.jpg %}
+          {% include img.html webpm=destino.webpm webps=destino.webps alt=destino.alt %}
+          {% else %}
+          <img src="{{site.baseurl}}/img/{{destino.avif}}" alt="{{destino.alt}}" loading="lazy">
+          {% endif %}
           <h3>{{destino.title}}</h3></a>
       </article>
       {% endif %}
@@ -45,6 +49,7 @@ noindex: true
   {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
 {% endfor %}
 </main>
+{% include kayak.html %}
 
 <div style="height: 150px; overflow: hidden">
   <svg
@@ -88,14 +93,6 @@ noindex: true
       </p>
     </li>
   </ul>
-  <div>
-    <h2>¿Viajas constantemente por Colombia?</h2>
-    <p>
-      <span class="destacado">Suscríbete a nuestro magazine</span> para recibas
-      consejos sobre cómo viajar con seguridad, tranquilidad y con los mejores
-      tips de los más expertos.<br /><a href="#">Suscribirme</a>
-    </p>
-  </div>
 </section>
 
 {% include footer.html %}

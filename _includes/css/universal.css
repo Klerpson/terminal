@@ -302,3 +302,20 @@ SVG Icons - svgicons.sparkk.fr
   clip-path: inset(0 -100vmax);
   padding: 2em 0;
 }
+
+.kayak{
+  width: min(100%, 1200px);
+  margin-inline: auto;
+  display: grid;
+  gap: 1em;
+  place-items: center;
+  text-align: center;
+  background-color: var(--complemento2);
+  padding: 2em 1em;
+  border-radius: var(--radius);
+  border: 2px solid var(--principal);
+}
+
+.kayak h2{
+  margin: 0;
+}
