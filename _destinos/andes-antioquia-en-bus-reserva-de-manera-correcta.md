@@ -1,4 +1,6 @@
 ---
+cta1: Mira las rutas
+jpg: blog/pasaje-andes-antioquia.jpg
 layout: post
 json-post: "true"
 enlace1: enlace1
@@ -9,13 +11,12 @@ description: "¿Cómo llegar a Andes Antioquia en bus? Infórmate de todo lo que
   necesitas para que tengas un viaje cómodo seguro y económico. "
 category: Antioquia
 h1: "Tu pasaje en bus a Andes Antioquia: Lo que necesitas saber"
-jpg: blog/pasaje-andes-antioquia.jpg
+avif: blog/pasajes-andes-antioquia.avif
+alt: pasaje andes antioquia
+cta2: Conoce los precios
+permalink: pasajes/andes-antioquia
 webpm: blog/pasaje-andes-antioquia.webp
 webps: blog/pasaje-andes-antioquia-s.webp
-alt: pasaje a andes antioquia
-cta1: Ver rutas
-cta2: Ver precios
-permalink: pasaje/andes-antioquia
 ---
 Viajar en bus ofrece una serie de **beneficios únicos** que no encontrarás en otros medios de transporte. Primero, es una opción **económica** que te permite ahorrar dinero para disfrutar más en tu destino. Segundo, los buses modernos ofrecen **comodidades** como Wi-Fi, asientos reclinables y entretenimiento a bordo. Finalmente, viajar en bus es una forma **sostenible** de moverse, ya que tiene una huella de carbono más baja en comparación con los vuelos.
 
@@ -26,8 +27,7 @@ La elección del bus adecuado puede hacer o deshacer tu experiencia de viaje. **
 ### Paradas importantes en la ruta
 
 Conocer las paradas en tu ruta te permite planificar mejor tu viaje. Algunas rutas ofrecen **paradas estratégicas** en puntos turísticos o ciudades importantes. Esto te da la oportunidad de **explorar más** durante tu viaje.
-
-* {:id="enlace1"}
+{:id="enlace1"}
 
 ## Rutas de bus a San Martín de los Andes
 
@@ -68,8 +68,7 @@ Mantente atento a las **ofertas y descuentos** que las empresas de bus ofrecen r
 ### Empresas de bus que ofrecen el servicio
 
 Según [Web1](https://terminalesmedellin.com/es/destino/andes/), hay varias empresas de bus que ofrecen servicios a Andes Antioquia. Entre las más populares se encuentran **Expreso Brasilia** y **Rápido Ochoa**. Al igual que en el caso de San Martín de los Andes, estas empresas ofrecen diferentes tipos de buses para satisfacer diversas necesidades.
-
-* {:id="enlace1"}
+{:id="enlace2"}
 
 - - -
 
