@@ -1,22 +1,18 @@
 ---
 cta1: Ver precios
-jpg: img/blog/pasaje-bogota-anapoima.jpg
 layout: post
 json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
 date: 2023-09-15T01:22:52.421Z
 title: Pasajes a Anapoima | Todo lo que Necesitas Saber
-description: De Bogotá a Anapoima, precios de pasasjes, horarios y todo sobre
-  cómo hacer que tu viaje sea lo más agradable. ¡Infórmate con nosotros!
+description: De Bogotá a Anapoima, precios de pasasjes, horarios y todo sobre cómo hacer que tu viaje sea lo más agradable. ¡Infórmate con nosotros!
 category: Cundinamarca
 h1: "Viaja de Bogotá a Anapoima en Bus: Tu Ruta Detallada "
 avif: blog/pasajes-bogota-anapoima.avif
 alt: pasaje bogota anapoima
 cta2: Ver rutas
 permalink: pasajes/bogota-anapoima
-webpm: img/blog/pasaje-bogota-anapoima.webp
-webps: img/blog/pasaje-bogota-anapoima-s.webp
 ---
 Anapoima, conocida como la "Ciudad de la Eterna Primavera", es uno de los destinos más buscados por los bogotanos para escapar del bullicio de la ciudad y disfrutar de un clima cálido y paisajes naturales impresionantes.
 
