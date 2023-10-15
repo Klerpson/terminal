@@ -22,15 +22,15 @@ Anapoima, conocida como la "Ciudad de la Eterna Primavera", es uno de los destin
 
 ### Viajar en bus: la opción más popular
 
-El bus es, sin duda, el medio de transporte más utilizado para llegar a **Anapoima desde Bogotá**. Es una opción *económica y cómoda*, con varias empresas ofreciendo servicios diarios.
+El bus es, sin duda, el medio de transporte más utilizado para llegar a **Anapoima desde [Bogotá]({{'terminal-sur-bogota'|relative_url}})**. Es una opción *económica y cómoda*, con varias empresas ofreciendo servicios diarios.
 
-#### **Pinbus**
+#### Plataforma Pinbus
 
-Con **Pinbus**, puedes encontrar pasajes a precios competitivos y horarios flexibles. La duración d**el viaje de Bogotá a Anapoima** es aproximadamente de 3 horas, dependiendo del tráfico. 
+Con [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}), puedes encontrar pasajes a precios competitivos y horarios flexibles. La duración **del viaje de Bogotá a Anapoima** es aproximadamente de 3 horas, dependiendo del tráfico.
 
-#### **Redbus**
+#### Plataforma Redbus
 
-**Redbus** es otra plataforma confiable donde puedes adquirir **tus boletos de Bogotá a Anapoima**. Ofrecen diversas opciones de horarios y precios para adaptarse a las necesidades de cada viajero.
+[Redbus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}) es otra plataforma confiable donde puedes adquirir **tus boletos de Bogotá a Anapoima**. Ofrecen diversas opciones de horarios y precios para adaptarse a las necesidades de cada viajero.
 
 > Si bien el bus es la opción más popular, hay quienes prefieren viajar en taxi o incluso volar. Plataformas como **Expedia** y [**KAYAK** ](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fcars){:rel="nofollow noopener noreferrer" target="_blank"} te permiten comparar diferentes medios de transporte. Así puedes elegir el que mejor se adapte a tus necesidades y presupuesto.
 {:id="enlace2"}
@@ -38,21 +38,14 @@ Con **Pinbus**, puedes encontrar pasajes a precios competitivos y horarios flexi
 ## Precios de los pasajes Bogotá a Anapoima
 
 1. **RedBus**
-
-   * **Ruta:** Anapoima (Cun) a Bogota (D.C)
+   * **Ruta:** Anapoima (Cun) a [Bogota (D.C)]({{'terminal-de-bogota'|relative_url}})
    * **Precio:** Desde COP 25,000
-   * [Reservar ahora](https://www.redbus.co/)
    * **Ruta**: Bogota (D.C) a Anapoima (Cun)
    * **Precio**: Desde COP 22,000
-   * [Reservar ahora](https://www.redbus.co/)
 2. **Busbud**
-
    * Precio promedio del pasaje: ARS 2,362 (354,300 COP)
-   * [Reservar ahora](https://www.busbud.com/es-419/autobus-bogota-anapoima/r/d2g64p-d2fczu)
 3. **Expedia**
-
    * Ofrece vuelos a Anapoima
-   * [Reservar ahora](https://www.expedia.com/es/Vuelos-Baratos-Anapoima.d6324804.Guia-de-vuelos)
 
 ## Consejos para tu viaje de Bogotá a Anapoima
 
@@ -66,4 +59,6 @@ Con **Pinbus**, puedes encontrar pasajes a precios competitivos y horarios flexi
 * Bogotá a Anapoima
 * Ocaña a Anapoima
 
-Anapoima te espera con sus paisajes, su clima y su hospitalidad. ¿Listo para tu próximo viaje? ¡Haz tus maletas! y sigue informándote de estos y más viajes para tus diferentes destinos en nuestra página web.
+Anapoima te espera con sus paisajes, su clima y su hospitalidad. ¿Listo para tu próximo viaje?
+
+¡Haz tus maletas! y [sigue informándote de estos y más viajes]({{'pasajes'|relative_url}}) para tus diferentes destinos en [nuestra página web](/).
