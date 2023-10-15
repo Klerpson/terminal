@@ -31,7 +31,9 @@ empresas:
 ---
 ## La colorida Terminal de Transporte de Ipiales
 
-El Terminal de Ipiales, ubicado en el corazón de la ciudad, es el principal punto de conexión para viajeros que buscan desplazarse entre diferentes municipios y departamentos. Con una infraestructura moderna y una amplia gama de servicios, esta terminal se ha convertido en una referencia para los viajeros y transportistas.
+El Terminal de Ipiales, ubicado en el corazón de la ciudad, es el principal punto de conexión para viajeros que buscan desplazarse entre diferentes municipios y departamentos.
+
+Con una infraestructura moderna y una amplia gama de servicios, esta terminal se ha convertido en una referencia para los viajeros y transportistas.
 
 ## Ubicación de la terminal de transporte de Ipiales y cómo llegar
 
@@ -69,7 +71,7 @@ Siempre es recomendable adquirir tus tiquetes directamente en las taquillas de l
 
 ## ¡Viaja seguro y con calidad!
 
-La Terminal Ipiales y las terminales de todo el país te invitan a viajar con seguridad y calidad. Recuerda que en sus manos está llevarte a tu destino de manera segura y eficiente. ¡Buen viaje!
+La Terminal Ipiales y [las terminales de todo el país](/) te invitan a viajar con seguridad y calidad. Recuerda que en sus manos está llevarte a tu destino de manera segura y eficiente. ¡Buen viaje!
 
 ## ¿Quieres saber más?
 
@@ -82,4 +84,4 @@ Si deseas obtener más información o resolver dudas adicionales, no dudes en co
 
 ¡Gracias por elegir la Terminal Ipiales como tu punto de conexión! Te esperamos pronto y te deseamos un viaje placentero y seguro.
 
-Y si después de este artículo aún tienes ganas de seguir explorando, te invitamos a descubrir más destinos y aventuras en nuestra página web. ¡Hasta pronto!
+Y si después de este artículo aún tienes ganas de seguir explorando, te invitamos a descubrir más destinos y aventuras en nuestra página web.
