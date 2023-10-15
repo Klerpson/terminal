@@ -1,22 +1,18 @@
 ---
 cta1: Mira las rutas
-jpg: blog/pasaje-andes-antioquia.jpg
 layout: post
 json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
 date: 2023-09-22T02:41:49.096Z
 title: Andes Antioquia en bus | Reserva de manera correcta
-description: "¿Cómo llegar a Andes Antioquia en bus? Infórmate de todo lo que
-  necesitas para que tengas un viaje cómodo seguro y económico. "
+description: "¿Cómo llegar a Andes Antioquia en bus? Infórmate de todo lo que necesitas para que tengas un viaje cómodo seguro y económico. "
 category: Antioquia
 h1: "Tu pasaje en bus a Andes Antioquia: Lo que necesitas saber"
 avif: blog/pasajes-andes-antioquia.avif
 alt: pasaje andes antioquia
 cta2: Conoce los precios
 permalink: pasajes/andes-antioquia
-webpm: blog/pasaje-andes-antioquia.webp
-webps: blog/pasaje-andes-antioquia-s.webp
 ---
 Viajar en bus ofrece una serie de **beneficios únicos** que no encontrarás en otros medios de transporte. Primero, es una opción **económica** que te permite ahorrar dinero para disfrutar más en tu destino. Segundo, los buses modernos ofrecen **comodidades** como Wi-Fi, asientos reclinables y entretenimiento a bordo. Finalmente, viajar en bus es una forma **sostenible** de moverse, ya que tiene una huella de carbono más baja en comparación con los vuelos.
 
