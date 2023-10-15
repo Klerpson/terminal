@@ -5,8 +5,7 @@ enlace1: enlace1
 enlace2: enlace2
 date: 2023-08-27
 title: Pasajes de Bogotá a Acacias | Rutas | Horarios | Consejos
-description: Encuentra todo lo que necesitas para tu viaje en bus de Bogotá a
-  Acacias, aquí te mostramos cómo viajar de manera correcta.
+description: Encuentra todo lo que necesitas para tu viaje en bus de Bogotá a Acacias, aquí te mostramos cómo viajar de manera correcta.
 category: Meta
 h1: "Pasajes de Bogotá a Acacias: Tu manual para un viaje perfecto"
 jpg: blog/pasaje-bogota-acacias.jpg
@@ -22,7 +21,7 @@ Viajar en bus de Bogotá a Acacias es una opción económica y cómoda. Además,
 ### Empresas de transporte y horarios entre Bogotá y Acacías
 
 * **Flota La Macarena:** Esta empresa ofrece salidas desde las 00:40 hasta las 23:30 hrs, aproximadamente cada 30 minutos. Los servicios incluyen Platino Plus, Platino Vip, Cimarrón Dorado, Diamante, y Vip. Los precios varían, pero suelen comenzar desde $50.000.
-* **Expreso Bolivariano:** Esta empresa tiene una salida a las 15:20 desde el Terminal Salitre. El servicio ofrecido es 2G Gold Básico con un precio desde $33.000.
+* **Expreso Bolivariano:** Esta empresa tiene una salida a las 15:20 [desde el Terminal Salitre]({{'terminal-salitre-bogota'|relative_url}}). El servicio ofrecido es 2G Gold Básico con un precio desde $33.000.
 
 ### Terminales de salida de Bogotá y llegada a Acacías
 
@@ -50,10 +49,8 @@ De la misma manera, hoy podemos acceder a [sitios web como Pinbus]({% post_url 2
 * **Distancia:** La distancia entre Bogotá y Acacias es de aproximadamente 230 km.
 * **Tiempo estimado:** El viaje en bus tiene una duración promedio de 4 horas, aunque este tiempo puede variar dependiendo del tráfico y las paradas en la ruta.
 
-> Es importante seguir algunas recomendaciones de bioseguridad al viajar en bus, especialmente en tiempos de pandemia. Asegúrate de usar mascarilla, mantener el distanciamiento social y seguir las indicaciones del personal de la empresa de transporte.
-
 #### ¿Listo para tu viaje de Bogotá a Acacías?
 
 Viajar de Bogotá a Acacias en bus te permite conocer más sobre Colombia, también es una opción económica y cómoda. ¡Prepara tus maletas y disfruta del viaje!
 
-**¡Continúa explorando más destinos y opciones de viaje en nuestra página web!**
+**¡Continúa explorando más destinos y [opciones de viaje en nuestra página web](/)!**
