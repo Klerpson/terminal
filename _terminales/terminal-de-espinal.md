@@ -68,7 +68,7 @@ Las taquillas para la compra de billetes también están abiertas durante la may
 
 ## Compañías de autobuses disponibles en la terminal de transporte Espinal
 
-En la **terminal de transporte Espinal**[ operan múltiples compañías de autobuses](#telefonos). Esto proporciona a los viajeros una amplia variedad de destinos y horarios a elegir. Algunas de las principales compañías incluyen Expreso Bolivariano, Copetran, y Flota Magdalena.
+En la **terminal de transporte Espinal** [operan múltiples compañías de autobuses](#telefonos). Esto proporciona a los viajeros una amplia variedad de destinos y horarios a elegir. Algunas de las principales compañías incluyen Expreso Bolivariano, Copetran, y Flota Magdalena.
 
 ## Servicios en la Terminal de Transporte Espinal
 
