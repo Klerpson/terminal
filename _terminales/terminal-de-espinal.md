@@ -2,7 +2,7 @@
 layout: terminal
 json-terminal: "true"
 title: Terminal de Transporte Espinal - Información Útil
-description: 'Obtén detalles esenciales de la Terminal de Transporte Espinal: horarios, servicios, ubicación y más. Todo para un viaje cómodo y sin contratiempos."'
+description: "Obtén detalles esenciales de la Terminal de Transporte Espinal: horarios, servicios, ubicación y más. Todo para un viaje cómodo y sin contratiempos."
 category: Tolima
 h1: "La Terminal de Transporte Espinal: Teléfonos y más datos" 
 jpg: blog/terminal-espinal_600.jpg
