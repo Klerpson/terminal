@@ -193,7 +193,7 @@ table th {
 }
 
 .wrapper {
-  width: min((100% - 2rem), 1200px);
+  width: min((100% - 2rem), 1128px);
   margin-inline: auto;
   padding: 4rem 0;
 }
