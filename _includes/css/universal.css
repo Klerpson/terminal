@@ -280,6 +280,7 @@ SVG Icons - svgicons.sparkk.fr
   place-items: center;
   gap: 1em;
   margin: 4em auto 0;
+  border: 2px solid var(--principal);
 }
 
 .cta p {
@@ -311,7 +312,7 @@ SVG Icons - svgicons.sparkk.fr
   gap: 1em;
   place-items: center;
   text-align: center;
-  background-color: var(--complemento2);
+  background-color: var(--complemento1);
   padding: 2em 1em;
   border-radius: var(--radius);
   border: 2px solid var(--principal);

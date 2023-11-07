@@ -51,7 +51,7 @@
   display: flex;
   gap: 1em;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .tiquetes ul li{
@@ -68,9 +68,13 @@
 }
 
 .tiquetes ul li span{
-  font-size: 1.2rem;
+  font-size: 1.8em;
   font-weight: bolder;
   font-family: var(--fuenteGraficas);
+}
+
+.tiquetes ul li p{
+  margin: 0;
 }
 
 .blog-intro{
@@ -115,7 +119,7 @@
 }
 
 .conclusion ul{
-  background-color: var(--complemento2);
+  background-color: white;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 1rem;
