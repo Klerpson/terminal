@@ -1,5 +1,5 @@
 {% if page.jpg %}
-    <img  srcset="{{site.baseurl}}/img/{{include.webps}} 376w, {{site.baseurl}}/img/{{include.webpm}} 800w" src="{{site.baseurl}}/img/{{include.webpm}}" alt="{{include.alt}}" loading="lazy" title="{{include.title}}">
-    {% else %}
-    <img src="{{site.baseurl}}/img/{{page.avif}}" alt="{{page.alt}}">
-    {% endif %}
+  <img srcset="{{site.baseurl}}/img/{{include.webps}} 376w, {{site.baseurl}}/img/{{include.webpm}} 800w" src="{{site.baseurl}}/img/{{include.webpm}}" alt="{{include.alt}}" loading="lazy" title="{{include.title}}">
+  {% else %}
+  <img src="{{site.baseurl}}/img/{{page.avif}}" alt="{{page.alt}}" loading="lazy">
+{% endif %}

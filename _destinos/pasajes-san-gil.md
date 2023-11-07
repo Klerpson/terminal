@@ -74,7 +74,7 @@ Al igual que desde Bogotá, hay varias opciones de horarios y precios. Es una ru
 
 [Si estás en Bucaramanga]({{'terminal-de-bucaramanga'|relative_url}}), **San Gil te queda a solo 2 horas** y hay numerosos servicios que cubren esta ruta. Es una excelente opción si buscas un viaje rápido y económico.
 
-> Los precios pueden variar según la temporada, el día de la semana y la hora del día. Además, el tipo de bus que elijas también influirá en el costo. [Los buses de lujo]({% 2023-09-05-buses-especiales-en-colombia-todo-lo-que-necesitas-saber %}), que ofrecen servicios como Wi-Fi, asientos reclinables y entretenimiento a bordo, son naturalmente más caros.
+> Los precios pueden variar según la temporada, el día de la semana y la hora del día. Además, el tipo de bus que elijas también influirá en el costo. [Los buses de lujo]({% post_url 2023-09-05-buses-especiales-en-colombia-todo-lo-que-necesitas-saber %}), que ofrecen servicios como Wi-Fi, asientos reclinables y entretenimiento a bordo, son naturalmente más caros.
 
 ### Comparación de Precios entre Proveedores
 

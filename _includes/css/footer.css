@@ -1,11 +1,12 @@
 footer {
   display: grid;
-  gap: 2rem;
+  gap: 2em;
 }
 
 footer a{
   color: var(--principal);
   transition: all .12s ease-out;
+  font-size: 18px;
 }
 
 footer a:hover{
@@ -13,12 +14,13 @@ footer a:hover{
 }
 
 footer h4{
-  margin-bottom: 1rem;
+  font-size: 18px;
+  margin-bottom: 1em;
 }
 
 footer section{
   display: flex;
-  gap: 2em;
+  gap: 1em;
   flex-wrap: wrap;
   justify-content: space-between;
 }
