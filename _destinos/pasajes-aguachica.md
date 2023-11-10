@@ -21,6 +21,8 @@ permalink: pasajes/aguachica
 
 Nosotros te contamos más sobre **cómo comprar tu pasaje y llegar en bus** a este hermoso destino colombiano del departamento del Cesar.
 
+{% include addm1.html %}
+
 ## Viaje en bus a Aguachica
 
 Aguachica se destaca como un punto estratégico en el mapa colombiano. Su ubicación privilegiada la convierte en un nexo entre diversas ciudades por vía terrestre, facilitando el acceso a múltiples destinos.

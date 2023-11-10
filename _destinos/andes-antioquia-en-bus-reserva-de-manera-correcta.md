@@ -19,6 +19,8 @@ permalink: pasajes/andes-antioquia
 Conocer las paradas en tu ruta hacia los Andes te permite planificar mejor tu viaje. Algunas rutas ofrecen **paradas estratégicas** en puntos turísticos o ciudades importantes. Esto te da la oportunidad de **explorar más** durante tu viaje.
 {:id="enlace1"}
 
+{% include addm1.html %}
+
 ### Empresas de bus que ofrecen el servicio hacia los Andes
 
 Según [la terminal de Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal Medellín"), hay varias empresas de bus que ofrecen servicios a Andes Antioquia.

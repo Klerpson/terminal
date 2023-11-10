@@ -18,6 +18,8 @@ Anapoima, conocida como la "Ciudad de la Eterna Primavera", es uno de los destin
 
 *Su proximidad a Bogotá la convierte en una opción ideal* para aquellos que buscan un respiro sin tener que viajar largas distancias.
 
+{% include addm1.html %}
+
 ## Opciones de transporte de Bogotá a Anapoima
 
 ### Viajar en bus: la opción más popular

@@ -18,6 +18,8 @@ permalink: pasaje/bogota-acacias
 ---
 Viajar en bus de Bogotá a Acacias es una opción económica y cómoda. Además, es una oportunidad para disfrutar del paisaje colombiano y conocer más sobre la cultura y tradiciones de ambas ciudades.
 
+{% include addm1.html %}
+
 ### Empresas de transporte y horarios entre Bogotá y Acacías
 
 * **Flota La Macarena:** Esta empresa ofrece salidas desde las 00:40 hasta las 23:30 hrs, aproximadamente cada 30 minutos. Los servicios incluyen Platino Plus, Platino Vip, Cimarrón Dorado, Diamante, y Vip. Los precios varían, pero suelen comenzar desde $50.000.

@@ -19,6 +19,8 @@ La región de Huila, ubicada en el sur de Colombia, es conocida por su belleza n
 
 Si estás planeando un viaje a Huila, encontrar los mejores pasajes al mejor precio puede marcar la diferencia en tu experiencia de viaje. En este artículo, te daremos algunos consejos útiles para ahorrar tiempo y dinero al reservar tus pasajes a Huila.
 
+{% include addm1.html %}
+
 ## Cómo encontrar pasajes a Huila al mejor precio
 
 ### 1. Utiliza comparadores de precios en línea

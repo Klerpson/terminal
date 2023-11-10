@@ -21,6 +21,8 @@ Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cab
 **Copetran es una de las empresas más populares para viajar a San Gil**, pero no es la única opción. Aquí te explicamos cómo puedes adquirir tus boletos de varias maneras.
 {:id="enlace1"}
 
+{% include addm1.html %}
+
 ### Copetran: Opciones y precios para viajar en San Gil
 
 [Copetran](https://www.copetran.com.co/){:rel="nofollow noopener noreferrer" target="_blank"} es una de las empresas líderes en transporte terrestre en Colombia. **Ofrecen varias opciones de horarios y tipos de bus**, desde servicios estándar hasta buses de lujo. Los precios varían según la comodidad y los servicios ofrecidos.
