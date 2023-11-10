@@ -1,6 +1,5 @@
 ---
-cta1: Mira las rutas
-layout: post
+layout: pasaje
 json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
@@ -11,6 +10,7 @@ category: Antioquia
 h1: "Tu pasaje en bus a Andes Antioquia: Lo que necesitas saber"
 avif: blog/pasajes-andes-antioquia.avif
 alt: pasaje andes antioquia
+cta1: Mira las rutas
 cta2: Conoce los precios
 permalink: pasajes/andes-antioquia
 ---
@@ -32,6 +32,8 @@ Entre las más populares se encuentran **Expreso Brasilia** y **Rápido Ochoa**.
 
 ### Horarios y precios: Lo que necesitas saber
 
+{% include addm2.html %}
+
 Si estás planeando un viaje desde **Medellín a Andes**, es crucial conocer los horarios y precios.
 
 Aunque estos pueden variar, los buses generalmente salen cada **2-3 horas**. Los precios, por su parte, oscilan entre **$20,000 COP y $50,000 COP**, dependiendo de factores como el tipo de servicio y la empresa de transporte.
@@ -48,6 +50,8 @@ Durante el trayecto, la mayoría de los buses hacen paradas en ciudades como **J
 - - -
 
 ## Experiencia a bordo en el viaje a Andes Antioquia
+
+{% include addm3.html %}
 
 ### Servicios y Comodidades
 

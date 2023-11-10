@@ -27,6 +27,8 @@ Puedes comprar tu boleto en [diversas **terminales de transporte**](/) o directa
 
 ### Compra tu pasaje de Bogotá - Aguazul en línea
 
+{% include addm4.html %}
+
 Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con anticipación, lo que es especialmente útil en temporada alta. En muchos casos, se ofrecen descuentos por compra anticipada.
 
 1. **[RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %})**
@@ -46,6 +48,8 @@ Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con an
 2. Otras Rutas: Además de la ruta directa, algunas empresas también ofrecen rutas con paradas intermedias en diferentes ciudades. Estas rutas pueden brindar opciones adicionales para tu viaje.
 
 ## Horarios y frecuencias de Bogotá - Aguazul
+
+{% include addm5.html %}
 
 Los horarios de salida suelen ser variados. Aproximadamente **cada 3 o 4 horas sale cada bus**, con opciones que van desde muy temprano en la mañana hasta tarde en la noche.
 
