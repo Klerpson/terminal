@@ -12,8 +12,8 @@ h1: ¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila
 avif: blog/pasajes-huila-bus.avif
 alt: Pasajes a Huila económicos y convenientes
 permalink: pasajes/pasajes-a-huila-bus
-cta1: Ver precios
-cta2: Ver rutas
+cta1: Ver Precios
+cta2: Consejos de Viaje
 ---
 La región de Huila, ubicada en el sur de Colombia, es conocida por su belleza natural, su rica cultura y su increíble biodiversidad.
 
@@ -40,8 +40,11 @@ Ser flexible con tus fechas de viaje y aeropuertos de salida y llegada puede ayu
 Los precios de los pasajes pueden variar significativamente dependiendo de la temporada, el día de la semana y la demanda. Además, considera la posibilidad de volar desde aeropuertos cercanos a tu ubicación para aprovechar las mejores ofertas.
 
 Si tienes la flexibilidad de viajar en días de la semana menos populares, como martes o miércoles, es probable que encuentres tarifas más bajas debido a la menor demanda de vuelos en esos días.
+{:id="enlace2"}
 
 ## Consejos adicionales para ahorrar en tu vuelo a Huila
+
+{% include addm3.html %}
 
 ### 1. Suscríbete a boletines y alertas de precios
 
@@ -64,8 +67,11 @@ Por ejemplo, un pasaje directo desde Bogotá a [Neiva]({{'terminal-de-neiva'|rel
 Antes de reservar tu vuelo, revisa las políticas de equipaje de la aerolínea para evitar sorpresas de última hora y costos adicionales. Algunas aerolíneas incluyen el equipaje facturado en el precio del pasaje, mientras que otras cobran una tarifa adicional.
 
 Por ejemplo, Viva Air permite llevar una maleta de mano de hasta 6 kilos de forma gratuita, pero cobra una tarifa adicional por el equipaje facturado.
+{:id="enlace1"}
 
 ### 2. Considera opciones de transporte alternativas
+
+{% include addm2.html %}
 
 Dependiendo de tu ubicación y preferencias, también puedes considerar opciones de transporte alternativas para llegar a Huila. Si estás dispuesto a hacer un viaje por carretera, podrías ahorrar dinero al evitar los costos del vuelo.
 
