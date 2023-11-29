@@ -23,6 +23,7 @@ noindex: true
 </section>
 
 <main class="posts terminales wrapper">
+  {% include addm2.html %}
 {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
 {% for item in site.terminales %}
 {% assign filtered_cat = item.category | append: '|' %}
