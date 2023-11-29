@@ -120,6 +120,8 @@ A continuación, te presentamos una guía detallada sobre todo lo que necesitas 
 
 ### Orígenes y evolución de la terminal de Bogotá
 
+{% include addm4.html %}
+
 El Terminal de Transporte de Bogotá nació como respuesta a la creciente necesidad de un espacio que centralizara las operaciones de transporte intermunicipal.
 
 A lo largo de los años, ha experimentado diversas transformaciones, adaptándose a las demandas de una ciudad en constante crecimiento y a las necesidades de sus usuarios.
@@ -138,7 +140,7 @@ Localizada en el centro-occidente de la ciudad, **cerca del aeropuerto El Dorado
 
 [Ir a la terminal Salitre]({{'terminal-salitre-bogota'|relative_url}} "Terminal Salitre Bogotá"){:class="botones boton-verde"}
 
-{% include add1.html %}
+{% include addm3.html %}
 
 ### 2. Terminal del Norte Bogotá
 
@@ -148,8 +150,6 @@ Con modernas instalaciones, ofrece servicios a destinos como Boyacá, Santander 
 
 [Ir a la terminal Norte]({{'terminal-norte-bogota'|relative_url}} "Terminal Norte Bogotá"){:class="botones boton-verde"}
 
-{% include add1.html %}
-
 ### 3. Terminal del Sur Bogotá
 
 Situada en el sur de Bogotá, esta terminal es esencial **para quienes viajan hacia los departamentos del sur y suroeste del país**.
@@ -157,8 +157,6 @@ Situada en el sur de Bogotá, esta terminal es esencial **para quienes viajan ha
 Desde aquí, puedes embarcarte hacia destinos como Huila, Nariño y Putumayo.
 
 [Ir a la terminal Sur]({{'terminal-sur-bogota'|relative_url}} "Terminal Sur Bogotá"){:class="botones boton-verde"}
-
-{% include add1.html %}
 
 >Si estás planeando un viaje desde Bogotá y deseas conocer más sobre estas terminales, te invitamos a seguir explorando haciendo clic en el botón de cada una.
 
@@ -178,7 +176,7 @@ Asegúrate de tener todos tus **documentos en regla** y de **llegar con suficien
 
 ## Rutas Populares desde Bogotá
 
------
+{% include addm6.html %}
 
 Bogotá, siendo la capital, ofrece conexiones a una amplia variedad de destinos.
 
@@ -200,11 +198,9 @@ El terminal no solo ha facilitado la conexión entre Bogotá [y otras regiones](
 
 Su presencia ha impulsado el desarrollo de infraestructuras y servicios complementarios en sus alrededores.
 
-{% include add3.html %}
-
 ## Preguntas Frecuentes
 
------
+{% include addm8.html %}
 
 ### ¿Cuál es el horario de funcionamiento del terminal?
 

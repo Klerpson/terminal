@@ -55,7 +55,7 @@ empresas:
 ---
 ## La terminal de transporte de Aguachica
 
------
+{% include addm5.html %}
 
 **Aguachica** es un hermoso rincón de Colombia que no puedes dejar de visitar. Pero primero, es esencial que conozcamos su puerta de entrada, la **Terminal de Aguachica**.
 
@@ -84,7 +84,7 @@ Y para hacerlo aún más conveniente, encontrarás una variedad de servicios y c
 - **Copetran**: Con rutas que conectan Aguachica con ciudades como Bucaramanga y Bogotá, Copetran es una elección popular entre los viajeros.
 {:class="seccion"}
 
-{% include add1.html %}
+{% include addm1.html %}
 
 ## Servicios en la Terminal de Aguachica
 
@@ -117,7 +117,7 @@ Esta terminal de transporte es el pilar del transporte en la ciudad, [conectando
 
 [Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
 
-{% include add1.html %}
+{% include addm2.html %}
 
 ## Preguntas frecuentes
 
