@@ -38,7 +38,9 @@ award: "Transportes Omega: viaja seguro y cómodo por Colombia"
 
 Omega ofrece diferentes tipos de autobuses, desde los más básicos hasta el servicio Alfa, el cual se considera el servicio premium de la compañía. Además, se ofrecen servicios de encomiendas y giros.
 
-## Rutas y horarios de Transportes Omega
+## Rutas y horarios en los que opera Transportes Omega
+
+{% include addm8.html %}
 
 Transportes Omega cuenta con una amplia variedad de destinos y horarios en todo el país. A través de su sitio web oficial, podrás encontrar rápidamente toda la información necesaria para planificar tu viaje.
 
@@ -58,7 +60,7 @@ En páginas como [RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes 
 
 > Transportes Omega también ofrece diferentes descuentos y promociones en plataformas como Pinbus para la compra de pasajes, lo que permite ahorrar dinero en tus viajes intermunicipales.
 
-## Servicios de Omega
+## Servicios que ofrece Transportes Omega en su flota de buses
 
 Transportes Omega no solo se dedica a transportar pasajeros, sino que también ofrece **servicios de encomiendas y giros**. Asimismo, cuenta con diferentes tipos de autobuses para elegir, desde los más sencillos hasta el servicio premium Alfa.
 
@@ -80,9 +82,9 @@ Transportes Omega cuenta con una amplia flota de autobuses disponibles para los 
 
 El servicio Alfa de Omega ofrece una experiencia de viaje excepcional. Los pasajeros de Alfa pueden disfrutar de **asientos más amplios y cómodos, con inclinación de hasta 140 °**, **pantallas de televisión personalizadas, servicio de comida y bebida, y acceso a una zona VIP** en las diferentes agencias de la empresa.
 
-- - -
+{% include addm9.html %}
 
-## Transportes Omega
+## Transportes Omega: empresa de buses en Colombia
 
 {% include img-post.html webpm="blog/transportes-omega-bus-800.webp" webps="blog/transportes-omega-bus-376.webp" alt="Bus Transportes Omega" title="Transportes Omega" %}
 *Imagen ilustrativa de la flota de Omega*
@@ -105,7 +107,7 @@ Con Transportes Omega los pasajeros pueden estar seguros y cómodos durante todo
 
 - - -
 
-## Principales ciudades para Omega
+## Principales ciudades donde opera Transportes Omega
 
 Omega Ltda es una empresa de transporte terrestre intermunicipal que opera en 14 departamentos a lo largo del país.
 
@@ -127,7 +129,9 @@ Para conocer los horarios de las agencias de Omega, se puede acceder a [su sitio
 
 En ambos casos, se proporcionará la información necesaria para elegir los horarios que se ajusten a las necesidades del usuario.
 
-## Otros operadores
+{% include addm1.html %}
+
+## Otros operadores que compiten con Transportes Omega
 
 Además de Transportes Omega, existen otras empresas de transporte intermunicipal en Colombia, como [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Expreso Bolivariano") y [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Expreso Brasilia"), que compiten en términos de precios y servicios.
 
@@ -136,7 +140,7 @@ Además de Transportes Omega, existen otras empresas de transporte intermunicipa
 * Tanto Expreso Bolivariano como Expreso Brasilia ofrecen tarifas similares a las de Transportes Omega para rutas intermunicipales.
 * En términos de servicios, las empresas diferencian sus ofertas para hacerlas más atractivas a sus clientes, incluyendo encomiendas y programas de fidelización.
 
-### Diferencias entre Omega y otras empresas de transporte
+### Diferencias entre transportes Omega y otras empresas de transporte
 
 * En comparación con Expreso Bolivariano y Expreso Brasilia, Transportes Omega **destaca por su amplia flota de autobuses**, **operando en 14 departamentos del país** con diferentes opciones de clase para los pasajeros.
 * Asimismo, Transportes Omega sigue un enfoque de servicio al cliente que hace hincapié en la **comodidad y seguridad en el transporte de pasajeros, mascotas y carga**.
@@ -179,7 +183,7 @@ Este servicio es considerado el más lujoso de la compañía, y cuenta con una a
 
 ### Preguntas frecuentes de los usuarios de Transporte Omega
 
-{% include add1.html %}
+{% include addm1.html %}
 
 #### ¿Puedo llevar equipaje adicional?
 
@@ -193,7 +197,7 @@ Sí, puedes llevar mascotas siempre y cuando viajen en su respectivo bolso o jau
 
 En caso de perder tu tiquete de transporte, debes comunicarte con la oficina de sales de omega más cercana para solicitar un duplicado, con un costo adicional.
 
-#### ¿Qué hago si mi autobús llega tarde?
+#### ¿Qué hago si mi autobús de Transportes Omega llega tarde?
 
 Puedes comunicarte con el **centro de atención al cliente de Omega, al teléfono 310 769 3171**, para verificar la causa del retraso y obtener información sobre el tiempo de llegada aproximado.
 
@@ -213,7 +217,7 @@ Sí, puedes llevar alimentos y bebidas siempre y cuando no interrumpan la comodi
 
 Todas las encomiendas deben ser empacadas de manera adecuada para evitar daños durante el transporte. Además, debe colocarse una etiqueta con los datos del remitente y destinatario.
 
-### Consejos para viajar con mayor seguridad y confort en Omega
+### Consejos para viajar con mayor seguridad y confort en transportes Omega
 
 * Llega con anticipación al punto de partida para evitar retrasos y asegurar un buen asiento en el autobús.
 * Revisa las condiciones de transporte antes de abordar y sigue las instrucciones del conductor y personal de la compañía durante el viaje.

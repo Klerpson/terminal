@@ -20,7 +20,7 @@ Además, **con Expreso Brasilia puedes hacer tus reservas en línea** desde la p
 
 ## Expreso Brasilia y su presencia nacional
 
-{% include add2.html %}
+{% include addm2.html %}
 
 La flota de [Expreso Brasilia](https://www.expresobrasilia.com/){:rel="nofollow noopener noreferrer" target="_blank"} cuenta con modernos autobuses y diversos servicios a bordo desde conexión a internet, aire acondicionado y bocadillos.
 
@@ -66,7 +66,7 @@ Expreso Brasilia brinda a las empresas y clientes corporativos un **servicio per
 
 ## Flota de vehículos y seguridad
 
-{% include add2.html %}
+{% include addm3.html %}
 
 Expreso Brasilia cuenta con una flota de más de **450 autobuses** que se mantienen en perfecto estado gracias a un estricto mantenimiento preventivo y correctivo.
 
@@ -95,7 +95,7 @@ Expreso Brasilia te ofrece contratos claros y precisos de servicios, que garanti
 
 ## Rutas y destinos
 
-{% include add1.html %}
+{% include addm4.html %}
 
 Expreso Brasilia ofrece una gran variedad de rutas nacionales e internacionales para satisfacer las necesidades de sus clientes. A continuación, se presentan algunos detalles sobre las principales ciudades en las que opera la empresa, sus más de 1000 destinos y las rutas más populares:
 
@@ -158,7 +158,7 @@ Allí encontrarás información sobre temas como la compra de pasajes, cambios y
 
 ## Servicios a bordo y ofertas
 
-{% include add1.html %}
+{% include addm5.html %}
 
 Expreso Brasilia se dedica a brindar la mejor experiencia de viaje posible, y eso incluye servicios a bordo que harán que su viaje sea cómodo y agradable. En esta sección, se presentan algunos de los servicios que los pasajeros pueden esperar al subir a bordo de un autobús de Expreso Brasilia.
 
@@ -184,7 +184,7 @@ Para obtener más información sobre precios y ofertas especiales, consulte el s
 
 ## Terminales y agencias de Expreso Brasilia
 
-{% include add1.html %}
+{% include addm6.html %}
 
 Expreso Brasilia cuenta con una amplia red de terminales y agencias distribuidas en las principales ciudades del país y sus alrededores, lo cual facilita el acceso al servicio de transporte de pasajeros.
 
@@ -218,7 +218,7 @@ Entre estos servicios se encuentran la disponibilidad de **baños, taquillas, zo
 
 ## Otros datos de Expreso Brasilia
 
-{% include add3.html %}
+{% include addm7.html %}
 
 ### Historia de la empresa
 
