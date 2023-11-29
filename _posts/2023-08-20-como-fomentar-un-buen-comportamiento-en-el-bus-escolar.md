@@ -19,6 +19,8 @@ La importancia de mantener un ambiente seguro y respetuoso en el autobús escola
 
 A continuación, se detallan las pautas y recomendaciones para fomentar un comportamiento adecuado en el bus escolar.
 
+{% include addm5.html %}
+
 ## ¿Por qué es importante el buen comportamiento en el bus escolar?
 
 -----
@@ -51,7 +53,7 @@ Hablar en un tono moderado y evitar gritar o hacer ruidos que puedan distraer al
 
 ## Estrategias para promover un comportamiento positivo en el bus escolar
 
------
+{% include addm6.html %}
 
 ### Programas de recompensas para buen comportamiento
 
@@ -84,6 +86,8 @@ Establecer rutinas claras, como llegar a tiempo a la parada del bus y esperar en
 Enseñar a los niños a ser responsables de sus pertenencias y a seguir las reglas por sí mismos es crucial para su desarrollo y para mantener un ambiente seguro en el bus.
 
 ## Herramientas y recursos para profesores y padres
+
+{% include addm7.html %}
 
 ### Guías y manuales sobre comportamiento en el bus escolar
 

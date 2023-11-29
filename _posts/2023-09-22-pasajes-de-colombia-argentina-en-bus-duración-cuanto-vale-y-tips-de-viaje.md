@@ -17,7 +17,7 @@ Viajar en bus de Colombia a Argentina es más que un simple trayecto. A lo largo
 
 ## Costo de los pasajes hacia Argentina y dónde adquirirlos
 
-{% include add1.html %}
+{% include addm4.html %}
 
 El precio de los pasajes hacia Argentina varía según la temporada, la ruta y la empresa de buses. Según *Horario de Buses*, **los precios oscilan entre $100 y $460**.
 
@@ -45,7 +45,7 @@ El viaje completo, incluyendo transbordos, **dura aproximadamente 4 días y 5 ho
 
 ## ¿Qué te ofrece tu pasaje en bus hacia Argentina?
 
-{% include add1.html %}
+{% include addm5.html %}
 
 Al adquirir un pasaje en bus hacia Argentina, te das la oportunidad de visitar un país lleno de maravillas. Veamos *qué más incluye tu boleto y cómo aprovecharlo al máximo.*
 
@@ -69,6 +69,8 @@ Viajar en bus es una oportunidad para conocer a otros viajeros y compartir exper
 {:class="seccion"}
 
 ### Tu seguridad viajando de Colombia a Argentina
+
+{% include addm6.html %}
 
 Aunque [viajar en bus de Colombia a Argentina es generalmente seguro]({% post_url 2023-06-15-seguro-o-inseguro-viajar-en-bus-colombia %}), siempre es bueno tomar precauciones. [No dejes tus pertenencias desatendidas]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}) y mantén tus objetos de valor cerca de ti.
 

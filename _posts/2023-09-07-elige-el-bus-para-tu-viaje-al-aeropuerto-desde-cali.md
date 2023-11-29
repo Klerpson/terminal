@@ -21,6 +21,8 @@ Los buses están diseñados para proporcionar comodidad, puntualidad y seguridad
 
 ### Ventajas de viajar en bus
 
+{% include addm7.html %}
+
 * **Economía**: Viajar en bus suele ser más barato que otros medios de transporte.
 * **Puntualidad**: Los buses tienen horarios fijos y rutas establecidas, lo que garantiza llegar a tiempo.
 * **Comodidad**: Los asientos espaciosos y la posibilidad de llevar equipaje sin costos adicionales son ventajas notables.
@@ -34,7 +36,7 @@ Por otro lado, aunque el transporte público puede ser una opción, no ofrece la
 
 ## Rutas y horarios de buses desde Cali al aeropuerto
 
-{% include add1.html %}
+{% include addm8.html %}
 
 Cali cuenta con diversas rutas de *buses que conectan la ciudad con el aeropuerto*. Estas rutas están diseñadas para cubrir las principales zonas y garantizar que los viajeros lleguen a tiempo para sus vuelos.
 
@@ -62,7 +64,7 @@ Las tarifas varían según la empresa y la ruta. Es posible comprar boletos en l
 
 ## Consejos para un viaje cómodo y seguro en bus desde Cali al aeropuerto
 
-{% include add1.html %}
+{% include addm9.html %}
 
 Un viaje al aeropuerto debe ser planificado con anticipación para evitar contratiempos.
 
@@ -94,4 +96,4 @@ Para aquellos que necesitan desplazarse a otras partes de la ciudad o regiones c
 
 Viajar en bus desde Cali al aeropuerto es una opción conveniente y económica. Con la información adecuada y una planificación cuidadosa, los viajeros pueden garantizar un viaje cómodo y a tiempo.
 
-Si deseas una información más detallada sobre otros destinos y consejos de viaje ﻿**continúa leyendo en nuestra web.**
+Si deseas una información más detallada sobre otros destinos y consejos de viaje **continúa leyendo en nuestra web.**

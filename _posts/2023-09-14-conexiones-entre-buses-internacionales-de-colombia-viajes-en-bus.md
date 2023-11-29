@@ -17,6 +17,8 @@ Viajar en buses internacionales, se ha convertido en una opción popular para mu
 
 ## Buses internacionales en Colombia: Conectando con el continente
 
+{% include addm1.html %}
+
 Colombia, puerta de entrada a Sudamérica, cuenta con diversas empresas que **ofrecen rutas internacionales,** conectando el país con sus vecinos.
 
 * **[Líneas de los Andes](https://www.bing.com/ck/a?!&&p=6fb5d699a3bae90aJmltdHM9MTY5MjgzNTIwMCZpZ3VpZD0xYzkzOTAzNi0wODdiLTZkODAtMWY4Zi04MzQxMDlkNDZjYmYmaW5zaWQ9NTQ4NA&ptn=3&hsh=3&fclid=1c939036-087b-6d80-1f8f-834109d46cbf&u=a1aHR0cHM6Ly93d3cuYmluZy5jb20vYWxpbmsvbGluaz91cmw9aHR0cHMlM2ElMmYlMmZsaW5lYXNkZWxvc2FuZGVzLmNvbSUyZiZzb3VyY2U9c2VycC1sb2NhbCZoPXU1dmJjakhNTDdROUpuTUh5NlYwdWo2JTJma3BXTkY4em52eVlOQ3JHWiUyZm5RJTNkJnA9bHdfZ2J0JmlnPTFBQ0M5QTk4RUMxNDQ2ODM5MUI4MDVFNUQ3OUE4M0YyJnlwaWQ9WU44MDQxeDExNzY4OTc4NTI2NjQwMjkwNTc4&ntb=1){:rel="nofollow noopener noreferrer" target="_blank"}**: Esta empresa se destaca por su ***servicio de transporte internacional terrestre*** por toda Suramérica, incluyendo destinos como Venezuela, Ecuador, Perú y más. Ofrecen comodidades como buses tipo cama y alimentación a bordo.
@@ -25,7 +27,7 @@ Colombia, puerta de entrada a Sudamérica, cuenta con diversas empresas que **of
 
 ### Buses internacionales: Cruzando fronteras
 
-{% include add1.html %}
+{% include addm2.html %}
 
 Viajar en bus entre países es una experiencia agradable, y una opción popular entre los viajeros que buscan una alternativa económica al avión.  
 
@@ -45,7 +47,7 @@ Viajar en bus puede ser una experiencia agradable si se toman en cuenta algunos 
 
 ## El bus, una opción para descubrir nuevos horizontes
 
-{% include add1.html %}
+{% include addm3.html %}
 
 > Viajar en buses internacionales es una excelente manera de visitar nuevos destinos, conocer nuevas culturas y disfrutar de paisajes únicos.
 

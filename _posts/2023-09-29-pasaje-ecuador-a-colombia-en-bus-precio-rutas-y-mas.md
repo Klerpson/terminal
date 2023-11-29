@@ -19,6 +19,8 @@ Y viajar en bus entre Colombia y Ecuador es una muy buena idea. Esta es una de l
 
 ## ¿Por qué elegir el bus para tu viaje entre Colombia y Ecuador?
 
+{% include addm7.html %}
+
 **Economía y accesibilidad.** Viajar en bus *es una opción práctica y económica*. A diferencia de los vuelos, no necesitas hacer reservas con meses de anticipación y puedes decidir tu fecha de viaje con flexibilidad.
 
 **Vistas panorámicas.** Atravesarás paisajes impresionantes, desde las montañas andinas hasta las llanuras colombianas, ofreciendo una experiencia visual que no se compara con ningún otro medio de transporte.
@@ -45,6 +47,8 @@ Basándonos en la información recopilada, la ruta más popular y recomendada pa
 - - -
 
 ## Consejos para un viaje seguro y agradable entre Ecuador y Colombia
+
+{% include addm8.html %}
 
 * **Moneda:** Asegúrate de cambiar tus dólares a pesos colombianos antes de cruzar la frontera. Es *recomendable hacerlo en Ipiales para obtener una mejor tasa de cambio*.
 * **Seguridad:** Aunque viajar en bus es generalmente seguro, siempre es bueno tomar precauciones. No dejes tus pertenencias desatendidas y *mantente alerta* en las paradas del bus.

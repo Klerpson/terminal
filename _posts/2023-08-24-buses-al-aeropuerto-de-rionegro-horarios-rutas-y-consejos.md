@@ -35,7 +35,7 @@ La línea de ***buses a el aeropuerto de Rionegro*** [Combuses](https://combuses
 
 ## Precios y puntos de venta del pasaje en bus al aeropuerto Rionegro
 
-{% include add1.html %}
+{% include addm8.html %}
 
 **El costo del pasaje en bus desde Medellín al Aeropuerto José María Córdoba es de $9,500 COP**. Los tiquetes pueden adquirirse directamente en las taquillas de las terminales de Medellín y del aeropuerto, o al abordar el bus.
 
@@ -69,7 +69,7 @@ Los buses a el Aeropuerto de Rionegro Combuses están [equipados con diversas co
 
 ## Consejos para viajar al aeropuerto en bus
 
-{% include add1.html %}
+{% include addm9.html %}
 
 Viajar en bus a el ***aeropuerto de Rionegro puede ser práctico y cómodo*** si se toman en cuenta ciertos consejos. A continuación, te ofrecemos recomendaciones clave para que tu trayecto sea placentero y sin contratiempos.
 

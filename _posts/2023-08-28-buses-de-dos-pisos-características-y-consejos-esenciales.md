@@ -19,6 +19,8 @@ Estos buses, además de tener un diseño distintivo, también tienen una serie d
 
 ## Características generales de los buses de dos pisos
 
+{% include addm9.html %}
+
 La mayoría de *los buses de dos pisos tienen en común las siguientes características*:
 
 * Suelen tener una longitud de 12 metros y un ancho de 2,55 metros.
@@ -34,7 +36,7 @@ La mayoría de *los buses de dos pisos tienen en común las siguientes caracter�
 
 Optar por un bus de dos pisos no solo es una cuestión de capacidad. **Estos buses ofrecen una experiencia diferente al pasajero**, ya que ofrecen una vista panorámica tanto para rutas regulares como turísticas y una distribución diferente de los asientos que puede ser más cómoda para viajes largos.
 
-{% include add1.html %}
+{% include addm1.html %}
 
 ## Medidas estándar y personalizaciones del bus de 2 pisos
 
@@ -72,7 +74,7 @@ Más allá del precio inicial, es esencial considerar otros costos asociados, co
 
 Otros factores importantes son **la marca, el país de fabricación y las características adicionales** pueden influir en el precio final.
 
-{% include add1.html %}
+{% include addm2.html %}
 
 ## Consejos para la compra y mantenimiento para un bus doble
 

@@ -25,7 +25,7 @@ Estos son algunos de los beneficios de elegir un bus con baño:
 * **Privacidad**: A diferencia de las paradas en estaciones de servicio o áreas de descanso, un baño en el bus ofrece privacidad.
 * **Higiene**: Los buses modernos suelen tener baños *bien mantenidos y limpios.*
 
-{% include add1.html %}
+{% include addm3.html %}
 
 ## Consejos para usar el baño en un bus
 
@@ -68,7 +68,7 @@ La incorporación del baño en los ómnibus de larga distancia *comenzó en la d
 
 Sin embargo, no fue hasta la década del 80 que los baños se convirtieron en una característica estándar en muchos buses, especialmente con el auge de la industria carrocera en lugares como Argentina.
 
-{% include add1.html %}
+{% include addm4.html %}
 
 ## Importancia del mantenimiento y la higiene en el baño del bus
 

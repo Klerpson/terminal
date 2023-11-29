@@ -15,6 +15,8 @@ Si estás planeando un viaje a Lima, la capital de Perú, seguramente estés bus
 
 >Si lo que buscas es un pasaje en avión, [mira estas promociones](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fflights "Promociones pasajes"){:rel="nofollow noopener noreferrer sponsored" target="_blank"}
 
+{% include addm9.html %}
+
 En este artículo, te mostraremos **[las ventajas de viajar en bus]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %}) a Lima y cómo encontrar las mejores ofertas de pasajes**.
 
 Viajar en autobús puede ser una alternativa conveniente y económica, y en Lima encontrarás una gran variedad de empresas de transporte que ofrecen tarifas competitivas y opciones de viaje flexibles.
@@ -51,6 +53,8 @@ Los horarios y precios están sujetos a cambios y deben confirmarse [directament
 
 ## Ventajas de viajar en bus a Lima
 
+{% include addm1.html %}
+
 ### Economía de costos
 
 **Viajar en bus a Lima puede resultar mucho más económico** que otras opciones de transporte, especialmente si comparas con el costo de un vuelo.
@@ -75,6 +79,8 @@ Algunas empresas de transporte incluso ofrecen paradas en lugares turísticos im
 
 ## Consejos para encontrar las mejores ofertas de pasajes a Lima en bus
 
+{% include addm2.html %}
+
 ### Reserva con anticipación
 
 Para asegurarte las mejores tarifas, es recomendable **[reservar tus pasajes con anticipación](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fflights){:rel="nofollow noopener noreferrer sponsored" target="_blank"}**. Muchas empresas de transporte ofrecen descuentos especiales para aquellos que reservan con cierta antelación, por lo que podrás ahorrar dinero al planificar con tiempo.
@@ -88,6 +94,8 @@ Algunas empresas de transporte tienen boletines y [promociones exclusivas para s
 Hay varios sitios web y aplicaciones que te permiten comparar precios y opciones de transporte en línea. Utiliza estas herramientas para explorar diferentes empresas de transporte y encontrar las mejores ofertas de pasajes a Lima en bus.
 
 ## Utiliza el bus para viajar de Colombia a Perú, Lima
+
+{% include addm3.html %}
 
 Viajar en bus a Lima puede ser una opción económica y conveniente para llegar a la capital peruana. Existen diferentes empresas de transporte que ofrecen tarifas competitivas y opciones de viaje flexibles.
 

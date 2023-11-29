@@ -23,7 +23,7 @@ Alquilar un bus puede ser la solución perfecta para una excursión, un viaje de
 
 ### ¿Cómo alquilar un bus?
 
-{% include add1.html %}
+{% include addm1.html %}
 
 El proceso de alquiler de un bus varía según la empresa, pero generalmente implica:
 
@@ -67,7 +67,7 @@ Las siguientes son empresas que puedes buscar en internet y contratar con ellas 
 
 ### Alquila un bus con Rutas Colombianas
 
-{% include add1.html %}
+{% include addm2.html %}
 
 * [Rutas turísticas]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %})
 * Promociones
@@ -107,7 +107,7 @@ Además, puedes hacer **cambios espontáneos en tu itinerario sin problemas**. P
 
 ### Alquila un bus para tus bodas y celebraciones
 
-{% include add1.html %}
+{% include addm3.html %}
 
 El alquiler de minibuses y vans es ideal para bodas, bautizos, comuniones y otras celebraciones. **Garantiza que todos los invitados lleguen al lugar del evento al mismo tiempo y sin contratiempos.**
 
@@ -137,7 +137,7 @@ Ya sea para congresos, convenciones, ferias u otros eventos, el alquiler de auto
 
 ## Alquiler de buses en Colombia: Preguntas frecuentes
 
-{% include add1.html %}
+{% include addm4.html %}
 
 * **¿Cuándo merece la pena alquilar un bus?** Especialmente para grupos grandes, los buses chárter ofrecen claras ventajas. A partir de unos 30 viajeros, generalmente, *es más económico y práctico* considerar un servicio de alquiler de buses.
 * **¿Con cuánta antelación se debe realizar la reserva?** Es recomendable reservar con al menos un mes de antelación, especialmente durante la temporada alta.
