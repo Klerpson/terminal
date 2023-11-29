@@ -19,7 +19,9 @@ Expreso Palmira es una compañía de transporte que ofrece servicios en varias c
 
 Esta empresa de buses tiene servicios disponibles a bordo de los buses, como aire acondicionado, baño y wifi. Conoce **qué ofrece Expreso Palmira** y porqué es una de las mejores opciones para tu próximo viaje.
 
-## Rutas y horarios de Expreso Palmira
+## Rutas y horarios en los que opera Expreso Palmira
+
+{% include addm4.html %}
 
 Expreso Palmira ofrece una amplia variedad de rutas para que los viajeros puedan encontrar la mejor opción para sus necesidades de transporte. A continuación, se presentan las principales rutas:
 
@@ -52,6 +54,8 @@ Los viajeros pueden encontrar los mejores precios y opciones de transporte en es
 
 ## Servicios disponibles a bordo de los buses de Expreso Palmira
 
+{% include addm5.html %}
+
 {% include img-post.html webpm="blog/expreso-palmira-bus-800.webp" webps="blog/expreso-palmira-bus-376.webp" alt="Empresa Expreso Palmira en el Valle" title="Flota Expreso Palmira" %}
 
 Al elegir viajar con Expreso Palmira, los pasajeros pueden disfrutar de una experiencia de viaje cómoda y segura con una variedad de servicios y comodidades que harán que su viaje sea un momento agradable.
@@ -75,6 +79,8 @@ Los pasajeros pueden disfrutar del servicio de **wifi gratuito** para mantenerse
 Los pasajeros también **tendrán acceso a bocadillos y bebidas gratuitas** durante el viaje para hacerlo más agradable y relajado.
 
 ### Ayuda y recomendaciones para viajeros de primera vez con Expreso Palmira
+
+{% include addm6.html %}
 
 Si es la primera vez que viajas con Expreso Palmira, no te preocupes, la empresa tiene un [servicio al cliente](https://expresopalmira.com.co/servicio-cliente){:rel="nofollow noopener noreferrer" target="_blank"} que te guiará y responderá a todas tus preguntas e inquietudes durante el proceso de compra y durante el viaje.
 

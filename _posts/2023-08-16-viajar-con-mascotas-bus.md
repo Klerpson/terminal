@@ -16,7 +16,7 @@ Viajar con nuestra mascota puede ser una experiencia emocionante, pero también 
 
 Cada país y compañía de bus tiene regulaciones específicas que debemos conocer, para garantizar que el viaje sea seguro y placentero para todos.
 
-## Ventajas de viajar en bus con tu mascota
+## Las ventajas de viajar en bus con tu mascota
 
 [El bus ofrece varias ventajas]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %}) cuando buscamos llevar a nuestras mascotas en nuestros viajes:
 
@@ -25,43 +25,43 @@ Cada país y compañía de bus tiene regulaciones específicas que debemos conoc
 3. **Flexibilidad**: Existen múltiples horarios y rutas disponibles.
 {:class="seccion"}
 
-## Normativas generales para viajar en bus con mascotas
+## Conoce las normas generales para viajar en bus con mascotas
 
-{% include add2.html %}
+{% include addm2.html %}
 
 Antes de embarcarnos en un viaje en bus con nuestra mascota, es esencial conocer las regulaciones generales que nos encontraremos:
 
 * **Documentación necesaria**: En la mayoría de los países es imprescindible tener al día la cartilla de vacunación de la mascota, y en algunos casos, un certificado de salud expedido por un veterinario.
 * **Requisitos de salud y bienestar**: Asegúrese de que su mascota esté en buen estado de salud para viajar. Es vital que hayan comido y bebido agua, pero no justo antes del viaje para evitar mareos.
 
-## Viajar con mascotas en diferentes países
-
 ----
 
-### Viajar con mascotas en bus en Colombia
+## Viajar con mascotas en diferentes países
+
+### Viajar con mascotas en buses Colombianos
 
 Según el [Mintransporte](https://mintransporte.gov.co/publicaciones/7884/antes-de-viajar-con-su-mascota-desde-las-terminales-de-transporte-verifique-con-la-empresa- a-contratar-las-politicas-de-precios-y-condiciones-supertransporte/){:rel="nofollow noopener noreferrer" target="_blank"}, es crucial verificar con la empresa con la que se va a contratar las políticas de precios y condiciones.
 
 * Regulaciones específicas: En Colombia, **es obligatorio que las mascotas viajen en un guacal o maleta especial** que garantice su comodidad y seguridad.
 * Tips para un viaje seguro: Es recomendable **viajar en horarios donde la temperatura sea más amena** para evitar golpes de calor.
 
-### Viajar con mascotas en bus en México
+### Viajar con mascotas en bus Mexicanos
 
 En México, la cultura de viajar con mascotas está creciendo. Sin embargo, es esencial revisar con anticipación las políticas específicas de cada compañía.
 
 * Regulaciones específicas: Las mascotas deben **viajar en un transportador** y, en muchos casos, *pagar un boleto adicional*.
 * Consejos y recomendaciones: *Lleve siempre consigo agua y comida* para su mascota, y asegúrese de *hacer paradas regulares* si el trayecto es largo.
 
-### Viajar con mascotas en bus en Chile, Uruguay, Perú y Bolivia
+### Viajar con mascotas en buses de Chile, Uruguay, Perú y Bolivia
 
 Estos países tienen similitudes en sus regulaciones, pero también peculiaridades propias.
 
 * Diferencias y similitudes en el reglamento: En general, la documentación y los requisitos de salud son similares. Sin embargo, la aceptación de mascotas en el bus puede variar.
 * Precauciones a tener en cuenta: Es vital tener en cuenta las temperaturas del trayecto, especialmente en zonas de alta montaña.
 
-## Compañías de buses y sus políticas sobre mascotas
+{% include addm6.html %}
 
-----
+## Compañías de buses y sus políticas sobre mascotas
 
 ### Pullman bus y su política para mascotas
 
@@ -76,7 +76,7 @@ Pullman es una de las principales empresas de buses en Latinoamérica.
 
 ## Preparativos previos al viaje
 
-{% include add2.html %}
+{% include addm7.html %}
 
 * **Elección del tipo de transporte para tu mascota**: dependiendo del tamaño y comportamiento de su mascota, puede optar por guacales, correas o contenedores.
 * **Viajar con perros grandes vs perros pequeños**: Los perros grandes generalmente deben viajar en la bodega, mientras que los pequeños pueden ir en la cabina si el bus lo permite.
@@ -87,5 +87,6 @@ Pullman es una de las principales empresas de buses en Latinoamérica.
 1. ¿Todos los buses permiten mascotas?: **No**. Por eso es vital consultar con anticipación.
 2. ¿Qué hacer si mi mascota se enferma durante el viaje?: Lleve un botiquín básico y detenga el bus si es necesario.
 3. ¿Es seguro para todas las razas de perros?: La mayoría sí, pero es esencial conocer a su mascota y evaluar si el viaje es adecuado para ella.
+{:class="seccion"}
 
 Si estás pensando viajar con tu mascota, ¡este es el momento! Viajar en bus puede ser una experiencia enriquecedora si estás bien preparado. Asegúrate de seguir nuestras recomendaciones y ¡buen viaje!
