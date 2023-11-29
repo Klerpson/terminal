@@ -27,7 +27,7 @@ Lee cómo comprar tiquetes en línea o cómo contactar a su servicio de atenció
 
 ## Compra de tiquetes con Pinbus
 
-{% include add1.html %}
+{% include addm7.html %}
 
 Viajar por Colombia nunca ha sido tan fácil gracias a Pinbus. Ya sea que necesites viajar de [Bogotá]({{site.baseurl}}/terminal-de-bogota) a [Medellín]({{site.baseurl}}/terminal-de-medellin) o de [Cali]({{site.baseurl}}/terminal-de-cali) a [Cartagena]({{site.baseurl}}/terminal-de-cartagena), Pinbus tiene cubiertas todas tus necesidades de transporte.
 
@@ -48,7 +48,7 @@ Todos amamos un buen descuento, y Pinbus ofrece muchas oportunidades para obtene
 
 ## Pinbus Colombia: tu línea directa de contacto
 
-{% include add2.html %}
+{% include addm8.html %}
 
 ¿Necesitas ayuda o tienes alguna consulta sobre Pinbus? Pinbus tiene un equipo de atención al cliente listo para asistirte.
 
@@ -72,7 +72,7 @@ La mayoría de [los comentarios sobre Pinbus](https://play.google.com/store/apps
 
 ## Viaja por Colombia con Pinbus
 
-{% include add2.html %}
+{% include addm9.html %}
 
 En resumen, **Pinbus Colombia es una excelente opción para comprar tiquetes de bus en línea**. Su plataforma es fácil de usar, su servicio al cliente está siempre listo para ayudarte, y **trabajan con operadores de buses confiables como Copetran y Bolivariano**.
 

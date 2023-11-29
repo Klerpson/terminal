@@ -23,7 +23,7 @@ En Colombia, la seguridad en el transporte público es un tema importante a tene
 
 ## ¿Es seguro o inseguro viajar en bus en Colombia?
 
-{% include add2.html %}
+{% include addm1.html %}
 
 Entre los medios de **transporte más seguros se encuentra el autobús**, aunque es necesario tomar precauciones. Es fundamental conocer las pautas de seguridad para pasajeros y conductores y utilizar el cinturón de seguridad si es posible.
 
@@ -49,7 +49,7 @@ La seguridad en el autobús es fundamental ya que este es uno de los medios de t
 
 Por este motivo, es fundamental tener en cuenta las pautas de seguridad y ser responsable en el uso del medio de transporte.
 
-{% include add1.html %}
+{% include addm2.html %}
 
 ### ¿Cuál es la responsabilidad de los conductores y pasajeros en la seguridad durante el viaje en autobús?
 
@@ -86,7 +86,7 @@ Asegúrate de que la sillita Infantil se ajuste a las necesidades del niño, la 
 
 ## ¿Qué hacer en caso de un accidente en el autobús?
 
-{% include add3.html %}
+{% include addm3.html %}
 
 Es importante conocer las medidas que se deben tomar en caso de sufrir un accidente mientras se viaja en un autobús.
 
@@ -112,7 +112,7 @@ Conocer y aplicar estas medidas de seguridad es fundamental para minimizar los d
 
 ## Seguridad en los viajes en general
 
-{% include add1.html %}
+{% include addm4.html %}
 
 En esta sección se tratarán diferentes temas relacionados con la seguridad en los viajes en general, incluyendo los medios de transporte más seguros en el mundo, la importancia de contratar un seguro de viajes MAPFRE, la comparación entre la seguridad de viajar en avión o en autobús y los números de riesgo de sufrir accidentes de [transporte en Colombia](/).
 

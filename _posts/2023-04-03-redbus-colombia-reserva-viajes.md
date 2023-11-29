@@ -25,7 +25,7 @@ En este artículo te contaremos todo lo que necesitas saber sobre RedBus Colombi
 
 ## El teléfono de contacto de RedBus
 
-{% include add1.html %}
+{% include addm5.html %}
 
 Para contactar con RedBus, **puedes utilizar su número de teléfono: [+6014850292](tel:6014850292){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
@@ -56,7 +56,7 @@ De esta manera, recibirás todas las promociones y descuentos disponibles.
 
 ### Opiniones sobre RedBus
 
-{% include add3.html %}
+{% include addm6.html %}
 
 Por último, es importante mencionar las opiniones de los usuarios sobre RedBus Colombia. **La mayoría de las opiniones sobre RedBus son muy positivas**, y siempre destacan 3 aspectos:
 

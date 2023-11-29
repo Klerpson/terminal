@@ -26,7 +26,7 @@ Ahora, sin más preámbulos, aquí están los **5 destinos de Colombia que puede
 
 ## Visita estos 5 destinos de Colombia en bus
 
-{% include add1.html %}
+{% include addm2.html %}
 
 Si alguna vez ha querido planear un viaje por Colombia, visita los siguientes destinos.
 
@@ -48,7 +48,7 @@ Y una gran ventaja es que, desde [la terminal de Cartagena]({{'terminal-de-carta
 
 ### Viajar en bus a Bogotá: La capital cultural de Colombia
 
-{% include add2.html %}
+{% include addm3.html %}
 
 Bogotá es la capital de Colombia y un destino turístico imprescindible para aquellos que buscan sumergirse en la cultura y la historia colombiana. El Museo del Oro, el Museo Botero y la Candelaria son solo algunas de las atracciones turísticas más populares de la ciudad. Y llegar en Bus es súper sencillo.
 
@@ -70,7 +70,7 @@ Santa Marta es un destino turístico popular en la costa caribeña de Colombia. 
 
 *El [Parque Nacional Natural Tayrona](https://www.parquetayrona.com/es/){:rel="nofollow noopener noreferrer" target="_blank"} es una de las atracciones turísticas más populares*, donde puedes disfrutar de playas paradisíacas, hacer senderismo en la selva y visitar las ruinas de la cultura Tayrona.
 
-{% include add3.html %}
+{% include addm4.html %}
 
 Y, por supuesto, puedes llegar en bus directamente a [la terminal de Santa Marta]({{'terminal-de-santa-marta'|relative_url}} "Terminal de Santa Marta"){:target="_blank"}.
 

@@ -79,7 +79,7 @@ Algunos de los horarios más frecuentes son los que se presentan **desde Bogotá
 
 ## Expreso Bolivariano y la calidad de sus servicios
 
-{% include add1.html %}
+{% include addm6.html %}
 
 Expreso Bolivariano es una firma de transporte colombiana con un enfoque principal es la **seguridad**, la **comodidad** y la **tecnología** de sus autobuses, lo que les ha permitido ganar la confianza y preferencia de una amplia base de clientes leales.
 
@@ -166,7 +166,7 @@ Expreso Bolivariano cuenta con una amplia flota de autobuses principalmente de l
 
 ## Historia de Expreso Bolivariano
 
-{% include add3.html %}
+{% include addm5.html %}
 
 La historia de Expreso Bolivariano comenzó en 1956 en la ciudad de Fusagasugá, cuando su fundador, Juan Mahecha, decidió crear una empresa de transporte que ofreciera comodidad y seguridad a los pasajeros.
 

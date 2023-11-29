@@ -23,7 +23,7 @@ excerpt_separator: <!-- excerpt -->
 
 ## Los beneficios de viajar en bus
 
-{% include add1.html %}
+{% include addm1.html %}
 
 Si alguna vez te has preguntado si viajar en bus es una buena idea, hoy te contaremos los 5 beneficios de hacerlo que nos parece que te servirán mucho.
 
@@ -53,7 +53,7 @@ Viajar en bus te permite *hacer paradas en diferentes ciudades y conocer muchos 
 
 ### Viajando en bus puedes hacer conexión con la cultura de tu destino
 
-{% include add2.html %}
+{% include addm2.html %}
 
 Viajar en bus te permite conectarte con la cultura local. Podrás **ver paisajes impresionantes, interactuar con la gente local, y disfrutar de la auténtica comida y música de cada región**. Es una oportunidad única para sumergirse en la cultura y conocer más sobre el tu destino.
 
