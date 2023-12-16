@@ -169,8 +169,8 @@
 
 .post-header {
   width: 100%;
-  background-color: var(--complemento2);
-  box-shadow: 0 0 0 100vmax var(--complemento2);
+  background-color: var(--complemento1);
+  box-shadow: 0 0 0 100vmax var(--complemento1);
   clip-path: inset(0 -100vmax);
   display: flex;
   flex-wrap: wrap;
