@@ -3,9 +3,6 @@ layout: post
 title: Términos y Condiciones de Uso | Terminal de Transporte
 description: Condiciones de uso de la página Terminal de Transporte
 h1: Término y condiciones, privacidad y aspectos legales de nuestro portal
-webpm: legal.webp
-webps: legal.webp
-alt: terminaldetransporte.com
 noindex: true
 ---
 ## Aviso legal para sitio web de Terminal de Transporte
