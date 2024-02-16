@@ -22,7 +22,7 @@ collections:
       - { label: 'Meta Description', name: 'description', widget: 'string' }
       - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'H1', name: 'h1', widget: 'string' }
-      - { label: 'avif', name: 'avif', widget: 'image' }
+      - { label: 'Imagen principal', name: 'hero', widget: 'image' }
       - { label: 'Alt', name: 'alt', widget: 'string' }
       - { label: 'URL', name: 'permalink', widget: 'string' }
       - { label: 'Intro', name: 'excerpt', widget: 'string' }
@@ -42,7 +42,7 @@ collections:
       - { label: 'Meta Description', name: 'description', widget: 'string' }
       - { label: 'Departamento', name: 'category', widget: 'string' }
       - { label: 'H1', name: 'h1', widget: 'string' }
-      - { label: 'avif', name: 'avif', widget: 'image' }
+      - { label: 'Imagen principal', name: 'hero', widget: 'image' }
       - { label: 'Alt', name: 'alt', widget: 'string' }
       - { label: 'Subtítulo', name: 'subtitle', widget: 'string' }
       - { label: 'Intro', name: 'intro', widget: 'string' }
@@ -76,7 +76,7 @@ collections:
       - { label: 'Meta Description', name: 'description', widget: 'string' }
       - { label: 'Departamento', name: 'category', widget: 'string' }
       - { label: 'H1', name: 'h1', widget: 'string' }
-      - { label: 'avif', name: 'avif', widget: 'image' }
+      - { label: 'Imagen principal', name: 'hero', widget: 'image' }
       - { label: 'Alt', name: 'alt', widget: 'string' }
       - { label: 'Botón 1', name: 'cta1', widget: 'string' }
       - { label: 'Botón 2', name: 'cta2', widget: 'string' }
