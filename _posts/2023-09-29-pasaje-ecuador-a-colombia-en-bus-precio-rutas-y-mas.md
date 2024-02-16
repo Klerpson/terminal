@@ -7,7 +7,7 @@ description: "Viaje en bus de Colombia a Ecuador, atraviesa paisajes impresionan
 autor: Camilo Cuspián
 h1: Infórmate de manera correcta antes de comprar tu pasaje de Ecuador a Colombia
 jpg: blog/colombia-ecuador.jpg
-webpm: blog/colombia-ecuador.webp
+hero: blog/colombia-ecuador.webp
 webps: blog/colombia-ecuador-s.webp
 alt: Precio pasaje Colombia Ecuador
 permalink: blog/colombia-ecuador-en-bus

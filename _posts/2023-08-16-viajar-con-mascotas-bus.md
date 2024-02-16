@@ -7,7 +7,7 @@ autor: "Camilo Cuspián"
 h1: "Viajar con mascotas en bus: tips esenciales"
 jpg: blog/viajar-con-mascotas.jpg
 webps: blog/viajar-con-mascotas-376.webp
-webpm: blog/viajar-con-mascotas.webp
+hero: blog/viajar-con-mascotas.webp
 alt: Mujer viajando con su mascota
 permalink: blog/viajar-con-mascotas-bus
 excerpt: "Viajar con nuestra mascota puede convertirse en una experiencia memorable, pero también en un reto si no estamos bien preparados."

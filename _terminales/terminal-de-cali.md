@@ -7,7 +7,7 @@ category: Valle del Cauca
 h1: "Guía definitiva de la Terminal de Cali: Horarios, rutas, pasajes, etc"
 jpg: terminales/terminal-cali.jpg
 webps: terminales/terminal-cali-376.webp
-webpm: terminales/terminal-cali-600.webp
+hero: terminales/terminal-cali-600.webp
 alt: Terminal de Cali
 webp1: terminales/terminal-cali-exterior-600.webp
 webp2: terminales/terminal-cali-exterior-376.webp

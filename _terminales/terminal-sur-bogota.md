@@ -5,7 +5,7 @@ description: "¿Viajando desde Bogotá? La Terminal del Sur es tu mejor aliado. 
 category: cundinamarca
 h1: "Terminal del Sur: El epicentro del transporte en Bogotá"
 jpg: terminales/terminal-sur-bogota.jpg
-webpm: terminales/terminal-sur-bogota.webp
+hero: terminales/terminal-sur-bogota.webp
 webps: terminales/terminal-sur-bogota-376.webp
 alt: Terminal Sur Bogotá
 subtitle: "Terminal del Sur Bogotá: Tu oportunidad de comprar pasajes a destinos soñados"

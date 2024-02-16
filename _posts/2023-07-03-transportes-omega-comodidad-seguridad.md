@@ -1,34 +1,23 @@
 ---
-h1_alternativo: Viajar en Transportes Omega por Colombia
+layout: post
+json-post: true
+title: "Transportes Omega: Comodidad y seguridad en tu viaje ↩"
+description: Transportes Omega es una empresa que destaca por su comodidad y seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14 departamentos del país.
+h1: "Transportes Omega: Comodidad y seguridad en tu próximo viaje intermunicipal"
+autor: terminaldetransporte.com
+jpg: blog/transportes-omega.jpg
+hero: blog/transportes-omega-800.webp
+webpm: blog/transportes-omega-600.webp
+webps: blog/transportes-omega-376.webp
+alt: Transportes Omega Bus
+permalink: blog/transportes-omega-comodidad-seguridad
 excerpt: Transportes Omega es una empresa de transporte terrestre intermunicipal
   que destaca por su comodidad y seguridad en sus servicios. Con más de 300
   buses y 70 agencias, cubre 14 departamentos del país.
 referencias:
   - Imágenes tomadas de la página web oficial: https://www.expresobrasilia.com/
-layout: post
-json-post: true
-date: 2023-07-03
-autor: terminaldetransporte.com
-jpg: blog/transportes-omega.jpg
-webpb: blog/transportes-omega-800.webp
-excerpt_separator: <!-- excerpt -->
-title: "Transportes Omega: Comodidad y seguridad en tu viaje ↩"
-h1: "Transportes Omega: Comodidad y seguridad en tu próximo viaje intermunicipal"
-webpm: blog/transportes-omega-600.webp
-alt: Expreso Bolivariano Bus
-keywords:
-  - bus
-  - viajes
-  - colombia
-  - omega
   - transporte
-description: Transportes Omega es una empresa que destaca por su comodidad y
-  seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14
-  departamentos del país.
-webps: blog/transportes-omega-376.webp
-permalink: blog/transportes-omega-comodidad-seguridad
 hero: blog/transportes-omega.webp
-award: "Transportes Omega: viaja seguro y cómodo por Colombia"
 ---
 **Transportes Omega es una empresa de transporte terrestre intermunicipal** que destaca por su comodidad y seguridad en sus servicios. Con más de **300 buses** y **70 agencias**, cubre **14 departamentos** del país.
 

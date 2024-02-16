@@ -6,7 +6,7 @@ description: "Obtén detalles esenciales de la Terminal de Transporte Espinal: h
 category: Tolima
 h1: "La Terminal de Transporte Espinal: Teléfonos y más datos" 
 jpg: blog/terminal-espinal_600.jpg
-webpm: blog/terminal-espinal_600.webp
+hero: blog/terminal-espinal_600.webp
 webps: blog/terminal-espinal_376.webp
 alt: Terminal de transportes de Espinal en el Tolima
 subtitle: "Compra pasajes de las empresas de la terminal de Espinal"

@@ -7,7 +7,7 @@ description: Viaja cómodo en buses con baños ¡Infórmate aquí de su historia
 autor: Camilo Cuspián
 h1: "Viajando en bus con baños: Tu higiene y comodidad"
 jpg: blog/buses-baños.jpg
-webpm: blog/buses-baños.webp
+hero: blog/buses-baños.webp
 webps: blog/buses-baños-s.webp
 alt: Bus con baño
 permalink: bus-baño

@@ -9,7 +9,7 @@ description: Ahorra tiempo y dinero 💰 ¡Descubre los mejores pasajes en bus a
 category: Huila
 autor: Andres Franco
 h1: ¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila
-avif: blog/pasajes-huila-bus.avif
+hero: blog/pasajes-huila-bus.webp
 alt: Pasajes a Huila económicos y convenientes
 permalink: pasajes/pasajes-a-huila-bus
 cta1: Ver Precios
@@ -28,7 +28,7 @@ Si estás planeando un viaje a Huila, encontrar los mejores pasajes al mejor pre
 Los comparadores de precios en línea son una herramienta valiosa para encontrar las mejores ofertas en pasajes a Huila. Los sitios web más recomendados para comprarlos son:
 
 * Skyscanner
-* [Kayak](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fflights){:rel="nofollow noopener noreferrer sponsored" target="_blank"}
+* Kayak
 * Google Flights
 
 Estas páginas te permiten comparar los precios de múltiples aerolíneas y agencias de viajes en solo unos clics. Puedes ingresar tu origen y destino, así como las fechas de tu viaje, y te mostrará una lista de opciones de vuelo ordenadas por precio. Puedes filtrar los resultados por aerolínea, duración del vuelo y otras opciones para encontrar la mejor opción para tus necesidades y presupuesto.
@@ -58,7 +58,7 @@ Según un informe de la plataforma de viajes Kiwi.com, los vuelos con una escala
 
 Por ejemplo, un pasaje directo desde Bogotá a [Neiva]({{'terminal-de-neiva'|relative_url}}) puede costar $200.000, pero si estás dispuesto a hacer una escala corta en [Medellín]({{'terminal-de-medellin'|relative_url}}), puedes encontrar pasajes por $150.000.
 
-![Pasaje Huila ](/img/blog/pasajes-al-huila-bus.avif "Paisaje Huila")
+![Pasaje Huila ](/img/blog/pasajes-al-huila-bus.webp "Paisaje Huila")
 
 ## Otras consideraciones al reservar tus pasajes a Huila
 

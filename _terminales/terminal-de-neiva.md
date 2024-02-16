@@ -7,7 +7,7 @@ category: huila
 h1: La terminal de transporte de Neiva
 jpg: terminales/terminal-neiva.jpg
 webps: terminales/terminal-neiva-376.webp
-webpm: terminales/terminal-neiva-600.webp
+hero: terminales/terminal-neiva-600.webp
 alt: Terminal de Transportes Neiva
 webp1: terminales/terminal-neiva-exterior-600.webp
 webp2: terminales/terminal-neiva-exterior-376.webp

@@ -7,7 +7,7 @@ description: Evita imprevistos en tu viaje al aeropuerto. Encuentra toda la info
 autor: Camilo Cuspián
 h1: "Bus de Cali al aeropuerto: Las mejores rutas y servicios"
 jpg: blog/buses-aeropuerto-cali.jpg
-webpm: blog/buses-aeropuerto-cali.webp
+hero: blog/buses-aeropuerto-cali.webp
 webps: blog/buses-aeropuerto-cali-s.webp
 alt: Buses en el aeropuerto
 permalink: buses-aeropuerto-cali

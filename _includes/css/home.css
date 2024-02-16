@@ -1,3 +1,168 @@
+.about{
+  position: relative;
+  background: var(--bg);
+  overflow: hidden;
+  display: grid;
+}
+
+.about svg{
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  opacity: .8;
+}
+
+.about > div{
+  position: relative;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about div ol{
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  justify-content: center;
+}
+
+.about div ol li{
+  width: min(100%, 280px);
+}
+
+.about_cta{
+  background-color: var(--secundario);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+  text-align: center;
+  color: white;
+  display: grid;
+  place-items: center;
+  width: min(100%, 560px);
+}
+
+.entradas{
+  position: relative;
+  display: grid;
+  gap: 40px;
+  z-index: 1;
+}
+
+.entradas svg{
+  position: absolute;
+  top: calc(50% - 85px);
+  left: calc(50% - 85px);
+}
+
+.entradas ul{
+  position: relative;
+  margin: 1em auto;
+  display: flex;
+  gap: 28px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.entradas ul li{
+  width: min(100%, 160px);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.entradas ul a{
+  color: var(--grisFuentes);
+  text-align: center;
+}
+
+.empresa_home img{
+  object-fit: cover;
+}
+
+.empresa_home h4{
+  font-weight: 400;
+  padding: 12px;
+  margin: 0;
+}
+
+.pasajes{
+  background: url("/img/bg-amarillo-s.webp") repeat center center fixed;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.pasajes h2{
+  margin: 0 auto;
+}
+
+.pasajes p{
+  max-width: 600px;
+  margin-inline: auto;
+}
+
+.pasajes div article h3{
+  text-align: left;
+}
+
+.nosotros_home {
+  position: relative;
+  background-image: linear-gradient(to right, rgba(255,255,255, .85), rgba(250, 248, 248, .85)), url('/img/bg-bus.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat, no-repeat;
+}
+
+.nosotros_home div{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6em 0;
+  width: min(calc(100% - 24px), 800px);
+  margin-inline: auto;
+}
+
+.nosotros_home div h2{
+  margin-bottom: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .gallery{
   display: flex;
   flex-wrap: wrap;

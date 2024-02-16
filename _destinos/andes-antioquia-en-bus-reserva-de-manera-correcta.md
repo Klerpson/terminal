@@ -3,12 +3,11 @@ layout: pasaje
 json-post: "true"
 enlace1: enlace1
 enlace2: enlace2
-date: 2023-09-22T02:41:49.096Z
 title: Andes Antioquia en bus | Reserva de manera correcta
 description: "¿Cómo llegar a Andes Antioquia en bus? Infórmate de todo lo que necesitas para que tengas un viaje cómodo seguro y económico. "
 category: Antioquia
 h1: "Tu pasaje en bus a Andes Antioquia: Lo que necesitas saber"
-avif: blog/pasajes-andes-antioquia.avif
+hero: blog/pasajes-andes-antioquia.webp
 alt: pasaje andes antioquia
 cta1: Mira las rutas
 cta2: Conoce los precios

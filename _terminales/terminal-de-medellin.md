@@ -7,7 +7,7 @@ category: antioquia
 h1: Las terminales de transporte Norte de Medellín y Sur de Medellín.
 jpg: terminales/terminal-medellin.jpg
 webps: terminales/terminal-medellin-376.webp
-webpm: terminales/terminal-medellin-600.webp
+hero: terminales/terminal-medellin-600.webp
 alt: Terminal Norte Medellín
 webp1: terminales/terminal-medellin-sur-600.webp
 webp2: terminales/terminal-medellin-sur-376.webp

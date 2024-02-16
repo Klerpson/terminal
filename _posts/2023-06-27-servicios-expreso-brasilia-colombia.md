@@ -8,7 +8,7 @@ autor: Julian Franco
 h1: 'Viaja con comodidad y seguridad: los servicios de Expreso Brasilia en Colombia'
 jpg: blog/expreso-brasilia.jpg
 webps: blog/expreso-brasilia-376.webp
-webpm: blog/expreso-brasilia-600.webp
+hero: blog/expreso-brasilia-600.webp
 alt: Expreso Brasilia Bus
 permalink: blog/expreso-brasilia-viajar-comodamente-por-colombia
 excerpt_separator: <!-- excerpt -->

@@ -7,7 +7,6 @@ layout: default
   {{content}}
   {% include addm1.html %}
 </main>
-{% include kayak.html %}
 
 {% if page.empresas %}
 <section class="wrapper" id="telefonos">
@@ -35,9 +34,6 @@ layout: default
 </section>
 {% endif %}
 
-<div style="height: 150px; overflow: hidden">
-  <svg preserveAspectRatio="none" style="height:100%;width:100%;background-color:#fff" viewBox="0 0 500 150"><path d="M0 49.98c393.62 121.24 289.21 20.58 508.17 54.15L500 150H0Z" style="stroke:none;fill:var(--complemento1)"></svg>
-</div>
 <section class="conclusion wrapper">
   <h2>{{page.title}}</h2>
   {% include addm1.html %}
@@ -78,7 +74,3 @@ layout: default
     </li>
   </ul>
 </section>
-
-<a href="#">{% include boton-up.html %}</a>
-
-{% include footer.html %}

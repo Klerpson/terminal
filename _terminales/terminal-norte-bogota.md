@@ -5,7 +5,7 @@ description: "¿Buscas información sobre la Terminal del Norte en Bogotá? Aqu�
 category: cundinamarca
 h1: "Terminal satélite del Norte Bogotá: información actualizada y consejos útiles"
 jpg: terminales/terminal-norte-bogota.jpg
-webpm: terminales/terminal-norte-bogota.webp
+hero: terminales/terminal-norte-bogota.webp
 webps: terminales/terminal-norte-bogota-376.webp
 alt: Terminal Norte Bogotá
 subtitle: Utiliza la Terminal Norte de Bogotá y compra tus pasajes con las empresas de buses directamente.

@@ -7,7 +7,7 @@ category: Boyacá
 h1: "Terminal de Tunja: Un vistazo general"
 jpg: terminales/terminal-tunja.jpg
 webps: terminales/terminal-tunja-376.webp
-webpm: terminales/terminal-tunja-600.webp
+hero: terminales/terminal-tunja-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-tunja-boyaca-600.webp
 webp2: terminales/terminal-tunja-boyaca-376.webp

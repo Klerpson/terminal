@@ -7,7 +7,7 @@ category: norte santander
 h1: "Conoce el Terminal de Transporte de Cúcuta: Historia y Servicios Actuales"
 jpg: terminales/terminal-cucuta.jpg
 webps: terminales/terminal-cucuta-376.webp
-webpm: terminales/terminal-cucuta-600.webp
+hero: terminales/terminal-cucuta-600.webp
 alt: Terminal de Cúcuta
 webp1: terminales/terminal-cucuta-exterior-600.webp
 webp2: terminales/terminal-cucuta-exterior-376.webp

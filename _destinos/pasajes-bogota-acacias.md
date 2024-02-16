@@ -9,7 +9,7 @@ description: Encuentra todo lo que necesitas para tu viaje en bus de Bogotá a A
 category: Meta
 h1: "Pasajes de Bogotá a Acacias: Tu manual para un viaje perfecto"
 jpg: blog/pasaje-bogota-acacias.jpg
-webpm: blog/pasaje-bogota-acacias.webp
+hero: blog/pasaje-bogota-acacias.webp
 webps: blog/pasaje-bogota-acacias-s.webp
 alt: "Pasaje terrestre Bogotá acacias "
 cta1: Ver precios

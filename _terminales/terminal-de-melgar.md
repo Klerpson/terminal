@@ -7,7 +7,7 @@ description: Conoce la Terminal de Transporte Melgar, tu puerta de entrada a Tol
 category: Tolima
 h1: "Terminal de transporte Melgar: Pasaporte a los encantos del Tolima"
 jpg: blog/terminal-melgar_600.jpg
-webpm: blog/terminal-melgar_600.webp
+hero: blog/terminal-melgar_600.webp
 webps: blog/terminal-melgar_376.webp
 alt: Tiquetes de las empresas de la terminal de Melgar
 subtitle: Información completa de la terminal de transportes de Melgar

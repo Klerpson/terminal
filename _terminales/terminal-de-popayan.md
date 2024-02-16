@@ -7,7 +7,7 @@ category: cauca
 h1: La terminal Popayán en el corazón del Cauca 
 jpg: terminales/terminal-popayan.jpg
 webps: terminales/terminal-popayan-376.webp
-webpm: terminales/terminal-popayan-600.webp
+hero: terminales/terminal-popayan-600.webp
 alt: Terminal Popayan
 webp1: terminales/terminal-popayan-exterior-600.webp
 webp2: terminales/terminal-popayan-exterior-376.webp

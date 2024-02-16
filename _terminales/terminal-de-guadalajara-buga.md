@@ -7,7 +7,7 @@ category: Valle del Cauca
 h1: La Terminal de transporte de Buga
 jpg: terminales/terminal-buga.jpg
 webps: terminales/terminal-buga-376.webp
-webpm: terminales/terminal-buga-600.webp
+hero: terminales/terminal-buga-600.webp
 alt: Terminal de Transporte de Buga
 webp1: terminales/terminal-buga-exterior-600.webp
 webp2: terminales/terminal-buga-exterior-376.webp

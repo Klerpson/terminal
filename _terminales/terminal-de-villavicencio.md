@@ -7,7 +7,7 @@ category: meta
 h1: La terminal de transporte Villavicencio
 jpg: terminales/terminal-villavicencio.jpg
 webps: terminales/terminal-villavicencio-376.webp
-webpm: terminales/terminal-villavicencio-600.webp
+hero: terminales/terminal-villavicencio-600.webp
 alt: Terminal Villavicencio
 webp1: terminales/terminal-villavicencio-meta-600.webp
 webp2: terminales/terminal-villavicencio-meta-376.webp

@@ -7,7 +7,7 @@ autor: terminaldetransporte.com
 h1: 'Expreso Bolivariano: viaja seguro y cómodo por Colombia'
 jpg: blog/expreso-bolivariano-bus.jpg
 webps: blog/expreso-bolivariano-bus-376.webp
-webpm: blog/expreso-bolivariano-bus-600.webp
+hero: blog/expreso-bolivariano-bus-600.webp
 alt: Expreso Bolivariano Bus
 permalink: blog/expreso-bolivariano-viaja-seguro-y-comodo-por-colombia
 excerpt: Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. Ofrece una gran variedad de servicios de autobús intermedio y de lujo en Colombia y Perú

@@ -6,7 +6,7 @@ title: "Terminal de Ipiales: Información Actualizada y Consejos Útiles"
 description: Encuentra horarios, teléfonos y servicios en la Terminal de Ipiales. ¡Planifica tu viaje ahora y disfruta de una experiencia sin igual!
 category: Nariño
 h1: "La terminal de Ipiales: horarios, teléfonos, pasajes y más"
-avif: blog/terminal-ipiales.avif
+hero: blog/terminal-ipiales.webp
 alt: "Terminal Ipiales fotos"
 subtitle: Terminal de Ipiales - Teléfono y otros datos
 intro: " La Terminal de Ipiales es el nexo clave para viajeros en la región. Con servicios modernos y diversas rutas, esta guía te ofrece todo lo que necesitas saber para tu próximo viaje. Desde horarios y tarifas hasta consejos útiles, encuentra aquí tu camino hacia una experiencia de viaje perfecta."

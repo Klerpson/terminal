@@ -10,9 +10,8 @@ noindex: true
 <body>
   {% include header.html %}
   <main class="blog-gallery wrapper flow">
-    <h1>Los pasajes de la terminal que te llevarán a tu destino</h1>
+    <h2>🎫 Busca información sobre rutas y empresas que te llevarán a tu destino</h2>
     <p>Sólo haz <b>clic en el departamento que necesitas.</b> La página filtrará por ti los destinos que ofrecen sus pasajes.</p>
-{% include kayak.html %}
 
     <div class="blog-tags">
       <button data-name="all" class="active">Todos</button>
@@ -31,11 +30,14 @@ noindex: true
     {% assign filtered_cat = item.category | append: '|' %}
       {% if filtered_categories_array contains filtered_cat %}
       <div class="post" data-name="{{ item.category }}">
-        <span>Pasajes en {{ item.category | capitalize }}</span>
-        <div class="links">
+        <h3>Pasajes en {{ item.category | capitalize }}</h3>
+        <div class="home_gallery">
           {% for destino in site.destinos %}
           {% if destino.category contains item.category %}
-          <article><a href="{{ destino.url }}"><h3>{{ destino.h1 }}</h3></a></article>
+          <article>
+            <img src="{{site.baseurl}}/img/{{destino.hero}}" alt="{{destino.alt}}">
+            <a href="{{site.baseurl}}{{ destino.url }}"><h4>{{ destino.h1 }}</h4></a>
+          </article>
           {% endif %}
           {% endfor %}
         </div>

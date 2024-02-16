@@ -7,7 +7,7 @@ description: Asegura el buen comportamiento en el bus escolar de tus niños. Con
 autor: Paula Moreno
 h1: Fomenta el buen comportamiento en el bus escolar
 jpg: blog/comportamiento-bus-escolar.jpg
-webpm: blog/comportamiento-bus-escolar.webp
+hero: blog/comportamiento-bus-escolar.webp
 webps: blog/comportamiento-bus-escolar-s.webp
 alt: Bus escolar
 permalink: comportamiento-bus-escolar

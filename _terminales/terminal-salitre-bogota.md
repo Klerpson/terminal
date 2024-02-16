@@ -5,7 +5,7 @@ description: "Planifica tu viaje desde la Terminal Salitre. Encuentra informaci�
 category: cundinamarca
 h1: "Terminal Salitre de Bogotá: información y servicios"
 jpg: terminales/terminal-salitre.jpg
-webpm: terminales/terminal-salitre.webp
+hero: terminales/terminal-salitre.webp
 webps: terminales/terminal-salitre-376.webp
 alt: Terminal Salitre Bogotá
 subtitle: Planifica tu viaje desde la Terminal de Salitre. Utiliza nuestra información actualizada sobre las empresas de transporte.

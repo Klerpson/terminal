@@ -3,6 +3,8 @@ layout: post
 title: Términos y Condiciones de Uso | Terminal de Transporte
 description: Condiciones de uso de la página Terminal de Transporte
 h1: Término y condiciones, privacidad y aspectos legales de nuestro portal
+hero: legal.webp
+alt: Información legal de terminaldetransporte.com
 noindex: true
 ---
 ## Aviso legal para sitio web de Terminal de Transporte
@@ -86,6 +88,7 @@ Julian Franco y/o sus proveedores podrían, en cualquier momento y ya sea de for
 ## Marco jurídico
 
 Este Sitio y su contenido se rigen por la legislación de Colombia. Todo posible litigio relacionado con el Sitio o con su contenido se dirimirá en los tribunales de justicia colombianos.
+{:id="privacidad"}
 
 ## Cliente, Proveedor y Colaborador
 

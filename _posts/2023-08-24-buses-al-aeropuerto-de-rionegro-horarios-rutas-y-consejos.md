@@ -7,7 +7,7 @@ description: " Información para viajar en bus, al Aeropuerto de Rionegro. Desde
 autor: Camilo Cuspián
 h1: "Viajando en bus al aeropuerto de Rionegro: Rutas, horarios y consejos prácticos"
 jpg: blog/buses-aeropuerto.jpg
-webpm: blog/buses-aereopuerto-2-.webp
+hero: blog/buses-aereopuerto-2-.webp
 webps: blog/buses-aeropuerto-s-2-.webp
 alt: Bus Aeropuerto
 permalink: bus-aeropuerto-rionegro

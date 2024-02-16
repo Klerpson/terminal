@@ -6,14 +6,12 @@ title: ¡Descubre las mejores ofertas de pasajes a Lima en bus!
 description: ¡Te contamos las mejores ofertas para viajar en bus a Lima! 🚌 Descubre una experiencia única y ahorra tiempo y dinero. 🏃🏼 ¡Entra ahora!
 autor: Andres Franco
 h1: ¡Descubre las mejores ofertas de pasajes a Lima en bus!
-avif: blog/ofertas-lima-bus.avif
+hero: blog/ofertas-lima-bus.webp
 alt: Ofertas de pasajes a Lima
 permalink: blog/ofertas-pasajes-bus-lima-colombia
 excerpt: ¡Encuentra aquí las mejores ofertas para viajar en bus a Lima! Descubre una experiencia única y ahorra tiempo y dinero
 ---
 Si estás planeando un viaje a Lima, la capital de Perú, seguramente estés buscando las mejores opciones para llegar allí.
-
->Si lo que buscas es un pasaje en avión, [mira estas promociones](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fflights "Promociones pasajes"){:rel="nofollow noopener noreferrer sponsored" target="_blank"}
 
 {% include addm9.html %}
 
@@ -75,7 +73,7 @@ Los buses a Lima tienen una amplia variedad de rutas y paradas, lo que te brinda
 
 Algunas empresas de transporte incluso ofrecen paradas en lugares turísticos importantes en el camino hacia Lima, lo que te permite hacer paradas intermedias y disfrutar de otros destinos de Perú en tu viaje.
 
-![Comprando pasajes en bus a Lima](/img/blog/ofertas-pasajes-lima-bus.avif "Comprar pasajes bus Lima")
+![Comprando pasajes en bus a Lima](/img/blog/ofertas-pasajes-lima-bus.webp "Comprar pasajes bus Lima")
 
 ## Consejos para encontrar las mejores ofertas de pasajes a Lima en bus
 
@@ -83,11 +81,11 @@ Algunas empresas de transporte incluso ofrecen paradas en lugares turísticos im
 
 ### Reserva con anticipación
 
-Para asegurarte las mejores tarifas, es recomendable **[reservar tus pasajes con anticipación](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fflights){:rel="nofollow noopener noreferrer sponsored" target="_blank"}**. Muchas empresas de transporte ofrecen descuentos especiales para aquellos que reservan con cierta antelación, por lo que podrás ahorrar dinero al planificar con tiempo.
+Para asegurarte las mejores tarifas, es recomendable reservar tus pasajes con anticipación. Muchas empresas de transporte ofrecen descuentos especiales para aquellos que reservan con cierta antelación, por lo que podrás ahorrar dinero al planificar con tiempo.
 
 ### Suscríbete a boletines y promociones
 
-Algunas empresas de transporte tienen boletines y [promociones exclusivas para sus suscriptores](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fflights){:rel="nofollow noopener noreferrer sponsored" target="_blank"}. Al registrarte en estos boletines, recibirás información actualizada sobre ofertas y descuentos especiales en pasajes a Lima, lo que te permitirá encontrar las mejores ofertas.
+Algunas empresas de transporte tienen boletines y promociones exclusivas para sus suscriptores. Al registrarte en estos boletines, recibirás información actualizada sobre ofertas y descuentos especiales en pasajes a Lima, lo que te permitirá encontrar las mejores ofertas.
 
 ### Utiliza comparadores de precios en línea
 

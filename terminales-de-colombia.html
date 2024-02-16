@@ -2,68 +2,36 @@
 layout: default
 title: Terminales de transporte terrestre de Colombia
 description: La terminal de transporte de cada ciudad Colombiana la estamos incluyendo en esta página. Viaja 100% seguro de tener toda la información, datos y tiquetes.
-h1: Las terminales de transporte de toda Colombia
+h1: 🏪 Encuentra las terminales de transporte en bus para viajar por toda Colombia
 permalink: /terminales-de-colombia
 noindex: true
 ---
-<section class="wrapper flow">
-  <h1>{{page.h1}}</h1>
-  <p>Haz <b>clic en el botón del departamento</b>, luego selecciona la termianl que buscas. Allí encontrarás los <i>teléfonos, empresas de buses, datos de contacto, etc.</i></p>
-  <div class="blog-tags">
-    <button data-name="all" class="active">Todos</button>
-    {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
-    {% for item in site.terminales %}
-        {% assign filtered_cat = item.category | append: '|' %}
-        {% if filtered_categories_array contains filtered_cat %}
-        <button data-name="{{ item.category}}">{{ item.category | upcase }}</button>
-        {% endif %}
-        {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
-    {% endfor %}
-  </div>
-</section>
-
-<main class="posts terminales wrapper">
+<main class="empresa_home content">
   {% include addm2.html %}
 {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
 {% for item in site.terminales %}
 {% assign filtered_cat = item.category | append: '|' %}
   {% if filtered_categories_array contains filtered_cat %}
   <div class="post" data-name="{{ item.category }}">
-    <span>🚌 Terminales en {{ item.category | upcase }}</span>
-    <section class="links">
+    <h3>🚏 Terminales en {{ item.category | upcase }}</h3>
+    <div class="home_gallery">
       {% for destino in site.terminales %}
       {% if destino.category contains item.category %}
       <article>
-        <a href="{{destino.url}}">
-          {% if destino.jpg %}
-          {% include img.html webpm=destino.webpm webps=destino.webps alt=destino.alt %}
-          {% else %}
-          <img src="{{site.baseurl}}/img/{{destino.avif}}" alt="{{destino.alt}}" loading="lazy">
-          {% endif %}
-          <h3>{{destino.title}}</h3></a>
+        <img src="{{site.baseurl}}/img/{{destino.webps}}" alt="{{destino.alt}}" loading="lazy">
+        <div>
+          <a href="{{destino.url}}"><h4>{{destino.h1}}</h4></a>
+        </div>
       </article>
       {% endif %}
       {% endfor %}
-    </section>
+    </div>
   </div>
   {% endif %}
   {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
 {% endfor %}
 </main>
-{% include kayak.html %}
 
-<div style="height: 150px; overflow: hidden">
-  <svg
-    viewBox="0 0 500 150"
-    preserveAspectRatio="none"
-    style="height: 100%; width: 100%"
-  >
-    <path
-      d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z"
-      style="stroke: none; fill: #9dc5bb"
-    ></path>
-  </svg>
-</div>
 <section class="conclusion wrapper">
   <h2>La terminal de transporte es tu guía segura para viajar por Colombia</h2>
   <ul>
@@ -97,7 +65,6 @@ noindex: true
 </section>
 {% include addm6.html %}
 
-{% include footer.html %}
 <script>
   const filterButtons = document.querySelectorAll(".blog-tags button");
   const filterPosts = document.querySelectorAll(".posts .post");
@@ -112,16 +79,5 @@ noindex: true
 
   filterButtons.forEach(button => button.addEventListener("click", filter));
   </script>
-  <!-- Script pointing to search-script.js -->
-  <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" async></script>
-  <!-- Configuration -->
-  <script>
-    var sjs = SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      noResultsText: 'No tenemos este texto aún',
-      fuzzy: false
-    });
-  </script>
+
 

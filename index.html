@@ -2,147 +2,78 @@
 layout: default
 title: Terminales de transporte Colombianas
 description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
-h1: "Bienvenido a tu Terminal de Transporte: Tu portal para viajar en bus en Colombia 🚌"
+h1: "🏪 Principales terminales de buses en las ciudades de Colombia"
 ---
-
-<div style="height: 150px; overflow: hidden">
-  <svg preserveAspectRatio="none" style="height:100%;width:100%" viewBox="0 0 500 150"><path d="M-39.78 26.16c302.47 202.31 256.2-44.39 647.85 83.89l-47.97 85.84L0 150Z" style="stroke:none;fill:var(--complemento1)"></svg>
-</div>
-<div>
-  <section class="tiquetes wrapper flow">
-    <h2>Compra pasajes, mira horarios de buses y las rutas que necesitas</h2>
-    <ul>
-      <li>
-        <span>01</span>
-        <p>Busca la terminal por departamentos y selecciona la terminal de transporte</p>
-      </li>
-      <li>
-        <span>02</span>
-        <p>Baja hasta la lista de empresas. <strong>Anota el teléfono de la empresa de buses</strong></p>
-      </li>
-      <li>
-        <span>03</span>
-        <p>Llama <strong>directamente a las empresas de buses</strong> sin intermediarios</p>
-      </li>
-    </ul>
-    <div>
-      <h2>Tenemos las secciones por pasajes, empresas y terminales de buses colombianas</h2>
-      <p>Gracias a <b>terminaldetransporte.com</b> puedes acceder a toda la información para planificar tu próximo viaje en bus por Colombia. ¿Qué información te puede servir?</p>
+<section class="about">
+  <svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" fill="none"><g clip-path="url(#a)"><path stroke="#FDEB05" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.714" d="m84.853 52.528 4.04 4.04m8.082 8.082 4.04 4.04m8.081 8.082 4.041 4.04m-56.569 0 4.041 4.04m8.081 8.082 4.041 4.04m8.081 8.082 4.04 4.04m22.281-66.726-.057.056a11.43 11.43 0 0 0 16.163 16.163l.056-.065 10.106 10.106a5.716 5.716 0 0 1 0 8.081l-52.589 52.588a5.713 5.713 0 0 1-8.081 0L62.63 119.198a11.428 11.428 0 1 0-16.163-16.162L36.365 92.934a5.714 5.714 0 0 1 0-8.081l52.589-52.589a5.714 5.714 0 0 1 8.081 0l10.098 10.106Z"/></g><defs><clipPath id="a"><path fill="#fff" d="m84.853 0 84.853 84.853-84.853 84.853L0 84.853z"/></clipPath></defs></svg>
+  <div class="wrapper flow">
+    <h2 class="title">Compra pasajes, mira horarios y rutas del bus que necesitas</h2>
+    <ol>
+      <li>Busca la ciudad donde comienza tu viaje y <strong>selecciona la terminal</strong> de transporte.</li>
+      <li>Compara los datos del precio del pasaje, horarios, buses, etc. Luego <strong>selecciona la empresa</strong> que más te guste.</li>
+      <li>Habla directamente con la empresa y <strong>compra tu pasaje sin intermediarios</strong>, sin pagar comisiones.</li>  
+    </ol>
+    <div class="about_cta">
+      <h3>¿Comprar sin sobrecostos?</h3>
+      <p>¡Sí! En nuestra página web compras directamente a la empresa de transporte, sin pagar comisiones</p>
     </div>
-    <ul>
-      <li>
-        <h3>Bus de pasajeros: Precios y más</h3>
-        <p>Mira <strong>el precio en el bus de pasajeros</strong>, cuánto cuestan los pasajes por rutas, cuánto vale el pasaje por ciudades y así hacer tus planes.</p>
-        <a href="{{'pasajes'|relative_url}}" class="boton-verde botones">Pasajes y Rutas</a>
-      </li>
-      <li>
-        <h3>Empresas de buses: Tu mejor opción</h3>
-        <p>Conoce las diferentes <strong>empresas de buses</strong>, y resuelve la pregunta "¿a qué hora sale el bus?" con los horarios de salida de buses.</p>
-        <a href="{{'blog'|relative_url}}" class="boton-verde botones">Mirar el blog</a>
-      </li>
-      <li>
-        <h3>Terminales de buses: Información completa</h3>
-        <p>Averigua la <strong>estación de bus</strong> más cercana a ti, su localización, sus datos de teléfono o dirección, servicios y más.</p>
-        <a href="{{'terminales-de-colombia'|relative_url}}" class="boton-verde botones">Las terminales</a>
-      </li>
-    </ul>
-  </section>
-  
-  <section class="blog-intro wrapper">
-    {% include kayak.html %}
-    <h2>Últimos artículos de nuestro blog</h2>
-    <p>Te enseñamos <strong>cómo aprovechar al máximo los viajes en bus</strong>. Algunos consejos pueden estar relacionados con estos temas como <i>evitar un bus lleno</i>, <i>cuidar tu maleta de viaje</i>, <i>alquilar un bus</i>, <i>cómo comprar con tu plata física o digital tus pasajes,</i> etc</p>
-    
-    <h3>Haz clic y lee más sobre los viajes en bus desde las terminales Colombianas</h3>
-    {% assign post1 = site.posts[0] %}
-    <article>
-      <a href="{{site.baseurl}}{{ post1.url }}">
-        <img
-        {% if post1.jpg %}
-          src="{{ site.baseurl }}/img/{{ post1.webps }}"
-          {% else %}
-          src="{{ site.baseurl }}/img/{{ post1.avif }}"
-          {% endif %}
-          alt="{{ post1.alt }}"
-          loading="lazy"
-          width="376"
-          height="216"
-        >
-        <h4>{{ post1.h1 | truncate: 68 }}</h4>
-      </a>
-    </article>
-    {% assign post2 = site.posts[1] %}
-    <article>
-      <a href="{{site.baseurl}}{{ post2.url }}">
-        <img
-        {% if post2.jpg %}
-          src="{{ site.baseurl }}/img/{{ post2.webps }}"
-          {% else %}
-          src="{{ site.baseurl }}/img/{{ post2.avif }}"
-          {% endif %}
-          alt="{{ post2.alt }}"
-          loading="lazy"
-          width="376"
-          height="216"
-          >
-          <h4>{{ post2.h1 | truncate: 68 }}</h4>
-        </a>
-      </article>
-      {% assign post3 = site.posts[2] %}
-    <article>
-      <a href="{{site.baseurl}}{{ post3.url }}">
-        <img
-        {% if post3.jpg %}
-        src="{{ site.baseurl }}/img/{{ post3.webps }}"
-          {% else %}
-          src="{{ site.baseurl }}/img/{{ post3.avif }}"
-          {% endif %}
-          alt="{{ post3.alt }}"
-          loading="lazy"
-          width="376"
-          height="216"
-        >
-        <h4>{{ post3.h1 | truncate: 68 }}</h4>
-      </a>
-    </article>
-  </section>
-  <section class="cta flow">
-    <p>En nuestra página <strong>Terminal de Transporte</strong> aprenderás a viajar por cada terminal de Colombia de forma segura y con tranquilidad. ¿Te gustaría saber algo más?</p>
-    <a href="/blog" class="boton-verde botones">Visita nuestro blog</a>
-  </section>
-  <div style="height: 150px; overflow: hidden">
-    <svg preserveAspectRatio="none" style="height:100%;width:100%" viewBox="0 0 500 150"><path d="M0 49.98c393.62 121.24 289.21 20.58 508.17 54.15L500 150H0Z" style="stroke:none;fill:var(--complemento1)"></svg>
   </div>
-  <section class="conclusion wrapper">
-    <h2>La <i>Terminal de Transporte</i> te ayuda a viajar en bus por Colombia</h2>
-    {% include addm2.html %}
-    <ul>
-      <li>
-        <span>01</span>
-        <h3>Fuentes confiables</h3>
-        <p>
-          Las páginas web oficiales de las terminales de transporte son nuestra fuente directa de información.
-        </p>
-      </li>
-      <li>
-        <span>02</span>
-        <h3>Datos actualizados</h3>
-        <p>
-          Estamos al tanto de los últimos cambios para que puedas planear tu viaje con la última información disponible.
-        </p>
-      </li>
-      <li>
-        <span>03</span>
-        <h3>
-          <a href="{{'blog'|relative_url}}">Consejo útiles</a> para viajar
-        </h3>
-        <p>
-          Viaja de forma segura y confiable por las terminales del país
-          siguiendo los consejos de nuestro blog.
-        </p>
-      </li>
-    </ul>
-  </section>
-
-  {% include footer.html %}
-</div>
+</section>
+<section class="wrapper flow entradas">
+  <svg xmlns="http://www.w3.org/2000/svg" width="170" height="170" fill="none"><g clip-path="url(#a)"><path stroke="#FDEB05" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".7" stroke-width="6.667" d="m31.82 81.317 63.64-35.355m28.284 28.284-35.356 63.64m10.607-67.175 7.071-7.071M81.317 88.388l7.071-7.07M63.64 106.065l7.07-7.071"/></g><defs><clipPath id="a"><path fill="#fff" d="m84.853 0 84.853 84.853-84.853 84.853L0 84.853z"/></clipPath></defs></svg>
+  <h2>🚌 Conoce las mejores empresas de transporte de buses Colombianas</h2>
+  <ul>
+    {% for empresa in site.data.empresas-home %}
+    <li>
+      <a href="{{empresa.url}}" title="{{empresa.alt}}">
+        <article class="empresa_home">
+          <img src="{{site.baseurl}}/img/{{empresa.img}}" alt="{{empresa.alt}}" loading="lazy" width="160" height="160">
+          <h4>{{empresa.title}}</h4>
+        </article>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% include boton.html url="/terminales-de-colombia" title="Terminales Colombianas" texto="🚌 Conoce las demás empresas" %}
+</section>
+<main class="wrapper pasajes">
+  <h2>¿Qué pasaje de bus necesitas comprar?</h2>
+  <p>Estas son las rutas de bus más buscadas en <strong>terminaldetrasporte.com</strong></p>
+  <div class="home_gallery">
+    {% for pasaje in site.data.pasajes-home %}
+    <article>
+      <img src="{{site.baseurl}}/img/{{pasaje.img}}" alt="{{pasaje.alt}}">
+      <div>
+        <a href="./{{pasaje.url}}"><h3>{{pasaje.title}}</h3></a>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% include boton.html url="/pasajes" title="Terminales Colombianas" texto="🎫 Busca más pasajes de bus" %}
+</main>
+<section class="nosotros_home">
+  <div class="flow">
+    <h2>La Terminal de Transporte te ayuda a viajar en bus por Colombia</h2>
+    <h4>01. Utilizamos fuentes confiables</h4>
+    <p>Las <strong>páginas web oficiales de las terminales</strong> de transporte son nuestra fuente directa de información verídica.</p>
+    <h4>02. Actualizamos nuestros datos</h4>
+    <p>Estamos al tanto de los últimos cambios para que puedas <strong>planear tu viaje con la última información</strong> disponible.</p>
+    <h4>03. Consejos para viajar en bus</h4>
+    <p>Viaja de forma segura y confiable por las terminales del país siguiendo <a href="{{'blog'|relative_url}}" title="Blog Terminal de Transporte">los consejos de nuestro blog</a>.</p>
+  </div>
+</section>
+<section class="wrapper entradas">
+  <h2>🧳 ¿Estás listo para viajar en bus? No salgas sin leer estos consejos</h2>
+  <p>Te enseñamos <strong>cómo aprovechar al máximo los viajes en bus</strong>. Algunos consejos pueden estar relacionados con estos temas como evitar un bus lleno, cuidar tu maleta de viaje, alquilar un bus, cómo comprar con tu plata física o digital tus pasajes, etc</p>
+  <div class="home_gallery">
+    {% for post in site.posts limit: 4 %}
+    <article>
+      <img src="{{site.baseurl}}/img/{{post.hero}}" alt="{{post.alt}}">
+      <div>
+        <a href="{{site.baseurl}}/{{post.url}}"><h3>{{post.title}}</h3></a>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% include boton.html url="/pasajes" title="Terminales Colombianas" texto="🎫 Busca más pasajes de bus" %}
+</section>

@@ -7,7 +7,7 @@ category: magdalena
 h1: La terminal de Santa Marta
 jpg: terminales/terminal-santa-marta.jpg
 webps: terminales/terminal-santa-marta-376.webp
-webpm: terminales/terminal-santa-marta-600.webp
+hero: terminales/terminal-santa-marta-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-santa-marta-exterior-600.webp
 webp2: terminales/terminal-santa-marta-exterior-376.webp

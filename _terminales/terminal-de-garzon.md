@@ -7,7 +7,7 @@ category: huila
 h1: La terminal de transporte Garzón y el turismo del Huila
 jpg: terminales/terminal-garzon.jpg
 webps: terminales/terminal-garzon-376.webp
-webpm: terminales/terminal-garzon-600.webp
+hero: terminales/terminal-garzon-600.webp
 alt: Terminal de Transporte de Garzón Huila
 webp1: terminales/terminal-garzon-huila-600.webp
 webp2: terminales/terminal-garzon-huila-376.webp

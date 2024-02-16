@@ -1,30 +1,8 @@
 ---
 layout: default
 ---
-<section class="post-header">
-  {% if page.jpg %}
-  {% include img.html webpm=page.webpm webps=page.webps alt=page.alt %}
-  {% else %}
-  <img src="{{site.baseurl}}/img/{{page.avif}}" alt="{{page.alt}}" loading="lazy">
-  {% endif %}
-  
-  <h1>{{page.h1}}</h1>
-  <div class="post-social">
-    <span>Autor: {{page.autor}}</span>
-    <ul>
-      <li>Compartir:</li>
-      <li>
-        <a class="f" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" ><svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="M11.344 5.71c0-.73.074-1.122 1.199-1.122h1.502V1.871h-2.404c-2.886 0-3.903 1.36-3.903 3.646v1.765h-1.8V10h1.8v8.128h3.601V10h2.403l.32-2.718h-2.724l.006-1.572z"/></svg>
-        </a>
-      </li>
-      <li>
-        <a class="t" href="https://twitter.com/intent/tweet?text=&url={{site.url}}{{page.url}}" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="M11.039 14.123c-.231-.129-.414-.303-.498-.518-.011-.037-.001-4.435-.001-4.435h3.253V6.75h-3.25V3.5l-2.069.012c-.088.669-.249 1.221-.483 1.655a3.624 3.624 0 0 1-.932 1.114 4.107 4.107 0 0 1-1.394.713l.001 2.194 1.627-.018v4.215c0 .594.067 1.047.198 1.359.133.312.37.607.713.887.343.277.757.49 1.242.639a5.42 5.42 0 0 0 1.64.23c.555 0 1.006-.057 1.484-.164.479-.104 1.165-.287 1.756-.549l.009-1.996c-.692.428-1.549.59-2.247.59-.395 0-.744-.088-1.049-.258"/></svg>
-        </a>
-      </li>
-    </ul>
-  </div>
-</section>
-<article class="post-content wrapper flow">
+
+<article class="post-content flow">
   {{ content }}
   {% if page.referencias %}
   <section id="fuentes">
@@ -44,13 +22,32 @@ layout: default
   {% endif %}
   {% include addm2.html %}
 </article>
-
-<div style="height: 150px; overflow: hidden;" ><svg preserveAspectRatio="none" style="height:100%;width:100%" viewBox="0 0 500 150"><path d="M0 49.98c393.62 121.24 289.21 20.58 508.17 54.15L500 150H0Z" style="stroke:none;fill:var(--complemento1)"/></svg></div>
-<section class="conclusion wrapper">
-  {% include kayak.html %}
-
-</section>
-
-<a href="#">{% include boton-up.html %}</a>
-
-{% include footer.html %}
+{% if page.url == "/legal" %}
+<div class="post-social">
+  <span>Autor: {{page.autor}}</span>
+  <ul>
+    <li>Comparte:</li>
+    <li>
+      <a class="f" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=24,height=24,toolbar=1,resizable=0'); return false;" ><svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="M11.344 5.71c0-.73.074-1.122 1.199-1.122h1.502V1.871h-2.404c-2.886 0-3.903 1.36-3.903 3.646v1.765h-1.8V10h1.8v8.128h3.601V10h2.403l.32-2.718h-2.724l.006-1.572z"/></svg>
+      </a>
+    </li>
+    <li>
+      <a class="t" href="https://twitter.com/intent/tweet?text=&url={{site.url}}{{page.url}}" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=24,height=24,toolbar=1,resizable=0'); return false;"><svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="M11.039 14.123c-.231-.129-.414-.303-.498-.518-.011-.037-.001-4.435-.001-4.435h3.253V6.75h-3.25V3.5l-2.069.012c-.088.669-.249 1.221-.483 1.655a3.624 3.624 0 0 1-.932 1.114 4.107 4.107 0 0 1-1.394.713l.001 2.194 1.627-.018v4.215c0 .594.067 1.047.198 1.359.133.312.37.607.713.887.343.277.757.49 1.242.639a5.42 5.42 0 0 0 1.64.23c.555 0 1.006-.057 1.484-.164.479-.104 1.165-.287 1.756-.549l.009-1.996c-.692.428-1.549.59-2.247.59-.395 0-.744-.088-1.049-.258"/></svg>
+      </a>
+    </li>
+  </ul>
+</div>
+<aside class="pasajes flow" style="padding-top: 2em;">
+  <h3>Últimas publicaciones del Blog</h3>
+  <div class="home_gallery wrapper">
+    {% for post in site.posts limit:5 %}
+    <article>
+      <img src="{{site.baseurl}}/img/{{post.hero}}" alt="{{post.alt}}" loading="lazy">
+      <div>
+        <a href="{{post.url}}"><h3>{{post.h1}}</h3></a>
+      </div>
+    </article><!-- End recent post item-->
+    {% endfor %}
+  </div>
+</aside><!-- End sidebar recent posts-->
+{% endif %}

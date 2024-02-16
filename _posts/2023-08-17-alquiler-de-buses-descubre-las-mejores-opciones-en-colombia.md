@@ -7,7 +7,7 @@ description: Lee aquí la mejor información sobre alquiler de buses para viajar
 autor: Camilo Cuspián
 h1: "Alquiler de buses y minibuses: Tu solución para viajes grupales en Colombia"
 jpg: blog/alquiler-buses.jpg
-webpm: blog/alquiler-buses.webp
+hero: blog/alquiler-buses.webp
 webps: blog/alquiler-buses-376.webp
 alt: Bus en alquiler
 permalink: blog/alquiler-buses-colombia

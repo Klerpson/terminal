@@ -7,7 +7,7 @@ category: arauca
 h1: "Líderes en transporte: Terminal de Arauca destacada"
 jpg: terminales/terminal-arauca.jpg
 webps: terminales/terminal-arauca-376.webp
-webpm: terminales/terminal-arauca-600.webp
+hero: terminales/terminal-arauca-600.webp
 alt: Terminal de Aguachica
 webp1: terminales/terminal-arauca-arauca-600.webp
 webp2: terminales/terminal-arauca-arauca-376.webp

@@ -7,7 +7,7 @@ description: "Buses de servicio especial en Colombia: Encuentra la mejor opción
 autor: Paula Moreno
 h1: "Buses de servicio especial: Viaja de manera diferente en Colombia"
 jpg: blog/buses-servicio-especial-600.jpg
-webpm: blog/buses-servicio-especial-600.webp
+hero: blog/buses-servicio-especial-600.webp
 webps: blog/buses-servicio-especial-376.webp
 alt: Bus de servicio especial
 permalink: blog/buses-servicio-especial

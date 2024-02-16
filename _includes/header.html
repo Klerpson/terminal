@@ -1,91 +1,47 @@
-<header>
-  <div class="tooltip">
-    <span>Terminal de transporte</span>
-    <span>Colombia</span>
-  </div>
-  <nav>
-    {% if page.url == "/" %}
-    <a href="/" title="Inicio" class="active">
-      <svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="m15.971 7.708-4.763-4.712c-.644-.644-1.769-.642-2.41-.002L3.99 7.755l-.028.028a2.063 2.063 0 0 0-.709 1.555v6.07a2.08 2.08 0 0 0 2.078 2.078h9.338a2.08 2.08 0 0 0 2.078-2.078v-6.07c0-.529-.205-1.037-.57-1.421a.544.544 0 0 0-.206-.209zm-.291 7.7c0 .559-.453 1.012-1.011 1.012h-4.318c.04-.076.096-.143.096-.232v-3.311a.533.533 0 1 0-1.067 0v3.311c0 .09.057.156.096.232H5.331c-.557 0-1.01-.453-1.01-1.012v-6.07c0-.305.141-.591.386-.787a.491.491 0 0 0 .1-.104L9.55 3.75a.659.659 0 0 1 .906.002l4.786 4.735a.55.55 0 0 0 .084.09.991.991 0 0 1 .354.76v6.071z"/></svg>  Inicio
-    </a>
-    {% else %}
-    <a href="/" title="Inicio">
-      <svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="m15.971 7.708-4.763-4.712c-.644-.644-1.769-.642-2.41-.002L3.99 7.755l-.028.028a2.063 2.063 0 0 0-.709 1.555v6.07a2.08 2.08 0 0 0 2.078 2.078h9.338a2.08 2.08 0 0 0 2.078-2.078v-6.07c0-.529-.205-1.037-.57-1.421a.544.544 0 0 0-.206-.209zm-.291 7.7c0 .559-.453 1.012-1.011 1.012h-4.318c.04-.076.096-.143.096-.232v-3.311a.533.533 0 1 0-1.067 0v3.311c0 .09.057.156.096.232H5.331c-.557 0-1.01-.453-1.01-1.012v-6.07c0-.305.141-.591.386-.787a.491.491 0 0 0 .1-.104L9.55 3.75a.659.659 0 0 1 .906.002l4.786 4.735a.55.55 0 0 0 .084.09.991.991 0 0 1 .354.76v6.071z"/></svg>  Inicio
-    </a>
-    {% endif %}
-    {% if page.url contains "terminales-de-colombia" %}
-    <a href="{{site.baseurl}}/terminales-de-colombia" title="Terminales" class="active">
-      <svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="M10.001 6.54a1.438 1.438 0 1 0 1.435 1.438 1.437 1.437 0 0 0-1.435-1.438zm0 1.914a.478.478 0 1 1-.002-.956.478.478 0 0 1 .002.956z"/><path fill="none" d="M10 3.021a5.112 5.112 0 0 0-5.106 5.106c0 .781.188 1.549.562 2.282.011.062.036.12.07.174l.125.188c.074.123.151.242.225.341l3.727 5.65a.478.478 0 0 0 .799 0l3.752-5.68c.057-.08.107-.159.153-.232l.132-.199a.426.426 0 0 0 .064-.159 5.01 5.01 0 0 0 .605-2.366A5.115 5.115 0 0 0 10 3.021zm3.596 7.131a.463.463 0 0 0-.039.095l-.056.084c-.043.066-.085.133-.139.211L10 15.629l-3.339-5.061a5.044 5.044 0 0 1-.203-.309l-.051-.078a.367.367 0 0 0-.038-.089 4.103 4.103 0 0 1-.517-1.965 4.153 4.153 0 0 1 4.147-4.148 4.153 4.153 0 0 1 4.149 4.148c0 .696-.185 1.376-.552 2.025z"/></svg> Terminales
-    </a>
-    {% else %}
-    <a href="{{site.baseurl}}/terminales-de-colombia" title="Terminales">
-      <svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="M10.001 6.54a1.438 1.438 0 1 0 1.435 1.438 1.437 1.437 0 0 0-1.435-1.438zm0 1.914a.478.478 0 1 1-.002-.956.478.478 0 0 1 .002.956z"/><path fill="none" d="M10 3.021a5.112 5.112 0 0 0-5.106 5.106c0 .781.188 1.549.562 2.282.011.062.036.12.07.174l.125.188c.074.123.151.242.225.341l3.727 5.65a.478.478 0 0 0 .799 0l3.752-5.68c.057-.08.107-.159.153-.232l.132-.199a.426.426 0 0 0 .064-.159 5.01 5.01 0 0 0 .605-2.366A5.115 5.115 0 0 0 10 3.021zm3.596 7.131a.463.463 0 0 0-.039.095l-.056.084c-.043.066-.085.133-.139.211L10 15.629l-3.339-5.061a5.044 5.044 0 0 1-.203-.309l-.051-.078a.367.367 0 0 0-.038-.089 4.103 4.103 0 0 1-.517-1.965 4.153 4.153 0 0 1 4.147-4.148 4.153 4.153 0 0 1 4.149 4.148c0 .696-.185 1.376-.552 2.025z"/></svg> Terminales
-    </a>
-    {% endif %}
-    {% if page.url contains "pasajes" %}
-    <a href="{{site.baseurl}}/pasajes" title="Pasajes" class="active">
-      <svg fill="none" class="svg-icon" viewBox="0 0 20 20"><path stroke="#082d0f" stroke-linecap="round" stroke-linejoin="round" d="m4.323 2.094-.362.084a1.105 1.105 0 0 1-.845 1.328 1.133 1.133 0 0 1-1.337-.854l-.724.149a.752.752 0 0 0-.566.929s.334 1.551.724 3.296m10.075-4.941a1.226 1.226 0 1 1-2.266-.929L8.27.803a.826.826 0 0 0-1.077.436l-3.12 7.345-.409.929A.826.826 0 0 0 4.1 10.59l3.77 1.606a.826.826 0 0 0 1.077-.436l3.529-8.301a.826.826 0 0 0-.399-1.049l-.789-.325Z"/></svg> Pasajes
-    </a>
-    {% else %}
-    <a href="{{site.baseurl}}/pasajes" title="Pasajes">
-      <svg fill="none" class="svg-icon" viewBox="0 0 20 20"><path stroke="#082d0f" stroke-linecap="round" stroke-linejoin="round" d="m4.323 2.094-.362.084a1.105 1.105 0 0 1-.845 1.328 1.133 1.133 0 0 1-1.337-.854l-.724.149a.752.752 0 0 0-.566.929s.334 1.551.724 3.296m10.075-4.941a1.226 1.226 0 1 1-2.266-.929L8.27.803a.826.826 0 0 0-1.077.436l-3.12 7.345-.409.929A.826.826 0 0 0 4.1 10.59l3.77 1.606a.826.826 0 0 0 1.077-.436l3.529-8.301a.826.826 0 0 0-.399-1.049l-.789-.325Z"/></svg> Pasajes
-    </a>
-    {% endif %}
-   
-    {% if page.url contains "blog" %}
-    <a href="{{site.baseurl}}/blog" title="Blog" class="active">
-      <svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="M1.683 3.39h16.676a.641.641 0 1 0-.001-1.283H1.683a.641.641 0 0 0 0 1.283zm0 4.489h11.545a.642.642 0 1 0 0-1.283H1.683a.641.641 0 0 0 0 1.283zm16.675 3.208H1.683a.64.64 0 1 0 0 1.283h16.676a.642.642 0 1 0-.001-1.283zm-7.054 4.489H1.683a.641.641 0 0 0 0 1.283h9.621a.641.641 0 1 0 0-1.283z"/></svg> Blog
-    </a>
-    {% else %}
-    <a href="{{site.baseurl}}/blog" title="Blog">
-      <svg class="svg-icon" viewBox="0 0 20 20"><path fill="none" d="M1.683 3.39h16.676a.641.641 0 1 0-.001-1.283H1.683a.641.641 0 0 0 0 1.283zm0 4.489h11.545a.642.642 0 1 0 0-1.283H1.683a.641.641 0 0 0 0 1.283zm16.675 3.208H1.683a.64.64 0 1 0 0 1.283h16.676a.642.642 0 1 0-.001-1.283zm-7.054 4.489H1.683a.641.641 0 0 0 0 1.283h9.621a.641.641 0 1 0 0-1.283z"/></svg> Blog
-    </a>
-    {% endif %}
-    
-  </nav>
-
-  {% if page.layout != "post" %}
-  {% if page.url == "/" %}
-  <div class="title wrapper">
-    <h1>{{page.h1}}</h1>
-  </div>
-  {% include gallery.html %}
-  {% elsif page.layout == "terminal" %}
+<header class="home_header wrapper">
+  {% include nav.html %}
   <h1>{{page.h1}}</h1>
-  <a href="#telefonos" class="botones boton-verde">Teléfonos empresas</a>
-  <div class="terminal-header seccion">
-    {% if page.jpg %}
-    <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}">
-    {% else %}
-    <img src="{{site.baseurl}}/img/{{page.avif}}" alt="{{page.alt}}">
-    {% endif %}
-      <div class="flow">
-        <h2>Datos de la terminal de {{page.ciudad}}</h2>
-        <ul>
-          <li><svg xmlns="http://www.w3.org/2000/svg" fill="#082D0F" stroke="#082D0F" viewBox="0 0 24 24"><g fill="none" fill-rule="evenodd" stroke="none"><path d="M0 0h24v24H0z"/><path stroke="#082D0F" stroke-linecap="round" stroke-width="2" d="M5 10v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-9"/><path stroke="#082D0F" stroke-linecap="round" stroke-width="2" d="m21 11-8.693-6.761a.5.5 0 0 0-.614 0L3 11"/></g></svg> </path> </g> </g> </g></svg> <span>{{page.direccion}}</span>
-          </li>
-          <li><svg xmlns="http://www.w3.org/2000/svg" fill="#082D0F" viewBox="0 0 24 24"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path stroke="#082D0F" stroke-linecap="round" stroke-width="2" d="M18.665 14.347a9.959 9.959 0 0 1-2.254-.56 1.64 1.64 0 0 0-1.707.36h0c-.598.605-1.537.745-2.225.244a12.91 12.91 0 0 1-2.833-2.833c-.501-.688-.362-1.627.244-2.225h0c.43-.451.569-1.106.36-1.693a10.157 10.157 0 0 1-.627-2.307A1.654 1.654 0 0 0 7.996 4H5.609c-.455 0-.89.188-1.2.52-.302.334-.447.78-.4 1.227a15.717 15.717 0 0 0 2.467 6.96 15.735 15.735 0 0 0 4.827 4.826A16.128 16.128 0 0 0 18.252 20h.133c.406.003.797-.15 1.094-.427a1.6 1.6 0 0 0 .52-1.186V16a1.614 1.614 0 0 0-1.334-1.653Z"/></g></svg><span>{{page.telefono}}</span>
-          </li>
-          {% if page.email%}
-          <li><svg xmlns="http://www.w3.org/2000/svg" fill="#082D0F" viewBox="0 0 24 24"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect width="16" height="14" x="4" y="5" stroke="#082D0F" stroke-linecap="round" stroke-width="2" rx="2"/><path stroke="#082D0F" stroke-linecap="round" stroke-width="2" d="m20 7-7.7 5.775a.5.5 0 0 1-.6 0L4 7"/></g></svg><span>{{page.email}}</span></li>
-          {% endif %}
-        </ul>
+
+  <div class="home_gallery">
+    {% assign url = page.url %}
+    {% case url %}
+      {% when "/" %}
+        {% for principal in site.data.principales-home %}
+        <article>
+          <img src="{{site.baseurl}}/img/terminales/{{principal.img}}" alt="{{principal.alt}}">
+          <div>
+            <a href="{{site.baseurl}}/{{principal.url}}"><h2>{{principal.title}}</h2></a>
+            <p>{{principal.p}}</p>
+          </div>
+        </article>
+        {% endfor %}
+        {% include boton.html url="/terminales-de-colombia" title="Terminales Colombianas" texto="🚌 Mira más terminales de buses" %}
+      {% when "/pasajes" %}
+        {% for pasaje in site.data.pasajes-home %}
+        <article>
+          <img src="{{site.baseurl}}/img/{{pasaje.img}}" alt="{{pasaje.alt}}">
+          <div>
+            <a href="{{site.baseurl}}{{pasaje.url}}"><h2>{{pasaje.title}}</h2></a>
+            <p>{{pasaje.p}}</p>
+          </div>
+        </article>
+        {% endfor %}
+      {% when "/terminales-de-colombia" %}
+      <img src="{{'/img/terminales.webp'|relative_url}}" alt="{{page.alt}}" width="360" height="360">
+      <div class="blog-tags">
+        <button data-name="all" class="active">Todos</button>
+        {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
+        {% for item in site.terminales %}
+        {% assign filtered_cat = item.category | append: '|' %}
+        {% if filtered_categories_array contains filtered_cat %}
+        <button data-name="{{ item.category}}">{{ item.category | upcase }}</button>
+        {% endif %}
+        {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+        {% endfor %}
       </div>
-    </div>
-    {% elsif page.layout == "pasaje" %}
-    <div class="post-header">
-    {% if page.jpg %}
-    <img src="{{site.baseurl}}/img/{{page.webpm}}" alt="{{page.alt}}">
-    {% else %}
-    <img src="{{site.baseurl}}/img/{{page.avif}}" alt="{{page.alt}}">
-    {% endif %}
-      <h1>{{page.h1}}</h1>
-      <h2>Vamos directo a los pasajes de {{page.ciudad}}</h2>
-      <div class="post-social">
-          <a href="#{{page.enlace1}}" title="{{page.cta1}}" class="botones boton-amarillo">{{page.cta1}}</a>
-          <a href="#{{page.enlace2}}" title="{{page.cta2}}" class="botones boton-amarillo">{{page.cta2}}</a>
-      </div>
-    </div>
-    {% endif %}
-  {% endif %}
+      {% else %}
+      <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}" loading="lazy">
+      <h2>{{page.description}}</h2>
+    {% endcase %}
+  </div>
 </header>

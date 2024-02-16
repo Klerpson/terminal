@@ -9,7 +9,7 @@ description: Infórmate de todo sobre tu viaje a San Gil aquí. Encontraras cóm
 category: Santander
 h1: "Todo Sobre Pasajes a San Gil: Tu guía completa"
 jpg: blog/pasajes-san-gil-m.jpg
-webpm: blog/pasajes-san-gil-m.webp
+hero: blog/pasajes-san-gil-m.webp
 webps: blog/pasajes-san-gil-s.webp
 alt: Comprar pasajes San gil
 cta1: Consulta precios de los pasajes

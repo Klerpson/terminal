@@ -8,7 +8,7 @@ title: Pasajes a Anapoima | Todo lo que Necesitas Saber
 description: De Bogotá a Anapoima, precios de pasasjes, horarios y todo sobre cómo hacer que tu viaje sea lo más agradable. ¡Infórmate con nosotros!
 category: Cundinamarca
 h1: "Viaja de Bogotá a Anapoima en Bus: Tu Ruta Detallada "
-avif: blog/pasajes-bogota-anapoima.avif
+hero: blog/pasajes-bogota-anapoima.webp
 alt: pasaje bogota anapoima
 cta1: Ver precios
 cta2: Ver rutas
@@ -34,7 +34,7 @@ Con [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}), puedes e
 
 [Redbus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}) es otra plataforma confiable donde puedes adquirir **tus boletos de Bogotá a Anapoima**. Ofrecen diversas opciones de horarios y precios para adaptarse a las necesidades de cada viajero.
 
-> Si bien el bus es la opción más popular, hay quienes prefieren viajar en taxi o incluso volar. Plataformas como **Expedia** y [**KAYAK** ](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fcars){:rel="nofollow noopener noreferrer" target="_blank"} te permiten comparar diferentes medios de transporte. Así puedes elegir el que mejor se adapte a tus necesidades y presupuesto.
+> Si bien el bus es la opción más popular, hay quienes prefieren viajar en taxi o incluso volar. Plataformas como **Expedia** y [**Pinbus**](% post_url 2023-06-02-pinbus-compra-pasajes-colombia %) te permiten comparar diferentes medios de transporte. Así puedes elegir el que mejor se adapte a tus necesidades y presupuesto.
 {:id="enlace2"}
 
 {% include addm6.html %}

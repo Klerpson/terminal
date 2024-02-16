@@ -2,21 +2,18 @@
   /*** COLORES ***/
   --principal: #008a30;
   --accion: #fff677;
-  --secundario: #082D0F;
+  --secundario: #F08700;
   --complemento2: #d3ffe3;
   --complemento1: #f0f8f8;
-  --gris1: rgba(191, 191, 191, 1);
-  --gris2: rgba(140, 140, 140, 1);
-  --gris3: rgba(89, 89, 89, 1);
-  --gris4: rgba(64, 64, 64, 1);
+  --bg: rgba(215, 205, 204, 0.96);
+  --gris: #D9D9D9;
   --grisFuentes: #111413;
   /*** FUENTES ***/
-  --fuenteTitulos: 'Sarala', sans-serif;
-  --fuenteTexto: 'Trykker', serif;
+  --fuente: 'Lato', sans-serif;
   /* BORDERS */
   --radius: 12px;
   /* SOMBRA */
-  --shadow: 0 2px 8px rgba(22, 22, 22, .4);
+  --shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.32);
 }
 
 *,
@@ -31,51 +28,51 @@ html {
   scroll-behavior: smooth;
   line-height: 1.6;
   -webkit-text-size-adjust: 100%;
-  font-size: calc(15px + 0.390625vw)
+  scroll-padding-top: 8em;
 }
 
 body {
-  font-family: var(--fuenteTexto);
-  font-size: var(--sizeTexto);
   color: var(--grisFuentes);
+  font-family: var(--fuente);
+  background-color: #fefefe;
 }
 
 h1,
 h2,
 h3,
 h4 {
-  font-family: var(--fuenteTitulos);
   text-transform: initial;
-  margin: 1.2em 0;
   line-height: 1.2;
+  max-width: 560px;
 }
 
 h1 {
-  font-size: 1.7em;
+  font-size: clamp(1.25rem, 1.068rem + 0.91vw, 1.75rem);
   margin: 0;
+  margin-bottom: 32px;
+  font-weight: 900;
 }
 
 h2 {
-  font-size: 1.4em;
+  font-size: clamp(1.5rem, 1.357rem + 0.71vw, 2rem);
 }
 
 h3 {
-  font-size: 1.2em;
+  font-size: clamp(1.25rem, 1.068rem + 0.91vw, 1.75rem);
 }
 
 h4 {
-  font-size: 1em;
+  font-size: clamp(1.125rem, 1.034rem + 0.45vw, 1.375rem);
 }
 
 p,
-.post-content li {
+a {
   word-wrap: break-word;
-  margin-top: .8em;
-  font-weight: 400;
+  font-size: clamp(1.125rem, 1.089rem + 0.18vw, 1.25rem);
 }
 
 a {
-  text-decoration-thickness: 2.6px;
+  text-decoration: none;
   color: var(--principal);
   font-weight: bolder;
   transition: all .2s ease-in;
@@ -121,6 +118,7 @@ blockquote {
 
 img {
   border-style: none;
+  max-width: 100%;
 }
 
 input {
@@ -151,8 +149,8 @@ select {
   text-transform: none;
 }
 
-li {
-  list-style: none;
+ul li {
+  margin-left: 2em;
 }
 
 ol {
@@ -166,10 +164,10 @@ ol li {
 
 ol li::marker {
   padding: 4px;
-  border-radius: 50%;
-  font-size: 1.5em;
+  font-size: 2em;
   font-weight: bolder;
-  color: var(--principal);
+  color: var(--secundario);
+  vertical-align: middle;
 }
 
 table {
@@ -198,13 +196,22 @@ table th {
 }
 
 .wrapper {
-  width: min((100% - 2rem), 1128px);
+  width: min(calc(100% - 1.5em), 1128px);
   margin-inline: auto;
   padding: 4rem 0;
 }
 
+.content {
+  width: min(calc(100% - 1.5em), 1128px);
+  margin-inline: auto;
+}
+
 .flow>*+*:not(h1) {
   margin-top: 1.2em;
+}
+
+.title{
+  text-align: center;
 }
 
 .destacado {
@@ -240,20 +247,17 @@ SVG Icons - svgicons.sparkk.fr
   padding: 1rem;
 }
 
-.botones {
+.boton {
   border-radius: var(--radius);
-  display: inline-block;
   text-decoration: none;
-  padding: 12px 24px;
-  width: min(80%, 320px);
+  padding: 16px 24px;
+  width: min(100%, 360px);
   text-align: center;
   font-weight: 700;
   box-shadow: var(--shadow);
-  transition: all .2s ease-in;
-  font-family: var(--fuenteTitulos);
-  margin: 1em auto;
+  transition: all .4s ease-in;
+  margin: 2rem auto;
   cursor: pointer;
-  border: none;
 }
 
 .boton-verde {
@@ -303,21 +307,4 @@ SVG Icons - svgicons.sparkk.fr
   box-shadow: 0 0 0 100vmax var(--complemento2);
   clip-path: inset(0 -100vmax);
   padding: 2em 0;
-}
-
-.kayak{
-  width: min(100%, 1200px);
-  margin-inline: auto;
-  display: grid;
-  gap: 1em;
-  place-items: center;
-  text-align: center;
-  background-color: var(--complemento1);
-  padding: 2em 1em;
-  border-radius: var(--radius);
-  border: 2px solid var(--principal);
-}
-
-.kayak h2{
-  margin: 0;
 }

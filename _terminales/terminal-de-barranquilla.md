@@ -7,7 +7,7 @@ category: atlantico
 h1: "La terminal de transporte de Barranquilla: la Puerta de Oro a la ciudad"
 jpg: terminales/terminal-barranquilla.jpg
 webps: terminales/terminal-barranquilla-376.webp
-webpm: terminales/terminal-barranquilla-600.webp
+hero: terminales/terminal-barranquilla-600.webp
 alt: Terminal de Barranquilla
 webp1: terminales/terminal-barranquilla-interior-600.webp
 webp2: terminales/terminal-barranquilla-interior-376.webp

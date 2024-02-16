@@ -7,7 +7,7 @@ category: casanare
 h1: "Transporte desde la Terminal de Aguazul hacia el Casanare"
 jpg: terminales/terminal-aguazul.jpg
 webps: terminales/terminal-aguazul-376.webp
-webpm: terminales/terminal-aguazul-600.webp
+hero: terminales/terminal-aguazul-600.webp
 alt: Terminal de Transporte Aguazul Casanare
 webp1: terminales/terminal-aguazul-casanare-600.webp
 webp2: terminales/terminal-aguazul-casanare-376.webp

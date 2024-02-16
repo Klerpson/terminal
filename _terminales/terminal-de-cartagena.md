@@ -8,7 +8,7 @@ description: Descubre las empresas, rutas y servicios que el Terminal de
 category: bolivar
 h1: "Terminal de Cartagena: llegada al encanto del Caribe"
 jpg: terminales/terminal-cartagena.jpg
-webpm: terminales/terminal-cartagena-600.webp
+hero: terminales/terminal-cartagena-600.webp
 webps: terminales/terminal-cartagena-376.webp
 alt: Terminal Cartagena
 subtitle: Compra tus tiquetes con la terminal de buses de Cartagena

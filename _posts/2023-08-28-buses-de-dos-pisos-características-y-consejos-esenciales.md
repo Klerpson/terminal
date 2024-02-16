@@ -7,7 +7,7 @@ description: ¿Buscas información detallada sobre buses de dos pisos? Llegaste 
 autor: Paula Moreno
 h1: "Buses de dos pisos: Características, especificaciones y ventajas"
 jpg: blog/buses-dos-pisos-600.jpg
-webpm: blog/buses-dos-pisos-600.webp
+hero: blog/buses-dos-pisos-600.webp
 webps: blog/buses-dos-pisos-376.webp
 alt: Bus de dos pisos
 permalink: blog/buses-dos-pisos

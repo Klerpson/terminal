@@ -9,7 +9,7 @@ description: Pasajes de Bogotá a Aguazul. Te damos toda la información para qu
 category: Casanare
 h1: "Pasajes de Bogotá a Aguazul: Todo lo que necesitas saber"
 jpg: blog/aguazul-bogota.jpg
-webpm: blog/aguazul-bogota.webp
+hero: blog/aguazul-bogota.webp
 webps: blog/aguazul-bogota-376.webp
 alt: Viaje a Aguazul
 cta1: Ver precios

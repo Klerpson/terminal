@@ -7,7 +7,7 @@ category: cesar
 h1: "Viaja desde Valledupar: Información Esencial del Terminal de Transporte"
 jpg: terminales/terminal-valledupar.jpg
 webps: terminales/terminal-valledupar-376.webp
-webpm: terminales/terminal-valledupar-600.webp
+hero: terminales/terminal-valledupar-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-valledupar-cesar-600.webp
 webp2: terminales/terminal-valledupar-cesar-376.webp

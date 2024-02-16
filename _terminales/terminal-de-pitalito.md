@@ -7,7 +7,7 @@ category: huila
 h1: La terminal de transporte de Pitalito
 jpg: terminales/terminal-pitalito.jpg
 webps: terminales/terminal-pitalito-376.webp
-webpm: terminales/terminal-pitalito-600.webp
+hero: terminales/terminal-pitalito-600.webp
 alt: Terminal de Pitalito Huila
 webp1: terminales/terminal-pitalito-exterior-600.webp
 webp2: terminales/terminal-pitalito-exterior-376.webp

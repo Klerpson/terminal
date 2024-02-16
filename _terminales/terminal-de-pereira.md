@@ -7,7 +7,7 @@ category: risaralda
 h1: La terminal de transporte Pereira
 jpg: terminales/terminal-pereira.jpg
 webps: terminales/terminal-pereira-376.webp
-webpm: terminales/terminal-pereira-600.webp
+hero: terminales/terminal-pereira-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-pereira-risaralda-600.webp
 webp2: terminales/terminal-pereira-risaralda-376.webp

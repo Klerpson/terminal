@@ -7,7 +7,7 @@ description: La Terminal de Ibagué es tu aliada para viajes exitosos. Encuentra
 category: Tolima
 h1: "Navega la terminal de transporte Ibagué: Viaja sin contratiempos"
 jpg: blog/terminal-ibague_600.jpg
-webpm: blog/terminal-ibague_600.webp
+hero: blog/terminal-ibague_600.webp
 webps: blog/terminal-ibague_376.webp
 alt: Terminal de buses de Ibagué Tolima
 subtitle: "Tiquetes de las empresas de buses de la terminal de Ibagué"

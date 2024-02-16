@@ -9,7 +9,7 @@ description: ¿Buscas pasajes a Aguachica? Encuentra las mejores rutas, precios 
 category: Cesar
 h1: "Pasajes Aguachica: La mejor manera de venir en bus"
 jpg: blog/pasajes-aguachica.jpg
-webpm: blog/pasajes-aguachica.webp
+hero: blog/pasajes-aguachica.webp
 webps: blog/pasajes-aguachica-376.webp
 alt: Comprar pasajes Aguachica
 cta1: Ver precios de pasajes

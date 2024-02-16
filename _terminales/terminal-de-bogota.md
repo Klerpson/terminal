@@ -7,7 +7,7 @@ category: cundinamarca
 h1: Terminal Salitre, terminal del Sur y terminal del Norte de Bogotá
 jpg: terminales/terminal-bogota.jpg
 webps: terminales/terminal-bogota-376.webp
-webpm: terminales/terminal-bogota-600.webp
+hero: terminales/terminal-bogota-600.webp
 alt: Terminal Bogotá
 webp1: terminales/terminal-bogota-norte-600.webp
 webp2: terminales/terminal-bogota-norte-376.webp

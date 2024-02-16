@@ -7,7 +7,7 @@ category: caqueta
 h1: Terminal de Florencia - La principal del Caquetá
 jpg: terminales/terminal-florencia.jpg
 webps: terminales/terminal-florencia-376.webp
-webpm: terminales/terminal-florencia-600.webp
+hero: terminales/terminal-florencia-600.webp
 alt: Descubre el corazón de Caquetá con la Terminal de Florencia como punto de partida.
 webp1: terminales/terminal-florencia-caqueta-600.webp
 webp2: terminales/terminal-florencia-caqueta-376.webp

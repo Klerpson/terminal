@@ -2,51 +2,48 @@
 layout: compress
 title: ¿Viajar en bus por Colombia? Mira porqué hacerlo!
 description: ¿Has pensando en viajar por Colombia en bus? Aquí te enseñaremos sobre los destinos, tips de viaje y más noticias.
-h1: El blog de los viajes en bus por Colombia está en nuestra terminal
 ---
 {% include head.html %}
 
 <body>
-  
-  {% include header.html %}
-  
-  <a href="#">{% include boton-up.html %}</a>
-  <main class="blog-main wrapper flow">
-    <h1>{{page.h1}}</h1>
-    <!--------- ARTICULO PRINCIPAL --------->
-    <article class="blog-first">
+  <header class="wrapper blog_header">
+    {% include nav.html %}
+    <h1>🆕 Nuestro artículo del blog más reciente en tu terminaldetransporte.com</h1>
+    <article>
       {% assign post1 = site.posts[0] %}
       {% if post1.jpg %}
       {% include img.html webpm=post1.webpm webps=post1.webps alt=post1.alt %}
       {% else %}
-      <img src="{{site.baseurl}}/img/{{post1.avif}}" alt="{{post1.alt}}" loading="lazy">
+      <img src="{{site.baseurl}}/img/{{post1.hero}}" alt="{{post1.alt}}" loading="lazy">
       {% endif %}
       <div>
         <h3>{{ post1.h1 | truncate: 80 }}</h3>
         {{ post1.excerpt | truncate: 180 | markdownify}}
-        <a href="{{site.baseurl}}{{ post1.url }}" class="botones boton-verde">Sigue leyendo...</a>
+        <a href="{{site.baseurl}}{{ post1.url }}" class="boton boton-verde">Sigue leyendo...</a>
       </div>
     </article>
-    {% include kayak.html %}
-    <!-------- TODOS LOS ARTICULOS ---------->
-    <h2>Viajar en bus por Colombia: destinos y muchos consejos</h2>
-    <section class="blog-posts">
-      {% for post in site.posts offset: 1 %}
-      <article>
-        <a href="{{post.url}}" title="{{post.title}}">
-          <h3>{{post.h1 | truncate: 56}}</h3>
-          <img src="{{site.baseurl}}/img/{{post.webps}}" alt="{{post.alt}}" loading="lazy" width="120">
-        </a>
-      </article>
-      {% endfor %}
-      <div class="add">
-        {% include addm1.html %}
+</header>
+  
+<main class="wrapper entradas">
+  <h2>📖 Viajar en bus por Colombia: destinos y muchos consejos</h2>
+  <p>Cuando utilizas el bus como medio de transporte para visitar muchos lugares de Colombia, también necesitas conocer <strong>consejos, tips, lugares, recomendaciones y mucho más de lo que implica viajar en bus desde las terminales de transporte colombianas</strong>.</p>
+  <h3>Haz clic en los siguientes artículos ⏬</h3>
+  <div class="home_gallery">
+    {% for post in site.posts offset: 1 %}
+    <article>
+      <img src="{{site.baseurl}}/img/{{post.webps}}" alt="{{post.alt}}">
+      <div>
+        <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
       </div>
-    </section>
+    </article>
+    {% endfor %}
+    <div class="add">
+      {% include addm1.html %}
+    </div>
+  </div>
    
   </main>
 
-  <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
   <section class="conclusion wrapper">
   <h2>La terminal de transporte es tu guía segura para viajar por Colombia</h2>
   <ul>
@@ -68,6 +65,7 @@ h1: El blog de los viajes en bus por Colombia está en nuestra terminal
   </ul>
   </section>
   {% include footer.html %}
+  <a href="#">{% include boton-up.html %}</a>
 
 </body>
   <!-- Google Tag Manager -->
@@ -87,6 +85,16 @@ h1: El blog de los viajes en bus por Colombia está en nuestra terminal
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-Q9E44PNRNK');
+  </script>
+  <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+  <script>
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      noResultsText: 'No tenemos este texto aún',
+      fuzzy: false
+    });
   </script>
 
 </html>

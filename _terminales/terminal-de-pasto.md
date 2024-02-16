@@ -7,7 +7,7 @@ category: Nariño
 h1: La terminal de transporte de Pasto
 jpg: terminales/terminal-pasto.jpg
 webps: terminales/terminal-pasto-376.webp
-webpm: terminales/terminal-pasto-600.webp
+hero: terminales/terminal-pasto-600.webp
 alt: Terminal de Pasto
 webp1: terminales/terminal-pasto-exterior-600.webp
 webp2: terminales/terminal-pasto-exterior-376.webp

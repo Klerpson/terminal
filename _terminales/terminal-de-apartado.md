@@ -7,7 +7,7 @@ description: "Terminal de Transporte Apartadó: Conexiones eficientes, servicios
 category: antioquia
 h1: "La terminal de transporte de Apartadó: Conexiones seguras en Antioquia"
 jpg: terminales/terminal-apartado.jpg
-webpm: terminales/terminal-apartado.webp
+hero: terminales/terminal-apartado.webp
 webps: terminales/terminal-apartado-376.webp
 alt: Terminal Apartadó
 subtitle: "Terminal de Apartadó: encuentra pasajes y servicios de bus"

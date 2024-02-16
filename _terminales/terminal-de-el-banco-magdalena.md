@@ -7,7 +7,7 @@ description: De Expreso Brasilia a Copetran, conoce las opciones de viaje en El 
 category: magdalena
 h1: "Terminal de transporte de El Banco Magdalena: En bus por Colombia"
 jpg: blog/terminal-el-banco-magdalena.jpg
-webpm: blog/terminal-el-banco-magdalena.webp
+hero: blog/terminal-el-banco-magdalena.webp
 webps: blog/terminal-el-banco-magdalena-376.webp
 alt: Terminal Banco Magdalena
 subtitle: "Empresas de buses de la terminal de El Banco Magdalena: Teléfonos y datos"

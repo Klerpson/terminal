@@ -1,89 +1,77 @@
-header {
-  width: min((100% - 1em), 1200px);
-  margin-inline: auto;
-  padding-bottom: 1em;
-  display: grid;
-  gap: 1em;
-}
-
-header .tooltip {
-  display: flex;
-  justify-content: space-between;
-  padding: 12px;
-  border-bottom: 1px solid var(--gris1);
-}
-
-header .tooltip span{
-  color: var(--gris2);
-  font-size: clamp(14px, 0.9rem, 18px);
-}
-
-header .title{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1em;
-  flex-wrap: wrap;
-}
-
-header .title h1{
-  text-transform: initial;
-  width: min(100%, 920px);
-}
-
-header .title a {
-  color: var(--principal);
-  text-transform: initial;
-  font-size: .8rem;
-  font-weight: bolder;
-}
-
-header img{
-  max-width: 100%;
-  border-radius: var(--radius);
-}
-
 nav {
-  width: 100%;
+  position: fixed;
+  top: 20px;
+  width: min(calc(100% - 16px), 1128px);
   display: flex;
-  flex-wrap: wrap;
-  gap: 1em;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px 16px;
+  background-color: var(--bg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  z-index: 100;
 }
 
 nav a{
   height: min-content;
-  flex: 1 0 76px;
-  text-align: center;
-  font-size: clamp(14px, 0.9rem, 18px);
-  color: var(--principal);
-  text-transform: capitalize;
-  display: grid;
-  place-items: center;
-  transition: all .7s ease;
+  flex: 1 0 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: all .4s ease;
 }
 
 nav a:hover{
-  color: var(--secundario);
-  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+  transform: scale(1.10);
 }
 
-nav .active{
-  color: var(--secundario);
-  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+nav span{
+  display: none;
 }
 
-nav a .svg-icon {
-  width: 32px;
-  height: 32px;
+.buscador:target{
+  display: grid;
 }
 
-nav a .svg-icon path,
-nav a .svg-icon polygon,
-nav a .svg-icon rect {
-  fill: var(--secundario);
+.cerrar:target .buscador{
+  display: none;
 }
 
-nav a .svg-icon circle {
-  stroke: var(--accion);
-  stroke-width: 1;
+.home_header{
+  margin-top: 4em;
+  display: grid;
+  gap: 1em;
+}
+
+.home_gallery{
+  display: grid;
+  gap: 32px;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr));
+}
+
+.home_gallery article{
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.home_gallery article img{
+  width: 112px;
+  height: 112px;
+  border-radius: var(--radius);
+  object-fit: cover;
+}
+
+.home_gallery article div p{
+  line-height: 1.2;
+  font-size: 18px;
+}
+
+.home_gallery .boton{
+  grid-column: 1 / -1;
+}
+
+.home_gallery img{
+  z-index: 3;
 }

@@ -7,7 +7,7 @@ description: Pasajes de Colombia a Argentina en bus | Entérate de cuanto vale u
 autor: Camilo Cuspián
 h1: "Pasajes de Colombia a Argentina: Precios, rutas y duración"
 jpg: blog/pasajes-colombia-argentina.jpg
-webpm: blog/pasajes-colombia-argentina.webp
+hero: blog/pasajes-colombia-argentina.webp
 webps: blog/pasajes-colombia-argentina-376.webp
 alt: Bus de Colombia a Argentina
 permalink: blog/pasaje-bus-colombia-argentina

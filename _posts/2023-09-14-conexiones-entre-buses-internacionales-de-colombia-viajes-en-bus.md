@@ -7,7 +7,7 @@ description: Aprende sobre las empresas de buses que conectan Colombia con desti
 autor: Camilo Cuspián
 h1: "Buses internacionales: Rutas y destinos dentro y fuera de Colombia"
 jpg: blog/buses-internacionales.jpg
-webpm: blog/buses-internacionales.webp
+hero: blog/buses-internacionales.webp
 webps: blog/buses-internacionales-376.webp
 alt: Buses internacionales
 permalink: blog/buses-internacionales

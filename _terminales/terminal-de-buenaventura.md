@@ -7,7 +7,7 @@ description: ¿Necesitas información sobre el Terminal de Buenaventura? Tenemos
 category: Valle del Cauca
 h1: Muévete como pez en el mar en la Terminal de Buenaventura
 jpg: blog/terminal-buenaventura.jpg
-webpm: blog/terminal-buenaventura.webp
+hero: blog/terminal-buenaventura.webp
 webps: blog/terminal-buenaventura-376.webp
 alt: Terminal Buenaventura
 subtitle: Teléfonos y más datos de las empresas de la terminal de Transporte de Buenaventura

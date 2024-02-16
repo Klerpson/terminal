@@ -8,7 +8,7 @@ h1: "Tu puerta a Bucaramanga: conoce el Terminal de Transporte"
 jpg: terminales/terminal-bucaramanga.jpg
 hero: terminales/terminal-bucaramanga.webp
 webps: terminales/terminal-bucaramanga-376.webp
-webpm: terminales/terminal-bucaramanga-600.webp
+hero: terminales/terminal-bucaramanga-600.webp
 webpb: terminales/terminal-bucaramanga-800.webp
 alt: Terminal de Bucaramanga
 logo: terminal-bucaramanga-logo.webp

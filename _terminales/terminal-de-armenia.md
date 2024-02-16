@@ -7,7 +7,7 @@ category: quindio
 h1: "Terminal de Transporte Armenia: tu llegada al Eje Cafetero"
 jpg: terminales/terminal-armenia.jpg
 webps: terminales/terminal-armenia-376.webp
-webpm: terminales/terminal-armenia-600.webp
+hero: terminales/terminal-armenia-600.webp
 alt: Terminal Armenia
 webp1: terminales/terminal-armenia-quindio-600.webp
 webp2: terminales/terminal-armenia-quindio-376.webp

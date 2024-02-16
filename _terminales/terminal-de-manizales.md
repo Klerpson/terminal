@@ -7,7 +7,7 @@ category: caldas
 h1: "Todo lo que necesitas saber sobre la Terminal de Transporte de Manizales: horarios, empresas y consejos útiles"
 jpg: terminales/terminal-manizales.jpg
 webps: terminales/terminal-manizales-376.webp
-webpm: terminales/terminal-manizales-600.webp
+hero: terminales/terminal-manizales-600.webp
 alt: Terminal Manizales
 webp1: terminales/terminal-manizales-exterior-600.webp
 webp2: terminales/terminal-manizales-exterior-376.webp

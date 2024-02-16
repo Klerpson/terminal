@@ -7,7 +7,7 @@ description: Viaja con comodidad y seguridad desde la Terminal de Transporte Chi
 category: Boyacá
 h1: "Terminal de Transporte de Chiquinquirá: Tu puerta de entrada a una ciudad acogedora"
 jpg: blog/terminal-chiquinquira_600.jpg
-webpm: blog/terminal-chiquinquira_600.webp
+hero: blog/terminal-chiquinquira_600.webp
 webps: blog/terminal-chiquinquira_376.webp
 alt: Terminal de Chiquinquirá - Teléfono y otros datos
 subtitle: Pasajes y empresas de la terminal de transporte de Chiquinquira
