@@ -105,7 +105,7 @@ Recuerda llegar al terminal con suficiente tiempo para comprar tu pasaje y encon
 
 Durante el viaje, trata de relajarte y disfrutar del paisaje. Si el viaje es largo, aprovecha para leer un libro o escuchar música. Recuerda que el viaje es parte de la aventura.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
 
 {% include add3.html %}
 

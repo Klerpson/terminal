@@ -113,4 +113,4 @@ Tienes múltiples servicios disponibles y una amplia gama de destinos para elegi
 
 ¡Planifica tu viaje hoy mismo y descubre todo lo que Apartadó y sus alrededores tienen para ofrecer!
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
