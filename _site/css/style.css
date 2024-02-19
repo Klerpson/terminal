@@ -520,9 +520,33 @@ nav span{
   margin-bottom: 1em;
 }
 
+.terminal_datos{
+  display: grid;
+  justify-items: center;
+  padding: 2em 12px;
+}
 
+.terminal_datos h4{
+  text-align: center;
+  margin: 0 0 1em;
+}
 
+.terminal_datos ul{
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
+.terminal_datos ul li{
+  list-style: none;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  font-weight: 700;
+  margin: 0;
+  word-break: break-all;
+}
 
 
 
