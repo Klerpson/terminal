@@ -181,4 +181,4 @@ Si llegas al Terminal de Popayán desde otro destino y requieres de los servicio
 * Supertaxis del Sur al número [8233797](tel:6028233797){:rel="nofollow"}.
 * Taxbelalcazar. Contáctalos a los números [8231133](tel:6028231133){:rel="nofollow"} y [8234301](tel:6028234301){:rel="nofollow"}.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

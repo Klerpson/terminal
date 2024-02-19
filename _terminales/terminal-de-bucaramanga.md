@@ -177,4 +177,4 @@ La Terminal de Transporte de Bucaramanga es más que un simple punto de tránsit
 
 Así que si estás de paso o si Bucaramanga es tu destino final, esta guía te ayudará a aprovechar al máximo tu tiempo en la terminal y en la ciudad. **¡Buen viaje y disfruta de todo lo que Bucaramanga tiene para ofrecer!**
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

@@ -158,4 +158,4 @@ La Terminal de transporte de Cali ha sido un pilar fundamental en la movilidad d
 
 Con más de 40 años de servicio, ha sido testigo y protagonista de la evolución del transporte en la ciudad, **movilizando diariamente a aproximadamente 30.000 personas en 3.500 vehículos**.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class= boton-verde"}

@@ -70,9 +70,9 @@ empresas:
 
 La **Terminal de Transporte de Medellín es una importante empresa de transporte en la ciudad de Medellín,** Colombia. Esta empresa de transporte terrestre con 2 terminales de pasajeros de buses:
 
-[Terminal del Norte](#norte){:class="botones boton-verde"}
+[Terminal del Norte](#norte){:class="boton boton-verde"}
 
-[Terminal del Sur](#sur){:class="botones boton-verde"}
+[Terminal del Sur](#sur){:class="boton boton-verde"}
 
 La primera terminal de buses y taxis, llamada "Mariano Ospina Pérez", se construyó el 16 de febrero de 1984 en el sector norte de la ciudad. **Debido a que la terminal norte estaba llegando a su nivel máximo de ocupación, en abril de 1993 se construyó la terminal del sur "Alberto Díaz Muñoz"**.
 
@@ -133,7 +133,7 @@ En la terminal operan empresas como **Copetran, [Expreso Bolivariano]({% post_ur
 
 >## Necesitas un hotel cerca a la terminal
 Con KAYAK encuentras los mejor calificados y con promociones constantes.
-[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
+[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="boton boton-verde"}
 
 ## Pasajes en la terminal del Norte de Medellín
 
@@ -221,7 +221,7 @@ La Terminal del Sur Medellín alberga a varias empresas de transporte que ofrece
 
 >## Necesitas un hotel cerca a la terminal
 Con KAYAK encuentras los mejor calificados y con promociones constantes.
-[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
+[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="boton boton-verde"}
 
 En la Terminal del Sur Medellín puedes comprar tus tiquetes de bus de manera rápida y sencilla. Solo debes **acercarte a las taquillas de las diferentes empresas de transporte que operan en la terminal y elegir el destino que prefieras**.
 

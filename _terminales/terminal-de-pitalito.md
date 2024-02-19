@@ -99,4 +99,4 @@ Durante todo ese tiempo varias empresas que han prestado sus servicios. Estas in
 
 Si desea obtener más información sobre cualquiera de estas empresas, puede buscar en Google sus sitios web oficiales.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

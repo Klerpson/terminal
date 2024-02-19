@@ -224,7 +224,7 @@ El Terminal Salitre opera todos los días del año. Sin embargo, es importante t
 
 El terminal abre sus puertas **desde las 4:00 a.m. hasta las 11:00 p.m.** Sin embargo, algunas empresas ofrecen rutas nocturnas, por lo que es posible encontrar movimiento incluso después del horario habitual.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
 
 ## Preguntas frecuentes
 

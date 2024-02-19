@@ -105,4 +105,4 @@ Asegúrate de revisar las reglas de equipaje de la compañía de autobuses que e
 
 Viajar desde Espinal puede ser una experiencia agradable y sin estrés si te preparas bien. Recuerda llegar con tiempo suficiente para encontrar tu autobús y [acomodar tu equipaje]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %}).
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

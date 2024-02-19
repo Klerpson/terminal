@@ -164,4 +164,4 @@ Si estás planeando un viaje desde o hacia Bogotá, la Terminal Satélite del No
 
 Cuentas con una amplia variedad de destinos, servicios de calidad y un compromiso con la seguridad, tu experiencia de viaje será inigualable. ¡Prepara tus maletas y embárcate en una nueva aventura desde la Terminal del Norte!
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

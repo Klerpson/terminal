@@ -145,7 +145,7 @@ Es esencial mencionar que cada empresa tiene diferentes tipos de buses, desde se
 
 Puedes contactar directamente con cada empresa para resolver dudas o hacer reservaciones, haz clic en este botón:
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
 
 {% include add1.html %}
 
@@ -241,4 +241,4 @@ En conclusión, la **Terminal del Sur Bogotá** es más que un punto de partida.
 
 Si deseas conocer más sobre otros destinos o servicios relacionados con el transporte en Bogotá, te invitamos a seguir explorando nuestra página web. ¡Buen viaje!
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

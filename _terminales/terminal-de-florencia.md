@@ -68,4 +68,4 @@ La Terminal de Transportes de Florencia es el punto de partida perfecto para exp
 
 Asegúrate de comprar tus boletos en las taquillas de la terminal para garantizar una experiencia sin preocupaciones en tu próximo viaje.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

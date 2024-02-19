@@ -75,7 +75,7 @@ La Terminal de Cartagena alberga a varias de las empresas de transporte más imp
 
 Estas empresas, junto con otras como Almirante Padilla S.A. y Berlitur, garantizan que los viajeros tengan múltiples opciones a la hora de elegir cómo y cuándo viajar.
 
-[Ver más empresas](#telefonos){:class="botones boton-verde"}
+[Ver más empresas](#telefonos){:class= boton-verde"}
 
 ## Servicios y comodidades en la Terminal
 

@@ -102,7 +102,7 @@ La Terminal de Cúcuta ofrece una variedad de servicios para garantizar la comod
 
 Si eres visual, esta sección es para ti. En el siguiente botón de Google Maps tienes una galería de fotos para que sepas exactamente qué esperar en la terminal de transporte de Cúcuta
 
-[Fotos terminal Cúcuta]({{page.maps}}){:class="botones boton-verde"}
+[Fotos terminal Cúcuta]({{page.maps}}){:class="boton boton-verde"}
 
 Algunas de las **fotos de la terminal de Cúcuta** que puedes encontar son:
 
@@ -154,4 +154,4 @@ La Terminal de Cúcuta es un punto esencial para el transporte en la región. Co
 
 Si planeas **visitar Cúcuta o viajar desde allí**, esta terminal tiene todo lo que necesitas para un viaje cómodo y seguro. ¡Buen viaje y disfruta de tu experiencia en Cúcuta!
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

@@ -111,4 +111,4 @@ La Terminal de Transporte de Pereira es un punto de partida y llegada para miles
 
 Ya sea que necesites un cajero automático, un lugar para comer o información sobre tu próximo viaje, la Terminal de Transporte de Pereira tiene todo lo que necesitas.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

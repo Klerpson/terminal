@@ -153,4 +153,4 @@ La terminal continuará invirtiendo en su infraestructura y servicios para ofrec
 
 Ya sea que esté planeando un viaje o simplemente necesite un lugar para descansar y recargar energías, la Terminal de Tunja está aquí para servirle. ¡Le esperamos en su próximo viaje!
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

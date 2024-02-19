@@ -111,4 +111,4 @@ Ya sea que estés planeando un viaje de negocios, unas vacaciones o simplemente 
 Si deseas conocer más sobre otros [destinos y servicios de transporte en Colombia]({{'terminales-de-colombia'|relative_url}} "Terminales de transporte de Colombia"), no dudes en explorar nuestro sitio web para obtener toda la información que necesitas.
 
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

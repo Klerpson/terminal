@@ -97,4 +97,4 @@ La Terminal de Transporte de Chiquinquirá es un lugar esencial para los viajero
 
 Si estás planeando un viaje desde o hacia Chiquinquirá, asegúrate de considerar la Terminal de Transporte de Chiquinquirá para tus necesidades de viaje.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

@@ -94,4 +94,4 @@ Recuerda que la terminal de Neiva cuenta con una amplia variedad de servicios y 
 
 >## Necesitas un hotel cerca a la terminal
 Con KAYAK encuentras los mejor calificados y con promociones constantes.
-[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FNeiva%2CColombia-c3735%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="botones boton-verde"}
+[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FNeiva%2CColombia-c3735%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="boton boton-verde"}

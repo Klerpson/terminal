@@ -70,7 +70,7 @@ Este terminal se destaca por sus variados destinos, algunos de turismo religioso
 
 Estas empresas garantizan la comodidad y seguridad de los pasajeros en todo momento, con buses que cuentan con interiores limpios y ordenados.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
 
 ## Cómo llegar a la ubicación de la terminal de transporte de Buga
 
@@ -128,4 +128,4 @@ Ya sea que viajes por negocios, placer o cualquier otro motivo, el Terminal de B
 
 Si deseas conocer más sobre otros destinos y servicios, no dudes en explorar más en nuestra página.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

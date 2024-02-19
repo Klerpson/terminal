@@ -101,7 +101,7 @@ Esta empresa de transporte ofrece servicios a varias ciudades en Colombia y Ecua
 
 Si necesitas transporte desde la terminal a un lugar específico en la ciudad, Supertaxis está disponible en la terminal para llevarte a tu destino final.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
 
 La Terminal de Transportes de Pasto es el lugar perfecto **para comenzar tus aventuras en el sur de Colombia**. Con su amplia gama de servicios y opciones de transporte, puedes estar seguro de que tu viaje será cómodo y seguro.
 

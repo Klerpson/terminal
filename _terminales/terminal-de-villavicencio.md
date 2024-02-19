@@ -125,4 +125,4 @@ Con el paso de los años, ha evolucionado para ofrecer más y mejores servicios,
 
 Haz clic aquí para conocer más destinos increíbles desde Villavicencio y descubrir todo lo que esta hermosa región tiene para ofrecer.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

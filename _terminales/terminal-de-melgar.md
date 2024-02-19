@@ -95,4 +95,4 @@ Si estás planeando un viaje desde o hacia la Terminal de Transporte Melgar, aqu
 
 Esperamos que este artículo te haya proporcionado toda la información que necesitas sobre la Terminal de Transporte Melgar. Si tienes más preguntas o necesitas más información, no dudes en contactarnos. ¡Buen viaje!
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

@@ -98,7 +98,7 @@ Barranquilla se conecta con las principales ciudades de Colombia. Algunas de las
 
 Estas son solo algunas de las muchas rutas disponibles. La Terminal de Transporte de Barranquilla ofrece conexiones a 14 ciudades diferentes, con 106 viajes diarios en promedio.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
 
 {% include add2.html %}
 

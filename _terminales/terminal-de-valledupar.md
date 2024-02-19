@@ -117,4 +117,4 @@ La Terminal de Transporte de Valledupar te ofrece todas las facilidades para que
 
 ¡Buen viaje y que Valledupar te acompañe con su música y su encanto!
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

@@ -89,4 +89,4 @@ Para obtener información actualizada sobre los precios y horarios de los difere
 
 ¡No esperes más para comenzar tu próxima aventura en la costa caribeña de Colombia! Con la Terminal de Transporte de Santa Marta, tienes todo lo que necesitas para comenzar tu viaje sin problemas y llegar a tu destino de manera segura y cómoda. ¡Te deseamos un feliz viaje!
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

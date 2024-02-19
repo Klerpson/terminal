@@ -160,4 +160,4 @@ Viajar **desde y hacia la Terminal de Transporte de Manizales** es una experienc
 
 Ven a disfrutar de todo lo que Manizales y sus alrededores tienen para ofrecer. Y si quieres seguir descubriendo más sobre viajes en bus y otros destinos interesantes, [¡sigue navegando por nuestra página!](/)
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

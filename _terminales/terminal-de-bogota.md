@@ -138,7 +138,7 @@ Estas terminales son: **Norte, Sur y Salitre**. Cada una de ellas tiene caracter
 
 Localizada en el centro-occidente de la ciudad, **cerca del aeropuerto El Dorado, la Terminal de Salitre es la más grande y concurrida**. Sirve a una amplia variedad de destinos nacionales e incluso algunos internacionales.
 
-[Ir a la terminal Salitre]({{'terminal-salitre-bogota'|relative_url}} "Terminal Salitre Bogotá"){:class="botones boton-verde"}
+[Ir a la terminal Salitre]({{'terminal-salitre-bogota'|relative_url}} "Terminal Salitre Bogotá"){:class="boton boton-verde"}
 
 {% include addm3.html %}
 
@@ -148,7 +148,7 @@ Ubicada en el sector **norte de la ciudad**, esta terminal es el punto de partid
 
 Con modernas instalaciones, ofrece servicios a destinos como Boyacá, Santander y la Costa Caribe.
 
-[Ir a la terminal Norte]({{'terminal-norte-bogota'|relative_url}} "Terminal Norte Bogotá"){:class="botones boton-verde"}
+[Ir a la terminal Norte]({{'terminal-norte-bogota'|relative_url}} "Terminal Norte Bogotá"){:class="boton boton-verde"}
 
 ### 3. Terminal del Sur Bogotá
 
@@ -156,7 +156,7 @@ Situada en el sur de Bogotá, esta terminal es esencial **para quienes viajan ha
 
 Desde aquí, puedes embarcarte hacia destinos como Huila, Nariño y Putumayo.
 
-[Ir a la terminal Sur]({{'terminal-sur-bogota'|relative_url}} "Terminal Sur Bogotá"){:class="botones boton-verde"}
+[Ir a la terminal Sur]({{'terminal-sur-bogota'|relative_url}} "Terminal Sur Bogotá"){:class="boton boton-verde"}
 
 >Si estás planeando un viaje desde Bogotá y deseas conocer más sobre estas terminales, te invitamos a seguir explorando haciendo clic en el botón de cada una.
 

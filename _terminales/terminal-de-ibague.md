@@ -137,4 +137,4 @@ Para comprar boletos en persona, simplemente debes dirigirte a la taquilla de la
 
 Algunas empresas de autobús permiten la compra de boletos en línea. Te recomendamos visitar sus sitios web para verificar esta opción. Comprar boletos en línea puede ahorrarte tiempo y permitirte asegurar tu asiento con antelación
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
