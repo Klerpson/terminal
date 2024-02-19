@@ -120,7 +120,7 @@ Para obtener más información sobre la Terminal de Transporte de Armenia, puede
 
 Si deseas conocer más destinos o buscar más opciones de viaje, no dudes en explorar más rutas y empresas disponibles en la terminal.
 
-[Busca más destinos en nuestra página web]({{'terminales-de-colombia'|relative_url}} "Terminales Colombianas"){:class="botones boton-verde"}
+[Busca más destinos en nuestra página web]({{'terminales-de-colombia'|relative_url}} "Terminales Colombianas"){:class="boton boton-verde"}
 
 {% include add1.html %}
 
