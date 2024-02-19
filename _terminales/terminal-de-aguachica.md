@@ -115,7 +115,7 @@ La Terminal de Aguachica ha sido testigo de los cambios y crecimiento de la ciud
 
 Esta terminal de transporte es el pilar del transporte en la ciudad, [conectando a Aguachica con el resto del país]({{'terminales-de-colombia'|relative_url}}). Es más que un punto de tránsito, es parte de la vida de la ciudad.
 
-[Ver otras terminales](/terminales-de-colombia){:class="botones boton-verde"}
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
 
 {% include addm2.html %}
 
