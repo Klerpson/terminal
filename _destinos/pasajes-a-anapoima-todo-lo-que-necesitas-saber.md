@@ -34,7 +34,7 @@ Con [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}), puedes e
 
 [Redbus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %}) es otra plataforma confiable donde puedes adquirir **tus boletos de Bogotá a Anapoima**. Ofrecen diversas opciones de horarios y precios para adaptarse a las necesidades de cada viajero.
 
-> Si bien el bus es la opción más popular, hay quienes prefieren viajar en taxi o incluso volar. Plataformas como **Expedia** y [**Pinbus**](% post_url 2023-06-02-pinbus-compra-pasajes-colombia %) te permiten comparar diferentes medios de transporte. Así puedes elegir el que mejor se adapte a tus necesidades y presupuesto.
+> Si bien el bus es la opción más popular, hay quienes prefieren viajar en taxi o incluso volar. Plataformas como **Expedia** y [**Pinbus**]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}) te permiten comparar diferentes medios de transporte. Así puedes elegir el que mejor se adapte a tus necesidades y presupuesto.
 {:id="enlace2"}
 
 {% include addm6.html %}
