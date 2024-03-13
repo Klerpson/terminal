@@ -2,7 +2,7 @@
 layout: post
 json-post: "true"
 title: Seguros de coches de España digitales ¡Colombia debería aprender!
-description: ¡Te contamos las mejores ofertas para viajar en bus a Lima! 🚌 Descubre una experiencia única y ahorra tiempo y dinero. 🏃🏼 ¡Entra ahora!
+description: Es la era digital. Y el mundo de los seguros de coches está avanzando con ella. Mira cómo en Colombia podemos seguir el modelo de España
 autor: Andres Franco
 h1: "Colombia debe innovar como en España: los seguros de coche en la era digital"
 hero: blog/seguros-de-coche.webp
