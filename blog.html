@@ -31,7 +31,7 @@ description: ¿Has pensando en viajar por Colombia en bus? Aquí te enseñaremos
   <div class="home_gallery">
     {% for post in site.posts offset: 1 %}
     <article>
-      <img src="{{site.baseurl}}/img/{{post.webps}}" alt="{{post.alt}}">
+      <img src="{{site.baseurl}}/img/{{post.hero}}" alt="{{post.alt}}">
       <div>
         <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
       </div>

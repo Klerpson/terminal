@@ -5,9 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Mar 2024 14:07:41 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2024 14:07:41 -0500</lastBuildDate>
+    <pubDate>Wed, 13 Mar 2024 09:38:22 -0500</pubDate>
+    <lastBuildDate>Wed, 13 Mar 2024 09:38:22 -0500</lastBuildDate>
     <generator>Jekyll v3.9.4</generator>
+    
+      <item>
+        <title>Seguros de coches de España digitales ¡Colombia debería aprender!</title>
+        <description>¡Te contamos las mejores ofertas para viajar en bus a Lima! 🚌 Descubre una experiencia única y ahorra tiempo y dinero. 🏃🏼 ¡Entra ahora!</description>
+        <pubDate>Wed, 13 Mar 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/seguros-coche-digitales-espana-y-colombia</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/seguros-coche-digitales-espana-y-colombia</guid>
+        
+        
+        
+        
+      </item>
     
       <item>
         <title>¡Descubre las mejores ofertas de pasajes a Lima en bus!</title>
@@ -111,18 +123,6 @@
         <pubDate>Thu, 24 Aug 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/bus-aeropuerto-rionegro</link>
         <guid isPermaLink="true">http://localhost:4000/bus-aeropuerto-rionegro</guid>
-        
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>Cómo fomentar un buen comportamiento en el bus escolar</title>
-        <description>Asegura el buen comportamiento en el bus escolar de tus niños. Conoce las normativas y estrategias que te pueden ayudar. ¡Haz clic y mejora tus viajes!</description>
-        <pubDate>Sat, 19 Aug 2023 22:10:54 -0500</pubDate>
-        <link>http://localhost:4000/comportamiento-bus-escolar</link>
-        <guid isPermaLink="true">http://localhost:4000/comportamiento-bus-escolar</guid>
         
         
         
