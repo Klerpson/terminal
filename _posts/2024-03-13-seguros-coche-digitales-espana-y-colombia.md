@@ -56,6 +56,8 @@ Según los últimos estudios, el precio medio de los seguros de coche ha experim
 - **Seguro a terceros ampliado**: Para aquellos conductores que buscan un poco más de cobertura, *el seguro a terceros ampliado tiene un precio promedio de 250 euros al año*, ofreciendo protecciones adicionales como daños por robo e incendio.
 - **Seguro a todo riesgo**: Los conductores que optan por *la máxima cobertura con un seguro a todo riesgo pueden esperar pagar un promedio de 400 euros anuales*. Este tipo de seguro es especialmente valorado por aquellos con vehículos nuevos o de alto valor.
 
+{% include add2.html %}
+
 ### Ejemplos reales de precios: Caso de Allianz
 
 Para ilustrar mejor cómo pueden variar los precios, veamos algunos ejemplos concretos:
