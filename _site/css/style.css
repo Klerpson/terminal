@@ -249,6 +249,7 @@ SVG Icons - svgicons.sparkk.fr
 }
 
 .boton {
+  display: inline-block;
   border-radius: var(--radius);
   text-decoration: none;
   padding: 16px 24px;
@@ -257,7 +258,7 @@ SVG Icons - svgicons.sparkk.fr
   font-weight: 700;
   box-shadow: var(--shadow);
   transition: all .4s ease-in;
-  margin: 2rem auto;
+  margin: 1rem auto;
   cursor: pointer;
 }
 
@@ -1051,7 +1052,7 @@ textarea.form__input {
 }
 
 @media screen and (min-width: 992px) {
-  .post-content img{
+  .articulo img{
     float: right;
     margin: 1.5em 0 1.5em 1.5em;
   }

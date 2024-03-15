@@ -15,7 +15,7 @@ excerpt: Si estás pensando en viajar desde Ecuador a Colombia en bus, estás en
 ---
 Si estás pensando en viajar **desde Ecuador a Colombia en bus**, estás en el lugar correcto. A continuación, te presentamos una guía completa que te llevará paso a paso en este emocionante viaje.
 
-Y viajar en bus entre Colombia y Ecuador es una muy buena idea. Esta es una de las maneras de poder disfrutar de paisajes cambiantes y la oportunidad de conocer de cerca la cultura local.
+Y viajar en bus entre Colombia y Ecuador es una muy buena idea. Esta es una de las maneras de [poder disfrutar de paisajes cambiantes y la oportunidad de conocer de cerca la cultura local mientras viajas en bus]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}).
 
 ## ¿Por qué elegir el bus para tu viaje entre Colombia y Ecuador?
 
@@ -33,7 +33,7 @@ Y viajar en bus entre Colombia y Ecuador es una muy buena idea. Esta es una de l
 
 - - -
 
-## Ruta recomendada: De Quito a Bogotá
+## Ruta de bus recomendada: Viaje de Quito a Bogotá
 
 Basándonos en la información recopilada, la ruta más popular y recomendada para viajar en bus desde **Quito a Bogotá es la siguiente**:
 
@@ -46,7 +46,7 @@ Basándonos en la información recopilada, la ruta más popular y recomendada pa
 
 - - -
 
-## Consejos para un viaje seguro y agradable entre Ecuador y Colombia
+## Consejos para un viaje seguro y agradable en bus entre Ecuador y Colombia
 
 {% include addm8.html %}
 
@@ -56,4 +56,4 @@ Basándonos en la información recopilada, la ruta más popular y recomendada pa
 
 Viajar en bus desde Ecuador a Colombia es toda una experiencia. Vas a conocer de cerca dos países hermanos y disfrutar de paisajes impresionantes.
 
-Si estás buscando una *forma auténtica y económica de viajar*, el bus es tu mejor opción. Y si después de este viaje te quedas con ganas de más, **no dudes en explorar otras rutas y destinos en nuestra página web.**
+Si estás buscando una *forma auténtica y económica de viajar*, el bus es tu mejor opción. Y si después de este viaje te quedas con ganas de más, **[no dudes en explorar otras rutas y destinos]({{'terminales-de-colombia'|relative_url}} "Terminales colombianas") en nuestra página web.**
