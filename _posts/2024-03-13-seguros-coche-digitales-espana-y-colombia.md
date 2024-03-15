@@ -14,6 +14,8 @@ El avance de la tecnología ha transformado radicalmente diversos sectores, y *e
 
 En este contexto, analizamos cómo **las aseguradoras de coches en España están innovando en sus ofertas, servicios y en la experiencia del cliente**, utilizando como puente el ejemplo inspirador del sistema de buses de transporte público en Colombia. Y finalmente, cómo deberíamos seguir el modelo revolucionario en el sistema de transporte colombiano.
 
+{% include add1.html %}
+
 ## Una revolución sobre ruedas: del transporte público a los seguros de coche
 
 Colombia ha sido testigo de una transformación significativa en su sistema de transporte público, especialmente con la implementación de sistemas integrados de buses que han mejorado la movilidad urbana, y en el aumento de [la seguridad en los viajes nacionales]({% post_url 2023-06-15-seguro-o-inseguro-viajar-en-bus-colombia %}).
