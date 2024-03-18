@@ -30,7 +30,7 @@ Al igual que los sistemas de transporte público colombianos se han enfocado en 
 
 La personalización de las pólizas, donde cada conductor puede ajustar su seguro a sus necesidades específicas, es un claro reflejo de esta tendencia.
 
-**Empresas como Allianz están a la vanguardia. Podemos ver cómo lo hacen en su página web [https://www.allianz.es/seguro-de-coche.html](https://www.allianz.es/seguro-de-coche.html){:rel="sponsored" target="_blank"}**. Esta empresa ha desarrollado soluciones que no solo se adaptan a cada perfil de conductor, sino que también *incorporan tecnología de punta para facilitar gestiones y reclamaciones* a los usuarios.
+**Empresas como Allianz están a la vanguardia. Podemos ver cómo lo hacen en su página web [www.allianz.es/seguro-de-coche.html](https://www.allianz.es/seguro-de-coche.html){:rel="sponsored" target="_blank"}**. Esta empresa ha desarrollado soluciones que no solo se adaptan a cada perfil de conductor, sino que también *incorporan tecnología de punta para facilitar gestiones y reclamaciones* a los usuarios.
 
 ### Innovación tecnológica: más allá de la cobertura básica
 
