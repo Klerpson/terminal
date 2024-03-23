@@ -131,7 +131,7 @@
 }
 
 .post-content {
-  width: min(calc(100% - 1em), 992px);
+  width: min(calc(100% - 1em), 1260px);
   margin-inline: auto;
   margin-bottom: 4rem;
 }

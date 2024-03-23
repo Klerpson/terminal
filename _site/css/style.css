@@ -763,7 +763,7 @@ margin: 0;
   text-align: center;
   border-bottom: 1px solid var(--principal);
   max-width: 100%;
-  flex: 1 0 320px;
+  flex: 1 0 240px;
   padding: 16px;
   margin: 0;
 }
@@ -990,7 +990,7 @@ margin: 0;
 }
 
 .post-content {
-  width: min(calc(100% - 1em), 992px);
+  width: min(calc(100% - 1em), 1260px);
   margin-inline: auto;
   margin-bottom: 4rem;
 }

@@ -7,13 +7,10 @@ date: 2023-10-14
 title: ¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila
 description: Ahorra tiempo y dinero 💰 ¡Descubre los mejores pasajes en bus al Huila y disfruta de tus vacaciones al máximo! 🌴🌞 ¡No te lo pierdas!
 category: Huila
-autor: Andres Franco
 h1: ¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila
 hero: blog/pasajes-huila-bus.webp
 alt: Pasajes a Huila económicos y convenientes
 permalink: pasajes/pasajes-a-huila-bus
-cta1: Ver Precios
-cta2: Consejos de Viaje
 ---
 La región de Huila, ubicada en el sur de Colombia, es conocida por su belleza natural, su rica cultura y su increíble biodiversidad.
 
