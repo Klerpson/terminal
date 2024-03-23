@@ -8,7 +8,7 @@ h1: Descubre el impresionante tamaño del bus más grande del mundo
 excerpt: ¿Qué sabes del bus más grande del mundo? Pues te gustará leer este artículo
 hero: blog/bus-gigante.webp
 alt: Bus gigante, récord, dimensiones impactantes
-permalink: pasajes/cuál-es-el-bus-más-grande-del-mundo
+permalink: blog/cual-es-el-bus-más-grande-del-mundo
 ---
 El transporte público desempeña un papel fundamental en la movilidad de las personas en todo el mundo. A medida que las ciudades crecen y la demanda de transporte aumenta, se buscan soluciones innovadoras para mejorar la eficiencia y capacidad de los autobuses.
 
