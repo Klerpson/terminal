@@ -1,8 +1,6 @@
 ---
 layout: pasaje
 json-post: "true"
-enlace1: enlace1
-enlace2: enlace2
 date: 2023-10-14
 title: ¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila
 description: Ahorra tiempo y dinero 💰 ¡Descubre los mejores pasajes en bus al Huila y disfruta de tus vacaciones al máximo! 🌴🌞 ¡No te lo pierdas!

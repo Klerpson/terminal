@@ -76,7 +76,8 @@
         }
       }
     </script>
-    {% endif %} {% if page.json-post %}
+    {% endif %}
+    {% if page.json-post %}
     <script type="application/ld+json">
       {
         "@context": "http://schema.org",
@@ -95,7 +96,7 @@
         "datePublished": "{{page.date}}",
         "dateModified": "{{page.date}}",
         "author": {
-          "@type": "Person",
+          "@type": "Organization",
           "name": "{% if page.autor %}{{page.autor}}{% else %}{{site.author}}{% endif %}"
         },
         "publisher": {
@@ -103,7 +104,7 @@
           "name": "{{site.name}}",
           "logo": {
             "@type": "ImageObject",
-            "url": "{{'img/logo-terminal-de-transporte-200px.jpg'|relative_url}}",
+            "url": "{{site.baseurl}}/img/logo-terminal-de-transporte-200px.jpg",
             "width": "233",
             "height": "233"
           }

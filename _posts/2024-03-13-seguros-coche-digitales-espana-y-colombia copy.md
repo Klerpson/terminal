@@ -64,7 +64,6 @@ Para ilustrar mejor cómo pueden variar los precios, veamos algunos ejemplos con
 
 ![Seguros de coches Allianz](/img/blog/allianz-logo.webp "Logo de Allianz")
 
-
 - **Allianz Seguro a Terceros**: Desde 180 euros al año, ofreciendo una cobertura sólida que incluye responsabilidad civil, asistencia en viaje y protección jurídica.
 - **Seguro a Terceros Ampliado con Allianz**: A partir de 230 euros anuales, agregando coberturas por robo, incendio y daños a lunas.
 - **Allianz Seguro a Todo Riesgo**: Desde 380 euros al año, una opción completa que cubre todos los aspectos posibles, incluidos daños propios, sin franquicia o con una franquicia ajustable según las preferencias del asegurado.
