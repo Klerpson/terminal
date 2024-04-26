@@ -9,6 +9,7 @@ excerpt: ¿Conoces Punta Cana? Te contamos por qué hacerlo
 hero: blog/punta-cana-republica-dominicana.webp
 alt: Punta Cana en República Dominicana
 permalink: blog/conoce-punta-con-descuento
+published: no
 ---
 **Punta Cana,** un lugar hermoso en la República Dominicana, es ideal para quienes aman las playas, el agua clara y una atmósfera tranquila. ¡Nos encantó y queríamos invitarte a conocerlo!
 
