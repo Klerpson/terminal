@@ -5,21 +5,9 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Apr 2024 16:33:27 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Apr 2024 16:33:27 -0500</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 08:03:05 -0500</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 08:03:05 -0500</lastBuildDate>
     <generator>Jekyll v3.9.4</generator>
-    
-      <item>
-        <title>Lo mejor que ofrece Punta Cana, República Dominicana</title>
-        <description>Punta Cana, un lugar hermoso en la República Dominicana, es ideal para quienes aman las playas, el agua clara y una atmósfera tranquila. Te contamos más</description>
-        <pubDate>Wed, 17 Apr 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/conoce-punta-con-descuento</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/conoce-punta-con-descuento</guid>
-        
-        
-        
-        
-      </item>
     
       <item>
         <title>Descubre el impresionante tamaño del bus más grande del mundo</title>
@@ -123,6 +111,18 @@
         <pubDate>Sat, 02 Sep 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/bus-baño</link>
         <guid isPermaLink="true">http://localhost:4000/bus-baño</guid>
+        
+        
+        
+        
+      </item>
+    
+      <item>
+        <title>Buses de dos pisos: Características y ventajas</title>
+        <description>¿Buscas información detallada sobre buses de dos pisos? Llegaste a el lugar correcto. Acomódate y déjate informar.</description>
+        <pubDate>Mon, 28 Aug 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/buses-dos-pisos</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/buses-dos-pisos</guid>
         
         
         
