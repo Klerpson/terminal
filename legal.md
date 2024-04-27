@@ -9,11 +9,11 @@ noindex: true
 ---
 ## Aviso legal para sitio web de Terminal de Transporte
 
-En esta página se detallan las instrucciones legales que se aplican a todos los usuarios de Internet que visiten este Sitio (https://terminaldetransporte.com) propiedad de Julian Franco, con domicilio en San Agustín Huila. Al acceder y navegar por este sitio, usted se compromete a respetar estas instrucciones sin ningún tipo de excepción. Es por ello que le aconsejamos que consulte estas instrucciones cada cierto tiempo, ya que podrían modificarse de forma periódica y sin previo aviso por parte de Julian Franco. Si usted no desea aceptar o cumplir las condiciones aquí descritas, deberá abandonar este sitio web inmediatamente.
+En esta página se detallan las instrucciones legales que se aplican a todos los usuarios de Internet que visiten este Sitio (https://terminaldetransporte.com) propiedad de Julian Franco, con domicilio en Colombia. Al acceder y navegar por este sitio, usted se compromete a respetar estas instrucciones sin ningún tipo de excepción. Es por ello que le aconsejamos que consulte estas instrucciones cada cierto tiempo, ya que podrían modificarse de forma periódica y sin previo aviso por parte de Julian Franco. Si usted no desea aceptar o cumplir las condiciones aquí descritas, deberá abandonar este sitio web inmediatamente.
 
 ## Información y propiedad intelectual
 
-La información y los contenidos de todas las páginas de este Sitio Web han sido diseñados para proporcionar información general de Julian Franco y sobre los servicios que presta. Además, incluye la información de un blog sobre el destino de San Agustín como destino turístico, además de muchos actores del comercio del lugar.
+La información y los contenidos de todas las páginas de este Sitio Web han sido diseñados para proporcionar información general sobre las terminales de transporte de Colombia, sus servicios, proveedores, ofertas, noticias y todo la información que este sitio considera oportuno informar a los usuarios y propietarios de este servicio, además de las ofertas, promociones y contenido comercial que beneficia a esta página web y que el usuario acepta recibir al utilizar esta página web.
 
 Los derechos de propiedad intelectual sobre los contenidos y diseño gráfico de esta página Web pertenecen en exclusiva a Julian Franco, quedando expresamente prohibido su reenvío, transmisión, modificación, reproducción, distribución, comercialización o transformación sin la autorización expresa, escrita e intransferible de Julian Franco.
 
