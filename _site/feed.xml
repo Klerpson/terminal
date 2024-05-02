@@ -5,9 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Apr 2024 08:03:05 -0500</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 08:03:05 -0500</lastBuildDate>
-    <generator>Jekyll v3.9.4</generator>
+    <pubDate>Thu, 02 May 2024 11:14:58 -0500</pubDate>
+    <lastBuildDate>Thu, 02 May 2024 11:14:58 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Guía turística para conocer Ciudad Perdida</title>
+        <description>En el corazón de la Sierra Nevada de Santa Marta se esconde uno de los secretos mejor guardados de Colombia: Ciudad Perdida ¡Tienes que venir! 🚌</description>
+        <pubDate>Wed, 17 Apr 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/guia-turistica-ciudad-perdida</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/guia-turistica-ciudad-perdida</guid>
+        
+        
+        
+        
+      </item>
     
       <item>
         <title>Descubre el impresionante tamaño del bus más grande del mundo</title>
@@ -111,18 +123,6 @@
         <pubDate>Sat, 02 Sep 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/bus-baño</link>
         <guid isPermaLink="true">http://localhost:4000/bus-baño</guid>
-        
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>Buses de dos pisos: Características y ventajas</title>
-        <description>¿Buscas información detallada sobre buses de dos pisos? Llegaste a el lugar correcto. Acomódate y déjate informar.</description>
-        <pubDate>Mon, 28 Aug 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/buses-dos-pisos</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/buses-dos-pisos</guid>
         
         
         
