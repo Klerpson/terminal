@@ -92,6 +92,8 @@ Puntos de interés en la ruta
 
 ### Día 6 Exploración de ciudad perdida
 
+![Foto de la llegada a Ciudad Perdida]({{'img/blog/ciudad-perdida-santa-marta.webp'|relative_url}} "Ciudad Perdida")
+
 Alcanzarás Ciudad Perdida al amanecer.
 
 Este momento es mágico, con el sol iluminando las piedras ancestrales. Aquí, un guía te explicará la historia y el significado de este lugar sagrado.
