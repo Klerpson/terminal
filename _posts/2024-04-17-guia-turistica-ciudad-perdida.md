@@ -26,7 +26,7 @@ En esta guía, te proporcionaremos información detallada para que puedas planif
 
 {% include addm1.html %}
 
-Ciudad Perdida es un complejo arqueológico de gran importancia en Colombia, construido alrededor del siglo VIII por la civilización Tayrona.
+[Ciudad Perdida es un complejo arqueológico](https://es.wikipedia.org/wiki/Ciudad_Perdida){:rel="nofollow noopener noreferrer" target="_blank"} de gran importancia en Colombia, construido alrededor del siglo VIII por la civilización Tayrona.
 
 Redescubierta en 1972, esta ciudad se ha convertido en un **destino popular para los amantes del trekking y la historia**.
 
