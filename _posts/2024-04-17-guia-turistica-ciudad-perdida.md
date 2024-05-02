@@ -5,10 +5,10 @@ date: 17/04/2024
 title: Guía turística para conocer Ciudad Perdida
 description: "En el corazón de la Sierra Nevada de Santa Marta se esconde uno de los secretos mejor guardados de Colombia: Ciudad Perdida ¡Tienes que venir! 🚌"
 h1: Guía turística para conocer Ciudad Perdida
-excerpt: ¿Conoces Ciudad Perdida? Mira porqué tienes que venir
 hero: blog/ciudad-perdida.webp
 alt: Foto de Ciudad Perdida en Santa Marta Colombia
 permalink: blog/guia-turistica-ciudad-perdida
+excerpt: ¿Conoces Ciudad Perdida? Mira porqué tienes que venir
 ---
 En el corazón de la Sierra Nevada de Santa Marta se esconde uno de los secretos mejor guardados de Colombia: **Ciudad Perdida**.
 
