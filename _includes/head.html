@@ -165,7 +165,7 @@
       content="{%if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}"
     />
     <meta property="og:url" content="{{site.url}}{{ page.url}}" />
-    <meta property="og:image" content="{{ site.url}}{{ page.jpg}}" />
+    <meta property="og:image" content="{{page.jpg|relative_url}}" />
     <meta property="og:site_name" content="Terminal de Transporte" />
     <meta
       property="article:publisher"

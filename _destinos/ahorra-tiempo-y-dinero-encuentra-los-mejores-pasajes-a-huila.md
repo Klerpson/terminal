@@ -7,6 +7,7 @@ description: Ahorra tiempo y dinero 💰 ¡Descubre los mejores pasajes en bus a
 category: Huila
 h1: ¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila
 hero: blog/pasajes-huila-bus.webp
+jpg: blog/pasajes-huila-bus.jpg
 alt: Pasajes a Huila económicos y convenientes
 permalink: pasajes/pasajes-a-huila-bus
 ---
