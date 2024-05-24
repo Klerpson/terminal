@@ -19,7 +19,7 @@ noindex: true
       {% for destino in site.terminales %}
       {% if destino.category contains item.category %}
       <article>
-        <img src="{{site.baseurl}}/img/{{destino.webps}}" alt="{{destino.alt}}" loading="lazy">
+        <img src="{{site.baseurl}}/img/{{destino.webps}}" alt="{{destino.alt}}" loading="lazy" width="112" height="112">
         <div>
           <a href="{{destino.url}}"><h4>{{destino.h1}}</h4></a>
         </div>

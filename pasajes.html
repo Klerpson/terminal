@@ -35,7 +35,7 @@ noindex: true
           {% for destino in site.destinos %}
           {% if destino.category contains item.category %}
           <article>
-            <img src="{{site.baseurl}}/img/{{destino.hero}}" alt="{{destino.alt}}">
+            <img src="{{site.baseurl}}/img/{{destino.hero}}" alt="{{destino.alt}}" loading="lazy" width="112" height="112">
             <a href="{{site.baseurl}}{{ destino.url }}"><h4>{{ destino.h1 }}</h4></a>
           </article>
           {% endif %}
