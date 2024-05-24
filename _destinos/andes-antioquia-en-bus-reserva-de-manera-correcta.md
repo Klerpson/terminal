@@ -8,6 +8,7 @@ description: "¿Cómo llegar a Andes Antioquia en bus? Infórmate de todo lo que
 category: Antioquia
 h1: "Tu pasaje en bus a Andes Antioquia: Lo que necesitas saber"
 hero: blog/pasajes-andes-antioquia.webp
+jpg: blog/pasajes-andes-antioquia.jpg
 alt: pasaje andes antioquia
 cta1: Mira las rutas
 cta2: Conoce los precios
