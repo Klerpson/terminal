@@ -391,6 +391,7 @@ nav span{
 .home_gallery img{
   z-index: 3;
   object-fit: cover;
+  border-radius: var(--radius);
 }
 .about{
   position: relative;
