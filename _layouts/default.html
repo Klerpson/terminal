@@ -31,19 +31,7 @@ layout: compress
     </script>
   {% endif %}
   
-  <script>
-    const previousTitle = document.title;
-  
-  window.addEventListener('blur', () => {
-    document.title = '😱 ¡No te vayas! ¡Regresa! 🚨';
-  });
-  
-  window.addEventListener('focus', () => {
-    document.title = previousTitle;
-  });
-  </script>
-
-  <!-- Script pointing to search-script.js -->
+    <!-- Script pointing to search-script.js -->
   <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
   <script>
     var sjs = SimpleJekyllSearch({
