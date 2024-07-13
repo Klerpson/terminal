@@ -5,16 +5,28 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 May 2024 08:59:03 -0500</pubDate>
-    <lastBuildDate>Fri, 24 May 2024 08:59:03 -0500</lastBuildDate>
-    <generator>Jekyll v3.9.5</generator>
+    <pubDate>Fri, 12 Jul 2024 22:34:38 -0500</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2024 22:34:38 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Módulos de Terminal Salitre en Bogotá: Servicios y Ubicaciones</title>
+        <description>Terminal Salitre en Bogotá: guía de módulos con tiendas, restaurantes y servicios. Todo lo que necesitas saber para una visita perfecta. </description>
+        <pubDate>Thu, 11 Jul 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/2024-07-11-modulos-terminal-salitre-bogota</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2024-07-11-modulos-terminal-salitre-bogota</guid>
+        
+        
+        
+        
+      </item>
     
       <item>
         <title>Guía turística para conocer Ciudad Perdida</title>
         <description>En el corazón de la Sierra Nevada de Santa Marta se esconde uno de los secretos mejor guardados de Colombia: Ciudad Perdida ¡Tienes que venir! 🚌</description>
         <pubDate>Wed, 17 Apr 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/guia-turistica-ciudad-perdida</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/guia-turistica-ciudad-perdida</guid>
+        <link>http://localhost:4000/blog/2024-04-17-guia-turistica-ciudad-perdida</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2024-04-17-guia-turistica-ciudad-perdida</guid>
         
         
         
@@ -111,18 +123,6 @@
         <pubDate>Mon, 04 Sep 2023 22:23:58 -0500</pubDate>
         <link>http://localhost:4000/blog/buses-servicio-especial</link>
         <guid isPermaLink="true">http://localhost:4000/blog/buses-servicio-especial</guid>
-        
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>Buses con baño | Asegura tu comodidad y salud al viajar</title>
-        <description>Viaja cómodo en buses con baños ¡Infórmate aquí de su historia, funcionamiento y consejos para su uso!</description>
-        <pubDate>Sat, 02 Sep 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/bus-baño</link>
-        <guid isPermaLink="true">http://localhost:4000/bus-baño</guid>
         
         
         

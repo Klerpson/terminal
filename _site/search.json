@@ -1,8 +1,13 @@
 [
   
     {
+      "title"    : "Módulos de Terminal Salitre en Bogotá: Servicios y Ubicaciones",
+      "url"      : "/blog/2024-07-11-modulos-terminal-salitre-bogota"
+    } ,
+  
+    {
       "title"    : "Guía turística para conocer Ciudad Perdida",
-      "url"      : "/blog/guia-turistica-ciudad-perdida"
+      "url"      : "/blog/2024-04-17-guia-turistica-ciudad-perdida"
     } ,
   
     {
@@ -342,11 +347,6 @@
     {
       "title"    : "Pasajes a Anapoima | Todo lo que Necesitas Saber",
       "url"      : "/pasajes/bogota-anapoima"
-    } ,
-  
-    {
-      "title"    : "Rutas y precios de pasajes a San Gil | Lo que debes saber",
-      "url"      : "/pasajes/san-gil"
     } 
   
   ,

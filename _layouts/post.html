@@ -3,6 +3,7 @@ layout: default
 ---
 
 <article class="post-content flow">
+  <small class="breadcrumbs">🚏 Tu parada es aquí: <a href="{{site.baseurl}}" title="Página de inicio">Inicio</a> / <a href="{{'blog' | relative_url}}" title="Página del blog">Blog</a> / {{page.h1}}</small>
   {{ content }}
   {% if page.referencias %}
   <section id="fuentes">

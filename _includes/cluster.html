@@ -1,0 +1,39 @@
+<div class="cluster seccion_b">
+
+  <h4>Sabemos que te van a interesar estos juegos</h4>
+  <div>
+
+    {% assign maxRelated = 4 %}
+    {% assign minCommonTags = 1 %}
+    {% assign maxRelatedCounter = 0 %}
+
+    {% for post in site.juegos %}
+
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+
+    {% for category in post.categories %}
+    {% if post.url != page.url %}
+    {% if page.categories contains category %}
+    {% assign sameTagCount = sameTagCount | plus: 1 %}
+    {% capture tagmarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+    {% assign commonTags = commonTags | append: tagmarkup %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+
+    {% if sameTagCount >= minCommonTags %}
+    <article>
+      <img src="{{ post.hero | relative_url }}" alt="{{post.alt}}" title="{{post.title}}" loading="lazy">
+      <h4><a href="{{ post.url | relative_url }}" title="{{post.title}}">{{ post.h1 }} | {{ commonTags }}</a></h4>
+    </article>
+    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+    {% if maxRelatedCounter >= maxRelated %}
+    {% break %}
+    {% endif %}
+    {% endif %}
+
+    {% endfor %}
+
+  </div>
+</div>

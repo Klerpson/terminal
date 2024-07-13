@@ -49,7 +49,13 @@
   
   
       <url>
-        <loc>http://localhost:4000/blog/guia-turistica-ciudad-perdida</loc>
+        <loc>http://localhost:4000/blog/2024-07-11-modulos-terminal-salitre-bogota</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/2024-04-17-guia-turistica-ciudad-perdida</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -243,12 +249,6 @@
   
       <url>
         <loc>http://localhost:4000/pasajes/bogota-anapoima</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/san-gil</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

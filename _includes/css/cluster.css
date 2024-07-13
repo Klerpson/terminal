@@ -1,0 +1,26 @@
+.cluster{
+  background-color: var(--gris);
+  box-shadow: 0 0 0 100vmax var(--gris);
+  clip-path: inset(0 -100vmax);
+  padding: 2em 0;
+}
+
+.cluster div{
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  article{
+    text-align: center;
+    background-color: var(--blanco);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 12px;
+    width: min(100%, 280px);
+
+    img{
+      border-radius: var(--radius);
+    }
+  }
+}

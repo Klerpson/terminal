@@ -23,6 +23,9 @@ compress_html:
     startings: []
 
 collections:
+  posts:
+    output: true
+    permalink: /blog/:path
   destinos:
     output: true
     permalink: /pasajes/:path

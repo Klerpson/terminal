@@ -6,7 +6,7 @@
   --complemento2: #d3ffe3;
   --complemento1: #f0f8f8;
   --bg: rgba(211, 211, 211, 0.96);
-  --gris: rgb(211, 211, 211);
+  --gris: #f0f0f0;
   --grisFuentes: #111413;
   /*** FUENTES ***/
   --fuente: 'Lato', sans-serif;
@@ -170,21 +170,21 @@ ol li::marker {
 }
 
 table {
-  width: min(100%, 720px);
-  margin-top: 4em;
-  padding-left: 2em;
-  border-left: 2.4px solid var(--secundario);
+  width: 100%;
+  margin: 2em 0 4em;
 }
 
 table tr {
-  border-bottom: 2px dotted var(--gris);
+  border-bottom: 2px dotted var(--principal);
   display: flex;
-  padding: 1.2em 0;
+  padding: 1.2em;
   flex-wrap: wrap;
   gap: 1em;
   width: 100%;
-  justify-content: center;
-  align-items: center;
+}
+
+table tr:nth-child(even){
+  background-color: var(--gris);
 }
 
 table th {
@@ -193,7 +193,8 @@ table th {
 
 table td,
 table th {
-  flex: 1 0 280px;
+  flex: 1 0 200px;
+  width: min(100%, 360px);
 }
 
 .wrapper {
@@ -305,8 +306,8 @@ SVG Icons - svgicons.sparkk.fr
 }
 
 .seccion{
-  background-color: var(--complemento1);
-  box-shadow: 0 0 0 100vmax var(--complemento1);
+  background-color: var(--gris);
+  box-shadow: 0 0 0 100vmax var(--gris);
   clip-path: inset(0 -100vmax);
   padding: 2em 0;
 }

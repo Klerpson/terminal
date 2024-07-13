@@ -11,8 +11,8 @@ description: ¿Has pensando en viajar por Colombia en bus? Aquí te enseñaremos
     <h1>🆕 Nuestro artículo del blog más reciente en tu terminaldetransporte.com</h1>
     <article>
       {% assign post1 = site.posts[0] %}
-      {% if post1.jpg %}
-      {% include img.html webpm=post1.webpm webps=post1.webps alt=post1.alt %}
+      {% if post1.webpm %}
+      <img src="{{site.baseurl}}/img/{{post1.webpm}}" alt="{{post1.alt}}" loading="lazy">
       {% else %}
       <img src="{{site.baseurl}}/img/{{post1.hero}}" alt="{{post1.alt}}" loading="lazy">
       {% endif %}
