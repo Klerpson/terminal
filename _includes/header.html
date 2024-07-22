@@ -21,7 +21,7 @@
         <article>
           <img src="{{site.baseurl}}/img/{{pasaje.img}}" alt="{{pasaje.alt}}">
           <div>
-            <a href="{{site.baseurl}}{{pasaje.url}}"><h2>{{pasaje.title}}</h2></a>
+            <a href="{{pasaje.url|relative_url}}"><h2>{{pasaje.title}}</h2></a>
             <p>{{pasaje.p}}</p>
           </div>
         </article>
