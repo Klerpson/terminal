@@ -15,7 +15,7 @@ En Colombia, la seguridad en el transporte público es un tema importante a tene
 
 ## ¿Es seguro o inseguro viajar en bus en Colombia?
 
-{% include addm1.html %}
+{% include add5.html %}
 
 Entre los medios de **transporte más seguros se encuentra el autobús**, aunque es necesario tomar precauciones. Es fundamental conocer las pautas de seguridad para pasajeros y conductores y utilizar el cinturón de seguridad si es posible.
 

@@ -30,9 +30,9 @@ La mayoría de *los buses de dos pisos tienen en común las siguientes caracter�
 
 ## Ventajas de optar por un bus de dos pisos
 
-Optar por un bus de dos pisos no solo es una cuestión de capacidad. **Estos buses ofrecen una experiencia diferente al pasajero**, ya que ofrecen una vista panorámica tanto para rutas regulares como turísticas y una distribución diferente de los asientos que puede ser más cómoda para viajes largos.
+{% include add5.html %}
 
-{% include addm1.html %}
+Optar por un bus de dos pisos no solo es una cuestión de capacidad. **Estos buses ofrecen una experiencia diferente al pasajero**, ya que ofrecen una vista panorámica tanto para rutas regulares como turísticas y una distribución diferente de los asientos que puede ser más cómoda para viajes largos.
 
 ## Medidas estándar y personalizaciones del bus de 2 pisos
 
@@ -49,8 +49,6 @@ Es importante considerar aspectos como **la altura total del vehículo**, especi
 Tienes opciones de personalización, tanto en el diseño interior como exterior, y en las características técnicas específicas.
 
 Estas adaptaciones pueden ser esenciales para operar en ciertas condiciones o para ofrecer servicios específicos, como rutas turísticas.
-
-----
 
 ## Precios y factores que influyen en la compra de un bus de dos pisos
 
@@ -70,15 +68,15 @@ Más allá del precio inicial, es esencial considerar otros costos asociados, co
 
 Otros factores importantes son **la marca, el país de fabricación y las características adicionales** pueden influir en el precio final.
 
-{% include addm2.html %}
-
 ## Consejos para la compra y mantenimiento para un bus doble
+
+{% include addm2.html %}
 
 Adquirir un bus de dos pisos es una inversión significativa. Por esta razón, es esencial hacer una investigación exhaustiva y considerar todos los factores antes de tomar una decisión.
 
 ### Cómo elegir el bus de dos pisos adecuado
 
-Más allá del precio, es crucial considerar aspectos como **la eficiencia en el consumo de combustible, la vida útil estimada del vehículo y las opciones de servicio** postventa disponibles.
+Más allá del precio, es crucial considerar aspectos como **la eficiencia en el consumo de combustible, la vida útil estimada del vehículo y las opciones de servicio** post-venta disponibles.
 
 ### Mantenimiento y cuidados esenciales del bus
 

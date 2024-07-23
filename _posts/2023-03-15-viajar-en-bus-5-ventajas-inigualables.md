@@ -15,7 +15,7 @@ excerpt_separator: <!-- excerpt -->
 
 ## Los beneficios de viajar en bus
 
-{% include addm1.html %}
+{% include add5.html %}
 
 Si alguna vez te has preguntado si viajar en bus es una buena idea, hoy te contaremos los 5 beneficios de hacerlo que nos parece que te servirán mucho.
 

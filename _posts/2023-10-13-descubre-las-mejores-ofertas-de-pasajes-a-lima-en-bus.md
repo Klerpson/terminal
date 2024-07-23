@@ -49,7 +49,7 @@ Los horarios y precios están sujetos a cambios y deben confirmarse [directament
 
 ## Ventajas de viajar en bus a Lima
 
-{% include addm1.html %}
+{% include add5.html %}
 
 ### Economía de costos
 

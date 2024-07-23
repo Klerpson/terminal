@@ -13,7 +13,7 @@ Viajar en buses internacionales, se ha convertido en una opción popular para mu
 
 ## Buses internacionales en Colombia: Conectando con el continente
 
-{% include addm1.html %}
+{% include add5.html %}
 
 Colombia, puerta de entrada a Sudamérica, cuenta con diversas empresas que **ofrecen rutas internacionales,** conectando el país con sus vecinos.
 

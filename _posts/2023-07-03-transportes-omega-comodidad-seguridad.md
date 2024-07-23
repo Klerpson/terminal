@@ -86,8 +86,6 @@ La seguridad es primordial, por lo cual se **realizan inspecciones regulares en 
 
 Con Transportes Omega los pasajeros pueden estar seguros y cómodos durante todo su viaje.
 
-- - -
-
 ## Principales ciudades donde opera Transportes Omega
 
 Omega Ltda es una empresa de transporte terrestre intermunicipal que opera en 14 departamentos a lo largo del país.
@@ -110,21 +108,22 @@ Para conocer los horarios de las agencias de Omega, se puede acceder a [su sitio
 
 En ambos casos, se proporcionará la información necesaria para elegir los horarios que se ajusten a las necesidades del usuario.
 
-{% include addm1.html %}
+{% include add5.html %}
 
-## Otros operadores que compiten con Transportes Omega
+### Otros operadores que compiten con Transportes Omega
 
-Además de Transportes Omega, existen otras empresas de transporte intermunicipal en Colombia, como [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Expreso Bolivariano") y [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Expreso Brasilia"), que compiten en términos de precios y servicios.
+Existen otras empresas de transporte intermunicipal en Colombia que compiten con Transportes Omega en calidad y precios. Algunas son:
 
-### Comparación de precios y servicios
-
-* Tanto Expreso Bolivariano como Expreso Brasilia ofrecen tarifas similares a las de Transportes Omega para rutas intermunicipales.
-* En términos de servicios, las empresas diferencian sus ofertas para hacerlas más atractivas a sus clientes, incluyendo encomiendas y programas de fidelización.
+* [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Expreso Bolivariano")
+* [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Expreso Brasilia")
+* [Cooperativa Coomotor]
 
 ### Diferencias entre transportes Omega y otras empresas de transporte
 
 * En comparación con Expreso Bolivariano y Expreso Brasilia, Transportes Omega **destaca por su amplia flota de autobuses**, **operando en 14 departamentos del país** con diferentes opciones de clase para los pasajeros.
 * Asimismo, Transportes Omega sigue un enfoque de servicio al cliente que hace hincapié en la **comodidad y seguridad en el transporte de pasajeros, mascotas y carga**.
+
+## Líneas de buses de Transportes Omega
 
 ### Autobús estándar
 
@@ -160,45 +159,41 @@ Este servicio es considerado el más lujoso de la compañía, y cuenta con una a
 * Baño premium con productos de aseo de alta calidad
 * Prioridad en el abordaje y descenso del autobús
 
-- - -
+{% include add5.html %}
 
-### Preguntas frecuentes de los usuarios de Transporte Omega
+## Preguntas frecuentes de los usuarios de Transporte Omega
 
-{% include addm1.html %}
+>### ¿Puedo llevar equipaje adicional?
+>
+>Sí, se permite llevar un máximo de dos piezas de equipaje por pasajero, con un peso máximo de 20 kilogramos cada uno.
+>
+>### ¿Puedo llevar mascotas en el autobús?
+>
+>Sí, puedes llevar mascotas siempre y cuando viajen en su respectivo bolso o jaula, y no excedan los 10 kilogramos de peso. Además, deberás pagar un costo adicional en el momento de la compra del tiquete.
+>
+>### ¿Qué debo hacer si pierdo mi tiquete de transporte?
+>
+>En caso de perder tu tiquete de transporte, debes comunicarte con la oficina de sales de omega más cercana para solicitar un duplicado, con un costo adicional.
+>
+>### ¿Qué hago si mi autobús de Transportes Omega llega tarde?
+>
+>Puedes comunicarte con el **centro de atención al cliente de Omega, al teléfono 310 769 3171**, para verificar la causa del retraso y obtener información sobre el tiempo de llegada aproximado.
+>
+>También se ofrece la opción de reembolso o cambio de tiquete en caso de demoras superiores a las dos horas. Puedes escribirles directamente en el formulario de la [página de contacto de omega.com.co.](https://omega.com.co/contacto/){:rel="nofollow noopener noreferrer" target="_blank"}
+>
+>### ¿Se permite fumar en los autobuses de Omega?
+>
+>No, está prohibido fumar dentro de los autobuses de la compañía.
+>
+>### ¿Puedo llevar comida y bebida en el autobús?
+>
+>Sí, puedes llevar alimentos y bebidas siempre y cuando no interrumpan la comodidad y seguridad de los demás pasajeros.
+>
+>### ¿Cómo debo empacar mis encomiendas?
+>
+>Todas las encomiendas deben ser empacadas de manera adecuada para evitar daños durante el transporte. Además, debe colocarse una etiqueta con los datos del remitente y destinatario.
 
-#### ¿Puedo llevar equipaje adicional?
-
-Sí, se permite llevar un máximo de dos piezas de equipaje por pasajero, con un peso máximo de 20 kilogramos cada uno.
-
-#### ¿Puedo llevar mascotas en el autobús?
-
-Sí, puedes llevar mascotas siempre y cuando viajen en su respectivo bolso o jaula, y no excedan los 10 kilogramos de peso. Además, deberás pagar un costo adicional en el momento de la compra del tiquete.
-
-#### ¿Qué debo hacer si pierdo mi tiquete de transporte?
-
-En caso de perder tu tiquete de transporte, debes comunicarte con la oficina de sales de omega más cercana para solicitar un duplicado, con un costo adicional.
-
-#### ¿Qué hago si mi autobús de Transportes Omega llega tarde?
-
-Puedes comunicarte con el **centro de atención al cliente de Omega, al teléfono 310 769 3171**, para verificar la causa del retraso y obtener información sobre el tiempo de llegada aproximado.
-
-También se ofrece la opción de reembolso o cambio de tiquete en caso de demoras superiores a las dos horas. Puedes escribirles directamente en el formulario de la [página de contacto de omega.com.co.](https://omega.com.co/contacto/){:rel="nofollow noopener noreferrer" target="_blank"}
-
-### Información adicional sobre condiciones de transporte de pasajeros, mascotas y carga
-
-#### ¿Se permite fumar en los autobuses de Omega?
-
-No, está prohibido fumar dentro de los autobuses de la compañía.
-
-#### ¿Puedo llevar comida y bebida en el autobús?
-
-Sí, puedes llevar alimentos y bebidas siempre y cuando no interrumpan la comodidad y seguridad de los demás pasajeros.
-
-#### ¿Cómo debo empacar mis encomiendas?
-
-Todas las encomiendas deben ser empacadas de manera adecuada para evitar daños durante el transporte. Además, debe colocarse una etiqueta con los datos del remitente y destinatario.
-
-### Consejos para viajar con mayor seguridad y confort en transportes Omega
+## Consejos para viajar con mayor seguridad y confort en transportes Omega
 
 * Llega con anticipación al punto de partida para evitar retrasos y asegurar un buen asiento en el autobús.
 * Revisa las condiciones de transporte antes de abordar y sigue las instrucciones del conductor y personal de la compañía durante el viaje.

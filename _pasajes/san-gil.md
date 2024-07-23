@@ -14,9 +14,9 @@ Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cab
 **Copetran es una de las empresas más populares para viajar a San Gil**, pero no es la única opción. Aquí te explicamos cómo puedes adquirir tus boletos de varias maneras.
 {:id="enlace1"}
 
-{% include addm1.html %}
+## Copetran: Opciones y precios para viajar en San Gil
 
-### Copetran: Opciones y precios para viajar en San Gil
+{% include add5.html %}
 
 [Copetran](https://www.copetran.com.co/){:rel="nofollow noopener noreferrer" target="_blank"} es una de las empresas líderes en transporte terrestre en Colombia. **Ofrecen varias opciones de horarios y tipos de bus**, desde servicios estándar hasta buses de lujo. Los precios varían según la comodidad y los servicios ofrecidos.
 
@@ -24,14 +24,14 @@ Puedes comprar los pasajes directamente en su página web, en taquillas o inclus
 
 > Además de Copetran, **hay otras empresas que ofrecen servicios similares**, como [Expreso Brasilia](https://www.bing.com/ck/a?!&&p=b2f667a609bb5e82JmltdHM9MTY5MjkyMTYwMCZpZ3VpZD0yOGRlMjQ4NS0zMDg4LTY3MzItMDQwYy0zN2ZkMzEyNzY2MDgmaW5zaWQ9NTIwMg&ptn=3&hsh=3&fclid=28de2485-3088-6732-040c-37fd31276608&psq=expreso+brasilia&u=a1aHR0cHM6Ly93d3cuZXhwcmVzb2JyYXNpbGlhLmNvbS8&ntb=1){:rel="nofollow noopener noreferrer" target="_blank"} y [Berlinas](https://www.berlinasdelfonce.com/rutas-y-horarios/){:rel="nofollow noopener noreferrer" target="_blank"}. Cada una tiene sus propias ventajas y desventajas en términos de precio, horario y comodidades. Es recomendable comparar varias opciones antes de tomar una decisión.
 
-### Compra los pasajes a San Gil: Línea vs taquilla
+## Compra los pasajes a San Gil: Línea vs taquilla
 
 La compra en línea ofrece la ventaja de comparar precios y horarios desde la comodidad de tu hogar.
 
 Sin embargo, en la taquilla podrías encontrar ofertas de último minuto o descuentos especiales que no están disponibles en línea. Ambas opciones tienen sus pros y contras, y la elección dependerá de tus necesidades y preferencias.
 {:id="enlace1"}
 
-## Dónde comprar tu pasaje desde y hacia San Gil
+### Dónde comprar tu pasaje desde y hacia San Gil
 
 Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cabeza es cómo comprar los pasajes. Aquí te mostramos donde puedes adquirir tus boletos a precios competitivos.  
 
@@ -45,8 +45,6 @@ Si tienes en mente viajar a San Gil, la primera pregunta que te vendrá a la cab
 {:class="seccion"}
 
 Estas plataformas ofrecen diversas opciones de pago y algunas incluso tienen aplicaciones móviles para facilitar el proceso. Los precios son aproximados y pueden variar según la temporada y disponibilidad.
-
-----
 
 ## Rutas disponibles y más demandadas hacia San Gil
 
@@ -76,8 +74,6 @@ Es crucial *comparar precios entre diferentes proveedores antes de hacer una com
 
 Algunas veces, comprar **pasajes con antelación puede resultar en descuentos significativos**.
 
-----
-
 ## Duración del Viaje hacia San Gil
 
 El tiempo que tardarás en llegar a San Gil dependerá de tu punto de partida y del tipo de servicio que elijas. Aquí te damos una idea general de lo que puedes esperar.
@@ -91,8 +87,6 @@ Si partes **desde Bucaramanga**, el viaje es mucho más corto, con una duración
 ### Paradas en el Camino
 
 Ten en cuenta que la duración del viaje puede aumentar debido a paradas en el camino. Algunos servicios hacen varias paradas para recoger o dejar pasajeros, lo que podría añadir tiempo adicional al viaje.
-
-----
 
 ## Comodidades en el Bus que viaja hacia San Gil
 
@@ -108,9 +102,7 @@ Si optas por un servicio premium, podrás disfrutar de comodidades adicionales c
 
 Estos servicios suelen ser más caros, pero ofrecen una experiencia de viaje más cómoda y agradable.
 
-----
-
-## Preguntas Frecuentes
+## Preguntas frecuentes sobre el viaje a San Gil
 
 Si es tu primera vez viajando a San Gil en bus, es probable que tengas muchas preguntas. Aquí respondemos a las más comunes.
 
@@ -118,7 +110,7 @@ Si es tu primera vez viajando a San Gil en bus, es probable que tengas muchas pr
 * **Política de Cancelación y Reembolso:** La política de cancelación y reembolso varía según la empresa. Algunas ofrecen reembolsos completos si cancelas con suficiente antelación, mientras que otras aplican cargos por cancelación.
 {:class="seccion"}
 
-### La mejor época para comprar tu pasaje a San Gil
+## La mejor época para comprar tu pasaje a San Gil
 
 Si puedes elegir, la mejor época para viajar es durante la temporada baja. No solo encontrarás menos multitudes, sino que también **podrás aprovechar ofertas y descuentos**.
 

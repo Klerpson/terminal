@@ -21,7 +21,7 @@ En este artículo, te daremos toda la información que necesitas conocer sobre *
 - [Como planificar tu paso por la terminal Salitre con sus módulos](#cómo-planificar-tu-visita-con-los-módulos-de-la-terminal-salitre)
 {:class="seccion"}
 
-{% include add-top.html %}
+{% include add4.html %}
 
 ## Ventajas de los módulos de la Terminal Salitre
 

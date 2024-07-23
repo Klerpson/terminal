@@ -23,7 +23,7 @@ En esta guía, te proporcionaremos información detallada para que puedas planif
 
 ## ¿Qué es Ciudad Perdida en Santa Marta Colombia?
 
-{% include addm1.html %}
+{% include add5.html %}
 
 [Ciudad Perdida es un complejo arqueológico](https://es.wikipedia.org/wiki/Ciudad_Perdida){:rel="nofollow noopener noreferrer" target="_blank"} de gran importancia en Colombia, construido alrededor del siglo VIII por la civilización Tayrona.
 

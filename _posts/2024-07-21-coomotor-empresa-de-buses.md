@@ -74,7 +74,9 @@ Coomotor ofrece servicios de transporte terrestre para pasajeros y encomiendas e
 * Bogotá - Popayán
 {:class="seccion"}
 
-## ¿Cuánto cuesta viajar en Coomotor?
+## ¿Cuánto cuesta los pasajes en Coomotor?
+
+{% include add5.html %}
 
 Los precios de los tiquetes y pasajes de Coomotor varían según los distintos destinos y horarios.
 
@@ -90,8 +92,6 @@ Antes de emprender un viaje con Coomotor es importante tener en cuenta algunas r
 4. Respetar los protocolos de bioseguridad, presentar síntomas de enfermedad.
 5. Asimismo, se recomienda no llevar objetos de valor en el equipaje y llevar un bolso de mano con elementos indispensables.
 6. Es importante llevar siempre consigo el tiquete o pasaje para evitar contratiempos en el viaje.
-
-{% include addm1.html %}
 
 ### Preguntas frecuentes sobre los servicios de Coomotor
 

@@ -11,7 +11,7 @@ alt: "Pasaje terrestre Bogotá acacias "
 ---
 Viajar en bus de Bogotá a Acacias es una opción económica y cómoda. Además, es una oportunidad para disfrutar del paisaje colombiano y conocer más sobre la cultura y tradiciones de ambas ciudades.
 
-{% include addm1.html %}
+{% include add5.html %}
 
 ### Empresas de transporte y horarios entre Bogotá y Acacías
 
@@ -26,11 +26,11 @@ Viajar en bus de Bogotá a Acacias es una opción económica y cómoda. Además,
 
 ## Precios de los pasajes Bogotá - Acacías
 
+{% include add4.html %}
+
 El costo del pasaje varía según la empresa de transporte y el tipo de servicio.
 
 Para mencionar dos opciones, **un pasaje con Expreso Bolivariano puede costar desde $33.000, mientras que con Flota La Macarena, el precio puede llegar hasta $50.000**.
-
-----
 
 ## ¿Cómo comprar pasajes a Acacías?
 
@@ -45,6 +45,8 @@ De la misma manera, hoy podemos acceder a [sitios web como Pinbus]({% post_url 2
 * **Tiempo estimado:** El viaje en bus tiene una duración promedio de 4 horas, aunque este tiempo puede variar dependiendo del tráfico y las paradas en la ruta.
 
 #### ¿Listo para tu viaje de Bogotá a Acacías?
+
+{% include add1.html %}
 
 Viajar de Bogotá a Acacias en bus te permite conocer más sobre Colombia, también es una opción económica y cómoda. ¡Prepara tus maletas y disfruta del viaje!
 

@@ -14,13 +14,20 @@ Viajar en grupo puede ser una experiencia inolvidable, pero también puede prese
 
 En este artículo, te presentamos todo lo que necesitas saber **sobre el alquiler de buses y minibuses en Colombia**.
 
+## Información para alquilar buses en Colombia
+
+* [Como puedes alquilar un bus](#cómo-alquilar-un-bus)
+* [Empresas colombianas para alquilar bus](#empresas-de-alquiler-de-buses-nacionales-colombianas)
+* [Empresas regionales para alquilar bus](#principales-empresas-de-alquiler-de-buses-regionales-colombianas)
+* [Las ventajas de alquilar un bus](#qué-ventajas-tiene-un-bus-de-alquiler)
+
 ## Alquiler de buses para paseos en grupos
 
 Alquilar un bus puede ser la solución perfecta para una excursión, un viaje de estudios, un evento o simplemente un paseo. Pero, ¿Cómo saber cuál es la mejor opción?
 
 ### ¿Cómo alquilar un bus?
 
-{% include addm1.html %}
+{% include add5.html %}
 
 El proceso de alquiler de un bus varía según la empresa, pero generalmente implica:
 
@@ -31,8 +38,6 @@ El proceso de alquiler de un bus varía según la empresa, pero generalmente imp
 5. Cancelar de antemano o por partes el costo del alquiler
 
 ## Empresas de alquiler de buses nacionales colombianas
-
------
 
 Colombia cuenta con diversas empresas nacionales dedicadas al alquiler de buses. Estas empresas ofrecen servicios que varían en precio y calidad.
 
@@ -54,17 +59,15 @@ Entre sus ventajas comerciales al alquilar un bus, encontramos las siguientes:
 * Agencias de Turismo
 * Puntualidad y servicio de rastreo
 
-## Principales empresas de alquiler de buses regionales colombianas
+{% include addm2.html %}
 
------
+## Principales empresas de alquiler de buses regionales colombianas
 
 En Colombia, además de las grandes empresas nacionales, existen [numerosas empresas regionales de transporte](/) que ofrecen servicios de alquiler de buses. Estas empresas suelen estar más cerca de tu lugar de origen o destino, lo que puede reducir significativamente el costo del servicio.
 
 Las siguientes son empresas que puedes buscar en internet y contratar con ellas directamente para alquilar un bus.
 
 ### Alquila un bus con Rutas Colombianas
-
-{% include addm2.html %}
 
 * [Rutas turísticas]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %})
 * Promociones
@@ -94,17 +97,15 @@ Las siguientes son empresas que puedes buscar en internet y contratar con ellas 
 * Traslados fuera de Cúcuta
 * Rutas empresariales
 
-## ¿Qué ventajas tiene un bus de alquiler?
+{% include addm3.html %}
 
------
+## ¿Qué ventajas tiene un bus de alquiler?
 
 Un bus de alquiler ofrece **flexibilidad y comodidad**. No estás sujeto a horarios fijos y puedes decidir dónde y cuándo recoger y dejar a tus pasajeros.
 
 Además, puedes hacer **cambios espontáneos en tu itinerario sin problemas**. Por ejemplo, si durante tu viaje decides visitar un lugar turístico adicional, solo debes comunicarlo al conductor.
 
 ### Alquila un bus para tus bodas y celebraciones
-
-{% include addm3.html %}
 
 El alquiler de minibuses y vans es ideal para bodas, bautizos, comuniones y otras celebraciones. **Garantiza que todos los invitados lleguen al lugar del evento al mismo tiempo y sin contratiempos.**
 

@@ -11,7 +11,7 @@ alt: Viaje a Aguazul
 ---
 **Viajar de Bogotá a Aguazul Casanare en bus** es una experiencia que muchos eligen por sus múltiples ventajas. En este artículo, vas a encontrar todo lo que necesitas saber para que tu viaje sea un éxito.
 
-{% include addm1.html %}
+{% include add5.html %}
 
 ## ¿Cómo comprar un pasaje de Bogotá a Aguazul?
 
@@ -19,8 +19,6 @@ Puedes comprar tu boleto en [diversas **terminales de transporte**](/) o directa
 {:id="enlace1"}
 
 ### Compra tu pasaje de Bogotá - Aguazul en línea
-
-{% include addm4.html %}
 
 Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con anticipación, lo que es especialmente útil en temporada alta. En muchos casos, se ofrecen descuentos por compra anticipada.
 
@@ -37,12 +35,12 @@ Las plataformas en línea ofrecen la posibilidad de **comprar tu boleto** con an
 
 ## Rutas disponibles Bogotá - Aguazul
 
+{% include addm4.html %}
+
 1. Bogotá - Aguazul: Esta es la ruta principal que [conecta la capital colombiana]({{'terminal-norte-bogota'|relative_url}}) con [Aguazul en Casanare]({{'terminal-de-aguazul'|relative_url}}). Es una ruta muy demandada debido a la belleza de los paisajes y las experiencias que ofrece.
 2. Otras Rutas: Además de la ruta directa, algunas empresas también ofrecen rutas con paradas intermedias en diferentes ciudades. Estas rutas pueden brindar opciones adicionales para tu viaje.
 
 ## Horarios y frecuencias de Bogotá - Aguazul
-
-{% include addm5.html %}
 
 Los horarios de salida suelen ser variados. Aproximadamente **cada 3 o 4 horas sale cada bus**, con opciones que van desde muy temprano en la mañana hasta tarde en la noche.
 
@@ -54,5 +52,7 @@ Los horarios de salida suelen ser variados. Aproximadamente **cada 3 o 4 horas s
   Primer bus: 09:00 AM hrs.  
   Último bus: 11:00 PM hrs.  
   Duración promedio de viaje: 8 horas 30 minutos.
+
+{% include addm5.html %}
 
 Tu viaje está a solo un clic de distancia. ¡Aprovecha la oportunidad y comienza tu travesía hoy mismo! Sigue leyendo nuestros artículos para planificar tu próximo destino y disfrutar tus viajes en bus por las **[terminales de transporte de Colombia.](/)**
