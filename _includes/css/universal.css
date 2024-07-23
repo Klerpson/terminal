@@ -71,14 +71,14 @@ p, a, li {
 }
 
 a {
-  text-decoration: none;
+  text-decoration-thickness: 3.2px;
   color: var(--principal);
   font-weight: bolder;
-  transition: all .2s ease-in;
+  transition: all .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
 a:hover {
-  transform: scale(1.025);
+  transform: scale(1.015);
 }
 
 hr {

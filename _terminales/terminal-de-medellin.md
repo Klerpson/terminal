@@ -2,13 +2,13 @@
 layout: terminal
 json-terminal: true
 title: Terminal de transporte del norte y del sur de Medellín
-description: Las terminales de transporte del Norte y del Sur de Medellín están listas para que tu viaje sea el mejor. Entra y mira los teléfonos para comprar tu pasaje ☎️
+description: Las terminales de transporte del Norte y del Sur de Medellín están listas para que tu viaje sea el mejor. Mira los teléfonos para comprar tus pasajes
 category: antioquia
-h1: Las terminales de transporte Norte de Medellín y Sur de Medellín.
+h1: "Terminal del Norte de Medellín y del Sur de Medellín: teléfonos y más información"
 jpg: terminales/terminal-medellin.jpg
 webps: terminales/terminal-medellin-376.webp
 hero: terminales/terminal-medellin-600.webp
-alt: Terminal Norte Medellín
+alt: Terminal Norte y Sur Medellín
 webp1: terminales/terminal-medellin-sur-600.webp
 webp2: terminales/terminal-medellin-sur-376.webp
 subtitle: Compra tus tiquetes con las empresas de la terminal Sur y la terminal Norte de Medellín
@@ -64,7 +64,7 @@ empresas:
   - Sotrayar: 6044445873 6044445873 6042603818 6042603818
 ---
 
-## Las Sedes de la Terminal de Transporte de Medellín
+## Las 2 sucursales de las terminales de buses de Medellín
 
 {% include add1.html %}
 

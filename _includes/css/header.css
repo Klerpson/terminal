@@ -3,7 +3,7 @@ nav {
   top: 20px;
   left: 0;
   right: 0;
-  width: min(calc(100% - 20px), 1260px);
+  width: min(calc(100% - 20px), 1128px);
   margin-inline: auto;
   display: flex;
   justify-content: space-around;

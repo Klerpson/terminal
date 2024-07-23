@@ -6,7 +6,6 @@ description: La Terminal de Aguachica es más que un punto de tránsito. Conoce 
 category: cesar
 h1: "Aguachica: un viaje por su Terminal de Transporte"
 jpg: terminales/terminal-aguachica.jpg
-webps: terminales/terminal-aguachica-376.webp
 hero: terminales/terminal-aguachica-600.webp
 alt: Terminal de Aguachica
 webp1: terminales/terminal-aguachica-cesar-600.webp
