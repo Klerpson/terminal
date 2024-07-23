@@ -39,20 +39,22 @@ h1: "🏪 Principales terminales de buses en las ciudades de Colombia"
   {% include boton.html url="/terminales-de-colombia" title="Terminales Colombianas" texto="🚌 Conoce las demás empresas" %}
 </section>
 {% include add3.html %}
-<main class="wrapper pasajes">
-  <h2>¿Qué pasaje de bus necesitas comprar?</h2>
-  <p>Estas son las rutas de bus más buscadas en <strong>terminaldetrasporte.com</strong></p>
-  <div class="home_gallery">
-    {% for pasaje in site.data.pasajes-home %}
-    <article>
-      <img src="{{pasaje.img|relative_url}}" alt="{{pasaje.alt}}">
-      <div>
-        <a href="{{pasaje.url|relative_url}}"><h3>{{pasaje.title}}</h3></a>
-      </div>
-    </article>
-    {% endfor %}
+<main class="pasajes">
+  <div class="wrapper flow">
+    <h2>¿Qué pasaje de bus necesitas comprar?</h2>
+    <p>Estas son las rutas de bus más buscadas en <strong>terminaldetrasporte.com</strong></p>
+    <div class="home_gallery">
+      {% for pasaje in site.pasajes limit:4 %}
+      <article>
+        <img src="{{pasaje.hero|relative_url}}" alt="{{pasaje.alt}}" title="{{pasaje.title}}">
+        <div>
+          <a href="{{pasaje.url|relative_url}}" title="{{pasaje.title}}"><h3>{{pasaje.h1}}</h3></a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    {% include boton.html url="/pasajes" title="Terminales Colombianas" texto="🎫 Busca más pasajes de bus" %}
   </div>
-  {% include boton.html url="/pasajes" title="Terminales Colombianas" texto="🎫 Busca más pasajes de bus" %}
 </main>
 {% include addm4.html %}
 <section class="nosotros_home">
