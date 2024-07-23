@@ -1,43 +1,101 @@
----
-layout:
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                            http://www.google.com/schemas/sitemap-image/1.1
+                            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
   {% for page in site.pages %}
-  {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}{% else %}
+    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}
       <url>
-        <loc>{{ page.url | absolute_url }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  {% endif %}
+        <loc>{{ page.url | absolute_url | xml_escape }}</loc>
+        <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+        <priority>{% if page.priority %}{{ page.priority }}{% else %}0.8{% endif %}</priority>
+        {% if page.description %}
+          <description>{{ page.description | xml_escape }}</description>
+        {% endif %}
+        {% if page.jpg or page.hero %}
+          <image:image>
+            <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+            <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+          </image:image>
+        {% endif %}
+      </url>
+    {% endunless %}
   {% endfor %}
-  {% for page in site.posts %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url | xml_escape }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if post.changefreq %}{{ post.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if post.priority %}{{ post.priority }}{% else %}1.0{% endif %}</priority>
+      {% if post.description %}
+        <description>{{ post.description | xml_escape }}</description>
+      {% endif %}
+      {% if post.jpg or post.hero %}
+        <image:image>
+          <image:loc>{{ site.url }}{% if post.hero %}{{ post.hero }}{% else %}{{ post.jpg }}{% endif %}</image:loc>
+          <image:title>{% if post.alt %}{{ post.alt | xml_escape }}{% else %}{{ post.title | xml_escape }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+    </url>
   {% endfor %}
+
   {% for page in site.destinos %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
+      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.9{% endif %}</priority>
+      {% if page.description %}
+        <description>{{ page.description | xml_escape }}</description>
+      {% endif %}
+      {% if page.jpg or page.hero %}
+        <image:image>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+    </url>
   {% endfor %}
+
   {% for page in site.terminales %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
+      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.9{% endif %}</priority>
+      {% if page.description %}
+        <description>{{ page.description | xml_escape }}</description>
+      {% endif %}
+      {% if page.jpg or page.hero %}
+        <image:image>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+    </url>
   {% endfor %}
+
   {% for page in site.without-plugin %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
+      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.7{% endif %}</priority>
+      {% if page.description %}
+        <description>{{ page.description | xml_escape }}</description>
+      {% endif %}
+      {% if page.jpg or page.hero %}
+        <image:image>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+    </url>
   {% endfor %}
 </urlset>

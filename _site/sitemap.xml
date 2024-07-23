@@ -1,480 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/blog</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/contacto</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/css/style.css</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminales-de-colombia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/blog/coomotor-empresa-de-buses</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/modulos-terminal-salitre-bogota</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/guia-turistica-ciudad-perdida</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/el-bus-mas-grande-del-mundo</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/seguros-coche-digitales-espana-y-colombia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/descubre-las-mejores-ofertas-de-pasajes-a-lima-en-bus</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/pasaje-ecuador-a-colombia-en-bus-precio-rutas-y-mas</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/pasajes-de-colombia-argentina-en-bus-duraci%C3%B3n-cuanto-vale-y-tips-de-viaje</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/conexiones-entre-buses-internacionales-de-colombia-viajes-en-bus</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/elige-el-bus-para-tu-viaje-al-aeropuerto-desde-cali</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/buses-especiales-en-colombia-todo-lo-que-necesitas-saber</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/buses-con-ba%C3%B1o-todo-lo-que-debes-saber-para-viajar-c%C3%B3modo</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/buses-de-dos-pisos-caracter%C3%ADsticas-y-consejos-esenciales</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/buses-al-aeropuerto-de-rionegro-horarios-rutas-y-consejos</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/como-fomentar-un-buen-comportamiento-en-el-bus-escolar</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/alquiler-de-buses-descubre-las-mejores-opciones-en-colombia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/viajar-con-mascotas-bus</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/expreso-palmira-compra-pasajes-seguro-y-facil</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/transportes-omega-comodidad-seguridad</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/servicios-expreso-brasilia-colombia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/expreso-bolivariano-viaja-seguro-y-comodo-por-colombia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/seguro-o-inseguro-viajar-en-bus-colombia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/pinbus-compra-pasajes-colombia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/redbus-colombia-reserva-viajes</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/viajar-en-bus-5-ventajas-inigualables</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/aguachica</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/andes-antioquia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/bogota-acacias</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/bogota-aguazul</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/bogota-anapoima</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/pasajes-a-huila-bus</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/san-gil</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-aguachica</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-aguazul</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-apartado</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-arauca</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-armenia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-barranquilla</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-bogota</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-bucaramanga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-cartagena</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-el-banco-magdalena</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-buenaventura</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-cali</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-chiquinquira</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-cucuta</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-espinal</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-florencia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-garzon</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-guadalajara-buga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-ipiales</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-ibague</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-manizales</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-medellin</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-melgar</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-neiva</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-pasto</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-pereira</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-pitalito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-popayan</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-santa-marta</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-tunja</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-valledupar</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-de-villavicencio</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-norte-bogota</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-salitre-bogota</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/terminal-sur-bogota</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                            http://www.google.com/schemas/sitemap-image/1.1
+                            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  {% for page in site.pages %}
+    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}
+      <url>
+        <loc>{{ page.url | absolute_url | xml_escape }}</loc>
+        <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+        <priority>{% if page.priority %}{{ page.priority }}{% else %}0.8{% endif %}</priority>
+        {% if page.description %}
+          <description>{{ page.description | xml_escape }}</description>
+        {% endif %}
+        {% if page.jpg or page.hero %}
+          <image:image>
+            <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+            <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+          </image:image>
+        {% endif %}
+      </url>
+    {% endunless %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url | xml_escape }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if post.changefreq %}{{ post.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if post.priority %}{{ post.priority }}{% else %}1.0{% endif %}</priority>
+      {% if post.description %}
+        <description>{{ post.description | xml_escape }}</description>
+      {% endif %}
+      {% if post.jpg or post.hero %}
+        <image:image>
+          <image:loc>{{ site.url }}{% if post.hero %}{{ post.hero }}{% else %}{{ post.jpg }}{% endif %}</image:loc>
+          <image:title>{% if post.alt %}{{ post.alt | xml_escape }}{% else %}{{ post.title | xml_escape }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+    </url>
+  {% endfor %}
+
+  {% for page in site.destinos %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
+      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.9{% endif %}</priority>
+      {% if page.description %}
+        <description>{{ page.description | xml_escape }}</description>
+      {% endif %}
+      {% if page.jpg or page.hero %}
+        <image:image>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+    </url>
+  {% endfor %}
+
+  {% for page in site.terminales %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
+      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.9{% endif %}</priority>
+      {% if page.description %}
+        <description>{{ page.description | xml_escape }}</description>
+      {% endif %}
+      {% if page.jpg or page.hero %}
+        <image:image>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+    </url>
+  {% endfor %}
+
+  {% for page in site.without-plugin %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
+      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.7{% endif %}</priority>
+      {% if page.description %}
+        <description>{{ page.description | xml_escape }}</description>
+      {% endif %}
+      {% if page.jpg or page.hero %}
+        <image:image>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+    </url>
+  {% endfor %}
 </urlset>
