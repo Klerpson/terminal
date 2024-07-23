@@ -1,20 +1,20 @@
-- img: terminal-barranquilla.webp
-  alt: Terminal de Barranquilla
-  title: Terminal Barranquilla
-  p: Es el centro de transporte de toda la región de la costa caribeña colombiana
-  url: terminal-de-barranquilla
 - img: terminal-medellin.webp
   alt: Terminal de Medellin
   title: Terminal Medellín
   p: Esta empresa de transporte terrestre con 2 terminales de pasajeros de buses
   url: terminal-de-medellin
-- img: terminal-cali.webp
-  alt: Terminal de Cali
-  title: Terminal Cali
-  p: Encuentra diversas empresas que ofrecen rutas a diferentes destinos nacionales
-  url: terminal-de-cali
+- img: terminal-buga.webp
+  alt: Terminal de Buga
+  title: Terminal Buga
+  p: Cerca al lago Calima está la terminal de buses de Buga en el corazón del Valle
+  url: terminal-de-buga
 - img: terminal-salitre.webp
   alt: Terminal Salitre Bogota
   title: Terminal Salitre
   p: Localizada cerca del aeropuerto El Dorado, la Terminal Salitre es la más grande y concurrida de Bogotá
   url: terminal-salitre-bogota
+- img: terminal-neiva.webp
+  alt: Terminal de Neiva
+  title: Terminal Neiva
+  p: El mejor café también lo encuentras en la terminal de la región opita colombiana 
+  url: terminal-de-neiva
