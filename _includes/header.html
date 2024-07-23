@@ -9,7 +9,7 @@
         {% for principal in site.data.principales-home %}
         <article>
           <img src="{{site.baseurl}}/img/terminales/{{principal.img}}" alt="{{principal.alt}}" title="{{principal.title}}">
-          <div>
+          <div class="flow">
             <a href="{{site.baseurl}}/{{principal.url}}" title="Conoce la {{principal.title}}"><h2>{{principal.title}}</h2></a>
             <p>{{principal.p}}</p>
           </div>
@@ -40,7 +40,7 @@
         {% endfor %}
       </div>
       {% else %}
-      <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}" width="548" height="310">
+      <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}" width="1200" height="680">
       <div>
         <h2>{{page.description}}</h2>
         {% if page.layout == "terminal" %}
