@@ -200,23 +200,25 @@ Puedes utilizar transporte público o privado. La ubicación estratégica de la 
 
 ## Servicios disponibles en la Terminal Sur Medellín
 
-La Terminal del Sur Medellín ofrece una variedad de servicios para garantizar una experiencia de viaje cómoda y conveniente. Aquí puedes encontrar desde **tiendas de regalos hasta restaurantes y cafeterías**.
+La Terminal del Sur Medellín ofrece una variedad de servicios para garantizar una experiencia de viaje cómoda y conveniente.
 
->La terminal cuenta con **salas de cine** para el disfrute de los viajeros y visitantes.
+Aquí puedes encontrar desde **tiendas de regalos hasta restaurantes y cafeterías**. Incluso, la terminal cuenta con **salas de cine** para el disfrute de los viajeros y visitantes.
 
-### Cine en la Terminal del Sur de Medellín
+### Salas de cine en la Terminal del Sur de Medellín
 
 Si tienes tiempo antes de tu viaje o simplemente quieres disfrutar de un buen rato, puedes visitar las salas de cine de la Terminal del Sur Medellín. Aquí podrás disfrutar de los mejores estrenos en formato 2D y 3D.
 
 ### Auditorio en la Terminal del Sur Medellín
 
-**La Terminal del Sur Medellín cuenta con un auditorio** disponible para eventos académicos y empresariales. Este espacio es ideal para realizar capacitaciones, convenciones, seminarios y otros eventos.
+**La Terminal del Sur Medellín cuenta con un auditorio** disponible para eventos académicos y empresariales.
+
+Este espacio es ideal para realizar capacitaciones, convenciones, seminarios y otros eventos.
 
 ## Horarios de la Terminal de transporte del Sur Medellín
 
 {% include add2.html %}
 
-**La Terminal de transporte del Sur opera las 24 horas del día**, los 7 días de la semana. Esto significa que puedes llegar a la terminal a cualquier hora, ya sea que tu viaje sea temprano en la mañana o tarde en la noche.
+**La Terminal de transporte del Sur opera las 24 horas del día**, los 7 días de la semana.
 
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
@@ -224,7 +226,7 @@ Si tienes tiempo antes de tu viaje o simplemente quieres disfrutar de un buen ra
 
 La Terminal del Sur Medellín sirve como punto de partida para una variedad de rutas de autobuses que **conectan Medellín con otras ciudades y regiones del sur de Colombia**.
 
-Aquí puedes encontrar buses que te llevarán a destinos tan variados como Bogotá, Cali, Barranquilla, entre otros.
+Aquí puedes encontrar buses que te llevarán a **destinos tan variados como Bogotá, Cali, Barranquilla**, entre otros.
 
 Si necesitas más información sobre la Terminal Sur de Medellín, como horarios de buses o información de contacto, puedes **visitar [su sitio web oficial en la página de contacto](https://terminaldelsur.com/contactanos/){:rel="nofollow noopener noreferrer" target="_blank"} o llamar al teléfono de atención al cliente [604 444 8020](tel:6044448020){:rel="nofollow noopener noreferrer" target="_blank"} – Ext. 171**.
 
