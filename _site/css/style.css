@@ -65,7 +65,7 @@ h4 {
   font-size: clamp(1.125rem, 1.034rem + 0.45vw, 1.375rem);
 }
 
-p, a, li {
+p, a, li, blockquote {
   word-wrap: break-word;
   font-size: clamp(1.125rem, 1.089rem + 0.18vw, 1.25rem);
 }
@@ -73,8 +73,8 @@ p, a, li {
 a {
   text-decoration-thickness: 3.2px;
   color: var(--principal);
-  font-weight: bolder;
-  transition: all .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  font-weight: 700;
+  transition: all .75s ease-out;
 }
 
 a:hover {
@@ -111,8 +111,9 @@ blockquote {
   background: var(--complemento1);
   border-radius: var(--radius);
   border: 2px solid var(--principal);
-  padding: 2em;
-  text-align: center;
+  padding: 1em;
+  display: grid;
+  gap: 1em;
 }
 
 img {
@@ -537,11 +538,12 @@ nav span{
 .terminal_datos h4{
   text-align: center;
   margin: 0 0 1em;
+  text-transform: uppercase;
 }
 
 .terminal_datos ul{
   display: flex;
-  gap: 12px;
+  gap: 16px;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -549,8 +551,7 @@ nav span{
 .terminal_datos ul li{
   list-style: none;
   display: flex;
-  gap: 12px;
-  align-items: center;
+  gap: 8px;
   font-weight: 700;
   margin: 0;
   word-break: break-all;

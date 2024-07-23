@@ -200,10 +200,10 @@ Se recomienda a los pasajeros que verifiquen los horarios de llegada con la empr
 
 Si estás buscando **hospedarte cerca de la Terminal del Norte de Medellín**, te recomendamos buscar hoteles ubicados en la zona. Para ayudarte a encontrarlos, haz clic en el siguiente botón.
 
-[Hoteles cerca de la terminal Norte Medellín](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults){:rel="nofollow sponsored" target="_blank" id="boton"}
-
 En resumen, **la Terminal del Norte de Medellín es un punto de partida clave**. Si necesitas información sobre los servicios de transporte disponibles o si buscas hospedaje cerca de la terminal, no dudes en contactar con el teléfono de la terminal del Norte.
 {:id="sur"}
+
+-----
 
 ## Terminal Sur de Medellín
 
@@ -213,15 +213,9 @@ La Terminal de transporte Sur de Medellín, es uno de los principales puntos de 
 
 ## Empresas de transporte en la Terminal del Sur de Medellín
 
-----
-
 La Terminal del Sur Medellín alberga a varias empresas de transporte que ofrecen servicios a una amplia gama de destinos. Estas empresas cuentan con flotas de buses modernos y seguros **para garantizar un viaje cómodo y seguro**.
 
 ### Compra de tiquetes en la Terminal del Sur Medellín
-
->## Necesitas un hotel cerca a la terminal
-Con KAYAK encuentras los mejor calificados y con promociones constantes.
-[Comparar hoteles](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults "Hoteles Kayak"){:rel="nofollow sponsored" target="_blank" class="boton boton-verde"}
 
 En la Terminal del Sur Medellín puedes comprar tus tiquetes de bus de manera rápida y sencilla. Solo debes **acercarte a las taquillas de las diferentes empresas de transporte que operan en la terminal y elegir el destino que prefieras**.
 
@@ -231,7 +225,7 @@ Además, también puedes comprar tus tiquetes en línea [a través de la página
 
 La terminal Sur de Medellín opera con casi todas las mismas empresas de la terminal Norte. Utiliza el mismo botón para **comprar los pasajes con las empresas de buses** de tu preferencia.
 
-## Ubicación de la Terminal del Sur Medellín
+## Dirección de la Terminal del Sur Medellín
 
 {% include add3.html %}
 
@@ -246,8 +240,6 @@ Llegar a la Terminal del Sur Medellín es sencillo, ya sea que decidas usar tran
 Además, si tienes alguna duda, siempre puedes recurrir a las indicaciones de los locales, quienes estarán dispuestos a ayudarte a encontrar tu camino.
 
 ## Servicios disponibles en la Terminal Sur Medellín
-
-----
 
 La Terminal del Sur Medellín ofrece una variedad de servicios para garantizar una experiencia de viaje cómoda y conveniente. Aquí puedes encontrar desde **tiendas de regalos hasta restaurantes y cafeterías**.
 
@@ -267,7 +259,7 @@ Si tienes tiempo antes de tu viaje o simplemente quieres disfrutar de un buen ra
 
 **La Terminal de transporte del Sur opera las 24 horas del día**, los 7 días de la semana. Esto significa que puedes llegar a la terminal a cualquier hora, ya sea que tu viaje sea temprano en la mañana o tarde en la noche.
 
-----
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
 ## Rutas desde la Terminal del Sur Medellín
 
@@ -275,52 +267,29 @@ La Terminal del Sur Medellín sirve como punto de partida para una variedad de r
 
 Aquí puedes encontrar buses que te llevarán a destinos tan variados como Bogotá, Cali, Barranquilla, entre otros.
 
-## Hoteles cerca a la terminal Sur Medellín
-
-Si necesitas hospedarte cerca de la terminal, hay varias opciones de hoteles cercanos. Busca en el siguiente botón los **hoteles cerca de la Terminal del Sur**:
-
-[Hoteles cerca de la terminal Sur](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FMedell%C3%ADn%2CColombia-c30430%2F1rooms%2F2adults){:rel="nofollow sponsored" target="_blank" id="boton"}
-
 Si necesitas más información sobre la Terminal Sur de Medellín, como horarios de buses o información de contacto, puedes **visitar [su sitio web oficial en la página de contacto](https://terminaldelsur.com/contactanos/){:rel="nofollow noopener noreferrer" target="_blank"} o llamar al teléfono de atención al cliente [604 444 8020](tel:6044448020){:rel="nofollow noopener noreferrer" target="_blank"} – Ext. 171**.
-
-## Preguntas frecuentes
 
 {% include add1.html %}
 
-### ¿Cómo puedo comprar pasajes en la Terminal de Transporte de Medellín?
+----
 
-Puedes comprar tus pasajes **directamente en las taquillas** de las empresas de transporte en la terminal, o puedes comprarlos en línea **a través de sitios web como Pinbus**.
+## Preguntas frecuentes sobre las terminales de Medellín  
 
-### ¿Cuánto cuesta un pasaje desde la Terminal de Transporte de Medellín?
-
-El precio de los pasajes varía dependiendo del destino y de la empresa de transporte. Te recomendamos que consultes los precios directamente con las empresas de transporte o a través de sus sitios web.
-
-### ¿Qué medidas de seguridad se toman en la Terminal del Norte Medellín?
-
-La Terminal del Norte Medellín **cuenta con seguridad las 24 horas**, incluyendo personal de seguridad y cámaras de vigilancia.
-
-### ¿Cómo puedo comprar pasajes en línea para la Terminal del Norte Medellín?
-
-Puedes comprar pasajes en línea a través de los sitios web de las diferentes empresas de transporte que operan desde la Terminal del Norte Medellín.
-
-### ¿Qué servicios se ofrecen en la Terminal del Norte Medellín?
-
-![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
-
-La Terminal del Norte Medellín ofrece una variedad de servicios, incluyendo venta de pasajes, salas de espera, restaurantes, tiendas, servicios de encomiendas, cajeros automáticos y baños públicos.
-
-### ¿Cómo puedo llegar a la Terminal del Norte Medellín desde el aeropuerto?
-
-Puedes **tomar un taxi o un autobús** desde el aeropuerto hasta la Terminal del Norte Medellín. También puedes **alquilar un coche en el aeropuerto**.
-
-### ¿Qué medidas de seguridad se toman en la Terminal del Sur Medellín?
-
-La Terminal del Sur Medellín **cuenta con un sistema de seguridad integral** que incluye cámaras de vigilancia y personal de seguridad las 24 horas del día.
-
-### ¿Cómo puedo comprar tiquetes en línea para la Terminal del Sur Medellín?
-
-Puedes comprar tus tiquetes en línea a través de la página web de la Terminal del Sur Medellín. Solo debes seleccionar tu destino, la fecha de tu viaje y la empresa de transporte de tu preferencia.
-
-### ¿Cómo puedo llegar a la Terminal del Sur Medellín desde el aeropuerto?
-
-Existen **varias opciones de transporte desde el aeropuerto** hasta la Terminal del Sur Medellín, incluyendo **taxis, buses y servicios de transporte privado**.
+>### ¿Cómo puedo comprar pasajes en la Terminal de Transporte de Medellín?  
+>Puedes comprar tus pasajes **directamente en las taquillas** de las empresas de transporte en la terminal, o puedes comprarlos en línea **a través de sitios web como Pinbus**.  
+>### ¿Cuánto cuesta un pasaje desde la Terminal de Transporte de Medellín?  
+>El precio de los pasajes varía dependiendo del destino y de la empresa de transporte. Te recomendamos que consultes los precios directamente con las empresas de transporte o a través de sus sitios web.  
+>### ¿Qué medidas de seguridad se toman en la Terminal del Norte Medellín?  
+>La Terminal del Norte Medellín **cuenta con seguridad las 24 horas**, incluyendo personal de seguridad y cámaras de vigilancia.  
+>### ¿Cómo puedo comprar pasajes en línea para la Terminal del Norte Medellín?  
+>Puedes comprar pasajes en línea a través de los sitios web de las diferentes empresas de transporte que operan desde la Terminal del Norte Medellín.  
+>### ¿Qué servicios se ofrecen en la Terminal del Norte Medellín?  
+>La Terminal del Norte Medellín ofrece una variedad de servicios, incluyendo venta de pasajes, salas de espera, restaurantes, tiendas, servicios de encomiendas, cajeros automáticos y baños públicos.  
+>### ¿Cómo puedo llegar a la Terminal del Norte Medellín desde el aeropuerto?  
+>Puedes **tomar un taxi o un autobús** desde el aeropuerto hasta la Terminal del Norte Medellín. También puedes **alquilar un coche en el aeropuerto**.  
+>### ¿Qué medidas de seguridad se toman en la Terminal del Sur Medellín?  
+>La Terminal del Sur Medellín **cuenta con un sistema de seguridad integral** que incluye cámaras de vigilancia y personal de seguridad las 24 horas del día.  
+>### ¿Cómo puedo comprar tiquetes en línea para la Terminal del Sur Medellín?  
+>Puedes comprar tus tiquetes en línea a través de la página web de la Terminal del Sur Medellín. Solo debes seleccionar tu destino, la fecha de tu viaje y la empresa de transporte de tu preferencia.  
+>### ¿Cómo puedo llegar a la Terminal del Sur Medellín desde el aeropuerto?  
+>Existen **varias opciones de transporte desde el aeropuerto** hasta la Terminal del Sur Medellín, incluyendo **taxis, buses y servicios de transporte privado**.  
