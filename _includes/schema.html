@@ -3,62 +3,56 @@
 {
   "@context": "http://schema.org",
   "@type": "TransitStation",
-  "name": "Terminal de transporte de {{page.ciudad|capitalize}}",
-  "alternateName": "Terminal de Buses {{page.ciudad|capitalize}}",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "url": "{{ site.url }}{{ page.permalink }}",
+  "image": [
+    "{{ site.baseurl }}/img/{{ page.jpg }}",
+    {% if page.hero %}"{{ site.baseurl }}/img/{{ page.hero }}",{% endif %}
+    {% if page.webp1 %}"{{ site.baseurl }}/img/{{ page.webp1 }}",{% endif %}
+    {% if page.webp2 %}"{{ site.baseurl }}/img/{{ page.webp2 }}"{% endif %}
+  ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "{{page.direccion}}",
-    "addressLocality": "{{page.ciudad}}",
-    "addressRegion": "{{page.category|capitalize}}",
-    "postalCode": "{{page.postal}}",
+    "streetAddress": "{{ page.direccion | strip_html | strip_newlines }}",
+    "addressLocality": "{{ page.ciudad }}",
+    "addressRegion": "{{ page.category | capitalize }}",
+    "postalCode": "{{ page.postal }}",
     "addressCountry": "CO"
   },
-  "telephone": "{{page.telefono}}",
-  "url": "{{page.contacto}}",
-  "image": [
-    "{{site.baseurl}}/img/{{page.jpg}}",
-    "{{site.baseurl}}/img/{{page.ciudad}}-terminal-1.jpg",
-    "{{site.baseurl}}/img/{{page.ciudad}}-terminal-2.jpg"
-  ],
-  "description": "{{page.intro}}",
-  "areaServed": {
-    "@type": "City",
-    "name": "{{page.ciudad}}"
+  "telephone": "{{ page.telefono | strip_html | strip_newlines | split: ' ' | first }}",
+  "email": "{{ page.email }}",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "{{ page.telefono | strip_html | strip_newlines | split: ' ' | first }}",
+    "contactType": "customer service",
+    "availableLanguage": ["Spanish", "English"]
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": "{{page.latitude}}",
-    "longitude": "{{page.longitude}}"
+    "latitude": "{{ page.latitude }}",
+    "longitude": "{{ page.longitude }}"
   },
-  "openingHoursSpecification": [
-    {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": [
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday"
-      ],
-      "opens": "05:00",
-      "closes": "23:00"
-    },
-    {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": [
-        "Saturday",
-        "Sunday"
-      ],
-      "opens": "06:00",
-      "closes": "22:00"
-    }
-  ],
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "{{page.calificacion}}",
-    "reviewCount": "{{page.reviews}}",
+    "ratingValue": "{{ page.calificacion }}",
+    "reviewCount": "{{ page.reviews }}",
     "bestRating": "5",
     "worstRating": "1"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
   },
   "amenityFeature": [
     {
@@ -68,23 +62,27 @@
     },
     {
       "@type": "LocationFeatureSpecification",
-      "name": "Wifi gratuito",
+      "name": "Taquillas de venta de boletos",
       "value": true
     },
     {
       "@type": "LocationFeatureSpecification",
-      "name": "Accesibilidad para discapacitados",
+      "name": "Sala de espera",
       "value": true
     }
   ],
   "publicAccess": true,
   "smokingAllowed": false,
-  "maximumAttendeeCapacity": 5000,
   "availableService": [
     {
       "@type": "Service",
       "name": "Venta de boletos",
       "description": "Venta de boletos para rutas intermunicipales e interdepartamentales"
+    },
+    {
+      "@type": "Service",
+      "name": "Parqueadero de vehículos particulares",
+      "description": "Cupo limitado de parqueadero temporal para vehículos de personal de planta y visitantes"
     },
     {
       "@type": "Service",
@@ -96,19 +94,40 @@
     "@type": "ReserveAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://www.terminal{{page.ciudad|lowercase}}.com/reserva",
+      "urlTemplate": "{{ page.contacto }}",
       "actionPlatform": [
         "http://schema.org/DesktopWebPlatform",
-        "http://schema.org/MobileWebPlatform",
-        "http://schema.org/AndroidPlatform",
-        "http://schema.org/IOSPlatform"
+        "http://schema.org/MobileWebPlatform"
       ]
     },
     "result": {
       "@type": "Reservation",
       "name": "Reserva de boleto"
     }
-  }
+  },
+  "hasMap": "{{ page.maps }}"
+}
+</script>
+{% endif %}
+
+{% if page.empresas %}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {% for empresa in page.empresas %}
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "item": {
+        "@type": "LocalBusiness",
+        "name": "{{ empresa | first | first }}",
+        "telephone": "{{ empresa | first | last | split: ' ' | first }}"
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
 }
 </script>
 {% endif %}
