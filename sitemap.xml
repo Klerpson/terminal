@@ -48,7 +48,7 @@ layout:
     </url>
   {% endfor %}
 
-  {% for page in site.destinos %}
+  {% for page in site.pasajes %}
     <url>
       <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
       <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
