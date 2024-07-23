@@ -7,95 +7,1204 @@
                             http://www.google.com/schemas/sitemap-image/1.1
                             http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 
-  {% for page in site.pages %}
-    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}
+  
+    
+  
+    
       <url>
-        <loc>{{ page.url | absolute_url | xml_escape }}</loc>
-        <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
-        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
-        <priority>{% if page.priority %}{{ page.priority }}{% else %}0.8{% endif %}</priority>
-        {% if page.description %}
-          <description>{{ page.description | xml_escape }}</description>
-        {% endif %}
-        {% if page.jpg or page.hero %}
-          <image:image>
-            <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
-            <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
-          </image:image>
-        {% endif %}
+        <loc>http://localhost:4000/blog</loc>
+        <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+          <description>¿Has pensando en viajar por Colombia en bus? Aquí te enseñaremos sobre los destinos, tips de viaje y más noticias.</description>
+        
+        
       </url>
-    {% endunless %}
-  {% endfor %}
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/contacto</loc>
+        <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+          <description>Estamos haciendo el mejor esfuerzo por brindarte la información más completa sobre la terminal de transporte que tú necesitas en Colombia. Escríbenos</description>
+        
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/blog/alquiler-buses.webp</image:loc>
+            <image:title>Fotografía de un bus</image:title>
+          </image:image>
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/</loc>
+        <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+          <description>Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia</description>
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/terminales-de-colombia</loc>
+        <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+          <description>La terminal de transporte de cada ciudad Colombiana la estamos incluyendo en esta página 🏪. Viaja 100% seguro de tener toda la información, datos y tiquetes.</description>
+        
+        
+      </url>
+    
+  
 
-  {% for post in site.posts %}
+  
     <url>
-      <loc>{{ site.url }}{{ post.url | xml_escape }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      <changefreq>{% if post.changefreq %}{{ post.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if post.priority %}{{ post.priority }}{% else %}1.0{% endif %}</priority>
-      {% if post.description %}
-        <description>{{ post.description | xml_escape }}</description>
-      {% endif %}
-      {% if post.jpg or post.hero %}
+      <loc>http://localhost:4000/blog/coomotor-empresa-de-buses</loc>
+      <lastmod>2024-07-21T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Coomotor es una cooperativa de transporte terrestre de pasajeros y encomiendas líder en Colombia. ¿Ya la utilizas en tus viajes? Mira porqué hacerlo</description>
+      
+      
         <image:image>
-          <image:loc>{{ site.url }}{% if post.hero %}{{ post.hero }}{% else %}{{ post.jpg }}{% endif %}</image:loc>
-          <image:title>{% if post.alt %}{{ post.alt | xml_escape }}{% else %}{{ post.title | xml_escape }}{% endif %}</image:title>
+          <image:loc>http://localhost:4000/img/blog/buses-dos-pisos-600.webp</image:loc>
+          <image:title>Bus de la cooperativa Coomotor</image:title>
         </image:image>
-      {% endif %}
+      
     </url>
-  {% endfor %}
+  
+    <url>
+      <loc>http://localhost:4000/blog/modulos-terminal-salitre-bogota</loc>
+      <lastmod>2024-07-11T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Terminal Salitre en Bogotá: guía de módulos con tiendas, restaurantes y servicios. Todo lo que necesitas saber para una visita perfecta. </description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/modulos-terminal-salitre.webp</image:loc>
+          <image:title>Foto de los módulos de la terminal Salitre</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/guia-turistica-ciudad-perdida</loc>
+      <lastmod>2024-04-17T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>En el corazón de la Sierra Nevada de Santa Marta se esconde uno de los secretos mejor guardados de Colombia: Ciudad Perdida ¡Tienes que venir! 🚌</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/ciudad-perdida.webp</image:loc>
+          <image:title>Foto de Ciudad Perdida en Santa Marta Colombia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/el-bus-mas-grande-del-mundo</loc>
+      <lastmod>2024-03-23T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Descubre el bus más GRANDE del mundo. Maravíllate con sus dimensiones y capacidades asombrosas. ¡No te lo pierdas! 🚌🌍</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/bus-gigante.webp</image:loc>
+          <image:title>Foto del bus más grande de Bogotá</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/seguros-coche-digitales-espana-y-colombia</loc>
+      <lastmod>2024-03-13T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Es la era digital. Y el mundo de los seguros de coches está avanzando con ella. Mira cómo en Colombia podemos seguir el modelo de España</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/seguros-de-coche.webp</image:loc>
+          <image:title>Seguros de coche españoles</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/descubre-las-mejores-ofertas-de-pasajes-a-lima-en-bus</loc>
+      <lastmod>2023-10-13T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>¡Te contamos las mejores ofertas para viajar en bus a Lima! 🚌 Descubre una experiencia única y ahorra tiempo y dinero. 🏃🏼 ¡Entra ahora!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/ofertas-lima-bus.webp</image:loc>
+          <image:title>Ofertas de pasajes a Lima</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/pasaje-ecuador-a-colombia-en-bus-precio-rutas-y-mas</loc>
+      <lastmod>2023-09-29T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Viaje en bus de Colombia a Ecuador, atraviesa paisajes impresionantes y conecta con la cultura local. Aquí las mejores rutas, consejos y detalles. </description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/colombia-ecuador.webp</image:loc>
+          <image:title>Precio pasaje Colombia Ecuador</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/pasajes-de-colombia-argentina-en-bus-duraci%C3%B3n-cuanto-vale-y-tips-de-viaje</loc>
+      <lastmod>2023-09-22T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Pasajes de Colombia a Argentina en bus | Entérate de cuanto vale un pasaje, duraciones de trayectos y tips para un viaje cómodo y seguro</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-colombia-argentina.webp</image:loc>
+          <image:title>Bus de Colombia a Argentina</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/conexiones-entre-buses-internacionales-de-colombia-viajes-en-bus</loc>
+      <lastmod>2023-09-14T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Aprende sobre las empresas de buses que conectan Colombia con destinos internacionales. ¡Infórmate, compara y viaja!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/buses-internacionales.webp</image:loc>
+          <image:title>Buses internacionales</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/elige-el-bus-para-tu-viaje-al-aeropuerto-desde-cali</loc>
+      <lastmod>2023-09-07T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Evita imprevistos en tu viaje al aeropuerto. Encuentra toda la información sobre buses desde Cali y viaja con confianza. ¡Haz clic y descubre más!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/buses-aeropuerto-cali.webp</image:loc>
+          <image:title>Buses en el aeropuerto</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/buses-especiales-en-colombia-todo-lo-que-necesitas-saber</loc>
+      <lastmod>2023-09-05T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Buses de servicio especial en Colombia: Encuentra la mejor opción ¡Haz clic y conoce las ventajas de estos vehículos únicos!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/buses-servicio-especial-600.webp</image:loc>
+          <image:title>Bus de servicio especial</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/buses-con-ba%C3%B1o-todo-lo-que-debes-saber-para-viajar-c%C3%B3modo</loc>
+      <lastmod>2023-09-02T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Viaja cómodo en buses con baños ¡Infórmate aquí de su historia, funcionamiento y consejos para su uso!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/buses-ba%C3%B1os.webp</image:loc>
+          <image:title>Bus con baño</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/buses-de-dos-pisos-caracter%C3%ADsticas-y-consejos-esenciales</loc>
+      <lastmod>2023-08-28T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>¿Buscas información detallada sobre buses de dos pisos? Llegaste a el lugar correcto. Acomódate y déjate informar.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/buses-dos-pisos-600.webp</image:loc>
+          <image:title>Bus de dos pisos</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/buses-al-aeropuerto-de-rionegro-horarios-rutas-y-consejos</loc>
+      <lastmod>2023-08-24T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description> Información para viajar en bus, al Aeropuerto de Rionegro. Desde horarios hasta consejos prácticos, ¡para que puedas planificar tu viaje!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/buses-aereopuerto-2-.webp</image:loc>
+          <image:title>Foto del bus que va al aeropuerto</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/como-fomentar-un-buen-comportamiento-en-el-bus-escolar</loc>
+      <lastmod>2023-08-20T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Asegura el buen comportamiento en el bus escolar de tus niños. Conoce las normativas y estrategias que te pueden ayudar. ¡Haz clic y mejora tus viajes!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/comportamiento-bus-escolar.webp</image:loc>
+          <image:title>Bus escolar</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/alquiler-de-buses-descubre-las-mejores-opciones-en-colombia</loc>
+      <lastmod>2023-08-17T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Lee aquí la mejor información sobre alquiler de buses para viajar por Colombia. ¡Entérate de todo y reserva hoy mismo!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/alquiler-buses.webp</image:loc>
+          <image:title>Bus en alquiler</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/viajar-con-mascotas-bus</loc>
+      <lastmod>2023-08-16T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>¿Qué necesitas saber para un viajar en bus con tus mascotas? • regulaciones • consejos • preparativos ¡Entérate y disfruta de un trayecto sin inconvenientes!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/viajar-con-mascotas.webp</image:loc>
+          <image:title>Mujer viajando con su mascota</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/expreso-palmira-compra-pasajes-seguro-y-facil</loc>
+      <lastmod>2023-07-21T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Expreso Palmira es una compañía de transporte que ofrece servicios en varias ciudades de Colombia. Ofrece muchas opciones de autobuses, rutas y horarios.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/expreso-palmira-600.webp</image:loc>
+          <image:title>Bus de Expreso Palmira</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/transportes-omega-comodidad-seguridad</loc>
+      <lastmod>2023-07-03T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Transportes Omega es una empresa que destaca por su comodidad y seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14 departamentos del país.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/transportes-omega-800.webp</image:loc>
+          <image:title>Transportes Omega Bus</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/servicios-expreso-brasilia-colombia</loc>
+      <lastmod>2023-06-27T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Expreso Brasilia es una empresa de transporte reconocida en Colombia y otros países por ofrecer servicios de alta calidad y seguridad en sus recorridos.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/expreso-brasilia-600.webp</image:loc>
+          <image:title>Foto de un bus Expreso Brasilia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/expreso-bolivariano-viaja-seguro-y-comodo-por-colombia</loc>
+      <lastmod>2023-06-21T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. ¿Por qué es de las más utilizadas? ¡Averígualo aquí!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/expreso-bolivariano-bus-600.webp</image:loc>
+          <image:title>Foto de un bus Expreso Bolivariano</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/seguro-o-inseguro-viajar-en-bus-colombia</loc>
+      <lastmod>2023-06-15T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>En Colombia, la seguridad en el transporte público es un tema importante a tener en cuenta. ¿Pero puede afectar la inseguridad tu próximo viaje en bus?</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/seguridad-bus-colombia.webp</image:loc>
+          <image:title>Bus viajando seguro por las vías de Colombia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/pinbus-compra-pasajes-colombia</loc>
+      <lastmod>2023-06-02T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Descubre cómo Pinbus facilita tus viajes en bus por Colombia. ¡Aprende a comprar tiquetes, contactar al servicio al cliente y obtener descuentos!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pinbus-colombia.webp</image:loc>
+          <image:title>Página web de Pinbus Colombia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/redbus-colombia-reserva-viajes</loc>
+      <lastmod>2023-04-03T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>¿Buscas la mejor manera de viajar por Colombia? ¡RedBus es la solución! Reserva en línea o llama a su teléfono de atención al cliente.¡Haz clic ahora!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/redbus-colombia.webp</image:loc>
+          <image:title>Página web de RedBus Colombia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus</loc>
+      <lastmod>2023-03-24T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Explora los 5 mejores destinos de Colombia viajando en bus. Experimenta la naturaleza y la aventura que este país ofrece. ¡Planifica tu próximo viaje ahora!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/destinos-de-colombia-para-visitar-en-bus.webp</image:loc>
+          <image:title>Bus en un viaje por un paraje de Colombia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/viajar-en-bus-5-ventajas-inigualables</loc>
+      <lastmod>2023-03-15T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Viajarías por Colombia en bus? Descubre estos 5 beneficios de hacerlo: * comodidad * flexibilidad * seguridad * conexión cultural * cuidado del planeta</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/viajar-en-bus-5-beneficios-economicos-culturales.webp</image:loc>
+          <image:title>Pasajera disfrutando su viaje en bus</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto</loc>
+      <lastmod>2023-02-27T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Descubre cómo disfrutar al máximo tus viajes en bus con 7 consejos sobre destinos, seguridad y comodidad. ¡Planifica tu próximo viaje con confianza y comodidad!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/viajes-en-bus-7-consejos-para-disfrutar-al-m%C3%A1ximo-tu-trayecto.webp</image:loc>
+          <image:title>Pasajera viajando en bus</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus</loc>
+      <lastmod>2023-02-26T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <description>Cuando estás en un bus, tu maleta es tu compañera constante, por lo que es fundamental asegurarse de que esté bien protegida. Mira estos consejos útiles.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus.webp</image:loc>
+          <image:title>Pasajeros con sus maletas en una terminal de transporte</image:title>
+        </image:image>
+      
+    </url>
+  
 
-  {% for page in site.destinos %}
+  
     <url>
-      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
-      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
-      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.9{% endif %}</priority>
-      {% if page.description %}
-        <description>{{ page.description | xml_escape }}</description>
-      {% endif %}
-      {% if page.jpg or page.hero %}
+      <loc>http://localhost:4000/pasajes/aguachica</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Buscas pasajes a Aguachica? Encuentra las mejores rutas, precios y consejos para un viaje inolvidable. ¡Haz clic y planifica tu aventura!</description>
+      
+      
         <image:image>
-          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
-          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+          <image:loc>http://localhost:4000/img/blog/pasajes-aguachica.webp</image:loc>
+          <image:title>Comprar pasajes Aguachica</image:title>
         </image:image>
-      {% endif %}
+      
     </url>
-  {% endfor %}
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/andes-antioquia</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Cómo llegar a Andes Antioquia en bus? Infórmate de todo lo que necesitas para que tengas un viaje cómodo seguro y económico. </description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-andes-antioquia.webp</image:loc>
+          <image:title>Foto de un bus que hacia los Andes Antioquia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/bogota-acacias</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Encuentra todo lo que necesitas para tu viaje en bus de Bogotá a Acacias, aquí te mostramos cómo viajar de manera correcta.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasaje-bogota-acacias.webp</image:loc>
+          <image:title>Pasaje terrestre Bogotá acacias </image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/bogota-aguazul</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Pasajes de Bogotá a Aguazul. Te damos toda la información para que disfrutes de un viaje en bus cómodo y seguro.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/aguazul-bogota.webp</image:loc>
+          <image:title>Viaje a Aguazul</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/bogota-anapoima</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>De Bogotá a Anapoima, precios de pasasjes, horarios y todo sobre cómo hacer que tu viaje sea lo más agradable. ¡Infórmate con nosotros!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-bogota-anapoima.webp</image:loc>
+          <image:title>pasaje bogota anapoima</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/pasajes-a-huila-bus</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Ahorra tiempo y dinero 💰 ¡Descubre los mejores pasajes en bus al Huila y disfruta de tus vacaciones al máximo! 🌴🌞 ¡No te lo pierdas!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-huila-bus.webp</image:loc>
+          <image:title>Pasajes a Huila económicos y convenientes</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/san-gil</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Infórmate de todo sobre tu viaje a San Gil aquí. Encontraras cómo comprar pasajes y qué llevar. ¡Haz clic para obtener todos los detalles!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-san-gil-m.webp</image:loc>
+          <image:title>Comprar pasajes San gil</image:title>
+        </image:image>
+      
+    </url>
+  
 
-  {% for page in site.terminales %}
+  
     <url>
-      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
-      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
-      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.9{% endif %}</priority>
-      {% if page.description %}
-        <description>{{ page.description | xml_escape }}</description>
-      {% endif %}
-      {% if page.jpg or page.hero %}
+      <loc>http://localhost:4000/terminal-de-aguachica</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La Terminal de Aguachica es más que un punto de tránsito. Conoce sus empresas transportadoras, servicios y más. ¡Entra ahora!</description>
+      
+      
         <image:image>
-          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
-          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
+          <image:loc>http://localhost:4000/img/terminales/terminal-aguachica-600.webp</image:loc>
+          <image:title>Terminal de Aguachica</image:title>
         </image:image>
-      {% endif %}
+      
     </url>
-  {% endfor %}
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-aguazul</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Terminal Aguazul: inicia tu viaje con tranquilidad y eficiencia. Conexiones rápidas, servicios de primera y atención al cliente excepcional.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-aguazul-600.webp</image:loc>
+          <image:title>Terminal de Transporte Aguazul Casanare</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-apartado</loc>
+      <lastmod>2023-08-19T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Terminal de Transporte Apartadó: Conexiones eficientes, servicios de calidad y atención al cliente excepcional. ¡Tu aventura comienza aquí!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-apartado.webp</image:loc>
+          <image:title>Terminal Apartadó</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-arauca</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Conoce la Terminal de Transporte de Arauca: Encuentra información sobre servicios, rutas y horarios. ¡Planifica tu viaje hoy!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-arauca-600.webp</image:loc>
+          <image:title>Terminal de Aguachica</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-armenia</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Conoce la Terminal de Transporte de Armenia • Servicios • Horarios • Empresas de bus y más. ¡Inicia tu aventura en el Eje Cafetero hoy mismo!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-armenia-600.webp</image:loc>
+          <image:title>Terminal Armenia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-barranquilla</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Barranquilla es una ciudad que vibra al ritmo del Caribe. Pero, ¿cómo llegar y partir de esta joya tropical? A través de su Terminal de Transporte.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-barranquilla-600.webp</image:loc>
+          <image:title>Terminal de Barranquilla</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-bogota</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La terminal de Bogotá es una empresa que ahora consta de 3 terminales: la Terminal Salitre, la Terminal del Sur y la Terminal del Norte.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-bogota-600.webp</image:loc>
+          <image:title>Terminal Bogotá</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-bucaramanga</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La terminal de Bucaramanga está ubicada en la Transversal Metropolitana. ¡Mira los números telefónicos y compra tus pasajes!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-bucaramanga.webp</image:loc>
+          <image:title>Terminal de Bucaramanga</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-cartagena</loc>
+      <lastmod>2023-08-30T04:12:28-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Descubre las empresas, rutas y servicios que el Terminal de Cartagena tiene para ti. ¡Prepara tu viaje hoy!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-cartagena-600.webp</image:loc>
+          <image:title>Terminal Cartagena</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-el-banco-magdalena</loc>
+      <lastmod>2023-09-08T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>De Expreso Brasilia a Copetran, conoce las opciones de viaje en El Banco Magdalena. ¡Haz clic para saber más!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/terminal-el-banco-magdalena.webp</image:loc>
+          <image:title>Terminal Banco Magdalena</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-buenaventura</loc>
+      <lastmod>2023-09-08T14:44:31-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Necesitas información sobre el Terminal de Buenaventura? Tenemos la guía más completa. ¡Haz clic y viaja tranquilo!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/terminal-buenaventura.webp</image:loc>
+          <image:title>Terminal Buenaventura</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-cali</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La información más completa sobre la Terminal de Cali. Conoce los horarios, rutas y servicios que te harán la vida más fácil en tus viajes.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-cali-600.webp</image:loc>
+          <image:title>Terminal de Cali</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-chiquinquira</loc>
+      <lastmod>2023-09-08T19:21:12-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Viaja con comodidad y seguridad desde la Terminal de Transporte Chiquinquirá. Conoce horarios, rutas y empresas disponibles. ¡Tu viaje comienza aquí!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/terminal-chiquinquira_600.webp</image:loc>
+          <image:title>Terminal de Chiquinquirá - Teléfono y otros datos</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-cucuta</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Buscas detalles sobre el Terminal de Cúcuta? Conoce las empresas, rutas y servicios. ¡Haz clic y prepárate para tu próximo viaje!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-cucuta-600.webp</image:loc>
+          <image:title>Terminal de Cúcuta</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-espinal</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Obtén detalles esenciales de la Terminal de Transporte Espinal: horarios, servicios, ubicación y más. Todo para un viaje cómodo y sin contratiempos.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/terminal-espinal_600.webp</image:loc>
+          <image:title>Terminal de transportes de Espinal en el Tolima</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-florencia</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Estás buscando la terminal de Florencia? Llega a tu destino en el departamento de Caquetá y otras regiones cercanas desde esta terminal</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-florencia-600.webp</image:loc>
+          <image:title>Descubre el corazón de Caquetá con la Terminal de Florencia como punto de partida.</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-garzon</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Viajando a Garzón? Aquí encontrarás todo sobre la Terminal, empresas de transporte y destinos populares. ¡Entérate ahora!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-garzon-600.webp</image:loc>
+          <image:title>Terminal de Transporte de Garzón Huila</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-guadalajara-buga</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La Terminal de Buga es una de las paradas más importantes de Colombia. Ofrece más de 50 rutas diferentes a Cali, Tuluá, Bogotá, entre otros.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-buga-600.webp</image:loc>
+          <image:title>Terminal de Transporte de Buga</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-ipiales</loc>
+      <lastmod>2023-08-23T07:49:50-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Encuentra horarios, teléfonos y servicios en la Terminal de Ipiales. ¡Planifica tu viaje ahora y disfruta de una experiencia sin igual!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-ipiales.webp</image:loc>
+          <image:title>Terminal Ipiales fotos</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-ibague</loc>
+      <lastmod>2023-09-09T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La Terminal de Ibagué es tu aliada para viajes exitosos. Encuentra horarios, servicios y consejos para navegar este importante nodo de transporte colombiano.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/terminal-ibague_600.webp</image:loc>
+          <image:title>Terminal de buses de Ibagué Tolima</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-manizales</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La terminal de transporte de Manizales es tu conexión con el hermoso Caldas y el eje cafetero. ¡Además que es hermosa! Conócela y planea tu viaje</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-manizales-600.webp</image:loc>
+          <image:title>Terminal Manizales</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-medellin</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Las terminales de transporte del Norte y del Sur de Medellín están listas para que tu viaje sea el mejor. Mira los teléfonos para comprar tus pasajes</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-medellin.webp</image:loc>
+          <image:title>Terminal Norte y Sur Medellín</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-melgar</loc>
+      <lastmod>2023-09-09T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Conoce la Terminal de Transporte Melgar, tu puerta de entrada a Tolima. Información de rutas, horarios, empresas y servicios para tu viaje ideal</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/terminal-melgar_600.webp</image:loc>
+          <image:title>Tiquetes de las empresas de la terminal de Melgar</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-neiva</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La terminal de transporte de Neiva es la principal empresa de transporte terrestre del departamento del Huila hacia los demás destinos de Colombia</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-neiva-600.webp</image:loc>
+          <image:title>Terminal de Transportes Neiva</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-pasto</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La Terminal de Pasto es una construcción relativamente reciente. Ahora es uno de los principales puntos de llegada de la ciudad de Pasto.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-pasto-600.webp</image:loc>
+          <image:title>Terminal de Pasto</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-pereira</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Viajas desde Pereira? Conoce todo sobre su Terminal de Transporte. Conoce todos los servicios y rutas de la Terminal de Transporte de Pereira.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-pereira-600.webp</image:loc>
+          <image:title>Terminal de Transporte de Santa Marta</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-pitalito</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Ubicado en la ciudad de Pitalito, Colombia, el terminal es un lugar donde se puede ir de un pueblo a otro en todo el sur del Huila.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-pitalito-600.webp</image:loc>
+          <image:title>Terminal de Pitalito Huila</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-popayan</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La Terminal de transporte Popayán es la mejor elección en el Cauca para encontrar los precios ajustados a su presupuesto y los horarios más convenientes</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-popayan-600.webp</image:loc>
+          <image:title>Terminal Popayan</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-santa-marta</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La terminal de Santa Marta es una central que brinda servicios de traslado terrestre de pasajeros, así como de cargas y encomiendas.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-santa-marta-600.webp</image:loc>
+          <image:title>Terminal de Transporte de Santa Marta</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-tunja</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Compra tus tiquetes directamente con la Terminal de Tunja. ¿Sabes de su impacto y proyecciones futuras? ¡Emprende tu viaje hoy!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-tunja-600.webp</image:loc>
+          <image:title>Terminal de Transporte de Santa Marta</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-valledupar</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Viajando desde Valledupar? Encuentra toda la información sobre la terminal de transporte, empresas de buses y más. ¡Haz clic y prepárate para tu viaje!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-valledupar-600.webp</image:loc>
+          <image:title>Terminal de Transporte de Santa Marta</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-de-villavicencio</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>La Terminal de Villavicencio es el punto de partida para explorar una de las regiones más hermosas de Colombia. ¡Conócelo! Te damos todos sus datos</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-villavicencio-600.webp</image:loc>
+          <image:title>Terminal Villavicencio</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-norte-bogota</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Buscas información sobre la Terminal del Norte en Bogotá? Aquí encontrarás todo lo que necesitas para comprar los pasajes de tu próximo viaje. ¡Entérate!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-norte-bogota.webp</image:loc>
+          <image:title>Terminal Norte Bogotá</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-salitre-bogota</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Planifica tu viaje desde la Terminal Salitre. Encuentra información actualizada sobre • rutas • empresas de transporte y • servicios disponibles.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-salitre.webp</image:loc>
+          <image:title>Terminal Salitre Bogotá</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/terminal-sur-bogota</loc>
+      <lastmod>2024-07-23T08:41:45-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Viajando desde Bogotá? La Terminal del Sur es tu mejor aliado. Descubre sus • servicios • rutas • consejos para un viaje perfecto. ¡Infórmate aquí!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/terminales/terminal-sur-bogota.webp</image:loc>
+          <image:title>Terminal Sur Bogotá</image:title>
+        </image:image>
+      
+    </url>
+  
 
-  {% for page in site.without-plugin %}
-    <url>
-      <loc>{{ site.url }}{{ page.url | xml_escape }}</loc>
-      <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
-      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.7{% endif %}</priority>
-      {% if page.description %}
-        <description>{{ page.description | xml_escape }}</description>
-      {% endif %}
-      {% if page.jpg or page.hero %}
-        <image:image>
-          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
-          <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
-        </image:image>
-      {% endif %}
-    </url>
-  {% endfor %}
+  
 </urlset>

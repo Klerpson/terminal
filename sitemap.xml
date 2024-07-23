@@ -1,3 +1,6 @@
+---
+layout:
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -8,7 +11,7 @@
                             http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 
   {% for page in site.pages %}
-    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}
+    {% unless page.sitemap.exclude == "yes" or page.noindex or page.url contains '.xml' or page.url contains 'assets' or page.url contains '.js' or page.url contains '.css' %}
       <url>
         <loc>{{ page.url | absolute_url | xml_escape }}</loc>
         <lastmod>{{ page.date | default: site.time | date_to_xmlschema }}</lastmod>
@@ -19,7 +22,7 @@
         {% endif %}
         {% if page.jpg or page.hero %}
           <image:image>
-            <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+            <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero| relative_url }}{% else %}{{ page.jpg| relative_url }}{% endif %}</image:loc>
             <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
           </image:image>
         {% endif %}
@@ -38,7 +41,7 @@
       {% endif %}
       {% if post.jpg or post.hero %}
         <image:image>
-          <image:loc>{{ site.url }}{% if post.hero %}{{ post.hero }}{% else %}{{ post.jpg }}{% endif %}</image:loc>
+          <image:loc>{{ site.url }}{% if post.hero %}{{ post.hero | relative_url }}{% else %}{{ post.jpg | relative_url }}{% endif %}</image:loc>
           <image:title>{% if post.alt %}{{ post.alt | xml_escape }}{% else %}{{ post.title | xml_escape }}{% endif %}</image:title>
         </image:image>
       {% endif %}
@@ -56,7 +59,7 @@
       {% endif %}
       {% if page.jpg or page.hero %}
         <image:image>
-          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero | relative_url }}{% else %}{{ page.jpg | relative_url }}{% endif %}</image:loc>
           <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
         </image:image>
       {% endif %}
@@ -74,7 +77,7 @@
       {% endif %}
       {% if page.jpg or page.hero %}
         <image:image>
-          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero | relative_url }}{% else %}{{ page.jpg | relative_url }}{% endif %}</image:loc>
           <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
         </image:image>
       {% endif %}
@@ -92,7 +95,7 @@
       {% endif %}
       {% if page.jpg or page.hero %}
         <image:image>
-          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero }}{% else %}{{ page.jpg }}{% endif %}</image:loc>
+          <image:loc>{{ site.url }}{% if page.hero %}{{ page.hero | relative_url }}{% else %}{{ page.jpg | relative_url }}{% endif %}</image:loc>
           <image:title>{% if page.alt %}{{ page.alt | xml_escape }}{% else %}{{ page.title | xml_escape }}{% endif %}</image:title>
         </image:image>
       {% endif %}

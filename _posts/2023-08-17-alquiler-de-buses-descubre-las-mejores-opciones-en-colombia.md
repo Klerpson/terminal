@@ -5,8 +5,8 @@ date: 2023-08-17
 title: ¿Buscas Alquilar un Bus en Colombia? Conoce las Opciones
 description: Lee aquí la mejor información sobre alquiler de buses para viajar por Colombia. ¡Entérate de todo y reserva hoy mismo!
 h1: "Alquiler de buses y minibuses: Tu solución para viajes grupales en Colombia"
-jpg: blog/alquiler-buses.jpg
-hero: blog/alquiler-buses.webp
+jpg: img/blog/alquiler-buses.jpg
+hero: img/blog/alquiler-buses.webp
 alt: Bus en alquiler
 excerpt: Viajar en grupo puede es una experiencia inolvidable. Aunque también puede presentar desafíos logísticos.
 ---
