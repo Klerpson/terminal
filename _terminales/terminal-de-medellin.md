@@ -11,7 +11,6 @@ alt: Terminal Norte y Sur Medellín
 webp1: terminales/terminal-medellin-sur-600.webp
 webp2: terminales/terminal-medellin-sur-376.webp
 subtitle: Compra tus tiquetes con las empresas de la terminal Sur y la terminal Norte de Medellín
-intro: "La Terminal del Norte funciona hacia el oriente y norte de Medellín. La terminal Sur hacia el sur y el oriente de Medellín, y hacia el Eje cafetero y del sur de Colombia."
 contacto: https://terminalesmedellin.com/pqrsd/
 maps: https://goo.gl/maps/Yq8qVN27RFw937TR9
 direccion: "Norte: Carrera 64C No. 78 – 580 <br> Sur: Carrera 65 Nº 8B - 91"

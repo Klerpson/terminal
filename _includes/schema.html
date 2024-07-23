@@ -1,0 +1,186 @@
+{% if page.json-terminal %}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "TransitStation",
+  "name": "Terminal de transporte de {{page.ciudad|capitalize}}",
+  "alternateName": "Terminal de Buses {{page.ciudad|capitalize}}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{page.direccion}}",
+    "addressLocality": "{{page.ciudad}}",
+    "addressRegion": "{{page.category|capitalize}}",
+    "postalCode": "{{page.postal}}",
+    "addressCountry": "CO"
+  },
+  "telephone": "{{page.telefono}}",
+  "url": "{{page.contacto}}",
+  "image": [
+    "{{site.baseurl}}/img/{{page.jpg}}",
+    "{{site.baseurl}}/img/{{page.ciudad}}-terminal-1.jpg",
+    "{{site.baseurl}}/img/{{page.ciudad}}-terminal-2.jpg"
+  ],
+  "description": "{{page.intro}}",
+  "areaServed": {
+    "@type": "City",
+    "name": "{{page.ciudad}}"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "{{page.latitude}}",
+    "longitude": "{{page.longitude}}"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "05:00",
+      "closes": "23:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "06:00",
+      "closes": "22:00"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{page.calificacion}}",
+    "reviewCount": "{{page.reviews}}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Estacionamiento",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Wifi gratuito",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Accesibilidad para discapacitados",
+      "value": true
+    }
+  ],
+  "publicAccess": true,
+  "smokingAllowed": false,
+  "maximumAttendeeCapacity": 5000,
+  "availableService": [
+    {
+      "@type": "Service",
+      "name": "Venta de boletos",
+      "description": "Venta de boletos para rutas intermunicipales e interdepartamentales"
+    },
+    {
+      "@type": "Service",
+      "name": "Información turística",
+      "description": "Punto de información para turistas y viajeros"
+    }
+  ],
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.terminal{{page.ciudad|lowercase}}.com/reserva",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform",
+        "http://schema.org/AndroidPlatform",
+        "http://schema.org/IOSPlatform"
+      ]
+    },
+    "result": {
+      "@type": "Reservation",
+      "name": "Reserva de boleto"
+    }
+  }
+}
+</script>
+{% endif %}
+
+{% if page.json-post %}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{page.url|absolute_url}}"
+  },
+  "headline": "{{page.title}}",
+  "alternativeHeadline": "{{page.subtitle}}",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "{{site.baseurl}}/img/{{page.jpg}}",
+      "height": "600",
+      "width": "340"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "{{site.baseurl}}/img/{{page.ciudad}}-terminal-1.jpg",
+      "height": "800",
+      "width": "600"
+    }
+  ],
+  "datePublished": "{{page.date}}",
+  "dateModified": "{% if page.lastmod %}{{page.lastmod}}{% else %}{{page.date}}{% endif %}",
+  "author": {
+    "@type": "Person",
+    "name": "{% if page.autor %}{{page.autor}}{% else %}{{site.author}}{% endif %}",
+    "url": "{{site.baseurl}}/sobre-nosotros#{{page.autor|slugify}}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{site.name}}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{site.baseurl}}/img/logo-terminal-de-transporte-200px.jpg",
+      "width": "233",
+      "height": "233"
+    }
+  },
+  "description": "{{page.description}}",
+  "keywords": "{{page.keywords|join: ', '}}",
+  "articleBody": "{{page.content | strip_html | truncate: 200}}",
+  "wordCount": "{{page.content | number_of_words}}",
+  "inLanguage": "es",
+  "locationCreated": {
+    "@type": "Place",
+    "name": "{{page.ciudad}}, Colombia"
+  },
+  "potentialAction": [
+    {
+      "@type": "CommentAction",
+      "name": "Comment",
+      "target": "{{page.url|absolute_url}}#comentarios"
+    },
+    {
+      "@type": "ShareAction",
+      "name": "Share on Facebook",
+      "target": "https://www.facebook.com/sharer/sharer.php?u={{page.url|absolute_url|url_encode}}"
+    },
+    {
+      "@type": "ShareAction",
+      "name": "Share on Twitter",
+      "target": "https://twitter.com/intent/tweet?text={{page.title|url_encode}}&url={{page.url|absolute_url|url_encode}}"
+    }
+  ]
+}
+</script>
+{% endif %}

@@ -31,88 +31,6 @@
     <meta name="robots" content="noindex, nofollow" />
     {% endif %}
     <meta name="distribution" content="global" />
-    <!-- Codigo json para google en los articulos -->
-    {% if page.json-terminal %}
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "LocalBusiness",
-        "name": "Terminal de transporte de {{page.ciudad|capitalize}}",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "{{page.direccion}}",
-          "addressLocality": "{{page.ciudad}}",
-          "addressRegion": "{{page.category|capitalize}}",
-          "postalCode": "{{page.postal}}",
-          "addressCountry": "CO"
-        },
-        "telephone": "{{page.telefono}}",
-        "url": "{{page.contacto}}",
-        "image": "{{site.baseurl}}/img/{{page.jpg}}",
-        "description": "{{page.intro}}",
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": "{{page.latitude}}",
-          "longitude": "{{page.longitude}}"
-        },
-        "openingHoursSpecification": {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday",
-            "Saturday",
-            "Sunday"
-          ],
-          "opens": "6:00",
-          "closes": "22:00"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "{{page.calificacion}}",
-          "reviewCount": "{{page.reviews}}"
-        }
-      }
-    </script>
-    {% endif %}
-    {% if page.json-post %}
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "BlogPosting",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "{{page.url|absolute_url}}"
-        },
-        "headline": "{{page.title}}",
-        "image": {
-          "@type": "ImageObject",
-          "url": "{{site.baseurl}}/img/{{page.jpg}}",
-          "height": "600",
-          "width": "340"
-        },
-        "datePublished": "{{page.date}}",
-        "dateModified": "{{page.date}}",
-        "author": {
-          "@type": "Organization",
-          "name": "{% if page.autor %}{{page.autor}}{% else %}{{site.author}}{% endif %}"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "{{site.name}}",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "{{site.baseurl}}/img/logo-terminal-de-transporte-200px.jpg",
-            "width": "233",
-            "height": "233"
-          }
-        },
-        "description": "{{page.description}}"
-      }
-    </script>
-    {% endif %}
     <meta name="language" content="es" />
     <meta name="country" content="COL" />
     <meta name="geo.region" content="CO-HUI" />
@@ -224,6 +142,8 @@
       crossorigin
     >
     <meta name='impact-site-verification' value='e0c4e1a6-a393-49f3-8b92-fb1f508b5a9b'>
+
+    {% include schema.html %}
     <!-- Google Tag Manager -->
     <script>
       (function (w, d, s, l, i) {
