@@ -16,7 +16,7 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <image>
-      <url>{{ 'img/logo-terminal-de-transporte-200px.jpg' | relative_url }}</url>
+      <url>{{ site.url }}{{ 'img/logo-terminal-de-transporte-200px.jpg' | relative_url }}</url>
       <title>{{ site.title | xml_escape }}</title>
       <link>{{ site.url }}{{ site.baseurl }}/</link>
     </image>
