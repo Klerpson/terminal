@@ -13,7 +13,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+        <lastmod>2024-07-23T09:20:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -26,7 +26,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+        <lastmod>2024-07-23T09:20:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -46,7 +46,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+        <lastmod>2024-07-23T09:20:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -69,7 +69,7 @@
     
       <url>
         <loc>http://localhost:4000/terminales-de-colombia</loc>
-        <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+        <lastmod>2024-07-23T09:20:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -531,11 +531,123 @@
   
 
   
+    <url>
+      <loc>http://localhost:4000/pasajes/aguachica</loc>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Buscas pasajes a Aguachica? Encuentra las mejores rutas, precios y consejos para un viaje inolvidable. ¡Haz clic y planifica tu aventura!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-aguachica.webp</image:loc>
+          <image:title>Comprar pasajes Aguachica</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/andes-antioquia</loc>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>¿Cómo llegar a Andes Antioquia en bus? Infórmate de todo lo que necesitas para que tengas un viaje cómodo seguro y económico. </description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-andes-antioquia.webp</image:loc>
+          <image:title>Foto de un bus que hacia los Andes Antioquia</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/bogota-acacias</loc>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Encuentra todo lo que necesitas para tu viaje en bus de Bogotá a Acacias, aquí te mostramos cómo viajar de manera correcta.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasaje-bogota-acacias.webp</image:loc>
+          <image:title>Pasaje terrestre Bogotá acacias </image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/bogota-aguazul</loc>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Pasajes de Bogotá a Aguazul. Te damos toda la información para que disfrutes de un viaje en bus cómodo y seguro.</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/aguazul-bogota.webp</image:loc>
+          <image:title>Viaje a Aguazul</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/bogota-anapoima</loc>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>De Bogotá a Anapoima, precios de pasasjes, horarios y todo sobre cómo hacer que tu viaje sea lo más agradable. ¡Infórmate con nosotros!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-bogota-anapoima.webp</image:loc>
+          <image:title>pasaje bogota anapoima</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/pasajes-a-huila-bus</loc>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Ahorra tiempo y dinero 💰 ¡Descubre los mejores pasajes en bus al Huila y disfruta de tus vacaciones al máximo! 🌴🌞 ¡No te lo pierdas!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-huila-bus.webp</image:loc>
+          <image:title>Pasajes a Huila económicos y convenientes</image:title>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/pasajes/san-gil</loc>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      
+        <description>Infórmate de todo sobre tu viaje a San Gil aquí. Encontraras cómo comprar pasajes y qué llevar. ¡Haz clic para obtener todos los detalles!</description>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/pasajes-san-gil-m.webp</image:loc>
+          <image:title>Comprar pasajes San gil</image:title>
+        </image:image>
+      
+    </url>
+  
 
   
     <url>
       <loc>http://localhost:4000/terminal-de-aguachica</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -551,7 +663,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-aguazul</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -583,7 +695,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-arauca</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -599,7 +711,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-armenia</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -615,7 +727,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-barranquilla</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -631,7 +743,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-bogota</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -647,7 +759,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-bucaramanga</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -711,7 +823,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-cali</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -743,7 +855,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-cucuta</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -759,7 +871,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-espinal</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -775,7 +887,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-florencia</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -791,7 +903,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-garzon</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -807,7 +919,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-guadalajara-buga</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -855,7 +967,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-manizales</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -871,7 +983,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-medellin</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -903,7 +1015,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-neiva</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -919,7 +1031,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-pasto</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -935,7 +1047,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-pereira</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -951,7 +1063,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-pitalito</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -967,7 +1079,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-popayan</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -983,7 +1095,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-santa-marta</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -999,7 +1111,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-tunja</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -1015,7 +1127,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-valledupar</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -1031,7 +1143,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-de-villavicencio</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -1047,7 +1159,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-norte-bogota</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -1063,7 +1175,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-salitre-bogota</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       
@@ -1079,7 +1191,7 @@
   
     <url>
       <loc>http://localhost:4000/terminal-sur-bogota</loc>
-      <lastmod>2024-07-23T09:00:14-05:00</lastmod>
+      <lastmod>2024-07-23T09:20:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       

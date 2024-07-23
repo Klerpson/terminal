@@ -10,12 +10,12 @@ noindex: true
   {% include header.html %}
   <main class="blog-gallery wrapper flow">
     <h2>🎫 Busca información sobre rutas y empresas que te llevarán a tu destino</h2>
-    <p>Sólo haz <b>clic en el departamento que necesitas.</b> La página filtrará por ti los destinos que ofrecen sus pasajes.</p>
+    <p>Sólo haz <b>clic en el departamento que necesitas.</b> La página filtrará por ti los pasajes que ofrecen sus pasajes.</p>
 
     <div class="blog-tags">
       <button data-name="all" class="active">Todos</button>
-      {% capture filtered_categories_array %}{% for item in site.destinos %}{{ item.category }}|{% endfor %}{% endcapture %}
-      {% for item in site.destinos %}
+      {% capture filtered_categories_array %}{% for item in site.pasajes %}{{ item.category }}|{% endfor %}{% endcapture %}
+      {% for item in site.pasajes %}
           {% assign filtered_cat = item.category | append: '|' %}
           {% if filtered_categories_array contains filtered_cat %}
           <button data-name="{{ item.category}}">{{ item.category | capitalize }}</button>
@@ -24,18 +24,18 @@ noindex: true
       {% endfor %}
     </div>
     <section class="posts">
-    {% capture filtered_categories_array %}{% for item in site.destinos %}{{ item.category }}|{% endfor %}{% endcapture %}
-    {% for item in site.destinos %}
+    {% capture filtered_categories_array %}{% for item in site.pasajes %}{{ item.category }}|{% endfor %}{% endcapture %}
+    {% for item in site.pasajes %}
     {% assign filtered_cat = item.category | append: '|' %}
       {% if filtered_categories_array contains filtered_cat %}
       <div class="post" data-name="{{ item.category }}">
         <h3>Pasajes en {{ item.category | capitalize }}</h3>
         <div class="home_gallery">
-          {% for destino in site.destinos %}
+          {% for destino in site.pasajes %}
           {% if destino.category contains item.category %}
           <article>
-            <img src="{{site.baseurl}}/img/{{destino.hero}}" alt="{{destino.alt}}" loading="lazy" width="112" height="112">
-            <a href="{{site.baseurl}}{{ destino.url }}"><h4>{{ destino.h1 }}</h4></a>
+            <img src="{{destino.hero | relative_url }}" alt="{{destino.alt}}" loading="lazy" width="112" height="112">
+            <a href="{{ destino.url | relative_url }}"><h4>{{ destino.h1 }}</h4></a>
           </article>
           {% endif %}
           {% endfor %}
