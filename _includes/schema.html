@@ -1,3 +1,297 @@
+{% if page.url == "/" %}
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "{{ site.name }}",
+    "url": "{{ site.url }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.name }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}{{ site.baseurl }}/img/logo.png"
+      }
+    }
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Terminales de transporte en Colombia",
+    "description": "Información sobre terminales de transporte y viajes en bus en Colombia"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Compra pasajes, mira horarios y rutas del bus que necesitas",
+        "item": {
+          "@type": "HowTo",
+          "name": "Cómo comprar pasajes de bus",
+          "description": "Guía paso a paso para comprar pasajes de bus en Colombia",
+          "step": [
+            {
+              "@type": "HowToStep",
+              "text": "Busca la ciudad donde comienza tu viaje y selecciona la terminal de transporte.",
+              "url": "{{ site.url }}/terminales-de-transporte/"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Compara los datos del precio del pasaje, horarios, buses, etc. Luego selecciona la empresa que más te guste.",
+              "url": "{{ site.url }}/empresas-de-transporte/"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Habla directamente con la empresa y compra tu pasaje sin intermediarios, sin pagar comisiones.",
+              "url": "{{ site.url }}/comprar-pasajes/"
+            }
+          ],
+          "tool": [
+            {
+              "@type": "HowToTool",
+              "name": "Sitio web de la terminal de transporte"
+            },
+            {
+              "@type": "HowToTool",
+              "name": "Teléfono para contactar a las empresas de transporte"
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Conoce las mejores empresas de transporte de buses Colombianas",
+        "item": {
+          "@type": "ItemList",
+          "itemListElement": [
+            {% for empresa in site.data.empresas-home %}
+            {
+              "@type": "ListItem",
+              "position": {{ forloop.index }},
+              "item": {
+                "@type": "Organization",
+                "name": "{{ empresa.title }}",
+                "url": "{{ site.url }}{{ empresa.url }}",
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "{{ site.url }}{{ site.baseurl }}/img/{{ empresa.img }}",
+                  "width": "300",
+                  "height": "200"
+                },
+                "description": "{{ empresa.description }}"
+              }
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Rutas de bus más buscadas",
+        "item": {
+          "@type": "ItemList",
+          "itemListElement": [
+            {% for pasaje in site.data.pasajes-home %}
+            {
+              "@type": "ListItem",
+              "position": {{ forloop.index }},
+              "item": {
+                "@type": "Thing",
+                "name": "{{ pasaje.title }}",
+                "url": "{{ site.url }}/{{ pasaje.url }}",
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "{{ site.url }}{{ site.baseurl }}/img/{{ pasaje.img }}",
+                  "width": "300",
+                  "height": "200"
+                },
+                "description": "{{ pasaje.description }}"
+              }
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "La Terminal de Transporte te ayuda a viajar en bus por Colombia",
+        "item": {
+          "@type": "ItemList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Utilizamos fuentes confiables",
+              "description": "Las páginas web oficiales de las terminales de transporte son nuestra fuente directa de información verídica."
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Actualizamos nuestros datos",
+              "description": "Estamos al tanto de los últimos cambios para que puedas planear tu viaje con la última información disponible."
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Consejos para viajar en bus",
+              "description": "Viaja de forma segura y confiable por las terminales del país siguiendo los consejos de nuestro blog."
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Consejos para viajar en bus",
+        "item": {
+          "@type": "ItemList",
+          "itemListElement": [
+            {% for post in site.posts limit: 3 %}
+            {
+              "@type": "ListItem",
+              "position": {{ forloop.index }},
+              "item": {
+                "@type": "BlogPosting",
+                "headline": "{{ post.title }}",
+                "url": "{{ site.url }}{{ post.url }}",
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "{{ site.url }}{{ site.baseurl }}/img/{{ post.hero }}",
+                  "width": "800",
+                  "height": "600"
+                },
+                "author": {
+                  "@type": "Person",
+                  "name": "{{ post.author | default: site.author }}"
+                },
+                "publisher": {
+                  "@type": "Organization",
+                  "name": "{{ site.name }}",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "{{ site.url }}{{ site.baseurl }}/img/logo.png"
+                  }
+                },
+                "datePublished": "{{ post.date | date_to_xmlschema }}",
+                "dateModified": "{{ post.last_modified_at | default: post.date | date_to_xmlschema }}",
+                "description": "{{ post.excerpt | strip_html | truncate: 160 }}"
+              }
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ]
+        }
+      }
+    ]
+  }
+}
+{% endif %}
+
+{% if page.url == "/terminales-de-colombia" %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "{{ page.title }}",
+    "description": "{{ page.description }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "headline": "{{ page.h1 }}",
+    "datePublished": "{{ site.time | date_to_xmlschema }}",
+    "dateModified": "{{ site.time | date_to_xmlschema }}",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.name }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}{{ site.baseurl }}/img/logo.png"
+      }
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {% assign category_index = 0 %}
+        {% for item in site.terminales %}
+          {% assign filtered_cat = item.category | append: '|' %}
+          {% if filtered_categories_array contains filtered_cat %}
+            {% assign category_index = category_index | plus: 1 %}
+            {
+              "@type": "ListItem",
+              "position": {{ category_index }},
+              "name": "Terminales en {{ item.category | upcase }}",
+              "item": {
+                "@type": "ItemList",
+                "name": "Terminales en {{ item.category | upcase }}",
+                "itemListElement": [
+                  {% assign terminal_index = 0 %}
+                  {% for destino in site.terminales %}
+                    {% if destino.category contains item.category %}
+                      {% assign terminal_index = terminal_index | plus: 1 %}
+                      {
+                        "@type": "ListItem",
+                        "position": {{ terminal_index }},
+                        "item": {
+                          "@type": "TouristAttraction",
+                          "name": "{{ destino.h1 }}",
+                          "url": "{{ site.url }}{{ destino.url }}",
+                          "image": {
+                            "@type": "ImageObject",
+                            "url": "{{ site.url }}{{ site.baseurl }}/img/{{ destino.webps }}",
+                            "width": "112",
+                            "height": "112"
+                          },
+                          "description": "Terminal de transporte en {{ destino.h1 }}"
+                        }
+                      }{% unless forloop.last %},{% endunless %}
+                    {% endif %}
+                  {% endfor %}
+                ]
+              }
+            }{% unless forloop.last %},{% endunless %}
+          {% endif %}
+        {% endfor %}
+      ]
+    },
+    "about": {
+      "@type": "Thing",
+      "name": "Terminales de transporte terrestre de Colombia",
+      "description": "Información sobre terminales de transporte en diferentes ciudades de Colombia para viajes en bus"
+    },
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Fuentes confiables",
+        "description": "Las páginas web de las terminales de transporte son nuestra fuente directa de información."
+      },
+      {
+        "@type": "Thing",
+        "name": "Datos actualizados",
+        "description": "Estamos al tanto de los últimos cambios para que puedas planear tu viaje con la última información disponible."
+      },
+      {
+        "@type": "Thing",
+        "name": "Consejos útiles para viajar",
+        "description": "Viaja de forma segura y confiable por las terminales del país siguiendo los consejos de nuestro magazine.",
+        "url": "{{ site.url }}/blog"
+      }
+    ]
+  }
+  </script>
+{% endif %}
+
 {% if page.json-terminal %}
 <script type="application/ld+json">
 {
