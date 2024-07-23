@@ -6,8 +6,7 @@ description: Las terminales de transporte del Norte y del Sur de Medellín está
 category: antioquia
 h1: "Terminal del Norte de Medellín y del Sur de Medellín: teléfonos y más información"
 jpg: terminales/terminal-medellin.jpg
-webps: terminales/terminal-medellin-376.webp
-hero: terminales/terminal-medellin-600.webp
+hero: terminales/terminal-medellin.webp
 alt: Terminal Norte y Sur Medellín
 webp1: terminales/terminal-medellin-sur-600.webp
 webp2: terminales/terminal-medellin-sur-376.webp
@@ -178,35 +177,27 @@ En resumen, **la Terminal del Norte de Medellín es un punto de partida clave**.
 
 {% include img-post.html webpm="terminales/terminal-transporte-sur-medellin-800.webp" webps="terminales/terminal-transporte-sur-medellin-376.webp" alt="Terminal Sur Medellín" title="Terminal del Sur" %}
 
-La Terminal de transporte Sur de Medellín, es uno de los principales puntos de conexión desde la ciudad y hacia el sur del país.
+La Terminal de transporte Sur de Medellín, es uno de los principales puntos de conexión **desde la ciudad y hacia el sur del país**.
 
-## Empresas de transporte en la Terminal del Sur de Medellín
+## Compra tus tiquetes con las empresas de transporte en la Terminal del Sur de Medellín
 
-La Terminal del Sur Medellín alberga a varias empresas de transporte que ofrecen servicios a una amplia gama de destinos. Estas empresas cuentan con flotas de buses modernos y seguros **para garantizar un viaje cómodo y seguro**.
+La Terminal del Sur Medellín alberga a varias empresas de transporte que ofrecen servicios a una amplia gama de destinos. Estas empresas cuentan con flotas de buses modernos y seguros para garantizar un viaje cómodo y seguro.
 
-### Compra de tiquetes en la Terminal del Sur Medellín
+También puedes [consultarlas al final del artículo](#telefonos).
 
-En la Terminal del Sur Medellín puedes comprar tus tiquetes de bus de manera rápida y sencilla. Solo debes **acercarte a las taquillas de las diferentes empresas de transporte que operan en la terminal y elegir el destino que prefieras**.
+En la Terminal del Sur Medellín puedes comprar tus tiquetes de bus de manera rápida y sencilla.
 
-Además, también puedes comprar tus tiquetes en línea [a través de la página web de la terminal](https://terminaldelsur.com/){:rel="nofollow noopener noreferrer" target="_blank"}.
+>En la terminal Sur de Medellín puedes comprar tus tiquetes en línea [a través de la página web de la terminal](https://terminaldelsur.com/){:rel="nofollow noopener noreferrer" target="_blank"}.
 
-### Pasajes en la terminal de transporte Sur
-
-La terminal Sur de Medellín opera con casi todas las mismas empresas de la terminal Norte. Utiliza el mismo botón para **comprar los pasajes con las empresas de buses** de tu preferencia.
-
-## Dirección de la Terminal del Sur Medellín
+## Como llegar a la Terminal del Sur Medellín
 
 {% include add3.html %}
 
 **La Terminal del Sur Medellín se encuentra en la Carrera 65 Nº 8B - 91**, un lugar estratégico que facilita el acceso a los viajeros y visitantes.
 
-Este lugar es un punto cardinal para todos los trotamundos criollos y foráneos que buscan preparar el viaje, tomar precauciones de última hora, conseguir todos los productos y servicios necesarios para un plácido viaje o comprar los regalos para sorprender a sus familiares.
+Llegar a la Terminal del Sur Medellín es sencillo.
 
-### Cómo llegar a la Terminal Sur de Medellín
-
-Llegar a la Terminal del Sur Medellín es sencillo, ya sea que decidas usar transporte público o privado. La ubicación estratégica de la terminal **facilita el acceso desde cualquier punto de la ciudad**.
-
-Además, si tienes alguna duda, siempre puedes recurrir a las indicaciones de los locales, quienes estarán dispuestos a ayudarte a encontrar tu camino.
+Puedes utilizar transporte público o privado. La ubicación estratégica de la terminal **facilita el acceso desde cualquier punto de la ciudad**.
 
 ## Servicios disponibles en la Terminal Sur Medellín
 
