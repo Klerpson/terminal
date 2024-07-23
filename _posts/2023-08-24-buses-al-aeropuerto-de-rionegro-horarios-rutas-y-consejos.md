@@ -1,21 +1,15 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-08-24
 title: "Buses al Aeropuerto de Rionegro: Horarios, Rutas y Consejos"
 description: " Información para viajar en bus, al Aeropuerto de Rionegro. Desde horarios hasta consejos prácticos, ¡para que puedas planificar tu viaje!"
-autor: Camilo Cuspián
 h1: "Viajando en bus al aeropuerto de Rionegro: Rutas, horarios y consejos prácticos"
-jpg: blog/buses-aeropuerto.jpg
-hero: blog/buses-aereopuerto-2-.webp
-webps: blog/buses-aeropuerto-s-2-.webp
-alt: Bus Aeropuerto
-permalink: bus-aeropuerto-rionegro
+jpg: img/blog/buses-aeropuerto.jpg
+hero: img/blog/buses-aereopuerto-2-.webp
+alt: Foto del bus que va al aeropuerto
 excerpt: Viajar al Aeropuerto de Rionegro en bus desde Medellín ya no tiene que ser un desafío. Con múltiples opciones de buses disponibles, puedes elegir la que mejor se adapte a tus necesidades y horarios.
 ---
 ## ¿Por qué es mejor el bus para llegar al Aeropuerto de Rionegro?
-
-----
 
 **Viajar en bus al Aeropuerto Internacional José María Córdoba, ubicado en Rionegro,** es una opción eficiente y económica.
 
@@ -56,8 +50,6 @@ Existen dos rutas principales entre Medellín y el aeropuerto: la Vía Las Palma
 
 ## Servicios a bordo del bus que te lleva al aeropuerto de Rionegro
 
-----
-
 Los buses a el Aeropuerto de Rionegro Combuses están [equipados con diversas comodidades para garantizar un viaje placentero]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %} "Difrutar el viaje en Bus"):
 
 * Asientos reclinables
@@ -77,14 +69,14 @@ Viajar en bus a el ***aeropuerto de Rionegro puede ser práctico y cómodo*** si
 2. **Ruta:** La empresa opera exclusivamente entre puntos específicos de Medellín y el Aeropuerto de Rionegro.
 3. **Mascotas:** Consulta previamente la política de traslado de mascotas.
 
-### Preguntas frecuentes
+### Preguntas frecuentes sobre los buses que van al aeropuerto de Rionegro
 
-----
-
-* **¿Tienen cobro adicional por la maleta?** No, solo se paga el pasaje por persona y la maleta es gratis.
-* **¿Cuál es el tiempo de recorrido?** Depende del tráfico, pero generalmente oscila entre 50 y 60 minutos.
-* **¿Hasta qué hora hay salidas desde el aeropuerto?** La última salida es generalmente a las 00:00.
+>* **¿Tienen cobro adicional por la maleta?** No, solo se paga el pasaje por persona y la maleta es gratis.
+>
+>* **¿Cuál es el tiempo de recorrido?** Depende del tráfico, pero generalmente oscila entre 50 y 60 minutos.
+>
+>* **¿Hasta qué hora hay salidas desde el aeropuerto?** La última salida es generalmente a las 00:00.
 
 Viajar en ***bus al Aeropuerto de Rionegro es una opción conveniente y económica***. Con horarios flexibles, servicios a bordo de calidad y puntos de venta accesibles, los buses de Aeropuerto Combuses se presentan como una excelente alternativa para los viajeros.
 
-Si deseas conocer más sobre rutas y servicios en Medellín, no dudes en [informarte más en nuestros artículos de nuestra página]({{'blog'|relative_url}}). ¡Buen viaje y hasta la próxima!
+Si deseas conocer más sobre rutas y servicios en Medellín, no dudes en [informarte más en nuestros artículos de nuestra página]({{'img/blog'|relative_url}}). ¡Buen viaje y hasta la próxima!

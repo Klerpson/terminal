@@ -5,9 +5,8 @@ title: Terminales de transporte de Bogotá Salitre, Norte y Sur
 description: "La terminal de Bogotá es una empresa que ahora consta de 3 terminales: la Terminal Salitre, la Terminal del Sur y la Terminal del Norte."
 category: cundinamarca
 h1: Terminal Salitre, terminal del Sur y terminal del Norte de Bogotá
-jpg: terminales/terminal-bogota.jpg
-webps: terminales/terminal-bogota-376.webp
-hero: terminales/terminal-bogota-600.webp
+jpg: img/terminales/terminal-bogota.jpg
+hero: img/terminales/terminal-bogota-600.webp
 alt: Terminal Bogotá
 webp1: terminales/terminal-bogota-norte-600.webp
 webp2: terminales/terminal-bogota-norte-376.webp
@@ -23,7 +22,6 @@ calificacion: 4.1
 reviews: 1789
 latitude: 4.7207877
 longitude: -74.15717
-permalink: /terminal-de-bogota
 empresas:
   - Líneas las Acacias: 5414667 - 5414667
   - Coflonorte: 7705815 - 7705815 - 7700792 - 7700792

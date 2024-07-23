@@ -5,9 +5,8 @@ title: Terminal de Pitalito
 description: Ubicado en la ciudad de Pitalito, Colombia, el terminal es un lugar donde se puede ir de un pueblo a otro en todo el sur del Huila.
 category: huila
 h1: La terminal de transporte de Pitalito
-jpg: terminales/terminal-pitalito.jpg
-webps: terminales/terminal-pitalito-376.webp
-hero: terminales/terminal-pitalito-600.webp
+jpg: img/terminales/terminal-pitalito.jpg
+hero: img/terminales/terminal-pitalito-600.webp
 alt: Terminal de Pitalito Huila
 webp1: terminales/terminal-pitalito-exterior-600.webp
 webp2: terminales/terminal-pitalito-exterior-376.webp
@@ -24,7 +23,6 @@ calificacion: 4.1
 reviews: 3170
 latitude: 1.86486
 longitude: -76.03245
-permalink: /terminal-de-pitalito
 empresas:
   - Aerotrans: 6088363002
   - Cootranslaboyana: 6088360517 - 3102561533

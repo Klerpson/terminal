@@ -5,9 +5,8 @@ title: "Terminal de Transporte Armenia: a explorar el Eje Cafetero"
 description: "Conoce la Terminal de Transporte de Armenia • Servicios • Horarios • Empresas de bus y más. ¡Inicia tu aventura en el Eje Cafetero hoy mismo!"
 category: quindio
 h1: "Terminal de Transporte Armenia: tu llegada al Eje Cafetero"
-jpg: terminales/terminal-armenia.jpg
-webps: terminales/terminal-armenia-376.webp
-hero: terminales/terminal-armenia-600.webp
+jpg: img/terminales/terminal-armenia.jpg
+hero: img/terminales/terminal-armenia-600.webp
 alt: Terminal Armenia
 webp1: terminales/terminal-armenia-quindio-600.webp
 webp2: terminales/terminal-armenia-quindio-376.webp
@@ -24,7 +23,6 @@ calificacion: 4.1
 reviews: 15032
 latitude: 4.5276223
 longitude: -75.6838267
-permalink: /terminal-de-armenia
 empresas:
   - Coochoferes: 6067478980
   - Coomoquin: 6067474505

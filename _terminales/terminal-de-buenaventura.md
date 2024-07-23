@@ -6,15 +6,22 @@ title: "Conoce la Terminal de Buenaventura: Horarios, Rutas y Más"
 description: ¿Necesitas información sobre el Terminal de Buenaventura? Tenemos la guía más completa. ¡Haz clic y viaja tranquilo!
 category: Valle del Cauca
 h1: Muévete como pez en el mar en la Terminal de Buenaventura
-jpg: blog/terminal-buenaventura.jpg
-hero: blog/terminal-buenaventura.webp
-webps: blog/terminal-buenaventura-376.webp
+jpg: img/blog/terminal-buenaventura.jpg
+hero: img/blog/terminal-buenaventura.webp
 alt: Terminal Buenaventura
 subtitle: Teléfonos y más datos de las empresas de la terminal de Transporte de Buenaventura
 intro: "Bienvenido a la guía más completa sobre el Terminal de Transporte de Buenaventura. Si estás planeando un viaje desde o hacia esta ciudad portuaria, has llegado al lugar correcto. Aquí encontrarás todo lo que necesitas saber: desde horarios y rutas hasta opiniones de viajeros y consejos para hacer tu experiencia más placentera. ¡Vamos allá!"
 email: terminal_transportes@buenaventura.gov.co
 direccion: "Carrera 5 # 7 - 32 Piso 2"
 calificacion: "3.2"
+contacto: https://terminalbuenaventura.gov.co/
+telefono: 6022402222 - 6022422212
+maps: https://g.co/kgs/MiPgSS
+reviews: "37"
+ciudad: Buenaventura
+postal: "764501"
+latitude: "3.885165"
+longitude: "-77.0783442"
 empresas:
   - Flota Magdalena: 3102873788
   - Expreso Trejos: 6022423247 - 3147909077
@@ -27,15 +34,6 @@ empresas:
   - Las Palmas: 6028277999
   - Velotax: 3116296494
   - Empresa Arauca: 3206968738
-contacto: https://terminalbuenaventura.gov.co/
-telefono: 6022402222 - 6022422212
-maps: https://g.co/kgs/MiPgSS
-reviews: "37"
-ciudad: Buenaventura
-postal: "764501"
-latitude: "3.885165"
-longitude: "-77.0783442"
-permalink: terminal-de-buenaventura
 ---
 ## Cómo llegar a la Terminal de Buenaventura
 

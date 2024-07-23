@@ -4,9 +4,8 @@ title: "Bogotá: Terminal de Transporte del Norte y sus Servicios"
 description: "¿Buscas información sobre la Terminal del Norte en Bogotá? Aquí encontrarás todo lo que necesitas para comprar los pasajes de tu próximo viaje. ¡Entérate!"
 category: cundinamarca
 h1: "Terminal satélite del Norte Bogotá: información actualizada y consejos útiles"
-jpg: terminales/terminal-norte-bogota.jpg
-hero: terminales/terminal-norte-bogota.webp
-webps: terminales/terminal-norte-bogota-376.webp
+jpg: img/terminales/terminal-norte-bogota.jpg
+hero: img/terminales/terminal-norte-bogota.webp
 alt: Terminal Norte Bogotá
 subtitle: Utiliza la Terminal Norte de Bogotá y compra tus pasajes con las empresas de buses directamente.
 intro: "La Terminal del Norte de Bogotá te espera con múltiples servicios y destinos. Conoce la Terminal Satélite del Norte: un hub de transporte en Bogotá."
@@ -21,7 +20,6 @@ calificacion: 3.9
 reviews: 165
 latitude: 4.7703004
 longitude: -74.0421087
-permalink: /terminal-norte-bogota
 json-terminal: true
 empresas:
   - Líneas las Acacias: 5414667 - 5414667

@@ -5,16 +5,28 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Jul 2024 20:33:46 -0500</pubDate>
-    <lastBuildDate>Mon, 22 Jul 2024 20:33:46 -0500</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2024 22:51:50 -0500</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2024 22:51:50 -0500</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Buses Coomotor: navette y más para tu comodidad</title>
+        <description>Coomotor es una cooperativa de transporte terrestre de pasajeros y encomiendas líder en Colombia. ¿Ya la utilizas en tus viajes? Mira porqué hacerlo</description>
+        <pubDate>Sun, 21 Jul 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/coomotor-empresa-de-buses</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/coomotor-empresa-de-buses</guid>
+        
+        
+        
+        
+      </item>
     
       <item>
         <title>Módulos de Terminal Salitre en Bogotá: Servicios y Ubicaciones</title>
         <description>Terminal Salitre en Bogotá: guía de módulos con tiendas, restaurantes y servicios. Todo lo que necesitas saber para una visita perfecta. </description>
         <pubDate>Thu, 11 Jul 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/2024-07-11-modulos-terminal-salitre-bogota</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2024-07-11-modulos-terminal-salitre-bogota</guid>
+        <link>http://localhost:4000/blog/modulos-terminal-salitre-bogota</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/modulos-terminal-salitre-bogota</guid>
         
         
         
@@ -25,8 +37,8 @@
         <title>Guía turística para conocer Ciudad Perdida</title>
         <description>En el corazón de la Sierra Nevada de Santa Marta se esconde uno de los secretos mejor guardados de Colombia: Ciudad Perdida ¡Tienes que venir! 🚌</description>
         <pubDate>Wed, 17 Apr 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/2024-04-17-guia-turistica-ciudad-perdida</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2024-04-17-guia-turistica-ciudad-perdida</guid>
+        <link>http://localhost:4000/blog/guia-turistica-ciudad-perdida</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/guia-turistica-ciudad-perdida</guid>
         
         
         
@@ -37,8 +49,8 @@
         <title>Descubre el impresionante tamaño del bus más grande del mundo</title>
         <description>Descubre el bus más GRANDE del mundo. Maravíllate con sus dimensiones y capacidades asombrosas. ¡No te lo pierdas! 🚌🌍</description>
         <pubDate>Sat, 23 Mar 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/cual-es-el-bus-mas-grande-del-mundo</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/cual-es-el-bus-mas-grande-del-mundo</guid>
+        <link>http://localhost:4000/blog/el-bus-mas-grande-del-mundo</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/el-bus-mas-grande-del-mundo</guid>
         
         
         
@@ -60,9 +72,9 @@
       <item>
         <title>¡Descubre las mejores ofertas de pasajes a Lima en bus!</title>
         <description>¡Te contamos las mejores ofertas para viajar en bus a Lima! 🚌 Descubre una experiencia única y ahorra tiempo y dinero. 🏃🏼 ¡Entra ahora!</description>
-        <pubDate>Fri, 13 Oct 2023 18:42:31 -0500</pubDate>
-        <link>http://localhost:4000/blog/ofertas-pasajes-bus-lima-colombia</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/ofertas-pasajes-bus-lima-colombia</guid>
+        <pubDate>Fri, 13 Oct 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/descubre-las-mejores-ofertas-de-pasajes-a-lima-en-bus</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/descubre-las-mejores-ofertas-de-pasajes-a-lima-en-bus</guid>
         
         
         
@@ -72,9 +84,9 @@
       <item>
         <title>Pasaje Ecuador a Colombia en bus | ¡Precio rutas y mas!</title>
         <description>Viaje en bus de Colombia a Ecuador, atraviesa paisajes impresionantes y conecta con la cultura local. Aquí las mejores rutas, consejos y detalles. </description>
-        <pubDate>Thu, 28 Sep 2023 21:43:37 -0500</pubDate>
-        <link>http://localhost:4000/blog/colombia-ecuador-en-bus</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/colombia-ecuador-en-bus</guid>
+        <pubDate>Fri, 29 Sep 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/pasaje-ecuador-a-colombia-en-bus-precio-rutas-y-mas</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/pasaje-ecuador-a-colombia-en-bus-precio-rutas-y-mas</guid>
         
         
         
@@ -84,9 +96,9 @@
       <item>
         <title>Pasajes de bus: Colombia - Argentina • Duración • Precios</title>
         <description>Pasajes de Colombia a Argentina en bus | Entérate de cuanto vale un pasaje, duraciones de trayectos y tips para un viaje cómodo y seguro</description>
-        <pubDate>Thu, 21 Sep 2023 19:08:13 -0500</pubDate>
-        <link>http://localhost:4000/blog/pasaje-bus-colombia-argentina</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/pasaje-bus-colombia-argentina</guid>
+        <pubDate>Fri, 22 Sep 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/pasajes-de-colombia-argentina-en-bus-duraci%C3%B3n-cuanto-vale-y-tips-de-viaje</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/pasajes-de-colombia-argentina-en-bus-duraci%C3%B3n-cuanto-vale-y-tips-de-viaje</guid>
         
         
         
@@ -96,9 +108,9 @@
       <item>
         <title>Buses internacionales de Colombia | Conexiones en bus</title>
         <description>Aprende sobre las empresas de buses que conectan Colombia con destinos internacionales. ¡Infórmate, compara y viaja!</description>
-        <pubDate>Thu, 14 Sep 2023 13:02:50 -0500</pubDate>
-        <link>http://localhost:4000/blog/buses-internacionales</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/buses-internacionales</guid>
+        <pubDate>Thu, 14 Sep 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/conexiones-entre-buses-internacionales-de-colombia-viajes-en-bus</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/conexiones-entre-buses-internacionales-de-colombia-viajes-en-bus</guid>
         
         
         
@@ -108,21 +120,9 @@
       <item>
         <title>El Bus Para Tu Viaje al Aeropuerto de Cali. ¡Súbete aquí!</title>
         <description>Evita imprevistos en tu viaje al aeropuerto. Encuentra toda la información sobre buses desde Cali y viaja con confianza. ¡Haz clic y descubre más!</description>
-        <pubDate>Thu, 07 Sep 2023 10:38:04 -0500</pubDate>
-        <link>http://localhost:4000/buses-aeropuerto-cali</link>
-        <guid isPermaLink="true">http://localhost:4000/buses-aeropuerto-cali</guid>
-        
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>Buses de Servicio Especial en Colombia ¿Necesitas Uno?</title>
-        <description>Buses de servicio especial en Colombia: Encuentra la mejor opción ¡Haz clic y conoce las ventajas de estos vehículos únicos!</description>
-        <pubDate>Mon, 04 Sep 2023 22:23:58 -0500</pubDate>
-        <link>http://localhost:4000/blog/buses-servicio-especial</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/buses-servicio-especial</guid>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/elige-el-bus-para-tu-viaje-al-aeropuerto-desde-cali</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/elige-el-bus-para-tu-viaje-al-aeropuerto-desde-cali</guid>
         
         
         

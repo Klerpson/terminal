@@ -5,9 +5,8 @@ title: "Terminal de Tunja: Un vistazo general"
 description: Compra tus tiquetes directamente con la Terminal de Tunja. ¿Sabes de su impacto y proyecciones futuras? ¡Emprende tu viaje hoy!
 category: Boyacá
 h1: "Terminal de Tunja: Un vistazo general"
-jpg: terminales/terminal-tunja.jpg
-webps: terminales/terminal-tunja-376.webp
-hero: terminales/terminal-tunja-600.webp
+jpg: img/terminales/terminal-tunja.jpg
+hero: img/terminales/terminal-tunja-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-tunja-boyaca-600.webp
 webp2: terminales/terminal-tunja-boyaca-376.webp
@@ -24,7 +23,6 @@ calificacion: 3.5
 reviews: 86
 latitude: 5.5286067
 longitude: -73.359608
-permalink: /terminal-de-tunja
 empresas:
   - AUTOBOY S.A.: 3138873795 - 3202717016
   - ARCOTRANS S.A: 3107997338

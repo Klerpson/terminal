@@ -6,9 +6,8 @@ title: "Terminal de Transporte Ibagué: Mira Cómo Viajar desde aquí"
 description: La Terminal de Ibagué es tu aliada para viajes exitosos. Encuentra horarios, servicios y consejos para navegar este importante nodo de transporte colombiano.
 category: Tolima
 h1: "Navega la terminal de transporte Ibagué: Viaja sin contratiempos"
-jpg: blog/terminal-ibague_600.jpg
-hero: blog/terminal-ibague_600.webp
-webps: blog/terminal-ibague_376.webp
+jpg: img/blog/terminal-ibague_600.jpg
+hero: img/blog/terminal-ibague_600.webp
 alt: Terminal de buses de Ibagué Tolima
 subtitle: "Tiquetes de las empresas de buses de la terminal de Ibagué"
 intro: La Terminal de Transporte Ibagué es clave para tus desplazamientos en Colombia. Aquí encontrarás información esencial para que tu viaje sea placentero y eficiente.
@@ -23,7 +22,6 @@ ciudad: Ibagué
 postal: "730005"
 latitude: "4.440773"
 longitude: "-75.23818"
-permalink: /terminal-de-ibague
 empresas:
   - COOMOTOR FLORENCIA: +57 313 889 12 15 - (608) 4358935 – (608) 4377130
   - COOMOTOR LTDA: (608) 2633063 – 317 636 93 84 01-8000-910293 (Línea amable)

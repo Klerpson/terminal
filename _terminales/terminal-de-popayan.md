@@ -5,9 +5,8 @@ title: Terminal de Popayán | Lo que debes saber antes de viajar
 description: La Terminal de transporte Popayán es la mejor elección en el Cauca para encontrar los precios ajustados a su presupuesto y los horarios más convenientes
 category: cauca
 h1: La terminal Popayán en el corazón del Cauca 
-jpg: terminales/terminal-popayan.jpg
-webps: terminales/terminal-popayan-376.webp
-hero: terminales/terminal-popayan-600.webp
+jpg: img/terminales/terminal-popayan.jpg
+hero: img/terminales/terminal-popayan-600.webp
 alt: Terminal Popayan
 webp1: terminales/terminal-popayan-exterior-600.webp
 webp2: terminales/terminal-popayan-exterior-376.webp
@@ -24,7 +23,6 @@ calificacion: 4.0
 reviews: 8370
 latitude: 2.4508755
 longitude: -76.6257706
-permalink: /terminal-de-popayan
 empresas:
   - Continental Bus: 6028231077 – 3112049307
   - Coomotor: 6028231259 – 3176394222

@@ -3,13 +3,10 @@ layout: post
 json-post: "true"
 title: "Viaja con tu Mascota en Bus | Reglamentos y Consejos"
 description: "¿Qué necesitas saber para un viajar en bus con tus mascotas? • regulaciones • consejos • preparativos ¡Entérate y disfruta de un trayecto sin inconvenientes!"
-autor: "Camilo Cuspián"
 h1: "Viajar con mascotas en bus: tips esenciales"
-jpg: blog/viajar-con-mascotas.jpg
-webps: blog/viajar-con-mascotas-376.webp
-hero: blog/viajar-con-mascotas.webp
+jpg: img/blog/viajar-con-mascotas.jpg
+hero: img/blog/viajar-con-mascotas.webp
 alt: Mujer viajando con su mascota
-permalink: blog/viajar-con-mascotas-bus
 excerpt: "Viajar con nuestra mascota puede convertirse en una experiencia memorable, pero también en un reto si no estamos bien preparados."
 ---
 Viajar con nuestra mascota puede ser una experiencia emocionante, pero también puede ser estresante si no estamos preparados.

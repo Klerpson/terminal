@@ -5,8 +5,8 @@ title: Terminal de transporte del norte y del sur de Medellín
 description: Las terminales de transporte del Norte y del Sur de Medellín están listas para que tu viaje sea el mejor. Mira los teléfonos para comprar tus pasajes
 category: antioquia
 h1: "Terminal del Norte de Medellín y del Sur de Medellín: teléfonos y más información"
-jpg: terminales/terminal-medellin.jpg
-hero: terminales/terminal-medellin.webp
+jpg: img/terminales/terminal-medellin.jpg
+hero: img/terminales/terminal-medellin.webp
 alt: Terminal Norte y Sur Medellín
 webp1: terminales/terminal-medellin-sur-600.webp
 webp2: terminales/terminal-medellin-sur-376.webp
@@ -22,7 +22,6 @@ calificacion: 4.4
 reviews: 2503
 latitude: 6.2165971
 longitude: -75.5908489
-permalink: /terminal-de-medellin
 empresas:
   - Arauca: 6042607023 6042607023
   - Coonorte: 6042608458 6042608458 6073176369322 3176369322

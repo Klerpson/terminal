@@ -18,9 +18,10 @@ permalink: /terminales-de-colombia
       {% for destino in site.terminales %}
       {% if destino.category contains item.category %}
       <article>
-        <img src="{{site.baseurl}}/img/{{destino.webps}}" alt="{{destino.alt}}" loading="lazy" width="112" height="112">
-        <div>
-          <a href="{{destino.url}}"><h4>{{destino.h1}}</h4></a>
+        <img src="{{destino.hero|relative_url}}" alt="{{destino.alt}}" loading="lazy" width="116" height="116" title="{{destino.title}}">
+        <div class="flow">
+          <a href="{{destino.url|relative_url}}" title="{{destino.title}}"><h4>{{destino.h1}}</h4></a>
+          <p>{{destino.description}}</p>
         </div>
       </article>
       {% endif %}

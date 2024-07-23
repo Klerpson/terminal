@@ -3,13 +3,10 @@ layout: post
 json-post: true
 title: 'Expreso Bolivariano: viaja seguro y cómodo por Colombia 🚌'
 description: 'Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. ¿Por qué es de las más utilizadas? ¡Averígualo aquí!'
-autor: terminaldetransporte.com
 h1: 'Expreso Bolivariano: viaja seguro y cómodo por Colombia'
-jpg: blog/expreso-bolivariano-bus.jpg
-webps: blog/expreso-bolivariano-bus-376.webp
-hero: blog/expreso-bolivariano-bus-600.webp
-alt: Expreso Bolivariano Bus
-permalink: blog/expreso-bolivariano-viaja-seguro-y-comodo-por-colombia
+jpg: img/blog/expreso-bolivariano-bus.jpg
+hero: img/blog/expreso-bolivariano-bus-600.webp
+alt: Foto de un bus Expreso Bolivariano
 excerpt: Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. Ofrece una gran variedad de servicios de autobús intermedio y de lujo en Colombia y Perú
 ---
 Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. Ofrece una gran variedad de **servicios de autobús intermedio y de lujo en Colombia y Perú**, con enfoque en la seguridad, comodidad y tecnología de los autobuses.
@@ -106,7 +103,7 @@ Algunos autobuses cuentan con **entretenimiento a bordo**, como pantallas de tel
 
 ## Autobuses de Expreso Bolivariano
 
-{% include img-post.html webpm="blog/expreso-bolivariano-800.webp" webps="blog/expreso-bolivariano-376.webp" alt="Bus Expreso Bolivariano" title="Expreso Bolivariano" %}
+{% include img-post.html webpm="img/blog/expreso-bolivariano-800.webp" webps="img/blog/expreso-bolivariano-376.webp" alt="Bus Expreso Bolivariano" title="Expreso Bolivariano" %}
 
 Expreso Bolivariano cuenta con una amplia flota de autobuses principalmente de las marcas Marcopolo y Busscar, los cuales tienen diferentes tipos y comodidades para adaptarse a las necesidades de los viajeros. A continuación, se presentan algunas imágenes de los autobuses de Expreso Bolivariano:
 

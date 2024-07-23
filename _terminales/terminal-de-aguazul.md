@@ -5,9 +5,8 @@ title: "Terminal Aguazul: viaja en bus seguro y confortable"
 description: "Terminal Aguazul: inicia tu viaje con tranquilidad y eficiencia. Conexiones rápidas, servicios de primera y atención al cliente excepcional."
 category: casanare
 h1: "Transporte desde la Terminal de Aguazul hacia el Casanare"
-jpg: terminales/terminal-aguazul.jpg
-webps: terminales/terminal-aguazul-376.webp
-hero: terminales/terminal-aguazul-600.webp
+jpg: img/terminales/terminal-aguazul.jpg
+hero: img/terminales/terminal-aguazul-600.webp
 alt: Terminal de Transporte Aguazul Casanare
 webp1: terminales/terminal-aguazul-casanare-600.webp
 webp2: terminales/terminal-aguazul-casanare-376.webp
@@ -24,7 +23,6 @@ calificacion: 3.9
 reviews: 1810
 latitude: 5.1690674
 longitude: -72.5498628
-permalink: /terminal-de-aguazul
 empresas:
   - Autoboy: 3124579775
   - Coflonorte: 3124579775 - 3134035980 - 3214365019

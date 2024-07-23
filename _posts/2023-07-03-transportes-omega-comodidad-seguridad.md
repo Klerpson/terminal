@@ -1,23 +1,15 @@
 ---
 layout: post
 json-post: true
-title: "Transportes Omega: Comodidad y seguridad en tu viaje ↩"
+title: "Transportes Omega: Comodidad y seguridad en tu viaje"
 description: Transportes Omega es una empresa que destaca por su comodidad y seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14 departamentos del país.
 h1: "Transportes Omega: Comodidad y seguridad en tu próximo viaje intermunicipal"
-autor: terminaldetransporte.com
-jpg: blog/transportes-omega.jpg
-hero: blog/transportes-omega-800.webp
-webpm: blog/transportes-omega-600.webp
-webps: blog/transportes-omega-376.webp
+jpg: img/blog/transportes-omega.jpg
+hero: img/blog/transportes-omega-800.webp
 alt: Transportes Omega Bus
-permalink: blog/transportes-omega-comodidad-seguridad
-excerpt: Transportes Omega es una empresa de transporte terrestre intermunicipal
-  que destaca por su comodidad y seguridad en sus servicios. Con más de 300
-  buses y 70 agencias, cubre 14 departamentos del país.
+excerpt: Transportes Omega es una empresa de transporte terrestre intermunicipal que destaca por su comodidad y seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14 departamentos del país.
 referencias:
   - Imágenes tomadas de la página web oficial: https://www.expresobrasilia.com/
-  - transporte
-hero: blog/transportes-omega.webp
 ---
 **Transportes Omega es una empresa de transporte terrestre intermunicipal** que destaca por su comodidad y seguridad en sus servicios. Con más de **300 buses** y **70 agencias**, cubre **14 departamentos** del país.
 
@@ -39,7 +31,7 @@ En el sitio web oficial de Transportes Omega, se encuentra disponible **un mapa 
 
 [Página de rutas](https://omega.com.co/rutas/){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
-![Terminal donde funciona Omega]({{'blog/terminal-apartado-376.webp'|relative_url}} "Punto Omega terminal")
+![Terminal donde funciona Omega]({{'img/blog/terminal-apartado-376.webp'|relative_url}} "Punto Omega terminal")
 
 ### Compra rápida y segura de pasajes en línea
 
@@ -75,7 +67,7 @@ El servicio Alfa de Omega ofrece una experiencia de viaje excepcional. Los pasaj
 
 ## Transportes Omega: empresa de buses en Colombia
 
-{% include img-post.html webpm="blog/transportes-omega-bus-800.webp" webps="blog/transportes-omega-bus-376.webp" alt="Bus Transportes Omega" title="Transportes Omega" %}
+{% include img-post.html webpm="img/blog/transportes-omega-bus-800.webp" webps="img/blog/transportes-omega-bus-376.webp" alt="Bus Transportes Omega" title="Transportes Omega" %}
 *Imagen ilustrativa de la flota de Omega*
 
 Desde su inicio en el año 1948 en Togüí, Transportes Omega se ha enfocado en brindar comodidad a sus pasajeros y seguridad en sus servicios. La flota es diversa, **ofreciendo transporte básico y premium** con diferentes comodidades y servicios adicionales.

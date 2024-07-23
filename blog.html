@@ -8,35 +8,32 @@ description: ¿Has pensando en viajar por Colombia en bus? Aquí te enseñaremos
 <body>
   <header class="wrapper blog_header">
     {% include nav.html %}
-    <h1>🆕 Nuestro artículo del blog más reciente en tu terminaldetransporte.com</h1>
+    <h1>🆕 Lo último de terminaldetransporte.com</h1>
     <article>
-      {% assign post1 = site.posts[0] %}
-      {% if post1.webpm %}
-      <img src="{{site.baseurl}}/img/{{post1.webpm}}" alt="{{post1.alt}}" loading="lazy">
-      {% else %}
-      <img src="{{site.baseurl}}/img/{{post1.hero}}" alt="{{post1.alt}}" loading="lazy">
-      {% endif %}
+      {% assign articulo = site.posts[0] %}
+      <img src="{{articulo.hero | relative_url}}" alt="{{articulo.alt}}" title="{{articulo.title}}">
       <div>
-        <h3>{{ post1.h1 | truncate: 80 }}</h3>
-        {{ post1.excerpt | truncate: 180 | markdownify}}
-        <a href="{{site.baseurl}}{{ post1.url }}" class="boton boton-verde">Sigue leyendo...</a>
+        <h3>{{ articulo.h1 | truncate: 80 }}</h3>
+        {{ articulo.excerpt | truncate: 180 | markdownify}}
+        <a href="{{ articulo.url | relative_url }}" class="boton boton-verde" title="{{articulo.title}}">Sigue leyendo...</a>
       </div>
     </article>
 </header>
+{% include add-top.html %}
   
 <main class="wrapper entradas">
   <h2>📖 Viajar en bus por Colombia: destinos y muchos consejos</h2>
   <p>Cuando utilizas el bus como medio de transporte para visitar muchos lugares de Colombia, también necesitas conocer <strong>consejos, tips, lugares, recomendaciones y mucho más de lo que implica viajar en bus desde las terminales de transporte colombianas</strong>.</p>
-  <h3>Haz clic en los siguientes artículos ⏬</h3>
+  <h3>Haz clic en los siguientes artículos de terminaldetransporte.com</h3>
   <div class="add">
     {% include addm2.html %}
   </div>
   <div class="home_gallery">
     {% for post in site.posts offset: 1 %}
     <article>
-      <img src="{{site.baseurl}}/img/{{post.hero}}" alt="{{post.alt}}">
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" title="{{post.title}}" loading="lazy" width="160" height="160">
       <div>
-        <a href="{{site.baseurl}}{{post.url}}"><h4>{{post.title}}</h4></a>
+        <a href="{{post.url | relative_url}}"><h4>{{post.h1}}</h4></a>
       </div>
     </article>
     {% endfor %}
@@ -66,7 +63,11 @@ description: ¿Has pensando en viajar por Colombia en bus? Aquí te enseñaremos
       <p>Viaja de forma segura y confiable por Colombia contactando directamente con las terminales de transporte de cada región.</p>
     </li>
   </ul>
+
   </section>
+  <div class="add">
+    {% include addm7.html %}
+  </div>
   {% include footer.html %}
   <a href="#">{% include boton-up.html %}</a>
 

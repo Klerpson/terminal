@@ -5,9 +5,8 @@ title: La terminal de transporte de Florencia
 description: ¿Estás buscando la terminal de Florencia? Llega a tu destino en el departamento de Caquetá y otras regiones cercanas desde esta terminal
 category: caqueta
 h1: Terminal de Florencia - La principal del Caquetá
-jpg: terminales/terminal-florencia.jpg
-webps: terminales/terminal-florencia-376.webp
-hero: terminales/terminal-florencia-600.webp
+jpg: img/terminales/terminal-florencia.jpg
+hero: img/terminales/terminal-florencia-600.webp
 alt: Descubre el corazón de Caquetá con la Terminal de Florencia como punto de partida.
 webp1: terminales/terminal-florencia-caqueta-600.webp
 webp2: terminales/terminal-florencia-caqueta-376.webp
@@ -24,7 +23,6 @@ calificacion: 3.9
 reviews: 1903
 latitude: 1.620136
 longitude: -75,61014
-permalink: /terminal-de-florencia
 empresas:
   - Coomotor Florencia: 6084353109 - 3125841660
   - Coomotor: 6084354846 - 3176394265

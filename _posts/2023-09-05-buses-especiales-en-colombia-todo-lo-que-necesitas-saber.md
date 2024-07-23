@@ -1,16 +1,12 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-09-05T03:23:58.168Z
 title: "Buses de Servicio Especial en Colombia ¿Necesitas Uno?"
 description: "Buses de servicio especial en Colombia: Encuentra la mejor opción ¡Haz clic y conoce las ventajas de estos vehículos únicos!"
-autor: Paula Moreno
 h1: "Buses de servicio especial: Viaja de manera diferente en Colombia"
-jpg: blog/buses-servicio-especial-600.jpg
-hero: blog/buses-servicio-especial-600.webp
-webps: blog/buses-servicio-especial-376.webp
+jpg: img/blog/buses-servicio-especial-600.jpg
+hero: img/blog/buses-servicio-especial-600.webp
 alt: Bus de servicio especial
-permalink: blog/buses-servicio-especial
 excerpt: En el mundo del transporte, los buses de servicios especiales se han convertido en una solución esencial para diversas necesidades. Si buscas adquirir uno o conocer más sobre ellos en Bogotá y alrededores, este artículo es para ti.
 ---
 En el mundo del transporte de pasajeros, **los buses de servicios especiales se han convertido en una solución esencial** para diversas necesidades.
@@ -55,4 +51,4 @@ Encuentra **[en la página de tucarro.com.co](https://www.tucarro.com.co/){:rel=
 
 Si estás considerando adquirir un bus especial, te invitamos a **ver las diferentes opciones disponibles en el mercado** y a elegir la que mejor se adapte a tus necesidades. ¡Haz tu elección y disfruta de los beneficios de contar con un transporte adaptado a ti!
 
-Y recuerda si deseas seguir aprendiendo sobre cómo hacer de tus viajes en bus sean de tu agrado y no un dolor de cabeza, [continúa leyendo nuestros artículos del blog]({{'blog'|relative_url}}).
+Y recuerda si deseas seguir aprendiendo sobre cómo hacer de tus viajes en bus sean de tu agrado y no un dolor de cabeza, [continúa leyendo nuestros artículos del img/blog]({{'img/blog'|relative_url}}).

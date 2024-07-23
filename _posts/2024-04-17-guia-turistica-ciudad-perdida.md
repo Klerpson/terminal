@@ -1,11 +1,11 @@
 ---
 layout: post
 json-post: 'true'
-date: 17/04/2024
 title: Guía turística para conocer Ciudad Perdida
 description: "En el corazón de la Sierra Nevada de Santa Marta se esconde uno de los secretos mejor guardados de Colombia: Ciudad Perdida ¡Tienes que venir! 🚌"
 h1: Guía turística para conocer Ciudad Perdida
-hero: blog/ciudad-perdida.webp
+hero: img/blog/ciudad-perdida.webp
+jpg: img/blog/ciudad-perdida.jpg
 alt: Foto de Ciudad Perdida en Santa Marta Colombia
 excerpt: ¿Conoces Ciudad Perdida? Mira porqué tienes que venir
 ---
@@ -91,7 +91,7 @@ Puntos de interés en la ruta
 
 ### Día 6 Exploración de ciudad perdida
 
-![Foto de la llegada a Ciudad Perdida]({{'img/blog/ciudad-perdida-santa-marta.webp'|relative_url}} "Ciudad Perdida")
+![Foto de la llegada a Ciudad Perdida]({{'img/img/blog/ciudad-perdida-santa-marta.webp'|relative_url}} "Ciudad Perdida")
 
 Alcanzarás Ciudad Perdida al amanecer.
 

@@ -5,9 +5,8 @@ title: Terminal de Transporte Espinal - Información Útil
 description: "Obtén detalles esenciales de la Terminal de Transporte Espinal: horarios, servicios, ubicación y más. Todo para un viaje cómodo y sin contratiempos."
 category: Tolima
 h1: "La Terminal de Transporte Espinal: Teléfonos y más datos" 
-jpg: blog/terminal-espinal_600.jpg
-hero: blog/terminal-espinal_600.webp
-webps: blog/terminal-espinal_376.webp
+jpg: img/blog/terminal-espinal_600.jpg
+hero: img/blog/terminal-espinal_600.webp
 alt: Terminal de transportes de Espinal en el Tolima
 subtitle: "Compra pasajes de las empresas de la terminal de Espinal"
 intro: La Terminal de Transporte Espinal es tu puerta de entrada para explorar la región. Conéctate con rutas locales y nacionales, y disfruta de servicios enfocados en los viajeros.
@@ -22,7 +21,6 @@ ciudad: "Espinal "
 postal: "252431"
 latitude: "4.1645743"
 longitude: "-74.883418"
-permalink: "/terminal-de-espinal"
 empresas:
   - Autofusa: 300-4423940
   - Cootranstol: 608-2483476

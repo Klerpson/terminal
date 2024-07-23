@@ -5,9 +5,8 @@ title: Terminal de Neiva
 description: La terminal de transporte de Neiva es la principal empresa de transporte terrestre del departamento del Huila hacia los demás destinos de Colombia
 category: huila
 h1: La terminal de transporte de Neiva
-jpg: terminales/terminal-neiva.jpg
-webps: terminales/terminal-neiva-376.webp
-hero: terminales/terminal-neiva-600.webp
+jpg: img/terminales/terminal-neiva.jpg
+hero: img/terminales/terminal-neiva-600.webp
 alt: Terminal de Transportes Neiva
 webp1: terminales/terminal-neiva-exterior-600.webp
 webp2: terminales/terminal-neiva-exterior-376.webp
@@ -23,7 +22,6 @@ calificacion: 4
 reviews: 5665
 latitude: 2.9168455
 longitude: -75.2851268
-permalink: /terminal-de-neiva
 empresas:
   - Expreso Bolivariano: 0388731002
   - Coomotor: 0388733501 - 0388730937 - 3176394462

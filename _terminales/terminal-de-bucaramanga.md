@@ -5,13 +5,9 @@ title: "Terminal de transportes Bucaramanga | Pasajes y servicios"
 description: La terminal de Bucaramanga está ubicada en la Transversal Metropolitana. ¡Mira los números telefónicos y compra tus pasajes!
 category: Santander
 h1: "Tu puerta a Bucaramanga: conoce el Terminal de Transporte"
-jpg: terminales/terminal-bucaramanga.jpg
-hero: terminales/terminal-bucaramanga.webp
-webps: terminales/terminal-bucaramanga-376.webp
-hero: terminales/terminal-bucaramanga-600.webp
-webpb: terminales/terminal-bucaramanga-800.webp
+jpg: img/terminales/terminal-bucaramanga.jpg
+hero: img/terminales/terminal-bucaramanga.webp
 alt: Terminal de Bucaramanga
-logo: terminal-bucaramanga-logo.webp
 webp1: terminales/terminal-bucaramanga-santander-600.webp
 webp2: terminales/terminal-bucaramanga-santander-376.webp
 subtitle: Compra tus pasajes con las empresas de la terminal de transporte de Bucaramanga
@@ -27,7 +23,6 @@ calificacion: 4.4
 reviews: 2234
 latitude: 7.1004539
 longitude: -73.134229
-permalink: /terminal-de-bucaramanga
 empresas:
   - AUTOBOY LIBERTADORES: 6076377040 - 6076377040 - 6076334929
   - BERLINAS DEL FONCE: 6076371649 - 6076370700 - 6076370700 - 6076304468 -6076304036

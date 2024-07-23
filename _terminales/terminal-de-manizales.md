@@ -5,9 +5,8 @@ title: "La terminal de Manizales. ¡Bonita y servicial!"
 description: "La terminal de transporte de Manizales es tu conexión con el hermoso Caldas y el eje cafetero. ¡Además que es hermosa! Conócela y planea tu viaje"
 category: caldas
 h1: "Todo lo que necesitas saber sobre la Terminal de Transporte de Manizales: horarios, empresas y consejos útiles"
-jpg: terminales/terminal-manizales.jpg
-webps: terminales/terminal-manizales-376.webp
-hero: terminales/terminal-manizales-600.webp
+jpg: img/terminales/terminal-manizales.jpg
+hero: img/terminales/terminal-manizales-600.webp
 alt: Terminal Manizales
 webp1: terminales/terminal-manizales-exterior-600.webp
 webp2: terminales/terminal-manizales-exterior-376.webp
@@ -24,7 +23,6 @@ calificacion: 4.3
 reviews: 5350
 latitude: 5.0491627
 longitude: -75.5083867
-permalink: /terminal-de-manizales
 empresas:
   - Arauca: 6068788340
   - Autolegal Taxis: 6068787511 - 6068786700 - 3146788284

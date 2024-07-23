@@ -1,16 +1,12 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-08-28
 title: "Buses de dos pisos: Características y ventajas"
 description: ¿Buscas información detallada sobre buses de dos pisos? Llegaste a el lugar correcto. Acomódate y déjate informar.
-autor: Paula Moreno
 h1: "Buses de dos pisos: Características, especificaciones y ventajas"
-jpg: blog/buses-dos-pisos-600.jpg
-hero: blog/buses-dos-pisos-600.webp
-webps: blog/buses-dos-pisos-376.webp
+jpg: img/blog/buses-dos-pisos-600.jpg
+hero: img/blog/buses-dos-pisos-600.webp
 alt: Bus de dos pisos
-permalink: blog/buses-dos-pisos
 excerpt: Los buses de dos pisos han sido una innovación en el transporte público de muchas ciudades alrededor del mundo. Estos vehículos, además de tener un diseño distintivo, ofrecen una serie de características que los hacen ideales para ciertos tipos de rutas y demandas de pasajeros. Encuentra aquí más información.
 ---
 Los buses de dos pisos han sido una innovación en el transporte público de muchas ciudades alrededor del mundo.

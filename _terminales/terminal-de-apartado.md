@@ -6,9 +6,8 @@ title: "Terminal de Apartadó: Conexiones seguras en Antioquia"
 description: "Terminal de Transporte Apartadó: Conexiones eficientes, servicios de calidad y atención al cliente excepcional. ¡Tu aventura comienza aquí!"
 category: antioquia
 h1: "La terminal de transporte de Apartadó: Conexiones seguras en Antioquia"
-jpg: terminales/terminal-apartado.jpg
-hero: terminales/terminal-apartado.webp
-webps: terminales/terminal-apartado-376.webp
+jpg: img/terminales/terminal-apartado.jpg
+hero: img/terminales/terminal-apartado.webp
 alt: Terminal Apartadó
 subtitle: "Terminal de Apartadó: encuentra pasajes y servicios de bus"
 intro: La Terminal de Transporte Apartadó es tu punto de partida hacia destinos asombrosos. Obtén servicios de alta calidad y conexiones eficientes para una agradable experiencia de viaje
@@ -23,22 +22,17 @@ ciudad: Apartadó
 postal: "057840"
 latitude: "7.8806458"
 longitude: "-76.6323092"
-permalink: /terminal-de-apartado
 empresas:
   - Transportes Gomez Hernandez: 6044487712
   - Sotrauraba: 6044445873
 ---
 ## La terminal de buses de Apartadó
 
-----
-
 La terminal de transporte de Apartadó es una empresa industrial y comercial del estado, creada para facilitar el transporte de pasajeros hacia y desde la ciudad de Apartadó.
 
 Esta terminal es el punto de partida y llegada de numerosas rutas de autobús que **conectan Apartadó con otras ciudades de Colombia.**
 
 ## Destinos principales de la terminal de Apartadó
-
-----
 
 Desde la terminal de transporte de Apartadó, puedes viajar a diversas ciudades como las siguientes:
 
@@ -61,8 +55,6 @@ Desde la terminal de transporte de Apartadó, puedes viajar a diversas ciudades 
 
 ## ¿Cómo llegar a la terminal Apartadó?
 
-----
-
 Utilizando el transporte público, te pueden direccionar fácilmente a su ubicación. **La dirección de la terminal es Calle 92 entre carreras 102 y 104.**
 
 Para llegar a la Terminal de Transporte de Apartadó, puedes utilizar servicios de mapas gratuitos como Google Maps o Waze.
@@ -81,8 +73,6 @@ Por otra parte, la terminal cuenta con servicios de seguridad y vigilancia para 
 
 ## Compra de pasajes en la terminal Apartadó
 
-----
-
 En la Terminal de Transporte de Apartadó, puedes comprar pasajes para viajar a diferentes destinos. Puedes escoger entre múltiples empresas de transporte, precios, horarios y tipos de servicios.
 
 Además, puedes comprar tus pasajes en línea a través de sitios web como [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}).
@@ -96,8 +86,6 @@ Algunas de las rutas populares que salen desde la Terminal de Transporte de Apar
 Algunas de las rutas populares que llegan a la terminal de Transporte de Apartadó incluyen Medellín - Apartadó, Montería - Apartadó, Turbo - Apartadó, entre otras.
 
 ## Información adicional sobre la erminal de transporte de Apartadó
-
-----
 
 La terminal cuenta con instalaciones modernas y cómodas para que sus viajeros utilicen en los trayectos hacia otras ciudades del país como [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminal de transporte de Medellín"), [Cartagena]({{'terminal-de-cartagena'|relative_url}} "Terminal de transporte de Cartagena"), Montería, Turbo, entre otras.
 

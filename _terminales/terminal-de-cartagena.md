@@ -3,21 +3,27 @@ layout: terminal
 json-terminal: true
 date: 2023-08-30T09:12:28.890Z
 title: Cartagena y su Terminal • Rutas • Servicios • Teléfonos
-description: Descubre las empresas, rutas y servicios que el Terminal de
-  Cartagena tiene para ti. ¡Prepara tu viaje hoy!
+description: Descubre las empresas, rutas y servicios que el Terminal de Cartagena tiene para ti. ¡Prepara tu viaje hoy!
 category: bolivar
 h1: "Terminal de Cartagena: llegada al encanto del Caribe"
-jpg: terminales/terminal-cartagena.jpg
-hero: terminales/terminal-cartagena-600.webp
-webps: terminales/terminal-cartagena-376.webp
+jpg: img/terminales/terminal-cartagena.jpg
+hero: img/terminales/terminal-cartagena-600.webp
 alt: Terminal Cartagena
 subtitle: Compra tus tiquetes con la terminal de buses de Cartagena
-intro: Desde 1982 funciona la terminal de transporte de Cartagena. Hoy tiene un
-  flujo de 2000 buses al día en promedio.
+intro: Desde 1982 funciona la terminal de transporte de Cartagena. Hoy tiene un flujo de 2000 buses al día en promedio.
 email: ttcgena@terminaldecartagena.com
 direccion: "Carretera la Cordialidad # 24 - 236"
 maps: https://goo.gl/maps/um3PxkyPGWZNQ4GeA
 calificacion: 3.7
+contacto: https://www.terminaldecartagena.com
+telefono: 6056630317
+reviews: 6812
+ciudad: Cartagena
+postal: 130006
+latitude: 10.4003879
+longitude: -75.4610743
+webp1: terminales/terminal-cartagena-exterior-600.webp
+webp2: terminales/terminal-cartagena-exterior-376.webp
 empresas:
   - Berlinas del Fonce: 3187350592 - 3187350592 - 0356631999 - 0356631999 - 0356632134 -0356632134
   - Colibertador: 0356632134 - 0356632134
@@ -36,16 +42,6 @@ empresas:
   - Transportes González: 0356533642 - 0356533642
   - Transportes Luz: 0356530269 - 0356530269
   - Unitransco: 0356611822 - 0356611822 - 0356632067 - 0356632067 - 0356632072 -0356632072
-contacto: https://www.terminaldecartagena.com
-telefono: 6056630317
-reviews: 6812
-ciudad: Cartagena
-postal: 130006
-latitude: 10.4003879
-longitude: -75.4610743
-permalink: /terminal-de-cartagena
-webp1: terminales/terminal-cartagena-exterior-600.webp
-webp2: terminales/terminal-cartagena-exterior-376.webp
 ---
 Más allá de su encanto histórico, **Cartagena es también un punto neurálgico en términos de transporte**, siendo su Terminal de Transporte uno de los más importantes del país.
 

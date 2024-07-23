@@ -1,13 +1,12 @@
 ---
 layout: post
 json-post: 'true'
-date: 23/03/2024
 title: Descubre el impresionante tamaño del bus más grande del mundo
 description: Descubre el bus más GRANDE del mundo. Maravíllate con sus dimensiones y capacidades asombrosas. ¡No te lo pierdas! 🚌🌍
 h1: Descubre el impresionante tamaño del bus más grande del mundo
-hero: blog/bus-gigante.webp
+hero: img/blog/bus-gigante.webp
+jpg: img/blog/bus-gigante.jpg
 alt: Foto del bus más grande de Bogotá
-permalink: blog/cual-es-el-bus-mas-grande-del-mundo
 excerpt: ¿Qué sabes del bus más grande del mundo? Pues te gustará leer este artículo
 ---
 El transporte público desempeña un papel fundamental en la movilidad de las personas en todo el mundo. A medida que las ciudades crecen y la demanda de transporte aumenta, se buscan soluciones innovadoras para mejorar la eficiencia y capacidad de los autobuses.
@@ -40,7 +39,7 @@ El bus más grande del mundo tiene una **longitud de alrededor de 30 metros y un
 
 ### Características destacadas del Neoplan Jumbocruiser
 
-![Bus Neoplan el más grande del mundo](/img/blog/bus-neoplan.webp "Bus Neoplan")
+![Bus Neoplan el más grande del mundo](/img/img/blog/bus-neoplan.webp "Bus Neoplan")
 
 El Neoplan Jumbocruiser se destaca por una serie de características impresionantes que lo convierten en un vehículo único en su tipo. Algunas de las características más destacadas incluyen:
 

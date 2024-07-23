@@ -5,9 +5,8 @@ title: Terminal de Santa Marta
 description: La terminal de Santa Marta es una central que brinda servicios de traslado terrestre de pasajeros, así como de cargas y encomiendas.
 category: magdalena
 h1: La terminal de Santa Marta
-jpg: terminales/terminal-santa-marta.jpg
-webps: terminales/terminal-santa-marta-376.webp
-hero: terminales/terminal-santa-marta-600.webp
+jpg: img/terminales/terminal-santa-marta.jpg
+hero: img/terminales/terminal-santa-marta-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-santa-marta-exterior-600.webp
 webp2: terminales/terminal-santa-marta-exterior-376.webp
@@ -24,7 +23,6 @@ calificacion: 3.7
 reviews: 180
 latitude: 11.2354608
 longitude: -74.2145498
-permalink: /terminal-de-santa-marta
 empresas:
   - Almirante Padilla: 6054301510
   - Berlinas del Fonce: 6054302027 - 3157167909

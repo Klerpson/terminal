@@ -1,16 +1,12 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-09-29T02:43:37.496Z
 title: Pasaje Ecuador a Colombia en bus | ¡Precio rutas y mas!
 description: "Viaje en bus de Colombia a Ecuador, atraviesa paisajes impresionantes y conecta con la cultura local. Aquí las mejores rutas, consejos y detalles. "
-autor: Camilo Cuspián
 h1: Infórmate de manera correcta antes de comprar tu pasaje de Ecuador a Colombia
-jpg: blog/colombia-ecuador.jpg
-hero: blog/colombia-ecuador.webp
-webps: blog/colombia-ecuador-s.webp
+jpg: img/blog/colombia-ecuador.jpg
+hero: img/blog/colombia-ecuador.webp
 alt: Precio pasaje Colombia Ecuador
-permalink: blog/colombia-ecuador-en-bus
 excerpt: Si estás pensando en viajar desde Ecuador a Colombia en bus, estás en el lugar correcto. A continuación, te presentamos una guía completa que te llevará paso a paso en este emocionante viaje.
 ---
 Si estás pensando en viajar **desde Ecuador a Colombia en bus**, estás en el lugar correcto. A continuación, te presentamos una guía completa que te llevará paso a paso en este emocionante viaje.

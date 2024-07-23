@@ -1,21 +1,13 @@
 ---
 layout: post
-title: '🚌 Pinbus: la app para viajar en bus por Colombia'
-description: '🌐 Descubre cómo Pinbus facilita tus viajes en bus por Colombia. ¡Aprende a comprar tiquetes, contactar al servicio al cliente y obtener descuentos! 💰'
-autor: terminaldetransporte.com
-h1: 'Pinbus: tu mejor aliado para viajar en bus por Colombia'
-h1_alternativo: 'Pinbus Colombia: ¡Reserva tu viaje ahora mismo!'
-award: 'Página pinbus.com para comprar pasajes de bus en línea'
+title: 'Pinbus: la app para comprar pasajes de bus en Colombia'
+description: 'Descubre cómo Pinbus facilita tus viajes en bus por Colombia. ¡Aprende a comprar tiquetes, contactar al servicio al cliente y obtener descuentos!'
+h1: 'Pinbus: tu mejor aliado para comprar tiquetes de bus para Colombia'
 date: 2023-06-02
-keywords: [redbus, bus, Colombia, reservar tiquete, telefono redbus, comprar pasaje redbus]
-jpg: blog/pinbus-colombia.jpg
-hero: blog/pinbus-colombia.webp
-webps: blog/pinbus-colombia-376.webp
-webpm: blog/pinbus-colombia-600.webp
-webpb: blog/pinbus-colombia-800.webp
+jpg: img/blog/pinbus-colombia.jpg
+hero: img/blog/pinbus-colombia.webp
 alt: Página web de Pinbus Colombia
 json-post: true
-permalink: blog/pinbus-compra-pasajes-colombia
 excerpt_separator: <!-- excerpt -->
 ---
 ¿Planeas un viaje en bus a través de Colombia? Pues te contamos **todo lo que necesitas saber sobre Pinbus**, el socio de confianza para cualquier viajero.

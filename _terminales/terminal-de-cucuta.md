@@ -5,9 +5,8 @@ title: "Terminal de Cúcuta: Información Completa y Servicios Asociados"
 description: ¿Buscas detalles sobre el Terminal de Cúcuta? Conoce las empresas, rutas y servicios. ¡Haz clic y prepárate para tu próximo viaje!
 category: norte santander
 h1: "Conoce el Terminal de Transporte de Cúcuta: Historia y Servicios Actuales"
-jpg: terminales/terminal-cucuta.jpg
-webps: terminales/terminal-cucuta-376.webp
-hero: terminales/terminal-cucuta-600.webp
+jpg: img/terminales/terminal-cucuta.jpg
+hero: img/terminales/terminal-cucuta-600.webp
 alt: Terminal de Cúcuta
 webp1: terminales/terminal-cucuta-exterior-600.webp
 webp2: terminales/terminal-cucuta-exterior-376.webp
@@ -23,7 +22,6 @@ calificacion: 3.4
 reviews: 5630
 latitude: 7.8956965
 longitude: -72.5101961
-permalink: /terminal-de-cucuta
 empresas:
   - EXPRESO BOLIVARIANO: 3204883744 - 3118107689
   - EXPRESO BRASILIA: "018000518001 - #502 - 3205020000 - 3215470160"

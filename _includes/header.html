@@ -8,9 +8,9 @@
       {% when "/" %}
         {% for principal in site.data.principales-home %}
         <article>
-          <img src="{{site.baseurl}}/img/terminales/{{principal.img}}" alt="{{principal.alt}}" title="{{principal.title}}">
+          <img src="{{principal.img|relative_url}}" alt="{{principal.alt}}" title="{{principal.title}}">
           <div class="flow">
-            <a href="{{site.baseurl}}/{{principal.url}}" title="Conoce la {{principal.title}}"><h2>{{principal.title}}</h2></a>
+            <a href="{{principal.url|relative_url}}" title="Conoce la {{principal.title}}"><h2>{{principal.title}}</h2></a>
             <p>{{principal.p}}</p>
           </div>
         </article>
@@ -19,15 +19,15 @@
       {% when "/pasajes" %}
         {% for pasaje in site.data.pasajes-home %}
         <article>
-          <img src="{{site.baseurl}}/img/{{pasaje.img}}" alt="{{pasaje.alt}}" title="{{pasaje.title}}">
-          <div>
+          <img src="{{pasaje.img|relative_url}}" alt="{{pasaje.alt}}" title="{{pasaje.title}}" width="">
+          <div class="flow">
             <a href="{{pasaje.url|relative_url}}" title="{{pasaje.title}}"><h2>{{pasaje.title}}</h2></a>
             <p>{{pasaje.p}}</p>
           </div>
         </article>
         {% endfor %}
       {% when "/terminales-de-colombia" %}
-      <img src="{{'/img/terminales.webp'|relative_url}}" alt="{{page.alt}}" width="360" height="360" title="{{page.title}}">
+      <img src="{{'/img/terminales.webp'|relative_url}}" alt="{{page.alt}}" title="{{page.title}}">
       <div class="blog-tags">
         <button data-name="all" class="active">Todos</button>
         {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
@@ -40,7 +40,7 @@
         {% endfor %}
       </div>
       {% else %}
-      <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}" width="1280" height="680">
+      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
       <div>
         <h2>{{page.description}}</h2>
         {% if page.layout == "terminal" %}

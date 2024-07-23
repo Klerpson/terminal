@@ -12,7 +12,9 @@ layout: compress
   {% include header.html %}
   {{ content }}
   {% include footer.html %}
+  {% if page.url != "/" %}
   <a href="#">{% include boton-up.html %}</a>
+  {% endif %}
 
   {% if page.url == "/terminales-de-colombia" %}
     <script>

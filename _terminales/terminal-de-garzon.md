@@ -5,9 +5,8 @@ title: "Terminal de Garzón: Consejos, Rutas y Contactos para Viajeros"
 description: "¿Viajando a Garzón? Aquí encontrarás todo sobre la Terminal, empresas de transporte y destinos populares. ¡Entérate ahora!"
 category: huila
 h1: La terminal de transporte Garzón y el turismo del Huila
-jpg: terminales/terminal-garzon.jpg
-webps: terminales/terminal-garzon-376.webp
-hero: terminales/terminal-garzon-600.webp
+jpg: img/terminales/terminal-garzon.jpg
+hero: img/terminales/terminal-garzon-600.webp
 alt: Terminal de Transporte de Garzón Huila
 webp1: terminales/terminal-garzon-huila-600.webp
 webp2: terminales/terminal-garzon-huila-376.webp
@@ -23,7 +22,6 @@ calificacion: 4.1
 reviews: 3062
 latitude: 2.1954362
 longitude: -75.641602
-permalink: /terminal-de-garzon
 empresas:
   - Coomotor: 6088332177
   - Flota Huila: 6088736417 - 6088731001

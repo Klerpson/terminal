@@ -27,9 +27,9 @@ h1: "🏪 Principales terminales de buses en las ciudades de Colombia"
   <ul>
     {% for empresa in site.data.empresas-home %}
     <li>
-      <a href="{{empresa.url}}" title="{{empresa.alt}}">
+      <a href="{{empresa.url|relative_url}}" title="{{empresa.alt}}">
         <article class="empresa_home">
-          <img src="{{site.baseurl}}/img/{{empresa.img}}" alt="{{empresa.alt}}" loading="lazy" width="160" height="160">
+          <img src="{{empresa.img|relative_url}}" alt="{{empresa.alt}}" loading="lazy" width="160" height="160">
           <h4>{{empresa.title}}</h4>
         </article>
       </a>
@@ -45,9 +45,9 @@ h1: "🏪 Principales terminales de buses en las ciudades de Colombia"
   <div class="home_gallery">
     {% for pasaje in site.data.pasajes-home %}
     <article>
-      <img src="{{site.baseurl}}/img/{{pasaje.img}}" alt="{{pasaje.alt}}">
+      <img src="{{pasaje.img|relative_url}}" alt="{{pasaje.alt}}">
       <div>
-        <a href="./{{pasaje.url}}"><h3>{{pasaje.title}}</h3></a>
+        <a href="{{pasaje.url|relative_url}}"><h3>{{pasaje.title}}</h3></a>
       </div>
     </article>
     {% endfor %}
@@ -72,9 +72,9 @@ h1: "🏪 Principales terminales de buses en las ciudades de Colombia"
   <div class="home_gallery">
     {% for post in site.posts limit: 4 %}
     <article>
-      <img src="{{site.baseurl}}/img/{{post.hero}}" alt="{{post.alt}}">
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}">
       <div>
-        <a href="./{{post.url}}"><h3>{{post.title}}</h3></a>
+        <a href="{{post.url|relative_url}}"><h3>{{post.title}}</h3></a>
       </div>
     </article>
     {% endfor %}

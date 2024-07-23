@@ -5,9 +5,8 @@ title: Terminal de Pasto
 description: La Terminal de Pasto es una construcción relativamente reciente. Ahora es uno de los principales puntos de llegada de la ciudad de Pasto.
 category: Nariño
 h1: La terminal de transporte de Pasto
-jpg: terminales/terminal-pasto.jpg
-webps: terminales/terminal-pasto-376.webp
-hero: terminales/terminal-pasto-600.webp
+jpg: img/terminales/terminal-pasto.jpg
+hero: img/terminales/terminal-pasto-600.webp
 alt: Terminal de Pasto
 webp1: terminales/terminal-pasto-exterior-600.webp
 webp2: terminales/terminal-pasto-exterior-376.webp
@@ -24,7 +23,6 @@ calificacion: 3.8
 reviews: 18
 latitude: 1.1982194
 longitude: -77.2714548
-permalink: /terminal-de-pasto
 empresas:
   - AUTOPANAMERICANO: 3155691971
   - COCHACHAGUI: 6027330041 - 3146155382 - 3113183471

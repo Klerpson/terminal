@@ -1,12 +1,12 @@
 ---
 layout: terminal
+json-terminal: true
 title: "Terminal Salitre: Tu Puerta de Entrada y Salida de Bogotá"
 description: "Planifica tu viaje desde la Terminal Salitre. Encuentra información actualizada sobre • rutas • empresas de transporte y • servicios disponibles."
 category: cundinamarca
 h1: "Terminal Salitre de Bogotá: información y servicios"
-jpg: terminales/terminal-salitre.jpg
-hero: terminales/terminal-salitre.webp
-webps: terminales/terminal-salitre-376.webp
+jpg: img/terminales/terminal-salitre.jpg
+hero: img/terminales/terminal-salitre.webp
 alt: Terminal Salitre Bogotá
 subtitle: Planifica tu viaje desde la Terminal de Salitre. Utiliza nuestra información actualizada sobre las empresas de transporte.
 intro: "Localizada cerca del aeropuerto El Dorado, la Terminal de Salitre es la más grande y concurrida de Bogotá. Sirve a una amplia variedad de destinos nacionales e incluso algunos internacionales."
@@ -21,8 +21,6 @@ calificacion: 4.3
 reviews: 1913
 latitude: 4.6549308
 longitude: -74.1175679
-permalink: /terminal-salitre-bogota
-json-terminal: true
 empresas:
   - Líneas las Acacias: 5414667 - 5414667
   - Coflonorte: 7705815 - 7705815 - 7700792 - 7700792

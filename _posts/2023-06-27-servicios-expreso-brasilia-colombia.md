@@ -4,13 +4,10 @@ json-post: true
 date: 2023-06-27
 title: 'Viaja cómodamente con Expreso Brasilia por Colombia'
 description: 'Expreso Brasilia es una empresa de transporte reconocida en Colombia y otros países por ofrecer servicios de alta calidad y seguridad en sus recorridos.'
-autor: Julian Franco
 h1: 'Viaja con comodidad y seguridad: los servicios de Expreso Brasilia en Colombia'
-jpg: blog/expreso-brasilia.jpg
-webps: blog/expreso-brasilia-376.webp
-hero: blog/expreso-brasilia-600.webp
-alt: Expreso Brasilia Bus
-permalink: blog/expreso-brasilia-viajar-comodamente-por-colombia
+jpg: img/blog/expreso-brasilia.jpg
+hero: img/blog/expreso-brasilia-600.webp
+alt: Foto de un bus Expreso Brasilia
 excerpt_separator: <!-- excerpt -->
 ---
 Con más de 60 agencias y puntos de venta en todo el país, con **Expreso Brasilia podrás escoger entre sus más de 1000 destinos internacionales y nacionales**.

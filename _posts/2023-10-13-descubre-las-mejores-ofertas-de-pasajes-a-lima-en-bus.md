@@ -1,14 +1,12 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-10-13T23:42:31.899Z
 title: ¡Descubre las mejores ofertas de pasajes a Lima en bus!
 description: ¡Te contamos las mejores ofertas para viajar en bus a Lima! 🚌 Descubre una experiencia única y ahorra tiempo y dinero. 🏃🏼 ¡Entra ahora!
-autor: Andres Franco
 h1: ¡Descubre las mejores ofertas de pasajes a Lima en bus!
-hero: blog/ofertas-lima-bus.webp
+hero: img/blog/ofertas-lima-bus.webp
+jpg: img/blog/ofertas-lima-bus.jpg
 alt: Ofertas de pasajes a Lima
-permalink: blog/ofertas-pasajes-bus-lima-colombia
 excerpt: ¡Encuentra aquí las mejores ofertas para viajar en bus a Lima! Descubre una experiencia única y ahorra tiempo y dinero
 ---
 Si estás planeando un viaje a Lima, la capital de Perú, seguramente estés buscando las mejores opciones para llegar allí.
@@ -73,7 +71,7 @@ Los buses a Lima tienen una amplia variedad de rutas y paradas, lo que te brinda
 
 Algunas empresas de transporte incluso ofrecen paradas en lugares turísticos importantes en el camino hacia Lima, lo que te permite hacer paradas intermedias y disfrutar de otros destinos de Perú en tu viaje.
 
-![Comprando pasajes en bus a Lima](/img/blog/ofertas-pasajes-lima-bus.webp "Comprar pasajes bus Lima")
+![Comprando pasajes en bus a Lima](/img/img/blog/ofertas-pasajes-lima-bus.webp "Comprar pasajes bus Lima")
 
 ## Consejos para encontrar las mejores ofertas de pasajes a Lima en bus
 

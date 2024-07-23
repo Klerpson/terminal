@@ -5,9 +5,8 @@ title: La terminal de Buga
 description: La Terminal de Buga es una de las paradas más importantes de Colombia. Ofrece más de 50 rutas diferentes a Cali, Tuluá, Bogotá, entre otros.
 category: Valle del Cauca
 h1: La Terminal de transporte de Buga
-jpg: terminales/terminal-buga.jpg
-webps: terminales/terminal-buga-376.webp
-hero: terminales/terminal-buga-600.webp
+jpg: img/terminales/terminal-buga.jpg
+hero: img/terminales/terminal-buga-600.webp
 alt: Terminal de Transporte de Buga
 webp1: terminales/terminal-buga-exterior-600.webp
 webp2: terminales/terminal-buga-exterior-376.webp
@@ -23,7 +22,6 @@ calificacion: 4.1
 reviews: 7402
 latitude: 3.898876
 longitude: -76.3135591
-permalink: /terminal-de-buga
 empresas:
   - Coodetrans Palmira: 6022711270 – 3148777958 - 3183818225
   - Coomotor: 3164814577

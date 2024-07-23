@@ -5,9 +5,8 @@ title: "Terminal de Cali: Info sobre • Horarios • Rutas • Servicios"
 description: La información más completa sobre la Terminal de Cali. Conoce los horarios, rutas y servicios que te harán la vida más fácil en tus viajes.
 category: Valle del Cauca
 h1: "Guía definitiva de la Terminal de Cali: Horarios, rutas, pasajes, etc"
-jpg: terminales/terminal-cali.jpg
-webps: terminales/terminal-cali-376.webp
-hero: terminales/terminal-cali-600.webp
+jpg: img/terminales/terminal-cali.jpg
+hero: img/terminales/terminal-cali-600.webp
 alt: Terminal de Cali
 webp1: terminales/terminal-cali-exterior-600.webp
 webp2: terminales/terminal-cali-exterior-376.webp
@@ -23,7 +22,6 @@ calificacion: 4.1
 reviews: 26570
 latitude: 3.4656371
 longitude: -76.5240347
-permalink: /terminal-de-cali
 empresas:
   - Expreso Florida: 6026688820 - 6026688820 - 6026688800 - 6026688800
   - Coomotor: 6024057372 - 6024057372 - 3176394039 - 3176394039 -3144057372 - 3144057372

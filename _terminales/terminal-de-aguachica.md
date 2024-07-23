@@ -5,8 +5,8 @@ title: Terminal de Transporte de Aguachica Cesar
 description: La Terminal de Aguachica es más que un punto de tránsito. Conoce sus empresas transportadoras, servicios y más. ¡Entra ahora!
 category: cesar
 h1: "Aguachica: un viaje por su Terminal de Transporte"
-jpg: terminales/terminal-aguachica.jpg
-hero: terminales/terminal-aguachica-600.webp
+jpg: img/terminales/terminal-aguachica.jpg
+hero: img/terminales/terminal-aguachica-600.webp
 alt: Terminal de Aguachica
 webp1: terminales/terminal-aguachica-cesar-600.webp
 subtitle: Compra tus pasajes con las empresas de buses de la terminal de Aguachica
@@ -22,7 +22,6 @@ calificacion: 3.9
 reviews: 4216
 latitude: 8.3061032
 longitude: -73.6305622
-permalink: /terminal-de-aguachica
 empresas:
   - COOINTRABOS LTD: 6055779548
   - COOINTRACUR LTD: 6055750602

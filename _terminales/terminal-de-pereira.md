@@ -5,9 +5,8 @@ title: Terminal de Pereira
 description: ¿Viajas desde Pereira? Conoce todo sobre su Terminal de Transporte. Conoce todos los servicios y rutas de la Terminal de Transporte de Pereira.
 category: risaralda
 h1: La terminal de transporte Pereira
-jpg: terminales/terminal-pereira.jpg
-webps: terminales/terminal-pereira-376.webp
-hero: terminales/terminal-pereira-600.webp
+jpg: img/terminales/terminal-pereira.jpg
+hero: img/terminales/terminal-pereira-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-pereira-risaralda-600.webp
 webp2: terminales/terminal-pereira-risaralda-376.webp
@@ -24,7 +23,6 @@ calificacion: 4.2
 reviews: 20041
 latitude: 4.8023218
 longitude: -75.6939329
-permalink: /terminal-de-pereira
 empresas:
   - Expreso Bolivariano: 6063222080 - 6063202605
   - Velotax: 6063210808 - 6063212594

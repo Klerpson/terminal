@@ -1,21 +1,13 @@
 ---
 layout: post
-title: '¿Es seguro o inseguro viajar en bus por Colombia? 🚌'
+title: '¿Es seguro o inseguro viajar en bus por Colombia? Averígualo'
 description: 'En Colombia, la seguridad en el transporte público es un tema importante a tener en cuenta. ¿Pero puede afectar la inseguridad tu próximo viaje en bus?'
-autor: terminaldetransporte.com
 h1: '¿Es seguro o inseguro viajar en bus por Colombia?'
-h1_alternativo: 'Viajar en bus en Colombia, ¿es seguro o inseguro ?'
-award: 'Qué tan seguro es viajar por Colombia en bus'
 date: 2023-06-15
-keywords: [bus, viajes, colombia, seguridad, robos]
-jpg: blog/seguridad-bus-colombia.jpg
-hero: blog/seguridad-bus-colombia.webp
-webps: blog/seguridad-bus-colombia-376.webp
-webpm: blog/seguridad-bus-colombia-600.webp
-webpb: blog/seguridad-bus-colombia-800.webp
-alt: Bus viajando seguro
+jpg: img/blog/seguridad-bus-colombia.jpg
+hero: img/blog/seguridad-bus-colombia.webp
+alt: Bus viajando seguro por las vías de Colombia
 json-post: true
-permalink: blog/seguro-o-inseguro-viajar-en-bus-colombia
 excerpt_separator: <!-- excerpt -->
 ---
 En Colombia, la seguridad en el transporte público es un tema importante a tener en cuenta. ¿Pero puede afectar la inseguridad tu próximo viaje en bus por Colombia?
@@ -60,7 +52,7 @@ Por este motivo, es fundamental tener en cuenta las pautas de seguridad y ser re
 
 ### Pautas de seguridad para pasajeros durante el viaje en autobús
 
-{% include img-post.html webpm="blog/seguridad-bus-colombia-cinturon-800.webp" webps="blog/seguridad-bus-colombia-cinturon-376.webp" alt="Pasajero utilizando el cinturón de seguridad" title="Cinturón de seguridad" %}
+{% include img-post.html webpm="img/blog/seguridad-bus-colombia-cinturon-800.webp" webps="img/blog/seguridad-bus-colombia-cinturon-376.webp" alt="Pasajero utilizando el cinturón de seguridad" title="Cinturón de seguridad" %}
 
 Para aumentar la seguridad durante el viaje en autobús, es importante seguir algunas pautas de seguridad básicas. Algunas de estas pautas pueden ser:
 

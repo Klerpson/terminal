@@ -5,9 +5,8 @@ title:  "La Terminal de Transporte de Arauca • Pasajes • Rutas • Teléfono
 description: "Conoce la Terminal de Transporte de Arauca: Encuentra información sobre servicios, rutas y horarios. ¡Planifica tu viaje hoy!"
 category: arauca
 h1: "Líderes en transporte: Terminal de Arauca destacada"
-jpg: terminales/terminal-arauca.jpg
-webps: terminales/terminal-arauca-376.webp
-hero: terminales/terminal-arauca-600.webp
+jpg: img/terminales/terminal-arauca.jpg
+hero: img/terminales/terminal-arauca-600.webp
 alt: Terminal de Aguachica
 webp1: terminales/terminal-arauca-arauca-600.webp
 webp2: terminales/terminal-arauca-arauca-376.webp
@@ -24,7 +23,6 @@ calificacion: 3.9
 reviews: 630
 latitude: 7.0641397
 longitude: -70.733864
-permalink: /terminal-de-arauca
 empresas:
   - Cotranal: 3124579775
   - Coflonorte – Libertadores: 6078853195

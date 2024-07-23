@@ -5,9 +5,8 @@ title: Terminal de Villavicencio
 description: La Terminal de Villavicencio es el punto de partida para explorar una de las regiones más hermosas de Colombia. ¡Conócelo! Te damos todos sus datos
 category: meta
 h1: La terminal de transporte Villavicencio
-jpg: terminales/terminal-villavicencio.jpg
-webps: terminales/terminal-villavicencio-376.webp
-hero: terminales/terminal-villavicencio-600.webp
+jpg: img/terminales/terminal-villavicencio.jpg
+hero: img/terminales/terminal-villavicencio-600.webp
 alt: Terminal Villavicencio
 webp1: terminales/terminal-villavicencio-meta-600.webp
 webp2: terminales/terminal-villavicencio-meta-376.webp
@@ -24,7 +23,6 @@ calificacion: 4.1
 reviews: 4019
 latitude: 4.1321
 longitude: -73.6074057
-permalink: /terminal-de-villavicencio
 empresas:
   - Transportes Armenia: 6620425 – 6622109 - 7478040
   - Trans Autollanos: 6655516 – 6655517 - 3118000463

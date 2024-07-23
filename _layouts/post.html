@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-
 <article class="post-content flow">
-  <small class="breadcrumbs">🚏 Tu parada es aquí: <a href="{{site.baseurl}}" title="Página de inicio">Inicio</a> / <a href="{{'blog' | relative_url}}" title="Página del blog">Blog</a> / {{page.h1}}</small>
+  <small class="breadcrumbs">🚏 Tu parada es aquí: <a href="/" title="Página de inicio">Inicio</a> / <a href="{{'blog' | relative_url}}" title="Página del blog">Blog</a> / {{page.h1}}</small>
   {{ content }}
   {% if page.referencias %}
   <section id="fuentes">
@@ -23,9 +22,9 @@ layout: default
   {% endif %}
   {% include addm2.html %}
 </article>
-{% if page.url == "/legal" %}
+{% if page.url != "/legal" %}
 <div class="post-social">
-  <span>Autor: {{page.autor}}</span>
+  <span>Autor: Equipo terminaldetransporte.com</span>
   <ul>
     <li>Comparte:</li>
     <li>
@@ -38,17 +37,19 @@ layout: default
     </li>
   </ul>
 </div>
-<aside class="pasajes flow" style="padding-top: 2em;">
-  <h3>Últimas publicaciones del Blog</h3>
-  <div class="home_gallery wrapper">
+<aside class="pasajes flow">
+  <div class="wrapper">
+    <h3>Últimas publicaciones del Blog</h3>
+    <div class="home_gallery wrapper">
     {% for post in site.posts limit:5 %}
     <article>
-      <img src="{{site.baseurl}}/img/{{post.hero}}" alt="{{post.alt}}" loading="lazy">
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="160" height="160">
       <div>
-        <a href="{{post.url}}"><h3>{{post.h1}}</h3></a>
+        <a href="{{post.url|relative_url}}"><h3>{{post.h1}}</h3></a>
       </div>
     </article><!-- End recent post item-->
     {% endfor %}
+    </div>
   </div>
 </aside><!-- End sidebar recent posts-->
 {% endif %}

@@ -6,9 +6,8 @@ title: "Terminal de Transporte Melgar: Conexión con Tolima y el País"
 description: Conoce la Terminal de Transporte Melgar, tu puerta de entrada a Tolima. Información de rutas, horarios, empresas y servicios para tu viaje ideal
 category: Tolima
 h1: "Terminal de transporte Melgar: Pasaporte a los encantos del Tolima"
-jpg: blog/terminal-melgar_600.jpg
-hero: blog/terminal-melgar_600.webp
-webps: blog/terminal-melgar_376.webp
+jpg: img/blog/terminal-melgar_600.jpg
+hero: img/blog/terminal-melgar_600.webp
 alt: Tiquetes de las empresas de la terminal de Melgar
 subtitle: Información completa de la terminal de transportes de Melgar
 intro: La Terminal de Transporte Melgar es el principal centro de conexiones de viaje en Tolima, ofreciendo servicios de transporte a numerosos destinos
@@ -23,7 +22,6 @@ ciudad: Melgar
 postal: "734001"
 latitude: "4.2280754"
 longitude: "-74.6204917"
-permalink: /terminal-de-melgar
 empresas:
   - Flota La Macarena en Colombia: 018000116222.
   - Autofusa: 300 440 4930 /300 452 4003.

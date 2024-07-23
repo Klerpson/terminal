@@ -6,9 +6,8 @@ title: "Terminal de Transporte Chiquinquira: Tu Conexión con Boyacá"
 description: Viaja con comodidad y seguridad desde la Terminal de Transporte Chiquinquirá. Conoce horarios, rutas y empresas disponibles. ¡Tu viaje comienza aquí!
 category: Boyacá
 h1: "Terminal de Transporte de Chiquinquirá: Tu puerta de entrada a una ciudad acogedora"
-jpg: blog/terminal-chiquinquira_600.jpg
-hero: blog/terminal-chiquinquira_600.webp
-webps: blog/terminal-chiquinquira_376.webp
+jpg: img/blog/terminal-chiquinquira_600.jpg
+hero: img/blog/terminal-chiquinquira_600.webp
 alt: Terminal de Chiquinquirá - Teléfono y otros datos
 subtitle: Pasajes y empresas de la terminal de transporte de Chiquinquira
 intro: La terminal de transporte Chiquinquira es el punto de partida para explorar esta hermosa ciudad. Conecta con destinos locales y nacionales, facilitando tus viajes.
@@ -23,7 +22,6 @@ ciudad: "Chiquinquirá "
 postal: "154640"
 latitude: "5.6062405"
 longitude: "-73.8202684"
-permalink: /terminal-de-chiquinquira
 empresas:
   - Transsander LTDA: 3173076847
   - Cotransricaurte S.A: (8) 7486008

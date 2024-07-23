@@ -1,18 +1,23 @@
 [
   
     {
+      "title"    : "Buses Coomotor: navette y más para tu comodidad",
+      "url"      : "/blog/coomotor-empresa-de-buses"
+    } ,
+  
+    {
       "title"    : "Módulos de Terminal Salitre en Bogotá: Servicios y Ubicaciones",
-      "url"      : "/blog/2024-07-11-modulos-terminal-salitre-bogota"
+      "url"      : "/blog/modulos-terminal-salitre-bogota"
     } ,
   
     {
       "title"    : "Guía turística para conocer Ciudad Perdida",
-      "url"      : "/blog/2024-04-17-guia-turistica-ciudad-perdida"
+      "url"      : "/blog/guia-turistica-ciudad-perdida"
     } ,
   
     {
       "title"    : "Descubre el impresionante tamaño del bus más grande del mundo",
-      "url"      : "/blog/cual-es-el-bus-mas-grande-del-mundo"
+      "url"      : "/blog/el-bus-mas-grande-del-mundo"
     } ,
   
     {
@@ -22,57 +27,57 @@
   
     {
       "title"    : "¡Descubre las mejores ofertas de pasajes a Lima en bus!",
-      "url"      : "/blog/ofertas-pasajes-bus-lima-colombia"
+      "url"      : "/blog/descubre-las-mejores-ofertas-de-pasajes-a-lima-en-bus"
     } ,
   
     {
       "title"    : "Pasaje Ecuador a Colombia en bus | ¡Precio rutas y mas!",
-      "url"      : "/blog/colombia-ecuador-en-bus"
+      "url"      : "/blog/pasaje-ecuador-a-colombia-en-bus-precio-rutas-y-mas"
     } ,
   
     {
       "title"    : "Pasajes de bus: Colombia - Argentina • Duración • Precios",
-      "url"      : "/blog/pasaje-bus-colombia-argentina"
+      "url"      : "/blog/pasajes-de-colombia-argentina-en-bus-duraci%C3%B3n-cuanto-vale-y-tips-de-viaje"
     } ,
   
     {
       "title"    : "Buses internacionales de Colombia | Conexiones en bus",
-      "url"      : "/blog/buses-internacionales"
+      "url"      : "/blog/conexiones-entre-buses-internacionales-de-colombia-viajes-en-bus"
     } ,
   
     {
       "title"    : "El Bus Para Tu Viaje al Aeropuerto de Cali. ¡Súbete aquí!",
-      "url"      : "/buses-aeropuerto-cali"
+      "url"      : "/blog/elige-el-bus-para-tu-viaje-al-aeropuerto-desde-cali"
     } ,
   
     {
       "title"    : "Buses de Servicio Especial en Colombia ¿Necesitas Uno?",
-      "url"      : "/blog/buses-servicio-especial"
+      "url"      : "/blog/buses-especiales-en-colombia-todo-lo-que-necesitas-saber"
     } ,
   
     {
       "title"    : "Buses con baño | Asegura tu comodidad y salud al viajar",
-      "url"      : "/bus-baño"
+      "url"      : "/blog/buses-con-ba%C3%B1o-todo-lo-que-debes-saber-para-viajar-c%C3%B3modo"
     } ,
   
     {
       "title"    : "Buses de dos pisos: Características y ventajas",
-      "url"      : "/blog/buses-dos-pisos"
+      "url"      : "/blog/buses-de-dos-pisos-caracter%C3%ADsticas-y-consejos-esenciales"
     } ,
   
     {
       "title"    : "Buses al Aeropuerto de Rionegro: Horarios, Rutas y Consejos",
-      "url"      : "/bus-aeropuerto-rionegro"
+      "url"      : "/blog/buses-al-aeropuerto-de-rionegro-horarios-rutas-y-consejos"
     } ,
   
     {
       "title"    : "Cómo fomentar un buen comportamiento en el bus escolar",
-      "url"      : "/comportamiento-bus-escolar"
+      "url"      : "/blog/como-fomentar-un-buen-comportamiento-en-el-bus-escolar"
     } ,
   
     {
       "title"    : "¿Buscas Alquilar un Bus en Colombia? Conoce las Opciones",
-      "url"      : "/blog/alquiler-buses-colombia"
+      "url"      : "/blog/alquiler-de-buses-descubre-las-mejores-opciones-en-colombia"
     } ,
   
     {
@@ -82,17 +87,17 @@
   
     {
       "title"    : "Expreso Palmira: pasajes de bus seguros y con facilidad",
-      "url"      : "/blog/expreso-palmira"
+      "url"      : "/blog/expreso-palmira-compra-pasajes-seguro-y-facil"
     } ,
   
     {
-      "title"    : "Transportes Omega: Comodidad y seguridad en tu viaje ↩",
+      "title"    : "Transportes Omega: Comodidad y seguridad en tu viaje",
       "url"      : "/blog/transportes-omega-comodidad-seguridad"
     } ,
   
     {
       "title"    : "Viaja cómodamente con Expreso Brasilia por Colombia",
-      "url"      : "/blog/expreso-brasilia-viajar-comodamente-por-colombia"
+      "url"      : "/blog/servicios-expreso-brasilia-colombia"
     } ,
   
     {
@@ -101,18 +106,18 @@
     } ,
   
     {
-      "title"    : "¿Es seguro o inseguro viajar en bus por Colombia? 🚌",
+      "title"    : "¿Es seguro o inseguro viajar en bus por Colombia? Averígualo",
       "url"      : "/blog/seguro-o-inseguro-viajar-en-bus-colombia"
     } ,
   
     {
-      "title"    : "🚌 Pinbus: la app para viajar en bus por Colombia",
+      "title"    : "Pinbus: la app para comprar pasajes de bus en Colombia",
       "url"      : "/blog/pinbus-compra-pasajes-colombia"
     } ,
   
     {
       "title"    : "Redbus Colombia: ¡Reserva tu viaje ahora mismo! 🚌",
-      "url"      : "/blog/red-bus-colombia-reserva-viajes"
+      "url"      : "/blog/redbus-colombia-reserva-viajes"
     } ,
   
     {
@@ -132,7 +137,7 @@
   
     {
       "title"    : "La seguridad de tu maleta mientras viajas en bus | Tips",
-      "url"      : "/blog/5-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus"
+      "url"      : "/blog/consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus"
     } 
   
   ,
@@ -184,7 +189,7 @@
   
     {
       "title"    : "Terminal de El Banco Magdalena: Tu Conexión con Colombia",
-      "url"      : "/terminal-el-banco-magdalena"
+      "url"      : "/terminal-de-el-banco-magdalena"
     } ,
   
     {
@@ -224,7 +229,7 @@
   
     {
       "title"    : "La terminal de Buga",
-      "url"      : "/terminal-de-buga"
+      "url"      : "/terminal-de-guadalajara-buga"
     } ,
   
     {
@@ -315,8 +320,8 @@
   ,
   
     {
-      "title"    : "¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila",
-      "url"      : "/pasajes/pasajes-a-huila-bus"
+      "title"    : "Aguachica en Bus: • Pasajes • Precios • Rutas",
+      "url"      : "/pasajes/aguachica"
     } ,
   
     {
@@ -325,18 +330,8 @@
     } ,
   
     {
-      "title"    : "Aguachica en Bus: • Pasajes • Precios • Rutas",
-      "url"      : "/pasajes/aguachica"
-    } ,
-  
-    {
       "title"    : "Pasajes de Bogotá a Acacias | Rutas | Horarios | Consejos",
-      "url"      : "/pasaje/bogota-acacias"
-    } ,
-  
-    {
-      "title"    : "Rutas y precios de pasajes a San Gil | Lo que debes saber",
-      "url"      : "/pasajes/san-gil"
+      "url"      : "/pasajes/bogota-acacias"
     } ,
   
     {
@@ -347,6 +342,16 @@
     {
       "title"    : "Pasajes a Anapoima | Todo lo que Necesitas Saber",
       "url"      : "/pasajes/bogota-anapoima"
+    } ,
+  
+    {
+      "title"    : "¡Ahorra tiempo y dinero! Encuentra los mejores pasajes a Huila",
+      "url"      : "/pasajes/pasajes-a-huila-bus"
+    } ,
+  
+    {
+      "title"    : "Rutas y precios de pasajes a San Gil | Lo que debes saber",
+      "url"      : "/pasajes/san-gil"
     } 
   
   ,

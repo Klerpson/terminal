@@ -2,20 +2,12 @@
 layout: post
 title: 'Los 5 mejores destinos de Colombia para viajar en bus 🚌'
 description: 'Explora los 5 mejores destinos de Colombia viajando en bus. Experimenta la naturaleza y la aventura que este país ofrece. ¡Planifica tu próximo viaje ahora!'
-autor: terminaldetransporte.com
 h1: 'Descubre los 5 mejores destinos de Colombia para viajar en bus y experimentar aventuras únicas'
-h1_alternativo: 'Descubre los 5 mejores destinos de Colombia para viajar en bus'
-award: '5 destinos de Colombia para visitar viajando en bus'
 date: 2023-03-24
-genre: tips
-jpg: blog/destinos-de-colombia-para-visitar-en-bus.jpg
-hero: blog/destinos-de-colombia-para-visitar-en-bus.webp
-webps: blog/destinos-de-colombia-para-visitar-en-bus-376.webp
-webpm: blog/destinos-de-colombia-para-visitar-en-bus-600.webp
-webpb: blog/destinos-de-colombia-para-visitar-en-bus-800.webp
+jpg: img/blog/destinos-de-colombia-para-visitar-en-bus.jpg
+hero: img/blog/destinos-de-colombia-para-visitar-en-bus.webp
 alt: Bus en un viaje por un paraje de Colombia
 json-post: true
-permalink: blog/los-5-mejores-destinos-de-colombia-para-viajar-en-bus
 excerpt_separator: <!-- excerpt -->
 ---
 Colombia es un país con muchos secretos, y hay muchos lugares interesantes para viajar. Las terminales de transporte en autobús son los principales puntos de acceso para conocer la cultura local y acercarse a la naturaleza.

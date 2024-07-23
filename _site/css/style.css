@@ -916,11 +916,12 @@ margin: 0;
 
 .blog-tags{
   display: flex;
-  gap: 1rem;
+  gap: 16px;
   flex-wrap: wrap;
   margin: 2em auto;
-  justify-content: center;
   align-items: center;
+  align-content: center;
+  justify-content: center;
   background-color: var(--complemento1);
   box-shadow: 0 0 0 100vmax var(--complemento1);
   clip-path: inset(0 -100vmax);
@@ -936,7 +937,6 @@ margin: 0;
   background-color: var(--principal);
   font-weight: bolder;
   font-family: var(--fuenteTexto);
-  font-size: 1rem;
   transition: all .15s ease-out;
   color: white;
 }
@@ -988,6 +988,10 @@ margin: 0;
   align-items: center;
   gap: 16px;
   flex-wrap: wrap;
+}
+
+.post-social ul li{
+  list-style: none;
 }
 
 .post-social ul li svg,

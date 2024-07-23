@@ -2,20 +2,12 @@
 layout: post
 title: 'Redbus Colombia: ¡Reserva tu viaje ahora mismo! 🚌'
 description: '¿Buscas la mejor manera de viajar por Colombia? ¡RedBus es la solución! Reserva en línea o llama a su teléfono de atención al cliente.¡Haz clic ahora!'
-autor: terminaldetransporte.com
 h1: 'Con Redbus Colombia reservas tu viaje ahora fácilmente'
-h1_alternativo: 'Descubre Redbus Colombia: ¡Reserva tu viaje ahora mismo!'
-award: 'Página redbus.co para comprar pasajes de bus en línea'
 date: 2023-04-03
-keywords: [redbus, bus, Colombia, reservar tiquete, telefono redbus, comprar pasaje redbus]
-jpg: blog/redbus-colombia.jpg
-hero: blog/redbus-colombia.webp
-webps: blog/redbus-colombia-376.webp
-webpm: blog/redbus-colombia-600.webp
-webpb: blog/redbus-colombia-800.webp
+jpg: img/blog/redbus-colombia.jpg
+hero: img/blog/redbus-colombia.webp
 alt: Página web de RedBus Colombia
 json-post: true
-permalink: blog/red-bus-colombia-reserva-viajes
 excerpt_separator: <!-- excerpt -->
 ---
 RedBus Colombia es una plataforma de venta de pasajes en línea que se ha destacado por la calidad de su servicio al cliente y la facilidad de su plataforma.

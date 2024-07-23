@@ -1,12 +1,12 @@
 ---
 layout: terminal
+json-terminal: true
 title: "¿Viajas hacia o desde Bogotá? Terminal del Sur y sus destinos"
 description: "¿Viajando desde Bogotá? La Terminal del Sur es tu mejor aliado. Descubre sus • servicios • rutas • consejos para un viaje perfecto. ¡Infórmate aquí!"
 category: cundinamarca
 h1: "Terminal del Sur: El epicentro del transporte en Bogotá"
-jpg: terminales/terminal-sur-bogota.jpg
-hero: terminales/terminal-sur-bogota.webp
-webps: terminales/terminal-sur-bogota-376.webp
+jpg: img/terminales/terminal-sur-bogota.jpg
+hero: img/terminales/terminal-sur-bogota.webp
 alt: Terminal Sur Bogotá
 subtitle: "Terminal del Sur Bogotá: Tu oportunidad de comprar pasajes a destinos soñados"
 intro: "Compra de pasajes o tiquetes, servicios bancarios, vacunación, etc. La Terminal del Sur en Bogotá lo tiene todo. Conoce más y prepara tu próximo viaje."
@@ -21,8 +21,6 @@ calificacion: 4.0
 reviews: 13125
 latitude: 4.5974837
 longitude: -74.178795
-permalink: /terminal-sur-bogota
-json-terminal: true
 empresas:
   - Líneas las Acacias: 5414667 - 5414667
   - Coflonorte: 7705815 - 7705815 - 7700792 - 7700792

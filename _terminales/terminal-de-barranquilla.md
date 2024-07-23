@@ -5,9 +5,8 @@ title: La terminal de la hermosa Barranquilla | Buses y pasajes
 description: "Barranquilla es una ciudad que vibra al ritmo del Caribe. Pero, ¿cómo llegar y partir de esta joya tropical? A través de su Terminal de Transporte."
 category: atlantico
 h1: "La terminal de transporte de Barranquilla: la Puerta de Oro a la ciudad"
-jpg: terminales/terminal-barranquilla.jpg
-webps: terminales/terminal-barranquilla-376.webp
-hero: terminales/terminal-barranquilla-600.webp
+jpg: img/terminales/terminal-barranquilla.jpg
+hero: img/terminales/terminal-barranquilla-600.webp
 alt: Terminal de Barranquilla
 webp1: terminales/terminal-barranquilla-interior-600.webp
 webp2: terminales/terminal-barranquilla-interior-376.webp
@@ -24,7 +23,6 @@ calificacion: 4.1
 reviews: 950
 latitude: 10.9557867
 longitude: -74.8357789
-permalink: /terminal-de-barranquilla
 empresas:
   - Berlinas del Fonce: 3183414141 - 3183414141 - 3156022763 - 3156022763 3157167911 - 3157167911
   - Berlitur: 3156022763 - 3156022763

@@ -5,9 +5,8 @@ title: "Terminal de Valledupar: • Rutas • Teléfonos • Consejos de Viaje"
 description: ¿Viajando desde Valledupar? Encuentra toda la información sobre la terminal de transporte, empresas de buses y más. ¡Haz clic y prepárate para tu viaje!
 category: cesar
 h1: "Viaja desde Valledupar: Información Esencial del Terminal de Transporte"
-jpg: terminales/terminal-valledupar.jpg
-webps: terminales/terminal-valledupar-376.webp
-hero: terminales/terminal-valledupar-600.webp
+jpg: img/terminales/terminal-valledupar.jpg
+hero: img/terminales/terminal-valledupar-600.webp
 alt: Terminal de Transporte de Santa Marta
 webp1: terminales/terminal-valledupar-cesar-600.webp
 webp2: terminales/terminal-valledupar-cesar-376.webp
@@ -24,7 +23,6 @@ calificacion: 3.7
 reviews: 180
 latitude: 11.2354608
 longitude: -74.2145498
-permalink: /terminal-de-valledupar
 empresas:
   - Coolibertador: 6055716196
   - Copetrán: 6055716083 - 6055716201

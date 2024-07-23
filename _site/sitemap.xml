@@ -55,19 +55,25 @@
   
   
       <url>
-        <loc>http://localhost:4000/blog/2024-07-11-modulos-terminal-salitre-bogota</loc>
+        <loc>http://localhost:4000/blog/coomotor-empresa-de-buses</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/2024-04-17-guia-turistica-ciudad-perdida</loc>
+        <loc>http://localhost:4000/blog/modulos-terminal-salitre-bogota</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/cual-es-el-bus-mas-grande-del-mundo</loc>
+        <loc>http://localhost:4000/blog/guia-turistica-ciudad-perdida</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/blog/el-bus-mas-grande-del-mundo</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -79,67 +85,67 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/ofertas-pasajes-bus-lima-colombia</loc>
+        <loc>http://localhost:4000/blog/descubre-las-mejores-ofertas-de-pasajes-a-lima-en-bus</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/colombia-ecuador-en-bus</loc>
+        <loc>http://localhost:4000/blog/pasaje-ecuador-a-colombia-en-bus-precio-rutas-y-mas</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/pasaje-bus-colombia-argentina</loc>
+        <loc>http://localhost:4000/blog/pasajes-de-colombia-argentina-en-bus-duraci%C3%B3n-cuanto-vale-y-tips-de-viaje</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/buses-internacionales</loc>
+        <loc>http://localhost:4000/blog/conexiones-entre-buses-internacionales-de-colombia-viajes-en-bus</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/buses-aeropuerto-cali</loc>
+        <loc>http://localhost:4000/blog/elige-el-bus-para-tu-viaje-al-aeropuerto-desde-cali</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/buses-servicio-especial</loc>
+        <loc>http://localhost:4000/blog/buses-especiales-en-colombia-todo-lo-que-necesitas-saber</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/bus-baño</loc>
+        <loc>http://localhost:4000/blog/buses-con-ba%C3%B1o-todo-lo-que-debes-saber-para-viajar-c%C3%B3modo</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/buses-dos-pisos</loc>
+        <loc>http://localhost:4000/blog/buses-de-dos-pisos-caracter%C3%ADsticas-y-consejos-esenciales</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/bus-aeropuerto-rionegro</loc>
+        <loc>http://localhost:4000/blog/buses-al-aeropuerto-de-rionegro-horarios-rutas-y-consejos</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/comportamiento-bus-escolar</loc>
+        <loc>http://localhost:4000/blog/como-fomentar-un-buen-comportamiento-en-el-bus-escolar</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/alquiler-buses-colombia</loc>
+        <loc>http://localhost:4000/blog/alquiler-de-buses-descubre-las-mejores-opciones-en-colombia</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -151,7 +157,7 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/expreso-palmira</loc>
+        <loc>http://localhost:4000/blog/expreso-palmira-compra-pasajes-seguro-y-facil</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -163,7 +169,7 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/expreso-brasilia-viajar-comodamente-por-colombia</loc>
+        <loc>http://localhost:4000/blog/servicios-expreso-brasilia-colombia</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -187,7 +193,7 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/red-bus-colombia-reserva-viajes</loc>
+        <loc>http://localhost:4000/blog/redbus-colombia-reserva-viajes</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -211,14 +217,14 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog/5-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus</loc>
+        <loc>http://localhost:4000/blog/consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
   
       <url>
-        <loc>http://localhost:4000/pasajes/pasajes-a-huila-bus</loc>
+        <loc>http://localhost:4000/pasajes/aguachica</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -230,19 +236,7 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/pasajes/aguachica</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasaje/bogota-acacias</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/pasajes/san-gil</loc>
+        <loc>http://localhost:4000/pasajes/bogota-acacias</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -255,6 +249,18 @@
   
       <url>
         <loc>http://localhost:4000/pasajes/bogota-anapoima</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/pasajes/pasajes-a-huila-bus</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/pasajes/san-gil</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -315,7 +321,7 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/terminal-el-banco-magdalena</loc>
+        <loc>http://localhost:4000/terminal-de-el-banco-magdalena</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -363,7 +369,7 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/terminal-de-buga</loc>
+        <loc>http://localhost:4000/terminal-de-guadalajara-buga</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

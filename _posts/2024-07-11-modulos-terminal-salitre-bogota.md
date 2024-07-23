@@ -5,8 +5,8 @@ title: "Módulos de Terminal Salitre en Bogotá: Servicios y Ubicaciones"
 description: "Terminal Salitre en Bogotá: guía de módulos con tiendas, restaurantes y servicios. Todo lo que necesitas saber para una visita perfecta.
 "
 h1: "Terminal Salitre: Tiendas, Restaurantes y Más Módulos"
-hero: blog/modulos-terminal-salitre.webp
-jpg: blog/modulos-terminal-salitre.jpg
+hero: img/blog/modulos-terminal-salitre.webp
+jpg: img/blog/modulos-terminal-salitre.jpg
 alt: Foto de los módulos de la terminal Salitre
 excerpt: Toda la información sobre los módulos de Terminal Salitre en Bogotá. Ubicaciones, horarios y servicios. Prepara tu visita con nuestra guía detallada.
 ---

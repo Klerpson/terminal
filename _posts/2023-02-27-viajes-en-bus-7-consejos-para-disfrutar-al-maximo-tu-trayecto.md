@@ -2,20 +2,12 @@
 layout: post
 title: 'Viajes en Bus: 7 consejos para disfrutarlos al máximo'
 description: Descubre cómo disfrutar al máximo tus viajes en bus con 7 consejos sobre destinos, seguridad y comodidad. ¡Planifica tu próximo viaje con confianza y comodidad!
-autor: terminaldetransporte.com
 h1: 'Viajes en Bus: 7 consejos para disfrutar al máximo tu trayecto'
-h1_alternativo: Disfruta tu viaje en bus con estos 7 tips
-award: 'Viajes en Bus 7 consejos para disfrutar al máximo tu trayecto'
 date: 2023-02-27
-genre: viajes
-jpg: blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto.jpg
-hero: blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto.webp
-webps: blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto-376.webp
-webpm: blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto-600.webp
-webpb: blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto-800.webp
+jpg: img/blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto.jpg
+hero: img/blog/viajes-en-bus-7-consejos-para-disfrutar-al-máximo-tu-trayecto.webp
 alt: Pasajera viajando en bus
 json-post: true
-permalink: blog/viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto
 excerpt_separator: <!-- excerpt -->
 ---
 ¿Te gustaría saber cómo disfrutar al máximo tus viajes en bus y hacerlos más divertidos y cómodos? Si la respuesta es sí, estás en el lugar indicado.
