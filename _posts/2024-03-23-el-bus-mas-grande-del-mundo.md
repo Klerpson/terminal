@@ -1,8 +1,8 @@
 ---
 layout: post
 json-post: 'true'
-title: Descubre el impresionante tamaño del bus más grande del mundo
-description: Descubre el bus más GRANDE del mundo. Maravíllate con sus dimensiones y capacidades asombrosas. ¡No te lo pierdas! 🚌🌍
+title: ¿Conoces el impresionante bus MÁS GRANDE del mundo?
+description: Te contamos sobre el bus más GRANDE del mundo. Mira sus dimensiones y capacidades asombrosas. ¡No te lo pierdas! 🚌🌍
 h1: Descubre el impresionante tamaño del bus más grande del mundo
 hero: img/blog/bus-gigante.webp
 jpg: img/blog/bus-gigante.jpg
