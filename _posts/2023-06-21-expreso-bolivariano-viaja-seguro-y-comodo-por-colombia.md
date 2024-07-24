@@ -5,7 +5,7 @@ title: 'Expreso Bolivariano: viaja seguro y cómodo por Colombia 🚌'
 description: 'Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. ¿Por qué es de las más utilizadas? ¡Averígualo aquí!'
 h1: 'Expreso Bolivariano: viaja seguro y cómodo por Colombia'
 jpg: img/blog/expreso-bolivariano-bus.jpg
-hero: img/blog/expreso-bolivariano-bus-600.webp
+hero: img/blog/expreso-bolivariano-bus.webp
 alt: Foto de un bus Expreso Bolivariano
 excerpt: Expreso Bolivariano es una empresa de transporte colombiana con más de 65 años de experiencia. Ofrece una gran variedad de servicios de autobús intermedio y de lujo en Colombia y Perú
 ---

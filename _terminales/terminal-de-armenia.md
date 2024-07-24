@@ -82,7 +82,7 @@ La terminal **cuenta con servicios básicos** como baños públicos, guarda equi
 
 -----
 
-Algunas de las empresas que prestan servicios en la terminal de Armenia son Coomotor Florencia, Coomotor, Cootrans Huila, [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %}), [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), [Expreso Palmira]({% post_url 2023-07-21-expreso-palmira-compra-pasajes-seguro-y-facil %}), Flota Magdalena, Flota Occidental, Velotax, entre otras.
+Algunas de las empresas que prestan servicios en la terminal de Armenia son Coomotor Florencia, Coomotor, Cootrans Huila, [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %}), [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), [Expreso Palmira]({% post_url 2023-07-21-expreso-palmira %}), Flota Magdalena, Flota Occidental, Velotax, entre otras.
 
 ### Coomotor Florencia
 

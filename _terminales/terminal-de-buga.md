@@ -61,7 +61,7 @@ La terminal de transporte de Buga cuenta con la presencia de [varios operadores,
 
 Algunas de las empresas más populares que operan en este terminal son:
 
-- **[Expreso Palmira]({% post_url 2023-07-21-expreso-palmira-compra-pasajes-seguro-y-facil %} "Empresa Expreso Palmira")**
+- **[Expreso Palmira]({% post_url 2023-07-21-expreso-palmira %} "Empresa Expreso Palmira")**
 - **[Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Empresa Expreso Brasilia")**
 - **[Coomotor]({% post_url 2024-07-21-coomotor-empresa-de-buses %} "Empresa Coomotor")**
 - **Lineas del Valle**
