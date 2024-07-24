@@ -198,6 +198,11 @@
     } ,
   
     {
+      "title"    : "La terminal de Buga",
+      "url"      : "/terminal-de-buga"
+    } ,
+  
+    {
       "title"    : "Terminal de Cali: Info sobre • Horarios • Rutas • Servicios",
       "url"      : "/terminal-de-cali"
     } ,
@@ -225,11 +230,6 @@
     {
       "title"    : "Terminal de Garzón: Consejos, Rutas y Contactos para Viajeros",
       "url"      : "/terminal-de-garzon"
-    } ,
-  
-    {
-      "title"    : "La terminal de Buga",
-      "url"      : "/terminal-de-guadalajara-buga"
     } ,
   
     {
