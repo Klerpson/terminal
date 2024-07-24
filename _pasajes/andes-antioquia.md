@@ -13,8 +13,9 @@ alt: Foto de un bus que hacia los Andes Antioquia
 
 {% include add5.html %}
 
-Conocer las paradas en tu ruta hacia los Andes te permite planificar mejor tu viaje. Algunas rutas ofrecen **paradas estratégicas** en puntos turísticos o ciudades importantes. Esto te da la oportunidad de **explorar más** durante tu viaje.
-{:id="enlace1"}
+Conocer las paradas en tu ruta hacia los Andes te permite planificar mejor tu viaje. Algunas rutas ofrecen **paradas estratégicas** en puntos turísticos o ciudades importantes.
+
+Esto te da la oportunidad de explorar más durante tu viaje.
 
 ### Empresas de bus que ofrecen el servicio hacia los Andes
 
