@@ -7,7 +7,7 @@ category: Casanare
 h1: "Pasajes de Bogotá a Aguazul: Todo lo que necesitas saber"
 jpg: img/blog/aguazul-bogota.jpg
 hero: img/blog/aguazul-bogota.webp
-alt: Foto de Aguazul Cesar
+alt: Foto de Aguazul Casanare
 ---
 **Viajar de Bogotá a Aguazul Casanare en bus** es una experiencia que muchos eligen por sus múltiples ventajas. En este artículo, vas a encontrar todo lo que necesitas saber para que tu viaje sea un éxito.
 
