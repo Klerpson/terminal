@@ -6,7 +6,7 @@ description: La Terminal de Aguachica es más que un punto de tránsito. Conoce 
 category: cesar
 h1: "Aguachica: un viaje por su Terminal de Transporte"
 jpg: img/terminales/terminal-aguachica.jpg
-hero: img/terminales/terminal-aguachica-600.webp
+hero: img/terminales/terminal-aguachica.webp
 alt: Terminal de Aguachica
 webp1: terminales/terminal-aguachica-cesar-600.webp
 subtitle: Compra tus pasajes con las empresas de buses de la terminal de Aguachica
@@ -64,8 +64,6 @@ Además, es uno de los centros de transporte más eficientes y seguros del país
 
 ## ¿Cómo puedes llegar a la terminal de Aguachica?
 
------
-
 Para llegar a la terminal de Aguachica es fácil, pues solo debes tomar un bus o un taxi. **La Terminal está en el centro de la ciudad.**
 
 También puedes utilizar [la ubicación de la Terminal de Aguachica en Google maps]({{page.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}. Situada en el corazón de la ciudad, es un punto de fácil acceso desde cualquier lugar.
@@ -85,8 +83,6 @@ Y para hacerlo aún más conveniente, encontrarás una variedad de servicios y c
 
 ## Servicios en la Terminal de Aguachica
 
------
-
 La Terminal de Aguachica no solo es conocida por las empresas que operan allí, sino también por los servicios que ofrece a los viajeros:
 
 - Cómoda y moderna sala de espera.
@@ -97,8 +93,6 @@ La Terminal de Aguachica no solo es conocida por las empresas que operan allí, 
 - Servicio de primeros auxilios.
 
 ## Rutas populares desde Aguachica
-
------
 
 Aguachica se ha establecido como un punto de conexión importante en la región. Algunas de las rutas más populares incluyen:
 
@@ -112,22 +106,10 @@ La Terminal de Aguachica ha sido testigo de los cambios y crecimiento de la ciud
 
 Esta terminal de transporte es el pilar del transporte en la ciudad, [conectando a Aguachica con el resto del país]({{'terminales-de-colombia'|relative_url}}). Es más que un punto de tránsito, es parte de la vida de la ciudad.
 
-[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
-
 {% include addm2.html %}
 
-## Preguntas frecuentes
-
------
-
-### ¿Qué horarios tienen los autobuses?
-
-Las empresas de transporte de la temrinal funcionan todo el día y durante toda la semana. Los horarios son flexibles.
-
-### ¿Es segura la Terminal de Aguachica?
-
-Sí, cuenta con un equipo de seguridad profesional y el acompañamiento de las autoridades locales.
-
-## Continúa explorando
+## Continúa conociendo más terminales de transporte
 
 Te invitamos a seguir navegando por nuestro sitio web para obtener más información sobre otros destinos y servicios de transporte disponibles. ¡Gracias por elegirnos!
+
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
