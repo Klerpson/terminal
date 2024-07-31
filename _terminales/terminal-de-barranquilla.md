@@ -6,9 +6,8 @@ description: "Barranquilla es una ciudad que vibra al ritmo del Caribe. Pero, ¿
 category: atlantico
 h1: "La terminal de transporte de Barranquilla: la Puerta de Oro a la ciudad"
 jpg: img/terminales/terminal-barranquilla.jpg
-hero: img/terminales/terminal-barranquilla-600.webp
+hero: img/terminales/terminal-barranquilla.webp
 alt: Terminal de Barranquilla
-webp1: terminales/terminal-barranquilla-interior-600.webp
 webp2: terminales/terminal-barranquilla-interior-376.webp
 subtitle: Tiquetes en la terminal de Barranquilla
 intro: "La terminal de Barranquilla está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
@@ -44,27 +43,55 @@ empresas:
   - Transportes LUZ: 6053230075 - 6053230075 - 3106756621 - 3106756621
   - Unitransco: "#502"
 ---
-
 ## La Terminal de Transporte de Barranquilla: tu punto de partida y llegada
 
------
-
-Barranquilla, conocida como la "Puerta de Oro de Colombia", es una ciudad que vibra al ritmo del carnaval, la música y la alegría de su gente. Y
-**la Terminal de Transporte de Barranquilla es el principal punto de conexión terrestre** de la ciudad.
+Barranquilla, conocida como la "Puerta de Oro de Colombia", es una ciudad que vibra al ritmo del carnaval, la música y la alegría de su gente. Y **la Terminal de Transporte de Barranquilla es el principal punto de conexión terrestre** de la ciudad.
 
 ![Terminal Barranquilla]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Barranquilla"){:width="360" height="450" loading="lazy"}
 
 **Situada en el municipio de Soledad, a tan solo 1.5 km de Barranquilla**, esta terminal maneja un promedio de **700 buses diarios**.
 
-Ya sea que viajes desde Bogotá, Cartagena, Medellín o cualquier otra ciudad colombiana, es muy probable que tu bus haga una parada aquí.
+Si viajas desde Bogotá, Cartagena, Medellín o cualquier otra ciudad colombiana, es muy probable que tu bus haga una parada aquí.
 
 ### Empresas de buses en Barranquilla: viaja seguro y cómodo
 
 {% include add2.html %}
 
-Gracias a la diversidad de empresas que operan en la terminal, como **Expreso Brasilia, Copetran y Rápido Ochoa**, los viajeros tienen múltiples opciones para elegir.
+Gracias a la diversidad de empresas que operan en la terminal, como **[Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Empresa expreso Brasilia"), [Copetran]({% post_url 2024-07-31-copetran-empresa-de-buses %} "Empresa expreso Copetran") y Rápido Ochoa**, los viajeros tienen múltiples opciones para elegir.
 
 Tienes muchas opciones para encontrar lujo, comodidad o precios económicos. La Terminal de Barranquilla tiene, entre todas sus empresas, la opción perfecta para tu viaje.
+
+## Tabla de Pasajes desde y hacia Barranquilla
+
+## Tabla de Pasajes desde y hacia Barranquilla
+
+| Ruta                      | Duración | Tipo de Bus            | Precio Promedio  |
+|---------------------------|----------|------------------------|----------|
+| [Bogotá - Barranquilla](#telefonos)     | 19h 10m  | Reembolsable, Dos Pisos | $100,000 |
+| [Cartagena - Barranquilla](#telefonos)  | 2h 30m   | Reembolsable, Dos Pisos | $25,000  |
+| [Santa Marta -](#telefonos) Barranquilla| 2h 30m   | Reembolsable            | $21,000  |
+| [Valledupar - Barranquilla](#telefonos) | 8h 0m    | Reembolsable            | $30,000  |
+| [Bucaramanga - Barranquilla](#telefonos)| 11h 20m  | Reembolsable, Dos Pisos | $69,000  |
+| [Barranquilla - Bogotá](#telefonos)     | 19h 10m  | Reembolsable, Dos Pisos | $117,000 |
+| [Barranquilla - Cartagena](#telefonos)  | 2h 30m   | Reembolsable, Dos Pisos | $18,000  |
+| [Barranquilla - Santa](#telefonos) Marta| 2h 30m   | Reembolsable            | $25,000  |
+| [Barranquilla - Medellín](#telefonos)   | 14h 50m  | Reembolsable            | $135,000 |
+| [Barranquilla - Valledupar](#telefonos) | 7h 0m    | Reembolsable            | $30,000  |
+| [Barranquilla - Bucaramanga](#telefonos)| 11h 10m  | Reembolsable, Dos Pisos | $109,000 |
+| [Barranquilla - Sincelejo](#telefonos)  | 4h 40m   | Reembolsable            | $18,000  |
+| [Barranquilla - Montería](#telefonos)   | 6h 40m   | Reembolsable            | $30,000  |
+| [Barranquilla - Riohacha](#telefonos)   | 5h 0m    | Reembolsable            | $20,000  |
+| [Barranquilla - Cúcuta](#telefonos)     | 14h 0m   | Reembolsable            | $154,000 |
+
+## Tabla de Opciones Adicionales de Pasajes
+
+| Ruta                         | Duración   | Buses por Día | Precio   |
+|------------------------------|------------|---------------|----------|
+| Barranquilla (Atl) a Cartagena (Bol) | 2h 30m   | 143           | Desde COP 25,000 |
+| Barranquilla (Atl) a Valledupar (Ces) | 7h 0m    | 53            | Desde COP 54,000 |
+| Barranquilla (Atl) a Bucaramanga (San) | 11h 10m | 20            | Desde COP 109,000|
+| Barranquilla (Atl) a Medellín (Ant)     | 14h 50m | 19            | Desde COP 108,000|
+| Barranquilla (Atl) a Santa Marta (Mag)  | 2h 30m  | 78            | Desde COP 25,000 |
 
 ### Hoteles cerca de la Terminal de Transporte de Barranquilla
 
@@ -85,8 +112,6 @@ Aquí te dejamos una lista de los hoteles más cercanos a la terminal:
 
 ## Rutas populares desde y hacia Barranquilla
 
------
-
 Barranquilla se conecta con las principales ciudades de Colombia. Algunas de las rutas más populares incluyen:
 
 * **Barranquilla - [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal Bogotá"):** Con una duración de aproximadamente 17 horas y 10 minutos, esta ruta te lleva a través de paisajes cambiantes, desde las llanuras costeras hasta las montañas andinas.
@@ -101,8 +126,6 @@ Estas son solo algunas de las muchas rutas disponibles. La Terminal de Transport
 {% include add2.html %}
 
 ## La Terminal de Barranquilla: mucho más que un punto de partida
-
------
 
 La Terminal de Transporte de Barranquilla no es solo un lugar donde abordar un bus. Es un espacio lleno de vida, historias y encuentros.
 

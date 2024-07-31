@@ -6,7 +6,7 @@ description: La Terminal de Buga es una de las paradas más importantes de Colom
 category: Valle del Cauca
 h1: La Terminal de transporte de Buga
 jpg: img/terminales/terminal-buga.jpg
-hero: img/terminales/terminal-buga-600.webp
+hero: img/terminales/terminal-buga.webp
 alt: Terminal de Transporte de Buga
 webp: terminales/terminal-buga-exterior.webp
 subtitle: Compra tus tiquetes con las empresas de la terminal

@@ -1,5 +1,21 @@
+# Permitir el acceso a todos los rastreadores
 User-agent: *
 Allow: /
-User-Agent: AdsBot-Google-Mobile
-User-Agent: AdsBot-Google
+
+# Permitir a AdsBot-Google y AdsBot-Google-Mobile rastrear todo el sitio
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+# Proporcionar la ubicación del sitemap para una mejor indexación
 Sitemap: https://terminaldetransporte.com/sitemap.xml
+
+# Bloquear directorios privados o de administración si existen
+# Disallow: /admin/
+# Disallow: /private/
+
+# Bloquear parámetros de URL que generan contenido duplicado si es necesario
+# Disallow: /*?sessionid=
+# Disallow: /*?sort=
