@@ -81,6 +81,39 @@ Y para hacerlo aún más conveniente, encontrarás una variedad de servicios y c
 
 {% include add1.html %}
 
+## Precios de los pasajes a Aguachica
+
+El costo es crucial al planificar. Ya sea que busques lujo o economía, hay opciones de precios para ti:
+
+### 1. [RedBus]({% post_url 2023-04-03-redbus-colombia-reserva-viajes %})
+
+* **Precio aproximado del pasaje**: $96,000 COP
+* **Empresas disponibles**: Copetran, Expreso Brasilia, Omega
+* **Servicios**: Asientos reclinables, WiFi, baños, aire acondicionado, etc.
+
+### 2. Pinbus
+
+* **Precio aproximado del pasaje**: $90,000 - $110,000 COP
+* **Empresas disponibles**: Copetran, Expreso Brasilia
+* **Servicios**: Asientos reclinables, WiFi, baños, aire acondicionado, etc.
+
+### 3. Busbud
+
+* **Precio aproximado del pasaje**: $95,000 - $115,000 COP
+* **Empresas disponibles**: Copetran, Expreso Brasilia, Omega
+* **Servicios**: Asientos reclinables, WiFi, baños, aire acondicionado, etc.
+
+### 4. Tiquetes Baratos
+
+* **Precio aproximado del pasaje**: $85,000 - $100,000 COP
+* **Empresas disponibles**: Copetran, Expreso Brasilia
+* **Servicios**: Asientos reclinables, WiFi, baños, aire acondicionado, etc.
+
+### 5. Copetran
+
+* **Precio aproximado del pasaje**: $90,000 - $110,000 COP
+* **Servicios**: Asientos reclinables, WiFi, baños, aire acondicionado, etc.
+
 ## Servicios en la Terminal de Aguachica
 
 La Terminal de Aguachica no solo es conocida por las empresas que operan allí, sino también por los servicios que ofrece a los viajeros:

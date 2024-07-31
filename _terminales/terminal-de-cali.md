@@ -86,10 +86,10 @@ Si estás buscando pasajes para Cali, aquí encontrarás **información detallad
 
 | Ciudad de Origen | Empresas de Buses | Precio Aproximado | Horarios Disponibles |
 |------------------|-------------------|-------------------|----------------------|
-| Buses desde Medellin a Cali | Buses diarios22 | Precio promedio COP 76,990 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
-| Buses desde Bucaramanga a Cali | Buses diarios2 | Precio promedio COP 219,606 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
-| Buses desde La Unión a Cali | Buses diarios4 | Precio promedio COP 111,075 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
-| Buses desde Valledupar a Cali | Buses diarios2 | Precio promedio COP 222,477 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Medellin a Cali | Buses diarios 22 | Precio promedio COP 76,990 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Bucaramanga a Cali | Buses diarios 2 | Precio promedio COP 219,606 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde La Unión a Cali | Buses diarios 4 | Precio promedio COP 111,075 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Valledupar a Cali | Buses diarios 2 | Precio promedio COP 222,477 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
 
 ## Principales empresas y destinos de la terminal de Cali
 

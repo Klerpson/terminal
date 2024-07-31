@@ -6,10 +6,9 @@ description: "Conoce la Terminal de Transporte de Arauca: Encuentra información
 category: arauca
 h1: "Líderes en transporte: Terminal de Arauca destacada"
 jpg: img/terminales/terminal-arauca.jpg
-hero: img/terminales/terminal-arauca-600.webp
+hero: img/terminales/terminal-arauca.webp
 alt: Terminal de Aguachica
-webp1: terminales/terminal-arauca-arauca-600.webp
-webp2: terminales/terminal-arauca-arauca-376.webp
+webp2: terminales/terminal-arauca-arauca-600.webp
 subtitle: Adquiere tus tiquetes directamente con las empresas de la terminal de Arauca 
 intro: La Terminal de Transportes de Arauca se ubica estratégicamente frente al aeropuerto Santiago Pérez, al sur de la ciudad de Arauca, en la frontera con Venezuela.
 contacto: https://www.terminaldetransporte.gov.co/destinos/arauca/
@@ -35,8 +34,6 @@ empresas:
 ---
 ## Ubicación y cómo llegar a la Terminal de Arauca
 
------
-
 La Terminal de Transporte de Arauca se encuentra ubicada en el **kilómetro 1 de la vía Caño Limón**, frente al aeropuerto Santiago Pérez.
 
 ![Terminal Arauca]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Arauca"){:width="360" height="450" loading="lazy"}
@@ -44,8 +41,6 @@ La Terminal de Transporte de Arauca se encuentra ubicada en el **kilómetro 1 de
 Para llegar a la terminal, puedes **tomar un taxi desde el Hospital de Arauca o uno de los buses que vienen de Guasdualito** y terminan su ruta en la terminal.
 
 ## Servicios de la Terminal de transporte de Arauca
-
------
 
 La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se encuentran:
 
@@ -56,8 +51,6 @@ La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se e
 - Servicio de **vigilancia privada** las 24 horas.
 
 ## Empresas de Transporte en la Terminal de Arauca
-
------
 
 La terminal de Arauca **alberga a 8 de las principales empresas de transporte de pasajeros** que prestan sus servicios en la región nororiente del país, algunas de las cuales **también ofrecen rutas hacia Venezuela**:
 
@@ -83,7 +76,7 @@ Las empresas líderes que operan en la Terminal de Transportes de Arauca se cara
 
 Estas empresas cuentan con modernas flotas de vehículos, conductores capacitados y rutas estratégicamente planificadas para [garantizar viajes cómodos y puntuales]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %} "Viajes cómodos en bus").
 
-### Servicios ofrecidos por las empresas de la terminal
+### Servicios ofrecidos por las empresas de la terminal Arauca
 
 Las empresas de transporte en la Terminal de Arauca ofrecen todos los servicios necesarios para cumplir con la satisfacción de sus pasajeros.
 
@@ -93,8 +86,6 @@ Algunas empresas ofrecen servicios adicionales como **Wi-Fi a bordo, asientos re
 
 ## Seguridad y confiabilidad en los servicios de la terminal de Arauca
 
------
-
 La seguridad y confiabilidad son dos pilares fundamentales para los proveedores de transporte de la Terminal de Arauca.
 
 Estos proveedores cuentan con protocolos estrictos de seguridad y mantenimiento de vehículos para garantizar viajes sin contratiempos desde esta terminal.
@@ -103,22 +94,22 @@ Estos proveedores cuentan con protocolos estrictos de seguridad y mantenimiento 
 
 {% include add2.html %}
 
-### ¿Con cuánto tiempo debo presentarme en la terminal antes de mi viaje?
-
-Se recomienda que **llegues entre 30 y 45 minutos antes de tu viaje** para que la empresa de transportes pueda hacer la recepción de tu equipaje y puedas abordar el bus con tiempo suficiente para evitar retrasos en la ruta.
-
-### ¿Puedo viajar si perdí mi documento de identidad?
-
-Para viajar dentro de Colombia es necesario que portes tu cédula de ciudadanía o cualquier otro documento oficial que avale tu identidad.
-
-### ¿Puedo hacer cambios en mi tiquete después de comprarlo?
-
-Es necesario que te **acerques a la taquilla de la empresa de transportes donde compraste tu tiquete**, ellos te informarán qué debes hacer para poder cambiar tu pasaje. Haz el cambio por lo menos **24 horas antes** del horario indicado de tu viaje.
-
-### ¿Puedo tomar el bus en algún otro punto fuera de la terminal?
-
-Debes abordar el bus desde la terminal de transportes, con esto aseguras tu lugar dentro del bus y también tienes la tranquilidad de que la tarifa que te están cobrando es la oficial. **Evita el comercio informal y compra tus tiquetes en la terminal** con tiempo de anticipación.
-
-### ¿Cómo puedo expresar una queja, sugerencia o reclamo en el terminal de Arauca?
-
-Para quejas y reclamos es importante que te comuniques directamente con la empresa de transporte de pasajeros que te está ofreciendo el servicio.
+>### ¿Con cuánto tiempo debo presentarme en la terminal antes de mi viaje?
+>
+>Se recomienda que **llegues entre 30 y 45 minutos antes de tu viaje** para que la empresa de transportes pueda hacer la recepción de tu equipaje y puedas abordar el bus con tiempo suficiente para evitar retrasos en la ruta.
+>
+>### ¿Puedo viajar si perdí mi documento de identidad?
+>
+>Para viajar dentro de Colombia es necesario que portes tu cédula de ciudadanía o cualquier otro documento oficial que avale tu identidad.
+>
+>### ¿Puedo hacer cambios en mi tiquete después de comprarlo?
+>
+>Es necesario que te **acerques a la taquilla de la empresa de transportes donde compraste tu tiquete**, ellos te informarán qué debes hacer para poder cambiar tu pasaje. Haz el cambio por lo menos **24 horas antes** del horario indicado de tu viaje.
+>
+>### ¿Puedo tomar el bus en algún otro punto fuera de la terminal?
+>
+>Debes abordar el bus desde la terminal de transportes, con esto aseguras tu lugar dentro del bus y también tienes la tranquilidad de que la tarifa que te están cobrando es la oficial. **Evita el comercio informal y compra tus tiquetes en la terminal** con tiempo de anticipación.
+>
+>### ¿Cómo puedo expresar una queja, sugerencia o reclamo en el terminal de Arauca?
+>
+>Para quejas y reclamos es importante que te comuniques directamente con la empresa de transporte de pasajeros que te está ofreciendo el servicio.
