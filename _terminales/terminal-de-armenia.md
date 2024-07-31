@@ -6,10 +6,9 @@ description: "Conoce la Terminal de Transporte de Armenia • Servicios • Hora
 category: quindio
 h1: "Terminal de Transporte Armenia: tu llegada al Eje Cafetero"
 jpg: img/terminales/terminal-armenia.jpg
-hero: img/terminales/terminal-armenia-600.webp
+hero: img/terminales/terminal-armenia.webp
 alt: Terminal Armenia
-webp1: terminales/terminal-armenia-quindio-600.webp
-webp2: terminales/terminal-armenia-quindio-376.webp
+webp2: terminales/terminal-armenia-quindio-600.webp
 subtitle: Empresas de transporte de la terminal de Armenia con las que puedes comprar pasajes
 intro: La Terminal de Transporte de Armenia es tu punto de partida para descubrir el encanto del Eje Cafetero. Aquí encontrarás todo lo que necesitas para tu viaje.
 contacto: https://www.terminaldetransporte.gov.co/destinos/armenia/
@@ -62,8 +61,6 @@ empresas:
 ---
 ## Información que necesitas sobre la Terminal de Armenia
 
------
-
 La Terminal de Transporte de Armenia es un centro neurálgico para los viajeros en el departamento de Quindío, Colombia.
 
 La terminal ofrece servicios de transporte [a nivel nacional](/), interdepartamental y local.
@@ -72,7 +69,7 @@ La terminal ofrece servicios de transporte [a nivel nacional](/), interdepartame
 
 **La Terminal de Transporte de Armenia se encuentra en la Calle 35 No 20-68**, en el sur de la ciudad de Armenia, en el departamento de Quindío.
 
-![Terminal Armenia]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Armenia"){:width="360" height="450" loading="lazy"}
+![Terminal Armenia]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Armenia"){:width="600" loading="lazy"}
 
 ### Servicios disponibles en la Terminal de Transporte de Armenia
 
@@ -80,15 +77,13 @@ La terminal **cuenta con servicios básicos** como baños públicos, guarda equi
 
 ## Empresas de transporte en la Terminal de Transporte de Armenia
 
------
-
 Algunas de las empresas que prestan servicios en la terminal de Armenia son Coomotor Florencia, Coomotor, Cootrans Huila, [Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %}), [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %}), [Expreso Palmira]({% post_url 2023-07-21-expreso-palmira %}), Flota Magdalena, Flota Occidental, Velotax, entre otras.
 
 ### Coomotor Florencia
 
 {% include add2.html %}
 
-Coomotor Florencia es una de las empresas de transporte que operan en la Terminal de Transporte de Armenia. Puedes contactarlos en el **número 747 46 11 o al celular 312 5841717**.
+[Coomotor]({% post_url 2024-07-21-coomotor-empresa-de-buses %}) Florencia es una de las empresas de transporte que operan en la Terminal de Transporte de Armenia. Puedes contactarlos en el **número 747 46 11 o al celular 312 5841717**.
 
 ### Expreso Bolivariano
 
@@ -98,7 +93,7 @@ Expreso Bolivariano es otra empresa de transporte que opera en la Terminal de Tr
 
 Flota Occidental también presta servicios en la Terminal de Transporte de Armenia. Puedes contactarlos en el **número 7475686 o al 018000916150**.
 
-## Rutas Populares desde y hacia Armenia
+## Rutas y Pasajes desde y hacia Armenia
 
 Armenia, siendo un punto estratégico en el eje cafetero, tiene conexiones con varias ciudades importantes. Algunas rutas populares incluyen:
 
