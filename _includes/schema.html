@@ -297,113 +297,113 @@
 
 {% if page.json-terminal %}
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "TransitStation",
-  "name": "{{ page.title }}",
-  "description": "{{ page.description }}",
-  "url": "{{ site.url }}{{ page.permalink }}",
-  "image": [
-    "{{ site.baseurl }}/img/{{ page.jpg }}",
-    {% if page.hero %}"{{ site.baseurl }}/img/{{ page.hero }}",{% endif %}
-    {% if page.webp1 %}"{{ site.baseurl }}/img/{{ page.webp1 }}",{% endif %}
-    {% if page.webp2 %}"{{ site.baseurl }}/img/{{ page.webp2 }}"{% endif %}
-  ],
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "{{ page.direccion | strip_html | strip_newlines }}",
-    "addressLocality": "{{ page.ciudad }}",
-    "addressRegion": "{{ page.category | capitalize }}",
-    "postalCode": "{{ page.postal }}",
-    "addressCountry": "CO"
-  },
-  "telephone": "{{ page.telefono | strip_html | strip_newlines | split: ' ' | first }}",
-  "email": "{{ page.email }}",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "{{ page.telefono | strip_html | strip_newlines | split: ' ' | first }}",
-    "contactType": "customer service",
-    "availableLanguage": ["Spanish", "English"]
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "{{ page.latitude }}",
-    "longitude": "{{ page.longitude }}"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "{{ page.calificacion }}",
-    "reviewCount": "{{ page.reviews }}",
-    "bestRating": "5",
-    "worstRating": "1"
-  },
-  "openingHoursSpecification": {
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday",
-      "Sunday"
+  {
+    "@context": "http://schema.org",
+    "@type": "TransitStation",
+    "name": "{{ page.title }}",
+    "description": "{{ page.description }}",
+    "url": "{{ site.url }}{{ page.permalink }}",
+    "image": [
+      "{{ site.baseurl }}/img/{{ page.jpg }}",
+      {% if page.hero %}"{{ site.baseurl }}/img/{{ page.hero }}",{% endif %}
+      {% if page.webp1 %}"{{ site.baseurl }}/img/{{ page.webp1 }}",{% endif %}
+      {% if page.webp2 %}"{{ site.baseurl }}/img/{{ page.webp2 }}"{% endif %}
     ],
-    "opens": "00:00",
-    "closes": "23:59"
-  },
-  "amenityFeature": [
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Estacionamiento",
-      "value": true
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ page.direccion | strip_html | strip_newlines }}",
+      "addressLocality": "{{ page.ciudad }}",
+      "addressRegion": "{{ page.category | capitalize }}",
+      "postalCode": "{{ page.postal }}",
+      "addressCountry": "CO"
     },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Taquillas de venta de boletos",
-      "value": true
+    "telephone": "{{ page.telefono | strip_html | strip_newlines | split: ' ' | first }}",
+    "email": "{{ page.email }}",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "{{ page.telefono | strip_html | strip_newlines | split: ' ' | first }}",
+      "contactType": "customer service",
+      "availableLanguage": ["Spanish", "English"]
     },
-    {
-      "@type": "LocationFeatureSpecification",
-      "name": "Sala de espera",
-      "value": true
-    }
-  ],
-  "publicAccess": true,
-  "smokingAllowed": false,
-  "availableService": [
-    {
-      "@type": "Service",
-      "name": "Venta de boletos",
-      "description": "Venta de boletos para rutas intermunicipales e interdepartamentales"
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "{{ page.latitude }}",
+      "longitude": "{{ page.longitude }}"
     },
-    {
-      "@type": "Service",
-      "name": "Parqueadero de vehículos particulares",
-      "description": "Cupo limitado de parqueadero temporal para vehículos de personal de planta y visitantes"
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{{ page.calificacion }}",
+      "reviewCount": "{{ page.reviews }}",
+      "bestRating": "5",
+      "worstRating": "1"
     },
-    {
-      "@type": "Service",
-      "name": "Información turística",
-      "description": "Punto de información para turistas y viajeros"
-    }
-  ],
-  "potentialAction": {
-    "@type": "ReserveAction",
-    "target": {
-      "@type": "EntryPoint",
-      "urlTemplate": "{{ page.contacto }}",
-      "actionPlatform": [
-        "http://schema.org/DesktopWebPlatform",
-        "http://schema.org/MobileWebPlatform"
-      ]
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
     },
-    "result": {
-      "@type": "Reservation",
-      "name": "Reserva de boleto"
-    }
-  },
-  "hasMap": "{{ page.maps }}"
-}
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Estacionamiento",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Taquillas de venta de boletos",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Sala de espera",
+        "value": true
+      }
+    ],
+    "publicAccess": true,
+    "smokingAllowed": false,
+    "availableService": [
+      {
+        "@type": "Service",
+        "name": "Venta de boletos",
+        "description": "Venta de boletos para rutas intermunicipales e interdepartamentales"
+      },
+      {
+        "@type": "Service",
+        "name": "Parqueadero de vehículos particulares",
+        "description": "Cupo limitado de parqueadero temporal para vehículos de personal de planta y visitantes"
+      },
+      {
+        "@type": "Service",
+        "name": "Información turística",
+        "description": "Punto de información para turistas y viajeros"
+      }
+    ],
+    "potentialAction": {
+      "@type": "ReserveAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "{{ page.contacto }}",
+        "actionPlatform": [
+          "http://schema.org/DesktopWebPlatform",
+          "http://schema.org/MobileWebPlatform"
+        ]
+      },
+      "result": {
+        "@type": "Reservation",
+        "name": "Reserva de boleto"
+      }
+    },
+    "hasMap": "{{ page.maps }}"
+  }
 </script>
 {% endif %}
 
