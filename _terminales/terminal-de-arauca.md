@@ -40,16 +40,6 @@ La Terminal de Transporte de Arauca se encuentra ubicada en el **kilómetro 1 de
 
 Para llegar a la terminal, puedes **tomar un taxi desde el Hospital de Arauca o uno de los buses que vienen de Guasdualito** y terminan su ruta en la terminal.
 
-## Servicios de la Terminal de transporte de Arauca
-
-La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se encuentran:
-
-- **Servicio de taxis fuera de la terminal**: Estos taxis son colombianos y ofrecen servicio de transporte hacia la ciudad de Arauca, ubicada a 10 minutos al norte de la terminal.
-- **Servicio de transporte público hacia Arauca y ciudades de Venezuela**: busetas de transporte público que se dirigen hacia la ciudad de Arauca, aproximadamente a 10 minutos del terminal. También hay algunos buses que van rumbo a Guasdualito en Venezuela pero que en su recorrido paran en Arauca.
-- **Punto de información**.
-- Cómoda **sala de espera**.
-- Servicio de **vigilancia privada** las 24 horas.
-
 ## Empresas de Transporte en la Terminal de Arauca
 
 La terminal de Arauca **alberga a 8 de las principales empresas de transporte de pasajeros** que prestan sus servicios en la región nororiente del país, algunas de las cuales **también ofrecen rutas hacia Venezuela**:
@@ -64,6 +54,18 @@ La terminal de Arauca **alberga a 8 de las principales empresas de transporte de
 - Cooptratam
 {:class="seccion"}
 
+## Tabla de Pasajes para Arauca
+
+Utiliza esta información detallada sobre precios, empresas de buses y rutas disponibles desde diversas ciudades hacia Arauca para comprar tus pasajes:
+
+| Ciudad de Origen | Empresas de Buses | Precio Aproximado | Horarios Disponibles |
+|---------------------------------|-------------------|-------------------|--------------------------|
+| Buses desde Bogotá a Arauca | Buses diarios 7 | Precio promedio COP 183,672 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Villavicencio a Arauca | Buses diarios 6 | Precio promedio COP 172,711 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Bucaramanga a Arauca | Buses diarios 2 | Precio promedio COP 149,657 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Yopal a Arauca | Buses diarios 4 | Precio promedio COP 105,099 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Cúcuta a Arauca | Buses diarios 2 | Precio promedio COP 128,905 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+
 ### Empresas de buses destacadas en Arauca
 
 {% include add3.html %}
@@ -75,6 +77,16 @@ Esta terminal se ha consolidado como un punto neurálgico para el transporte ter
 Las empresas líderes que operan en la Terminal de Transportes de Arauca se caracterizan **por su compromiso con la seguridad, la calidad del servicio y la satisfacción del cliente**.
 
 Estas empresas cuentan con modernas flotas de vehículos, conductores capacitados y rutas estratégicamente planificadas para [garantizar viajes cómodos y puntuales]({% post_url 2023-03-15-viajar-en-bus-5-ventajas-inigualables %} "Viajes cómodos en bus").
+
+## Servicios de la Terminal de transporte de Arauca
+
+La terminal ofrece una variedad de servicios para los viajeros. Entre ellos se encuentran:
+
+- **Servicio de taxis fuera de la terminal**: Estos taxis son colombianos y ofrecen servicio de transporte hacia la ciudad de Arauca, ubicada a 10 minutos al norte de la terminal.
+- **Servicio de transporte público hacia Arauca y ciudades de Venezuela**: busetas de transporte público que se dirigen hacia la ciudad de Arauca, aproximadamente a 10 minutos del terminal. También hay algunos buses que van rumbo a Guasdualito en Venezuela pero que en su recorrido paran en Arauca.
+- **Punto de información**.
+- Cómoda **sala de espera**.
+- Servicio de **vigilancia privada** las 24 horas.
 
 ### Servicios ofrecidos por las empresas de la terminal Arauca
 
