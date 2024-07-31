@@ -63,8 +63,6 @@ Tienes muchas opciones para encontrar lujo, comodidad o precios económicos. La 
 
 ## Tabla de Pasajes desde y hacia Barranquilla
 
-## Tabla de Pasajes desde y hacia Barranquilla
-
 | Ruta                      | Duración | Tipo de Bus            | Precio Promedio  |
 |---------------------------|----------|------------------------|----------|
 | [Bogotá - Barranquilla](#telefonos)     | 19h 10m  | Reembolsable, Dos Pisos | $100,000 |
