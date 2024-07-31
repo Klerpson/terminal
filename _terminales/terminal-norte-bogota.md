@@ -116,7 +116,7 @@ Con un promedio de **983 buses al día durante el último año**, esta terminal 
 
 ## Destinos populares y servicios ofrecidos por la terminal Norte de Bogotá
 
-----
+{% include add1.html %}
 
 Los destinos más solicitados desde la Terminal del Norte incluyen ciudades y municipios muy visitados al norte del país. Algunos son:
 
@@ -134,15 +134,11 @@ Para facilitar el proceso de viaje, los usuarios tienen a su disposición **34 t
 
 ## Mejoras y adaptaciones de la Terminal de Transporte del Norte
 
-{% include add1.html %}
-
 La Terminal del Norte no ha dejado de evolucionar. Lo que comenzó con 19 bahías de parqueo, **ahora cuenta con 41 plataformas** para el ascenso de pasajeros.
 
 Ahora ha implementado un punto de control de alcoholimetría y torniquetes de acceso sistematizados, garantizando así la seguridad de los viajeros. Para aquellos que requieran atención médica, se ha habilitado un punto de atención prehospitalario.
 
 ## Beneficios de la Terminal Norte para la comunidad
-
-----
 
 La creación de esta terminal ha traído consigo numerosos beneficios para la comunidad local.
 
