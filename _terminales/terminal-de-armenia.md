@@ -63,17 +63,32 @@ empresas:
 
 La Terminal de Transporte de Armenia es un centro neurálgico para los viajeros en el departamento de Quindío, Colombia.
 
+![Terminal Armenia]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Armenia"){:width="600" loading="lazy"}
+
 La terminal ofrece servicios de transporte [a nivel nacional](/), interdepartamental y local.
 
 ### Dirección de la Terminal de Armenia
 
 **La Terminal de Transporte de Armenia se encuentra en la Calle 35 No 20-68**, en el sur de la ciudad de Armenia, en el departamento de Quindío.
 
-![Terminal Armenia]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte Armenia"){:width="600" loading="lazy"}
-
 ### Servicios disponibles en la Terminal de Transporte de Armenia
 
 La terminal **cuenta con servicios básicos** como baños públicos, guarda equipajes, locales de internet y cabinas telefónicas.
+
+## Pasajes desde y hacia Armenia
+
+{{page.description}}
+
+### Tabla de Pasajes para Armenia
+
+| Ciudad de Origen                | Empresas de Buses | Precio Aproximado | Horarios Disponibles                                           |
+|---------------------------------|-------------------|-------------------|---------------------------------------------------------------|
+| Buses desde Bogotá a Armenia    | Buses diarios 28  | Precio promedio COP 68,867  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Pereira a Armenia   | Buses diarios 4   | Precio promedio COP 13,514  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Cali a Armenia      | Buses diarios 26  | Precio promedio COP 48,240  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Medellín a Armenia  | Buses diarios 22  | Precio promedio COP 89,033  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Palmira a Armenia   | Buses diarios 15  | Precio promedio COP 49,119  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+
 
 ## Empresas de transporte en la Terminal de Transporte de Armenia
 
@@ -113,18 +128,6 @@ Para obtener más información sobre la Terminal de Transporte de Armenia, puede
 
 Si deseas conocer más destinos o buscar más opciones de viaje, no dudes en explorar más rutas y empresas disponibles en la terminal.
 
-[Busca más destinos en nuestra página web]({{'terminales-de-colombia'|relative_url}} "Terminales Colombianas"){:class="boton boton-verde"}
+[Busca más destinos]({{'terminales-de-colombia'|relative_url}} "Terminales Colombianas"){:class="boton boton-verde"}
 
 {% include add1.html %}
-
-## Preguntas frecuentes sobre la Terminal de Transporte de Armenia
-
------
-
-### ¿Cómo puedo contactar a las empresas de transporte en la Terminal de Transporte de Armenia?
-
-Puedes contactar a las empresas de transporte en la Terminal de Transporte de Armenia a través de los números de teléfono proporcionados en la sección de empresas de transporte de este artículo.
-
-### ¿Dónde puedo encontrar más información sobre la Terminal de Transporte de Armenia?
-
-Puedes encontrar más información sobre la Terminal de Transporte de Armenia en su sitio web oficial o en otros sitios web de viajes y transporte.
