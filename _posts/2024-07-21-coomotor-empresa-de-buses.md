@@ -3,8 +3,8 @@ layout: post
 title: 'Buses Coomotor: navette y más buses para tu comodidad'
 description: 'Coomotor es una cooperativa de transporte terrestre de pasajeros y encomiendas líder en Colombia. ¿Ya la utilizas en tus viajes? Mira porqué hacerlo'
 h1: 'Buses Coomotor: líder de viajes en bus por Colombia'
-jpg: img/blog/buses-dos-pisos-600.jpg
-hero: img/blog/buses-dos-pisos-600.webp
+jpg: img/blog/buses-dos-pisos-coomotor.jpg
+hero: img/blog/buses-dos-pisos-coomotor.webp
 alt: Bus de la cooperativa Coomotor
 json-post: true
 excerpt: Coomotor fue fundada en 1960. Ofrece servicios de encomiendas y tiene estaciones de servicios a lo largo del país.

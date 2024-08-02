@@ -5,7 +5,7 @@ title: "Transportes Omega: Comodidad y seguridad en tu viaje"
 description: Transportes Omega es una empresa que destaca por su comodidad y seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14 departamentos del país.
 h1: "Transportes Omega: Comodidad y seguridad en tu próximo viaje intermunicipal"
 jpg: img/blog/transportes-omega.jpg
-hero: img/blog/transportes-omega-800.webp
+hero: img/blog/transportes-omega.webp
 alt: Transportes Omega Bus
 excerpt: Transportes Omega es una empresa de transporte terrestre intermunicipal que destaca por su comodidad y seguridad en sus servicios. Con más de 300 buses y 70 agencias, cubre 14 departamentos del país.
 referencias:
