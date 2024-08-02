@@ -75,7 +75,31 @@ Para aquellos que buscan **lujo y comodidad**, **Velotax** es la empresa a elegi
 
 Ofrecen rutas a destinos premium y suelen ser la opción preferida para viajes de negocios o cuando se busca un servicio más exclusivo.
 
-- - -
+## Información de pasajes en la terminal de Buenaventura
+
+¿Planeas viajar desde Buenaventura? Aquí tienes una tabla detallada con opciones de transporte, incluyendo **horarios y precios aproximados** para que elijas la mejor opción para tu viaje.
+
+## Principales Rutas desde Buenaventura
+
+| Ciudad de Origen | Empresas de Buses  | Precio Aproximado  | Horarios |
+|---------------|------------|-------------|---------------------------|
+| Buenaventura a Medellín | 1 opción diaria | COP 145,000 | Primer Bus: 17:00 <br> Último Bus: 17:00 <br> [Consulta con las empresas](#telefonos)                                                                                      |
+| Buenaventura a Bogotá | 1 opción diaria | COP 150,000 | Primer Bus: 19:00 <br> Último Bus: 19:00 <br> [Consulta con las empresas](#telefonos)                                                                                      |
+| Buenaventura a Tuluá | 3 opciones diarias | COP 34,000  | Primer Bus: 07:20 <br> Último Bus: 14:50 <br> [Consulta con las empresas](#telefonos)                                                                                      |
+| Bogotá a Buenaventura | 1 opción diaria | COP 150,000 | Primer Bus: 19:30 <br> Último Bus: 19:30 <br> [Consulta con las empresas](#telefonos)                                                                                      |
+| Medellín a Buenaventura | 1 opción diaria | COP 145,000 | Primer Bus: 20:00 <br> Último Bus: 20:00 <br> [Consulta con las empresas](#telefonos)                                                                                      |
+| Bogotá a Buenaventura (Alternativas) | Flota Magdalena | desde COP 135,186  | Primer Bus: 19:30 <br> Último Bus: 19:30 <br> Duración: 14h 0m <br> [Consulta con las empresas](#telefonos)                                                                   |
+| Buenaventura a Bogotá | Reembolsable | COP 90,000 | Primer Bus: 19:00 <br> Último Bus: 19:00 <br> Duración: 11h 50m <br> [Ver pasajes](#telefonos)                                                                  |
+| Buenaventura a Medellín | Reembolsable | COP 100,000 | Primer Bus: 20:00 <br> Último Bus: 20:00 <br> Duración: 9h 20m <br> [Ver pasajes](#telefonos)                                                                   |
+| Buenaventura a Condoto | Reembolsable | COP 133,000 | Primer Bus: 20:00 <br> Último Bus: 20:00 <br> Duración: 9h 30m <br> [Ver pasajes](#telefonos)                                                                   |
+| Buenaventura a Cali | Reembolsable | COP 34,000 | Primer Bus: 07:20 <br> Último Bus: 14:50 <br> Duración: 2h 50m <br> [Ver pasajes](#telefonos)                                                                   |
+| Buenaventura a Armenia | Reembolsable | COP 34,000 | Primer Bus: 07:20 <br> Último Bus: 14:50 <br> Duración: 4h 40m <br> [Ver pasajes](#telefonos)                                                                   |
+| Buenaventura a Tuluá | Reembolsable | COP 34,000 | Primer Bus: 07:20 <br> Último Bus: 14:50 <br> Duración: 3h 10m <br> [Ver pasajes](#telefonos)                                                                   |
+| Buenaventura a Manizales | Reembolsable | COP 34,000 | Primer Bus: 07:20 <br> Último Bus: 14:50 <br> Duración: 6h 0m <br> [Ver pasajes](#telefonos)                                                                    |
+| Buenaventura a Ibagué | Reembolsable | COP 34,000 | Primer Bus: 07:20 <br> Último Bus: 14:50 <br> Duración: 7h 10m <br> [Ver pasajes](#telefonos)                                                                   |
+| Buenaventura a Melgar | Reembolsable | COP 34,000 | Primer Bus: 07:20 <br> Último Bus: 14:50 <br> Duración: 8h 20m <br> [Ver pasajes](#telefonos)                                                                   |
+
+¡Esperamos que esta información te ayude a planificar tu viaje desde Buenaventura de la manera más conveniente posible!
 
 ## Horarios y disponibilidad en la Terminal de buses Buenaventura
 

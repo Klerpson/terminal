@@ -8,8 +8,7 @@ h1: "Tu puerta a Bucaramanga: conoce el Terminal de Transporte"
 jpg: img/terminales/terminal-bucaramanga.jpg
 hero: img/terminales/terminal-bucaramanga.webp
 alt: Terminal de Bucaramanga
-webp1: terminales/terminal-bucaramanga-santander-600.webp
-webp2: terminales/terminal-bucaramanga-santander-376.webp
+webp2: terminales/terminal-bucaramanga-santander-600.webp
 subtitle: Compra tus pasajes con las empresas de la terminal de transporte de Bucaramanga
 intro: "¿Viajas a Bucaramanga? Conoce todo sobre su terminal de transporte y haz de tu viaje una experiencia inolvidable. Bucaramanga te invita a descubrir su terminal de transporte."
 contacto: https://terminalbucaramanga.com/es/cont%C3%A1ctenos
@@ -59,25 +58,27 @@ Bucaramanga, conocida como la "Ciudad de los Parques", es un destino turístico 
 
 ## Llega hasta la terminal de transporte de Bucaramanga
 
-----
-
 La Terminal de Bucaramanga es el principal punto de entrada y salida para los viajeros que visitan la ciudad.
 
 Según el sitio web de [Pinbus]({% post_url 2023-06-02-pinbus-compra-pasajes-colombia %}), la terminal **cuenta con más de 20 empresas de buses que realizan alrededor de 275 viajes al día a 27 ciudades diferentes**.
 
 Esto la convierte en una terminal muy activa y esencial para la movilidad en la región.
 
-### Información de contacto de la terminal Bucaramanga que te sacará de apuros
+## Información sobre los pasajes en la terminal de Bucaramanga
 
-¿Necesitas hablar con las empresas de transporte de la terminal? Aquí tienes una tabla comparativa con la info que necesitas:
+¿Estás planeando un viaje a Bucaramanga y necesitas información sobre los pasajes? Aquí te presentamos una tabla detallada con las opciones de transporte desde diversas ciudades. Encuentra las empresas de buses, precios aproximados y cómo consultar los horarios disponibles para que tu viaje sea lo más cómodo posible.
 
-| Empresa            | Número de Teléfono | ¿Qué ofrecen?            |
-|--------------------|--------------------|--------------------------|
-| **Copetran**       | 123-456-7890       | Viajes intermunicipales  |
-| **Expreso Bolivariano** | 098-765-4321  | Rutas nacionales        |
-| **Cootransmagdalena**   | 111-222-3333  | Viajes a la costa       |
+### Tabla de Pasajes para Bucaramanga
 
-Así que ya sabes, una llamada rápida podría resolver tus dudas.
+| Ciudad de Origen | Empresas de Buses | Precio Aproximado | Horarios Disponibles |
+|------------------|-------------------|-------------------|----------------------|
+| Buses desde Medellín a Bucaramanga | Buses diarios: 19 | Precio promedio: COP 100,629 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Cúcuta a Bucaramanga | Buses diarios: 25 | Precio promedio: COP 59,355 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Aguachica a Bucaramanga | Buses diarios: 36 | Precio promedio: COP 62,015 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Tunja a Bucaramanga | Buses diarios: 31 | Precio promedio: COP 86,455 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Santa Marta a Bucaramanga | Buses diarios: 11 | Precio promedio: COP 99,465 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+
+¡Esperamos que esta información te sea de ayuda para planificar tu próximo viaje a Bucaramanga!
 
 ### Cómo comprar pasajes en la terminal de Bucaramanga sin romperte la cabeza
 
@@ -85,7 +86,6 @@ Aquí te dejo una lista que te guiará paso a paso:
 
 1. **Escoge la Empresa**: [Copetran, Expreso Bolivariano, etc](#telefonos).
 2. **Método de Pago**: Efectivo, tarjeta de crédito, o incluso apps de pago.
-3. **Rango de Precios**: A Medellín, entre $50,000 y $80,000 COP.
 
 ### Servicios que ofrece la terminal Bucaramanga
 
@@ -112,9 +112,7 @@ Estas rutas varían en duración y precio, pero todas ofrecen la oportunidad de 
 
 ## Empresas de transporte más populares de la terminal de Bucaramanga
 
-----
-
-[La Terminal de Bucaramanga alberga a varias empresas de transporte](#telefonos) que ofrecen rutas a [diferentes destinos](/terminales-de-colombia "Terminales Colombianas"). Aquí te presentamos algunas de las más populares:
+La Terminal de Bucaramanga alberga a varias [empresas de transporte](#telefonos) que ofrecen rutas a [diferentes destinos]({{'terminales-de-colombia'|relative_url}} "Terminales Colombianas"). Aquí te presentamos algunas de las más populares:
 
 {% include add2.html %}
 
@@ -122,7 +120,7 @@ Estas rutas varían en duración y precio, pero todas ofrecen la oportunidad de 
 
 **Copetran** es una de las empresas más antiguas y reconocidas en Bucaramanga. Según el sitio web horariodebuses.com.co, Copetran ofrece rutas a destinos como Bogotá, Medellín y la Costa Atlántica.
 
-[Copetran](#telefonos) cuenta con servicios de lujo y buses de dos pisos para una experiencia de viaje más cómoda.
+[Copetran]({% post_url 2024-07-31-copetran-empresa-de-buses %} "Empresa de buses Copetran") cuenta con servicios de lujo y buses de dos pisos para una experiencia de viaje más cómoda.
 
 ### Cootransmagdalena
 
@@ -130,15 +128,13 @@ Estas rutas varían en duración y precio, pero todas ofrecen la oportunidad de 
 
 ### Expreso Bolivariano
 
-**Expreso Bolivariano** es conocido por su amplia cobertura en Colombia. Con rutas que van desde Bucaramanga hasta ciudades como Cali o Neiva, es una excelente opción para quienes buscan variedad y flexibilidad en sus viajes.
+**[Expreso Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Empresa de buses Expreso Bolivariano")** es conocido por su amplia cobertura en Colombia. Con rutas que van desde Bucaramanga hasta ciudades como Cali o Neiva, es una excelente opción para quienes buscan variedad y flexibilidad en sus viajes.
 
 ### Otros operadores de la terminal Bucaramanga
 
-Además de las empresas mencionadas, [la Terminal de Bucaramanga cuenta con otros operadores](#telefonos) como **Libertadores**, **Cotaxi** y **Expreso Brasilia**.
+Además de las empresas mencionadas, [la Terminal de Bucaramanga cuenta con otros operadores](#telefonos) como **Libertadores**, **Cotaxi** y **[Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Empresa de buses Expreso Brasilia")**.
 
 Cada empresa de buses tiene sus propias rutas y servicios, asegurando que los viajeros tengan múltiples opciones al planificar su viaje.
-
-----
 
 ## Consejos para viajar desde la terminal de Bucaramanga
 
@@ -147,10 +143,10 @@ Viajar puede ser estresante, pero [con estos consejos para viajar en bus]({% pos
 1. **Llega con anticipación**: Asegúrate de llegar al menos 30 minutos antes de la hora de salida de tu bus.
 2. **Verifica tu equipaje**: Antes de subir al bus, verifica que tu equipaje esté bien etiquetado y que no olvides nada.
 3. **Mantente hidratado**: Lleva una botella de agua contigo, especialmente en días calurosos.
-4. **Guarda tus objetos de valor**: Asegúrate de tener tus objetos de valor como dinero, pasaporte o teléfono móvil en un lugar seguro.
+4. **Guarda tus objetos de valor**: Asegúrate de tener dinero, pasaporte o teléfono móvil, y todos tus [maletas en un lugar seguro]({% post_url 2023-02-26-consejos-para-la-seguridad-de-tu-maleta-mientras-viajas-en-bus %} "Cómo cuidar las maletas en el bus").
 {:class="seccion"}
 
-## ¿Qué hacer cerca de la Terminal?
+## ¿Qué hacer cerca de la Terminal Bucaramanga?
 
 Si tienes tiempo antes de tu viaje o si estás haciendo una escala en Bucaramanga, hay varias cosas que puedes hacer cerca de la Terminal:
 
@@ -162,13 +158,11 @@ Si tienes tiempo antes de tu viaje o si estás haciendo una escala en Bucaramang
 
 {% include add2.html %}
 
-Bucaramanga no es solo un punto de tránsito. Es una ciudad rica en cultura, gastronomía y naturaleza.
-
-Al visitarla, te encontrarás con amables santandereanos dispuestos a mostrarte lo mejor de su tierra.
+Bucaramanga no es solo un punto de tránsito. Es una ciudad rica en cultura, gastronomía y naturaleza. Al visitarla, te encontrarás con amables santandereanos dispuestos a mostrarte lo mejor de su tierra.
 
 Su clima templado la hace perfecta para visitar en cualquier época del año.
 
-La Terminal de Transporte de Bucaramanga es más que un simple punto de tránsito. **Es la puerta de entrada a una ciudad llena de cultura, historia y belleza natural**.
+**La Terminal de Transporte de Bucaramanga** es la puerta de entrada a una ciudad llena de cultura, historia y belleza natural.
 
 Así que si estás de paso o si Bucaramanga es tu destino final, esta guía te ayudará a aprovechar al máximo tu tiempo en la terminal y en la ciudad. **¡Buen viaje y disfruta de todo lo que Bucaramanga tiene para ofrecer!**
 
