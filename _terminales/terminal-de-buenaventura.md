@@ -113,8 +113,6 @@ Es ideal para quienes tienen que llegar a su destino a primera hora y quieren ev
 
 Para los noctámbulos o quienes tienen horarios laborales extendidos, la terminal ofrece servicios **hasta las 8:00 p.m.**. Así que si prefieres viajar de noche, tienes una ventana de tiempo bastante amplia para hacerlo.
 
-----
-
 ## Contacto y atención al cliente en la Terminal de transporte Buenaventura
 
 ### Números de teléfono
@@ -151,17 +149,15 @@ En la *terminal de Buenaventura* puedes conseguir snacks y souvenirs, hay un poc
 
 {% include add1.html %}
 
-- - -
-
 ## Preguntas frecuentes sobre la terminal Buenaventura
 
-### ¿Aceptan tarjetas de débito y crédito?
-
-En algunos locales sí, pero siempre es bueno tener algo de efectivo.
-
-### ¿Qué tan segura es la terminal?
-
-Hay suficiente seguridad, pero siempre es bueno tomar tus propias precauciones.
+>### ¿Aceptan tarjetas de débito y crédito?
+>
+>En algunos locales sí, pero siempre es bueno tener algo de efectivo.
+>
+>### ¿Qué tan segura es la terminal?
+>
+>Hay suficiente seguridad, pero siempre es bueno tomar tus propias precauciones.
 
 ## ¿Vale la pena el servicio en la Terminal de transporte Buenaventura?
 
