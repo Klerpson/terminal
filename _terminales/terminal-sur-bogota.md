@@ -107,8 +107,6 @@ empresas:
 ---
 ## La Terminal del Sur de Bogotá y sus servicios esenciales
 
-----
-
 La **Terminal del Sur en Bogotá** es un punto muy importa de la ciudad para la partida y llegada de viajeros.
 
 Esta terminal es un epicentro de servicios, comodidades y conexiones que facilitan el tránsito de miles de personas diariamente.
@@ -117,13 +115,11 @@ Si estás planeando un viaje desde o hacia Bogotá y eliges la Terminal del Sur 
 
 ### Llega fácilmente a la terminal del Sur de Bogotá
 
-La Terminal del Sur es una de las principales estaciones de autobuses en Bogotá. **Situada en la Cl. 57n Bis Sur #75f-32**, esta terminal es atendida por *diversas empresas de transporte reconocidas como Expreso Brasilia, Copetran, Bolivariano*, entre otras.
+La Terminal del Sur es una de las principales estaciones de autobuses en Bogotá. **Situada en la Cl. 57n Bis Sur #75f-32**, esta terminal es atendida por *diversas empresas de transporte reconocidas como [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Empresa de Buses Expreso Brasilia"), [Copetran]({% post_url 2024-07-31-copetran-empresa-de-buses %} "Empresa de Buses Copetran"), [Bolivariano]({% post_url 2023-06-21-expreso-bolivariano-viaja-seguro-y-comodo-por-colombia %} "Empresa de Buses Expreso Bolivariano")*, entre otras.
 
 Su ubicación estratégica la hace accesible y conveniente para aquellos que residen en **el sur de la ciudad o para aquellos que se dirigen hacia destinos ubicados en esta dirección**.
 
 ## Empresas transportadoras en la Terminal del Sur
-
-----
 
 La Terminal del Sur es el punto de encuentro de numerosas empresas transportadoras que ofrecen rutas a diferentes destinos del país. Estas empresas son reconocidas por su trayectoria, seguridad y calidad de servicio.
 
@@ -143,17 +139,15 @@ Es esencial mencionar que cada empresa tiene diferentes tipos de buses, desde se
 
 Puedes contactar directamente con cada empresa para resolver dudas o hacer reservaciones, haz clic en este botón:
 
-[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
+[Ver otras terminales]({{'terminales-de-colombia'|relative_url}}){:class="boton boton-verde"}
 
 {% include add1.html %}
 
 ## Servicios ofrecidos en la Terminal del Sur de Bogotá
 
-----
+Esta [terminal de Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminal de Bogotá") no solo ofrece servicios de transporte. Al ser un punto neurálgico de la ciudad, cuenta con una variedad de servicios diseñados para hacer la experiencia del viajero más cómoda y agradable.
 
-Esta terminal de Bogotá no solo ofrece servicios de transporte. Al ser un punto neurálgico de la ciudad, cuenta con una variedad de servicios diseñados para hacer la experiencia del viajero más cómoda y agradable.
-
-### Servicios Bancarios
+### Servicios Bancarios en la terminal Sur
 
 Para aquellos que necesiten realizar transacciones financieras antes de su viaje, la terminal cuenta con cajeros automáticos y puntos de atención bancaria.
 
@@ -161,7 +155,7 @@ Para aquellos que necesiten realizar transacciones financieras antes de su viaje
 
 Independientemente de la hora de tu viaje, siempre encontrarás personal dispuesto a ayudarte en lo que necesites.
 
-### Parqueaderos
+### Parqueaderos de la terminal Sur de Bogotá
 
 Si decides llegar en tu vehículo, la terminal cuenta con amplios parqueaderos para que dejes tu coche con total seguridad.
 
@@ -181,11 +175,11 @@ Para garantizar la seguridad de los viajeros y sus pertenencias, la terminal cue
 
 Pensando en la inclusión y comodidad de todos, se ofrecen sillas de ruedas para aquellos que las requieran.
 
-### Asignación De Taxis Seguros
+### Asignación De Taxis Seguros en la terminal Sur
 
 Si necesitas un taxi al llegar o al partir, la terminal tiene un servicio de asignación de taxis seguros para tu tranquilidad.
 
-### Policía
+### Policía dentro de la terminal Sur Bogotá
 
 La presencia policial garantiza la seguridad y el orden dentro de las instalaciones.
 
@@ -201,7 +195,7 @@ Mantente conectado con el servicio gratuito de wifi que ofrece la terminal.
 
 Para aquellos viajeros que vienen de trayectos largos y desean refrescarse antes de continuar su viaje.
 
-### Restaurantes
+### Restaurantes de la terminal sur Bogotá
 
 Diversas opciones gastronómicas para satisfacer cualquier antojo antes o después de tu viaje.
 
@@ -213,8 +207,6 @@ Tiendas y locales comerciales donde podrás adquirir desde recuerdos hasta artí
 
 ## Vacunación en la Terminal de transporte del Sur de Bogotá
 
-----
-
 Antes de viajar a ciertos destinos, es esencial estar protegido contra enfermedades endémicas. **La Terminal del Sur ofrece servicios de vacunación** para:
 
 ### Fiebre amarilla
@@ -225,15 +217,13 @@ Esencial si viajas a zonas selváticas o rurales donde esta enfermedad es endém
 
 Asegúrate de estar protegido contra estas enfermedades antes de tu viaje.
 
-## Destinos desde la Terminal del Sur
-
-----
+## Destinos desde la Terminal del Sur de Bogotá
 
 Desde la Terminal del Sur, puedes viajar a diversos destinos nacionales. Algunos de los más populares son Neiva, Sogamoso, Ibagué, Bucaramanga, entre otros. Es esencial conocer las rutas y horarios disponibles para planificar tu viaje adecuadamente.
 
-### Lugares populares y cómo escoger tu destino
+### Lugares populares y cómo escoger tu destino en la terminal Sur Bogotá
 
-Al decidir tu destino, considera factores como **la duración del viaje, el costo y las actividades** que puedes realizar al llegar. La Terminal del Sur ofrece conexiones a destinos turísticos, ciudades principales y zonas rurales.
+Al decidir tu destino, considera factores como **la duración del viaje, el costo y las actividades** que puedes realizar al llegar. La Terminal del Sur [ofrece conexiones a destinos turísticos]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %} "Turismo por Colombia"), ciudades principales y zonas rurales.
 
 En conclusión, la **Terminal del Sur Bogotá** es más que un punto de partida. Es un centro de servicios y conexiones que facilita el viaje de miles de personas diariamente.
 
