@@ -3,7 +3,7 @@ layout: terminal
 title: "Bogotá: Terminal de Transporte del Norte y sus Servicios"
 description: "¿Buscas información sobre la Terminal del Norte en Bogotá? Aquí encontrarás todo lo que necesitas para comprar los pasajes de tu próximo viaje. ¡Entérate!"
 category: cundinamarca
-h1: "Terminal satélite del Norte Bogotá: información actualizada y consejos útiles"
+h1: "Terminal del Norte Bogotá: información actualizada y consejos útiles"
 jpg: img/terminales/terminal-norte-bogota.jpg
 hero: img/terminales/terminal-norte-bogota.webp
 alt: Terminal Norte Bogotá
