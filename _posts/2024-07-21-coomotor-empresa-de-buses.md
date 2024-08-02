@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Buses Coomotor: navette y más para tu comodidad'
+title: 'Buses Coomotor: navette y más buses para tu comodidad'
 description: 'Coomotor es una cooperativa de transporte terrestre de pasajeros y encomiendas líder en Colombia. ¿Ya la utilizas en tus viajes? Mira porqué hacerlo'
-h1: 'Buses Coomotor: líder de viajes en Colombia'
+h1: 'Buses Coomotor: líder de viajes en bus por Colombia'
 jpg: img/blog/buses-dos-pisos-600.jpg
 hero: img/blog/buses-dos-pisos-600.webp
 alt: Bus de la cooperativa Coomotor
