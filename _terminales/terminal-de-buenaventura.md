@@ -1,7 +1,7 @@
 ---
 layout: terminal
 json-terminal: "true"
-date: 2023-09-08T19:44:31.354Z
+date: 2023-09-08
 title: "Conoce la Terminal de Buenaventura: Horarios, Rutas y Más"
 description: ¿Necesitas información sobre el Terminal de Buenaventura? Tenemos la guía más completa. ¡Haz clic y viaja tranquilo!
 category: Valle del Cauca
@@ -37,11 +37,11 @@ empresas:
 ---
 ## Cómo llegar a la Terminal de Buenaventura
 
-### A la terminal en taxi
+### A la terminal de Buenaventura en taxi
 
 Si estás en cualquier punto de la ciudad, un taxi te llevará sin problemas. Es un punto de referencia conocido, así que no tendrás inconvenientes.
 
-### Llegar a la terminal en transporte público
+### Llegar a la terminal de Buenaventura en transporte público
 
 Toma cualquier bus que vaya por la Carrera 3 o uno que vaya por la Calle 2 en el Edificio CAD en el Centro de Buenaventura. Fácil y económico.
 
@@ -59,7 +59,7 @@ Sus buses están equipados con asientos cómodos y un sistema de entretenimiento
 
 ### Expreso Palmira
 
-**Expreso Palmira** es otra opción sólida si estás buscando **diversidad de rutas y tarifas competitivas**. No solo cubren las principales ciudades, sino que también ofrecen rutas a pequeñas localidades.
+**[Expreso Palmira]({{'terminal-de-buenaventura'|relative_url}} "Terminal Buenaventura")** es otra opción sólida si estás buscando **diversidad de rutas y tarifas competitivas**. No solo cubren las principales ciudades, sino que también ofrecen rutas a pequeñas localidades.
 
 Sus buses son modernos y cuentan con opciones de asientos reclinables y Wi-Fi gratuito, lo que los convierte en una excelente opción para viajes largos.
 

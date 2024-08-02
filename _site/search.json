@@ -193,11 +193,6 @@
     } ,
   
     {
-      "title"    : "Terminal de El Banco Magdalena: Tu Conexión con Colombia",
-      "url"      : "/terminal-de-el-banco-magdalena"
-    } ,
-  
-    {
       "title"    : "Conoce la Terminal de Buenaventura: Horarios, Rutas y Más",
       "url"      : "/terminal-de-buenaventura"
     } ,
@@ -220,6 +215,11 @@
     {
       "title"    : "Terminal de Cúcuta: Información Completa y Servicios Asociados",
       "url"      : "/terminal-de-cucuta"
+    } ,
+  
+    {
+      "title"    : "Terminal de El Banco Magdalena: Tu Conexión con Colombia",
+      "url"      : "/terminal-de-el-banco-magdalena"
     } ,
   
     {
