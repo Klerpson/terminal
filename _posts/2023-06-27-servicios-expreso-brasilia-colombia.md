@@ -6,7 +6,7 @@ title: 'Viaja cómodamente con Expreso Brasilia por Colombia'
 description: 'Expreso Brasilia es una empresa de transporte reconocida en Colombia y otros países por ofrecer servicios de alta calidad y seguridad en sus recorridos.'
 h1: 'Viaja con comodidad y seguridad: los servicios de Expreso Brasilia en Colombia'
 jpg: img/blog/expreso-brasilia.jpg
-hero: img/blog/expreso-brasilia-600.webp
+hero: img/blog/expreso-brasilia.webp
 alt: Foto de un bus Expreso Brasilia
 excerpt_separator: <!-- excerpt -->
 ---
@@ -76,7 +76,7 @@ La compañía cuenta con buses Mercedes Benz y Chevrolet, y todos ellos tienen c
 * Los buses están equipados con asientos cómodos y amplios, garantizando una experiencia cómoda durante el viaje.
 * Los buses tienen un sistema de iluminación interno de última tecnología, que proporciona una luz óptima para la lectura y otros propósitos.
 
-{% include img-post.html webpm="blog/expreso-brasilia-bus-800.webp" webps="blog/expreso-brasilia-bus-376.webp" alt="Bus Expreso Brasilia" title="Expreso Brasilia" %}
+![Bus de expreso Brasilia]({{"img/blog/expreso-brasilia-bus.webp"|relative_url}} "Bus Expreso Brasilia")
 
 ### Sistema de comunicación central y conductores
 
