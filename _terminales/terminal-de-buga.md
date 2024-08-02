@@ -47,7 +47,7 @@ empresas:
   - Transportes Unidos Buga: 6022283111
   - Velotax: 6022280073 - 3122820081
 ---
-## ¿Conoces la Terminal de Buga?
+## Conoce la Terminal de Buga
 
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
 
@@ -55,9 +55,27 @@ El Terminal de Guadalajara de Buga, conocido comúnmente como **Terminal de Buga
 
 Este terminal se destaca por sus variados destinos, algunos de turismo religioso, siendo la mayoría de sus recorridos hacia el sur de Colombia.
 
+## Compra tus pasajes en la terminal de Buga
+
+{% include add4.html %}
+
+¿Planeas viajar a Buga? Aquí tienes una tabla detallada con información sobre los pasajes de bus desde diversas ciudades. **Encuentra los mejores precios y horarios** para tu viaje.
+
+### Tabla de Pasajes para Buga
+
+| Ciudad de Origen         | Empresas de Buses | Precio Aproximado    | Horarios Disponibles                                           |
+|--------------------------|-------------------|----------------------|----------------------------------------------------------------|
+| Buses desde Cali a Buga  | Buses diarios: 42 | Precio promedio: COP 15,754  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Bogotá a Buga| Buses diarios: 4  | Precio promedio: COP 77,020  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Medellin a Buga | Buses diarios: 3  | Precio promedio: COP 72,448  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Ibagué a Buga | Buses diarios: 13 | Precio promedio: COP 67,044  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Manizales a Buga | Buses diarios: 15 | Precio promedio: COP 54,367  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+
+¡Esperamos que esta información te ayude a planificar tu viaje a Buga de manera eficiente y conveniente!
+
 ## Empresas de buses en Terminal de Buga
 
-La terminal de transporte de Buga cuenta con la presencia de [varios operadores, compañías y empresas de autobuses](#telefonos) que ofrecen servicios de alta calidad.
+La terminal de transporte de Buga cuenta con la presencia de varios operadores, compañías y empresas de autobuses que ofrecen servicios de alta calidad.
 
 Algunas de las empresas más populares que operan en este terminal son:
 
@@ -99,16 +117,17 @@ El terminal ofrece una variedad de servicios para los viajeros, entre ellos:
 - Parqueadero público
 - Servicios de guarda equipaje
 - Punto de información
+{:class="seccion"}
 
 ## Información adicional de la terminal de Buga
 
 - **Empresas Asociadas:** [Hay 17 empresas operando](#telefonos) a diario en el Terminal de Transporte de Buga.
-- **Buses Diarios:** Aproximadamente 1500 buses llegan a diario al Terminal de Transporte de Buga.
+- **Buses Diarios:** Aproximadamente *1500 buses llegan a diario al Terminal de Transporte de Buga*.
 {:class="seccion"}
 
 ## Destinos populares desde Terminal de Buga
 
-{% include add1.html %}
+{% include add2.html %}
 
 Desde el Terminal de Buga, puedes viajar a diversos destinos populares como:
 
