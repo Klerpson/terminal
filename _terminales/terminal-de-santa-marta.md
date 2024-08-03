@@ -6,10 +6,9 @@ description: La terminal de Santa Marta es una central que brinda servicios de t
 category: magdalena
 h1: La terminal de Santa Marta
 jpg: img/terminales/terminal-santa-marta.jpg
-hero: img/terminales/terminal-santa-marta-600.webp
+hero: img/terminales/terminal-santa-marta.webp
 alt: Terminal de Transporte de Santa Marta
-webp1: terminales/terminal-santa-marta-exterior-600.webp
-webp2: terminales/terminal-santa-marta-exterior-376.webp
+webp: terminales/terminal-santa-marta-exterior-600.webp
 subtitle: Tiquetes en la terminal de buses de Santa Marta
 intro: "Ubicada al norte de Colombia y funcionando desde el año 1993, la terminal de Santa Marta llegó a transportar a más de 30,000 personas durante el feriado de Reyes del año pasado."
 contacto: https://terminaldesantamarta.com/entidad/AtencionCiudadano
@@ -45,7 +44,7 @@ empresas:
 
 ¿Estás buscando el lugar perfecto para comenzar **tu próximo viaje a Santa Marta**? ¡No busques más allá de la Terminal de Transporte!
 
-![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Terminal transporte {{ciudad}}"){:width="600" height="450" loading="lazy"}
 
 Esta moderna y bien equipada **terminal es la puerta de entrada a las maravillas de la costa caribeña de Colombia**, y te ayudará a comenzar tu viaje sin problemas.
 
@@ -67,11 +66,10 @@ La Terminal de Transporte de Santa Marta cuenta con una amplia gama de servicios
 
 {% include add3.html %}
 
-La Terminal de Transporte de Santa Marta cuenta con varias empresas de transporte que operan en toda la región caribeña. Algunas de las compañías de transporte más populares que operan desde aquí incluyen:
+**La Terminal de Transporte de Santa Marta cuenta con varias empresas de transporte** que operan en toda la región caribeña. Algunas de las compañías de transporte más populares que operan desde aquí incluyen:
 
-* Brasilia
-* Copetran
-* Expreso Brasilia
+* [Expreso Brasilia]({% post_url 2023-06-27-servicios-expreso-brasilia-colombia %} "Empresa buses Brasilia")
+* [Copetran]({% post_url 2024-07-31-copetran-empresa-de-buses %} "Empresa buses Copetran")
 * Omega
 * Rápido Ochoa
 * Unitransco
@@ -85,6 +83,8 @@ Los precios y horarios de las diferentes empresas de transporte pueden variar, p
 
 Para obtener información actualizada sobre los precios y horarios de los diferentes operadores, se puede llamar al teléfono de la Terminal de Transporte de Santa Marta o visitar su sitio web oficial.
 
-¡No esperes más para comenzar tu próxima aventura en la costa caribeña de Colombia! Con la Terminal de Transporte de Santa Marta, tienes todo lo que necesitas para comenzar tu viaje sin problemas y llegar a tu destino de manera segura y cómoda. ¡Te deseamos un feliz viaje!
+¡No esperes más para comenzar tu próxima aventura en la costa caribeña de Colombia!
 
-[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
+Con la Terminal de Transporte de Santa Marta, tienes todo lo que necesitas para comenzar tu viaje sin problemas y llegar a tu destino de manera segura y cómoda. ¡Te deseamos un feliz viaje!
+
+[Ver otras terminales]({{'terminales-de-colombia'|relative_url}}){:class="boton boton-verde"}

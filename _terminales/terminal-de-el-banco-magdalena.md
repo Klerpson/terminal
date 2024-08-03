@@ -6,8 +6,8 @@ title: "Terminal de El Banco Magdalena: Tu Conexión con Colombia"
 description: De Expreso Brasilia a Copetran, conoce las opciones de viaje en El Banco Magdalena. ¡Haz clic para saber más!
 category: magdalena
 h1: "Terminal de transporte de El Banco Magdalena: En bus por Colombia"
-jpg: img/blog/terminal-el-banco-magdalena.jpg
-hero: img/blog/terminal-el-banco-magdalena.webp
+jpg: img/terminales/terminal-el-banco-magdalena.jpg
+hero: img/terminales/terminal-el-banco-magdalena.webp
 alt: Terminal Banco Magdalena
 subtitle: "Empresas de buses de la terminal de El Banco Magdalena: Teléfonos y datos"
 intro: "**La terminal de transporte del Banco Magdalena conecta varios municipios** y ofrece una amplia gama de servicios, desde taxis hasta autobuses intermunicipales."
