@@ -82,10 +82,6 @@ La Terminal de Tunja ofrece una amplia gama de servicios para los viajeros. Entr
 
 Además, la terminal cuenta con un personal altamente capacitado para atender las necesidades de los viajeros y garantizar una experiencia de viaje agradable.
 
-### Empresas de buses en la terminal
-
-[Diversas empresas de transporte operan en la Terminal de Tunja](#telefonos), ofreciendo rutas a diferentes regiones del país. Estas empresas cuentan con una flota de buses modernos y seguros, garantizando un viaje cómodo y seguro a los pasajeros.
-
 ## Rutas y destinos desde la Terminal de transporte Tunja
 
 {% include add3.html %}
@@ -94,11 +90,28 @@ La Terminal de Tunja ofrece una amplia gama de rutas y destinos para los viajero
 
 Las empresas de transporte que operan en la terminal **ofrecen una frecuencia regular de buses**, lo que permite a los viajeros planificar sus viajes con facilidad.
 
+### Empresas de buses en la terminal
+
+[Diversas empresas de transporte operan en la Terminal de Tunja](#telefonos), ofreciendo rutas a diferentes regiones del país. Estas empresas cuentan con una flota de buses modernos y seguros, garantizando un viaje cómodo y seguro a los pasajeros.
+
+Utiliza esta útil tabla con información sobre los diferentes **pasajes para llegar a Tunja desde varias ciudades**. ¡Haz clic en los enlaces para obtener más detalles sobre los horarios y las empresas de transporte!
+
+### Tabla de Pasajes para Tunja
+
+| Ciudad de Origen                         | Empresas de Buses      | Precio Aproximado    | Horarios Disponibles                                                                 |
+|------------------------------------------|------------------------|----------------------|--------------------------------------------------------------------------------------|
+| Buses desde Bucaramanga a Tunja          | Buses diarios: 18      | Precio promedio: COP 81,405  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Sogamoso a Tunja             | Buses diarios: 4       | Precio promedio: COP 14,496  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Barranquilla a Tunja         | Buses diarios: 2       | Precio promedio: COP 161,190 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Cúcuta a Tunja               | Buses diarios: 11      | Precio promedio: COP 80,325  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Bogotá a Tunja               | Buses diarios: 37      | Precio promedio: COP 38,834  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+
+
 ### Destinos populares desde la Terminal de Tunja
 
 Algunos de los destinos más populares desde la Terminal de Tunja incluyen las ciudades de [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminales de Bogotá"), [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali"), entre otras.
-
 La terminal de Tunja también ofrece rutas a diferentes regiones del país, lo que permite a los viajeros [explorar la diversidad y la belleza de Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}).
+
 
 ## La transformación de la terminal de transporte de Tunja
 
