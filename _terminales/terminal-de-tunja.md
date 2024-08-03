@@ -1,14 +1,14 @@
 ---
 layout: terminal
 json-terminal: true
-title: "Terminal de Tunja: Un vistazo general"
+title: "Terminal de Tunja: Consigue tus pasajes"
 description: Compra tus tiquetes directamente con la Terminal de Tunja. ¿Sabes de su impacto y proyecciones futuras? ¡Emprende tu viaje hoy!
 category: Boyacá
-h1: "Terminal de Tunja: Un vistazo general"
+h1: "Terminal de Tunja: Empresas de buses y pasajes"
 jpg: img/terminales/terminal-tunja.jpg
 hero: img/terminales/terminal-tunja.webp
-alt: Terminal de Transporte de Santa Marta
-webp: terminales/terminal-tunja-boyaca-600.webp
+alt: Terminal de Transporte de Tunja
+webp: terminales/terminal-tunja-boyaca-376.webp
 subtitle: Empresas transportadoras de la terminal de Tunja
 intro: "Planea tu viaje desde la Terminal de Tunja. Mira los horarios de sus autobuses, tarifas, conexiones de transporte y los servicios que tienes a disposición."
 contacto: https://terminaltunja.com/
