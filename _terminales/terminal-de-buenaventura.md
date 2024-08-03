@@ -6,8 +6,8 @@ title: "Conoce la Terminal de Buenaventura: Horarios, Rutas y Más"
 description: ¿Necesitas información sobre el Terminal de Buenaventura? Tenemos la guía más completa. ¡Haz clic y viaja tranquilo!
 category: Valle del Cauca
 h1: Muévete como pez en el mar en la Terminal de Buenaventura
-jpg: img/blog/terminal-transporte-buenaventura.jpg
-hero: img/blog/terminal-transporte-buenaventura.webp
+jpg: img/terminales/terminal-transporte-buenaventura.jpg
+hero: img/terminales/terminal-transporte-buenaventura.webp
 alt: Terminal Buenaventura
 subtitle: Teléfonos y más datos de las empresas de la terminal de Transporte de Buenaventura
 intro: "Bienvenido a la guía más completa sobre el Terminal de Transporte de Buenaventura. Si estás planeando un viaje desde o hacia esta ciudad portuaria, has llegado al lugar correcto. Aquí encontrarás todo lo que necesitas saber: desde horarios y rutas hasta opiniones de viajeros y consejos para hacer tu experiencia más placentera. ¡Vamos allá!"
