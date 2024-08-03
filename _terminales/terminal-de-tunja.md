@@ -6,10 +6,9 @@ description: Compra tus tiquetes directamente con la Terminal de Tunja. ¿Sabes 
 category: Boyacá
 h1: "Terminal de Tunja: Un vistazo general"
 jpg: img/terminales/terminal-tunja.jpg
-hero: img/terminales/terminal-tunja-600.webp
+hero: img/terminales/terminal-tunja.webp
 alt: Terminal de Transporte de Santa Marta
-webp1: terminales/terminal-tunja-boyaca-600.webp
-webp2: terminales/terminal-tunja-boyaca-376.webp
+webp: terminales/terminal-tunja-boyaca-600.webp
 subtitle: Empresas transportadoras de la terminal de Tunja
 intro: "Planea tu viaje desde la Terminal de Tunja. Mira los horarios de sus autobuses, tarifas, conexiones de transporte y los servicios que tienes a disposición."
 contacto: https://terminaltunja.com/
@@ -62,7 +61,7 @@ empresas:
 
 La **Terminal de Tunja** es un punto neurálgico de la movilidad en la región de Boyacá. Situada en la ciudad de Tunja, esta terminal de transporte se ha convertido en un referente para los viajeros que buscan desplazarse por el interior de Colombia.
 
-![{{page.alt}}]({{site.baseurl}}/img/{{page.webp2}} "Terminal transporte {{ciudad}}"){:width="360" height="450" loading="lazy"}
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Terminal transporte {{ciudad}}"){:width="600" height="600" loading="lazy"}
 
 Por la calidad de sus servicios y una infraestructura moderna, la Terminal de Tunja ofrece una experiencia de viaje cómoda y segura.
 
@@ -85,7 +84,7 @@ Además, la terminal cuenta con un personal altamente capacitado para atender la
 
 ### Empresas de buses en la terminal
 
-Diversas empresas de transporte operan en la Terminal de Tunja, ofreciendo rutas a diferentes regiones del país. Estas empresas cuentan con una flota de buses modernos y seguros, garantizando un viaje cómodo y seguro a los pasajeros.
+[Diversas empresas de transporte operan en la Terminal de Tunja](#telefonos), ofreciendo rutas a diferentes regiones del país. Estas empresas cuentan con una flota de buses modernos y seguros, garantizando un viaje cómodo y seguro a los pasajeros.
 
 ## Rutas y destinos desde la Terminal de transporte Tunja
 
@@ -93,15 +92,13 @@ Diversas empresas de transporte operan en la Terminal de Tunja, ofreciendo rutas
 
 La Terminal de Tunja ofrece una amplia gama de rutas y destinos para los viajeros. Desde la terminal, los viajeros pueden acceder a diferentes regiones del país, lo que facilita la movilidad y contribuye a la conectividad de la región.
 
-### Rutas principales y frecuencia de buses
-
-Desde la Terminal de Tunja, los viajeros pueden acceder a una amplia gama de rutas que conectan con las principales ciudades y regiones del país.
-
 Las empresas de transporte que operan en la terminal **ofrecen una frecuencia regular de buses**, lo que permite a los viajeros planificar sus viajes con facilidad.
 
 ### Destinos populares desde la Terminal de Tunja
 
-Algunos de los destinos más populares desde la Terminal de Tunja incluyen las ciudades de [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminales de Bogotá"), [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali"), entre otras. Además, la terminal también ofrece rutas a diferentes regiones del país, lo que permite a los viajeros [explorar la diversidad y la belleza de Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}).
+Algunos de los destinos más populares desde la Terminal de Tunja incluyen las ciudades de [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminales de Bogotá"), [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali"), entre otras.
+
+La terminal de Tunja también ofrece rutas a diferentes regiones del país, lo que permite a los viajeros [explorar la diversidad y la belleza de Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}).
 
 ## La transformación de la terminal de transporte de Tunja
 

@@ -62,7 +62,7 @@ La Terminal de Transporte de Santa Marta cuenta con una amplia gama de servicios
 * Circuitos cerrados de televisión y seguridad 24/7
 {:class="seccion"}
 
-### Empresas de transporte en la Terminal de Transporte de Santa Marta
+## Empresas de transporte en la Terminal de Transporte de Santa Marta
 
 {% include add3.html %}
 
@@ -81,9 +81,20 @@ La Terminal de Transporte de Santa Marta cuenta con una amplia gama de servicios
 
 Los precios y horarios de las diferentes empresas de transporte pueden variar, pero la Terminal de Transporte de Santa Marta tiene **un horario de funcionamiento de 24 horas al día**.
 
+Consulta esta práctica tabla con información sobre las diferentes opci**ones de pasajes para llegar a Santa Marta desde varias ciudades**. ¡Haz clic en los enlaces para más detalles sobre horarios y empresas de transporte!
+
+## Tabla de Pasajes para Santa Marta
+
+| Ciudad de Origen | Empresas de Buses | Precio Aproximado | Horarios Disponibles |
+|-------------------|---------------|--------------|---------------|
+| Buses desde Cartagena a Santa Marta      | Buses diarios: 19      | Precio promedio: COP 58,313 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Barranquilla a Santa Marta   | Buses diarios: 34      | Precio promedio: COP 29,447 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Medellín a Santa Marta       | Buses diarios: 6       | Precio promedio: COP 210,366 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Honda a Santa Marta          | Buses diarios: 4       | Precio promedio: COP 127,009 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+
 Para obtener información actualizada sobre los precios y horarios de los diferentes operadores, se puede llamar al teléfono de la Terminal de Transporte de Santa Marta o visitar su sitio web oficial.
 
-¡No esperes más para comenzar tu próxima aventura en la costa caribeña de Colombia!
+## No esperes más para comenzar tu próxima aventura en la costa caribeña de Colombia desde la terminal de Santa Marta
 
 Con la Terminal de Transporte de Santa Marta, tienes todo lo que necesitas para comenzar tu viaje sin problemas y llegar a tu destino de manera segura y cómoda. ¡Te deseamos un feliz viaje!
 
