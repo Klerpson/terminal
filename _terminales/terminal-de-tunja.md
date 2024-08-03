@@ -106,12 +106,10 @@ Utiliza esta útil tabla con información sobre los diferentes **pasajes para ll
 | Buses desde Cúcuta a Tunja               | Buses diarios: 11      | Precio promedio: COP 80,325  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
 | Buses desde Bogotá a Tunja               | Buses diarios: 37      | Precio promedio: COP 38,834  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
 
-
 ### Destinos populares desde la Terminal de Tunja
 
 Algunos de los destinos más populares desde la Terminal de Tunja incluyen las ciudades de [Bogotá]({{'terminal-de-bogota'|relative_url}} "Terminales de Bogotá"), [Medellín]({{'terminal-de-medellin'|relative_url}} "Terminales de Medellín"), [Cali]({{'terminal-de-cali'|relative_url}} "Terminal de Cali"), entre otras.
 La terminal de Tunja también ofrece rutas a diferentes regiones del país, lo que permite a los viajeros [explorar la diversidad y la belleza de Colombia]({% post_url 2023-03-24-los-5-mejores-destinos-de-colombia-para-viajar-en-bus %}).
-
 
 ## La transformación de la terminal de transporte de Tunja
 

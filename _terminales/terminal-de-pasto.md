@@ -6,9 +6,8 @@ description: La Terminal de Pasto es una construcción relativamente reciente. A
 category: Nariño
 h1: La terminal de transporte de Pasto
 jpg: img/terminales/terminal-pasto.jpg
-hero: img/terminales/terminal-pasto-600.webp
+hero: img/terminales/terminal-pasto.webp
 alt: Terminal de Pasto
-webp1: terminales/terminal-pasto-exterior-600.webp
 webp2: terminales/terminal-pasto-exterior-376.webp
 subtitle: Tiquetes con las empresas de la terminal de Pasto
 intro: "La terminal de Pasto se encuentra ubicada en la zona suroccidental de la ciudad de Pasto, con fácil acceso vehicular y a través del transporte público."
@@ -69,7 +68,35 @@ empresas:
 
 La Terminal de Transportes de Pasto es un centro de transporte importante en el departamento de Nariño, que ofrece servicios de transporte a [varias ciudades en Colombia]({{site.baseurl}}/terminales-de-colombia) y Ecuador. **Con una ubicación privilegiada en el centro de la ciudad**, esta terminal es el lugar perfecto para comenzar tus viajes.
 
-### Servicios de la terminal de Pasto
+## Planifica tu viaje a Pasto en bus y consigue tus pasajes de la terminal de Pasto
+
+Explora esta práctica tabla con información sobre los diferentes **pasajes para llegar a Pasto desde varias ciudades**.
+
+### Tabla de Pasajes para Pasto
+
+| Ciudad de Origen              | Empresas de Buses     | Precio Aproximado    | Horarios Disponibles                                                    |
+|-------------------------------|-----------------------|----------------------|-------------------------------------------------------------------------|
+| Buses desde Bogotá a Pasto    | Buses diarios: 2      | Precio promedio: COP 135,232 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde La Unión a Pasto  | Buses diarios: 5      | Precio promedio: COP 40,578  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Cali a Pasto      | Buses diarios: 13     | Precio promedio: COP 97,271  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Medellín a Pasto  | Buses diarios: 2      | Precio promedio: COP 150,184 | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+| Buses desde Mocoa a Pasto     | Buses diarios: 5      | Precio promedio: COP 80,325  | [Consulta los horarios con las empresas de la terminal](#telefonos) |
+
+Además, cuenta con empresas de transporte como Cootransmayo y Bolivariano, que ofrecen servicios de alta calidad y precios asequibles.
+
+### Cootransmayo en la terminal Pasto
+
+Esta empresa de transporte ofrece servicios a varias ciudades en Nariño y otros departamentos de Colombia. Puedes comprar tus tiquetes en la taquilla número 23 de la terminal o en línea a través de su sitio web.
+
+### Bolivariano en la terminal Pasto
+
+Esta empresa de transporte ofrece servicios a varias ciudades en Colombia y Ecuador. Puedes comprar tus tiquetes en la taquilla número 13 de la terminal o en línea a través de su sitio web.
+
+### Supertaxis en la terminal Pasto
+
+Si necesitas transporte desde la terminal a un lugar específico en la ciudad, Supertaxis está disponible en la terminal para llevarte a tu destino final.
+
+## Servicios de la terminal de Pasto
 
 {% include add1.html %}
 
@@ -85,22 +112,8 @@ Entre los servicios que ofrece la Terminal de Transportes de Pasto se encuentran
 * Vigilancia y seguridad las 24 horas del día.
 {:class="seccion"}
 
-Además, cuenta con empresas de transporte como Cootransmayo y Bolivariano, que ofrecen servicios de alta calidad y precios asequibles.
-
-#### Cootransmayo
-
-Esta empresa de transporte ofrece servicios a varias ciudades en Nariño y otros departamentos de Colombia. Puedes comprar tus tiquetes en la taquilla número 23 de la terminal o en línea a través de su sitio web.
-
-#### Bolivariano
-
-Esta empresa de transporte ofrece servicios a varias ciudades en Colombia y Ecuador. Puedes comprar tus tiquetes en la taquilla número 13 de la terminal o en línea a través de su sitio web.
-
-#### Supertaxis
-
-Si necesitas transporte desde la terminal a un lugar específico en la ciudad, Supertaxis está disponible en la terminal para llevarte a tu destino final.
-
-[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}
-
 La Terminal de Transportes de Pasto es el lugar perfecto **para comenzar tus aventuras en el sur de Colombia**. Con su amplia gama de servicios y opciones de transporte, puedes estar seguro de que tu viaje será cómodo y seguro.
 
 ¡Empaca tus maletas y comienza tu próximo viaje desde la Terminal de Transportes de Pasto!
+
+[Ver otras terminales](/terminales-de-colombia){:class="boton boton-verde"}

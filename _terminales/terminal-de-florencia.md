@@ -6,9 +6,8 @@ description: ¿Estás buscando la terminal de Florencia? Llega a tu destino en e
 category: caqueta
 h1: Terminal de Florencia - La principal del Caquetá
 jpg: img/terminales/terminal-florencia.jpg
-hero: img/terminales/terminal-florencia-600.webp
-alt: Descubre el corazón de Caquetá con la Terminal de Florencia como punto de partida.
-webp1: terminales/terminal-florencia-caqueta-600.webp
+hero: img/terminales/terminal-florencia.webp
+alt: La Terminal de Florencia como punto de partida
 webp2: terminales/terminal-florencia-caqueta-376.webp
 subtitle: Compra con las taquillas de la terminal de Florencia
 intro: "¿Buscas aventuras en el corazón del Caquetá? La Terminal de Florencia es el punto de partida ideal para explorar la belleza natural del departamento. ¡Planifica tu próxima escapada ahora!"
@@ -38,7 +37,7 @@ La Terminal de Transportes de Florencia **es la principal estación de autobuses
 
 Si tienes planes de viajar desde esta terminal, aquí te proporcionaremos información útil para que puedas [disfrutar de un viaje seguro y cómodo]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}).
 
-### Servicios disponibles en la Terminal de Transportes de Florencia
+## Servicios disponibles en la Terminal de Transportes de Florencia
 
 La Terminal de Transportes de Florencia ofrece una amplia variedad de servicios para garantizar la comodidad de los pasajeros durante su estadía en la estación. Estos son algunos de los servicios que podrás encontrar:
 
@@ -48,14 +47,34 @@ La Terminal de Transportes de Florencia ofrece una amplia variedad de servicios 
 * Servicios de carga y encomiendas: La terminal cuenta con varias empresas de mensajería que ofrecen servicios de envío y recepción de paquetes, encomiendas y carga en general.
 {:class="seccion"}
 
-### Destinos populares desde la Terminal de Transportes de Florencia
+## Encuentra los mejores pasajes de Bogotá a Florencia
+
+Consulta esta tabla con información detallada sobre precios, horarios y empresas de buses que operan entre Bogotá y Florencia. ¡Haz clic en los enlaces para ver más detalles y reservar tu pasaje!
+
+### Tabla de Pasajes para Florencia
+
+| Ciudad de Origen            | Empresas de Buses       | Precio Aproximado | Horarios Disponibles                                                    |
+|-----------------------------|-------------------------|-------------------|-------------------------------------------------------------------------|
+| Bogotá a Florencia          | 14 buses por día        | Precio desde COP 106.000 | [9:30 p.m. - 6:30 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable, Dos Pisos      |
+|                             |                         |                   | [5:30 p.m. - 2:30 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable, Dos Pisos      |
+|                             |                         |                   | [6:00 p.m. - 3:00 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable, Dos Pisos      |
+|                             |                         |                   | [11:00 p.m. - 8:00 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable               |
+|                             |                         |                   | [7:00 p.m. - 4:00 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable               |
+|                             |                         |                   | [5:00 p.m. - 2:00 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable               |
+|                             |                         |                   | [7:45 p.m. - 4:45 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable               |
+|                             |                         |                   | [11:30 p.m. - 8:30 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable               |
+|                             |                         |                   | [10:00 p.m. - 7:00 a.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable               |
+| Bogotá a Florencia          | 3 buses por día         | Precio desde COP 97.000  | [6:00 a.m. - 3:00 p.m.](#telefonos) - Estrella puntuación 4.1 Reembolsable                |
+
+¡Utiliza esta información para organizar tu próximo viaje a Florencia con facilidad y comodidad!
+
+## Destinos populares desde la Terminal de Transportes de Florencia
 
 {% include add1.html %}
 
 La Terminal de Transportes de Florencia es la puerta de entrada a muchas ciudades principales de Colombia. Estos son algunos de los destinos más populares que se pueden visitar desde la terminal:
 
 * **Bogotá**: La capital colombiana es una ciudad llena de vida y cultura. Desde la Terminal de Transportes de Florencia, puedes tomar un autobús que te llevará directamente a Bogotá en un viaje de aproximadamente 10 horas.
-
 * **Neiva**: La ciudad de Neiva es conocida por su hermosa arquitectura colonial y por ser el hogar del famoso festival de música andina Mono Núñez. Desde la Terminal de Transportes de Florencia, puedes llegar a Neiva en un viaje de 5 horas.
 * **Popayán**: La ciudad blanca de Popayán es famosa por su belleza colonial y su gastronomía. Desde la Terminal de Transportes de Florencia, puedes llegar a Popayán en un viaje de 6 horas.
 {:class="seccion"}
