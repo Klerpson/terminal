@@ -61,7 +61,7 @@ Según los últimos estudios, el precio medio de los seguros de coche ha experim
 
 Para ilustrar mejor cómo pueden variar los precios, veamos algunos ejemplos concretos:
 
-![Seguros de coches Allianz](/img/img/blog/allianz-logo.webp "Logo de Allianz")
+![Seguros de coches Allianz]({{'img/blog/allianz-logo.webp'|relative_url}} "Logo de Allianz")
 
 - **Allianz Seguro a Terceros**: Desde 180 euros al año, ofreciendo una cobertura sólida que incluye responsabilidad civil, asistencia en viaje y protección jurídica.
 - **Seguro a Terceros Ampliado con Allianz**: A partir de 230 euros anuales, agregando coberturas por robo, incendio y daños a lunas.

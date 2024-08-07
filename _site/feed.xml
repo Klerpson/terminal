@@ -9,8 +9,8 @@
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-COL</language>
-    <pubDate>Wed, 07 Aug 2024 07:06:51 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Aug 2024 07:06:51 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Aug 2024 07:11:28 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2024 07:11:28 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     <image>
       <url>http://localhost:4000/img/logo-terminal-de-transporte-200px.jpg</url>
@@ -902,7 +902,7 @@
 
 <p>Para ilustrar mejor cómo pueden variar los precios, veamos algunos ejemplos concretos:</p>
 
-<p><img src="/img/img/blog/allianz-logo.webp" alt="Seguros de coches Allianz" title="Logo de Allianz" /></p>
+<p><img src="/img/blog/allianz-logo.webp" alt="Seguros de coches Allianz" title="Logo de Allianz" /></p>
 
 <ul>
   <li><strong>Allianz Seguro a Terceros</strong>: Desde 180 euros al año, ofreciendo una cobertura sólida que incluye responsabilidad civil, asistencia en viaje y protección jurídica.</li>
