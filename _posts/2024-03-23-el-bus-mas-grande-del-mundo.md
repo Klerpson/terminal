@@ -39,7 +39,7 @@ El bus más grande del mundo tiene una **longitud de alrededor de 30 metros y un
 
 ### Características destacadas del Neoplan Jumbocruiser
 
-![Bus Neoplan el más grande del mundo](/img/img/blog/bus-neoplan.webp "Bus Neoplan")
+![Bus Neoplan el más grande del mundo]({{'img/blog/bus-neoplan.webp'|relative_url}} "Bus Neoplan")
 
 El Neoplan Jumbocruiser se destaca por una serie de características impresionantes que lo convierten en un vehículo único en su tipo. Algunas de las características más destacadas incluyen:
 

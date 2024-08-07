@@ -52,7 +52,7 @@ Por este motivo, es fundamental tener en cuenta las pautas de seguridad y ser re
 
 ### Pautas de seguridad para pasajeros durante el viaje en autobús
 
-{% include img-post.html webpm="img/blog/seguridad-bus-colombia-cinturon-800.webp" webps="img/blog/seguridad-bus-colombia-cinturon-376.webp" alt="Pasajero utilizando el cinturón de seguridad" title="Cinturón de seguridad" %}
+![Bus con cinturón de seguridad]({{'img/blog/seguridad-bus-colombia-cinturon-800.webp'|relative_url}} "Cinturón de seguridad en el bus")
 
 Para aumentar la seguridad durante el viaje en autobús, es importante seguir algunas pautas de seguridad básicas. Algunas de estas pautas pueden ser:
 

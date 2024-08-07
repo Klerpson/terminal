@@ -111,7 +111,7 @@ El alquiler de minibuses y vans es ideal para bodas, bautizos, comuniones y otra
 
 ### Ir de excursión en un minibus alquilado
 
-![Excursión en bus alquilado]({{'blog/alquier-bus-excursion.webp'|relative_url}} "Excursión"){:loading="lazy" width="320" height="320"}
+![Excursión en bus alquilado]({{'img/blog/alquier-bus-excursion.webp'|relative_url}} "Excursión"){:loading="lazy" width="320" height="320"}
 
 Tanto para un viaje de un día o varios, el alquiler de buses y minibuses es la opción perfecta para visitas turísticas.
 
@@ -145,8 +145,6 @@ Ya sea para congresos, convenciones, ferias u otros eventos, el alquiler de auto
 * **¿Puedo viajar con mi mascota en el bus alquilado?** Las políticas varían según la empresa. [Algunas permiten mascotas mientras que otras no]({% post_url 2023-08-16-viajar-con-mascotas-bus %}). Es esencial verificar esta información antes de reservar.
 
 ## Elegir el mejor bus de alquiler para tu viaje
-
------
 
 El alquiler de buses y minibuses en Colombia es una excelente opción para garantizar [un transporte seguro, cómodo y eficiente]({% post_url 2023-02-27-viajes-en-bus-7-consejos-para-disfrutar-al-maximo-tu-trayecto %}). Es una solución de transporte adecuada para cada necesidad.
 

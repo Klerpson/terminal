@@ -91,7 +91,7 @@ Puntos de interés en la ruta
 
 ### Día 6 Exploración de ciudad perdida
 
-![Foto de la llegada a Ciudad Perdida]({{'img/img/blog/ciudad-perdida-santa-marta.webp'|relative_url}} "Ciudad Perdida")
+![Foto de la llegada a Ciudad Perdida]({{'img/blog/ciudad-perdida-santa-marta.webp'|relative_url}} "Ciudad Perdida")
 
 Alcanzarás Ciudad Perdida al amanecer.
 

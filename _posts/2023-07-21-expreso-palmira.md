@@ -53,8 +53,6 @@ Los viajeros pueden encontrar los mejores precios y opciones de transporte en es
 
 {% include addm5.html %}
 
-{% include img-post.html webpm="blog/expreso-palmira-bus-800.webp" webps="blog/expreso-palmira-bus-376.webp" alt="Empresa Expreso Palmira en el Valle" title="Flota Expreso Palmira" %}
-
 Al elegir viajar con Expreso Palmira, los pasajeros pueden disfrutar de una experiencia de viaje cómoda y segura con una variedad de servicios y comodidades que harán que su viaje sea un momento agradable.
 
 A continuación, te presentamos los detalles de los **servicios que están disponibles durante tu viaje en los autobuses de Expreso Palmira**.

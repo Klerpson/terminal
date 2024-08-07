@@ -71,7 +71,7 @@ Los buses a Lima tienen una amplia variedad de rutas y paradas, lo que te brinda
 
 Algunas empresas de transporte incluso ofrecen paradas en lugares turísticos importantes en el camino hacia Lima, lo que te permite hacer paradas intermedias y disfrutar de otros destinos de Perú en tu viaje.
 
-![Comprando pasajes en bus a Lima](/img/img/blog/ofertas-pasajes-lima-bus.webp "Comprar pasajes bus Lima")
+![Comprando pasajes en bus a Lima]({{'img/blog/ofertas-pasajes-lima-bus.webp'|relative_url}} "Comprar pasajes bus Lima")
 
 ## Consejos para encontrar las mejores ofertas de pasajes a Lima en bus
 

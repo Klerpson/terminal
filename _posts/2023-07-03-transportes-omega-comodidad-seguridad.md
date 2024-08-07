@@ -31,7 +31,7 @@ En el sitio web oficial de Transportes Omega, se encuentra disponible **un mapa 
 
 [Página de rutas](https://omega.com.co/rutas/){:rel="nofollow noopener noreferrer" target="_blank" id="boton"}
 
-![Terminal donde funciona Omega]({{'img/blog/terminal-apartado-376.webp'|relative_url}} "Punto Omega terminal")
+![Terminal donde funciona Omega]({{'img/terminales/terminal-apartado-376.webp'|relative_url}} "Punto Omega terminal")
 
 ### Compra rápida y segura de pasajes en línea
 
@@ -67,7 +67,7 @@ El servicio Alfa de Omega ofrece una experiencia de viaje excepcional. Los pasaj
 
 ## Transportes Omega: empresa de buses en Colombia
 
-{% include img-post.html webpm="img/blog/transportes-omega-bus-800.webp" webps="img/blog/transportes-omega-bus-376.webp" alt="Bus Transportes Omega" title="Transportes Omega" %}
+![Bus viajando por las vías de Colombia]({{'img/blog/transportes-omega-bus-800.webp'|relative_url}} "Bus Omega")  
 *Imagen ilustrativa de la flota de Omega*
 
 Desde su inicio en el año 1948 en Togüí, Transportes Omega se ha enfocado en brindar comodidad a sus pasajeros y seguridad en sus servicios. La flota es diversa, **ofreciendo transporte básico y premium** con diferentes comodidades y servicios adicionales.
