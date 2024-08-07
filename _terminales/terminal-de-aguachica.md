@@ -8,7 +8,7 @@ h1: "Aguachica: un viaje por su Terminal de Transporte"
 jpg: img/terminales/terminal-aguachica.jpg
 hero: img/terminales/terminal-aguachica.webp
 alt: Terminal de Aguachica
-webp1: terminales/terminal-aguachica-cesar-600.webp
+webp2: terminales/terminal-aguachica-cesar-600.webp
 subtitle: Compra tus pasajes con las empresas de buses de la terminal de Aguachica
 intro: "La terminal de Aguachica está cerca al centro histórico. Es el centro de transporte de toda la región de la costa caribeña colombiana."
 contacto: http://terminalaguachica.com/web/contacto/
