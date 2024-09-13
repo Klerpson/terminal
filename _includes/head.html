@@ -67,6 +67,9 @@
     <link rel="preload" as="font" href="{{ 'css/fonts/lato-v24-latin-regular.woff2' | relative_url}}" type="font/woff2" crossorigin>
     <link rel="preload" as="font" href="{{ 'css/fonts/lato-v20-latin-700.woff2' | relative_url}}" type="font/woff2" crossorigin>
     <link rel="preload" as="font" href="{{ 'css/fonts/lato-v24-latin-900.woff2' | relative_url }}" type="font/woff2" crossorigin>
+    {% if page.url == "/" %}
+    <link rel="preload" fetchpriority="high" as="image" href="{{'img/bg-2.webp'|relative_url}}" type="image/webp">
+    {% endif %}
 
     <meta name='impact-site-verification' value='e0c4e1a6-a393-49f3-8b92-fb1f508b5a9b'>
 

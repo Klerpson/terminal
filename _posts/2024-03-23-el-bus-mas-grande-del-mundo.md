@@ -43,11 +43,11 @@ El bus más grande del mundo tiene una **longitud de alrededor de 30 metros y un
 
 El Neoplan Jumbocruiser se destaca por una serie de características impresionantes que lo convierten en un vehículo único en su tipo. Algunas de las características más destacadas incluyen:
 
-*   **Longitud impresionante:** Con su tamaño de aproximadamente 30 metros, el Neoplan Jumbocruiser ofrece una capacidad de transporte sin precedentes.
-*   **Diseño de dos pisos:** Este bus gigante cuenta con dos pisos, proporcionando un espacio adicional para la comodidad de los pasajeros y aprovechando al máximo el espacio disponible.
-*   **Capacidad de carga superior:** El Jumbocruiser puede transportar hasta 170 pasajeros, lo que lo convierte en uno de los buses con mayor capacidad del mundo.
-*   **Ventajas aerodinámicas:** A pesar de su gran tamaño, el diseño innovador del Jumbocruiser hace que sea más aerodinámico y eficiente en términos de consumo de combustible.
-*   **Tecnología avanzada:** Equipado con características modernas como sistemas de entretenimiento a bordo, aire acondicionado y accesibilidad para personas con movilidad reducida, el Jumbocruiser ofrece una experiencia de viaje cómoda y conveniente.
+* **Longitud impresionante:** Con su tamaño de aproximadamente 30 metros, el Neoplan Jumbocruiser ofrece una capacidad de transporte sin precedentes.
+* **Diseño de dos pisos:** Este bus gigante cuenta con dos pisos, proporcionando un espacio adicional para la comodidad de los pasajeros y aprovechando al máximo el espacio disponible.
+* **Capacidad de carga superior:** El Jumbocruiser puede transportar hasta 170 pasajeros, lo que lo convierte en uno de los buses con mayor capacidad del mundo.
+* **Ventajas aerodinámicas:** A pesar de su gran tamaño, el diseño innovador del Jumbocruiser hace que sea más aerodinámico y eficiente en términos de consumo de combustible.
+* **Tecnología avanzada:** Equipado con características modernas como sistemas de entretenimiento a bordo, aire acondicionado y accesibilidad para personas con movilidad reducida, el Jumbocruiser ofrece una experiencia de viaje cómoda y conveniente.
 
 ## Ejemplos de otros buses gigantes
 
@@ -69,10 +69,10 @@ Un ejemplo notable del uso de BRT y **buses gigantes es el TransMilenio de [Bogo
 
 Los buses gigantes ofrecen una serie de beneficios tanto para los pasajeros como para las ciudades en general. Algunos de los beneficios más destacados son:
 
-*   **Mayor capacidad de pasajeros:** Los buses gigantes pueden transportar a un número significativo de personas en comparación con los autobuses convencionales, reduciendo así la necesidad de múltiples vehículos y mejorando la eficiencia del transporte público.
-*   **Reducción del tráfico urbano:** Al transportar a más pasajeros en un solo vehículo, los buses gigantes pueden ayudar a reducir el número de automóviles en las carreteras, contribuyendo a una disminución del tráfico y a una mejor fluidez del tránsito.
-*   **Menor impacto ambiental:** Al requerir menos buses en circulación, los buses gigantes pueden contribuir a la reducción de la emisión de gases de efecto invernadero y tener un impacto más positivo en el medio ambiente.
-*   **Costos más bajos de operación:** En comparación con tener múltiples buses más pequeños, operar buses gigantes puede ser más rentable y eficiente en términos de mantenimiento y uso de combustible.
+* **Mayor capacidad de pasajeros:** Los buses gigantes pueden transportar a un número significativo de personas en comparación con los autobuses convencionales, reduciendo así la necesidad de múltiples vehículos y mejorando la eficiencia del transporte público.
+* **Reducción del tráfico urbano:** Al transportar a más pasajeros en un solo vehículo, los buses gigantes pueden ayudar a reducir el número de automóviles en las carreteras, contribuyendo a una disminución del tráfico y a una mejor fluidez del tránsito.
+* **Menor impacto ambiental:** Al requerir menos buses en circulación, los buses gigantes pueden contribuir a la reducción de la emisión de gases de efecto invernadero y tener un impacto más positivo en el medio ambiente.
+* **Costos más bajos de operación:** En comparación con tener múltiples buses más pequeños, operar buses gigantes puede ser más rentable y eficiente en términos de mantenimiento y uso de combustible.
 
 ## Los buses más grandes del mundo: agilizando el transporte
 
