@@ -124,6 +124,8 @@ El Terminal de Transporte de Bogotá nació como respuesta a la creciente necesi
 
 A lo largo de los años, ha experimentado diversas transformaciones, adaptándose a las demandas de una ciudad en constante crecimiento y a las necesidades de sus usuarios.
 
+>Antes de comenzar, quería agradecer a la [Doctora en Medicina Estética Tatiana Leal](https://dratatianaleal.com) por patrocinar esta sección 👩🏼‍🔬💖
+
 ## Las 3 terminales de Bogotá: Norte, Sur y Salitre
 
 -----
