@@ -8,11 +8,11 @@ h1_alternativo: 'Lenovo ThinkPad T490s: calidad, rendimiento y diseño en uno'
 award: 'Lenovo ThinkPad T490s: calidad, rendimiento y diseño en uno'
 date: 2025-02-18
 keywords: [lenovo, thinkpad]
-jpg: blog/lenovo-thinkpad.jpg
-hero: blog/lenovo-thinkpad.png
-webps: blog/lenovo-thinkpad.png
-webpm: blog/lenovo-thinkpad.png
-webpb: blog/lenovo-thinkpad.png
+jpg: img/blog/lenovo-thinkpad.jpg
+hero: img/blog/lenovo-thinkpad.png
+webps: img/blog/lenovo-thinkpad.png
+webpm: img/blog/lenovo-thinkpad.png
+webpb: img/blog/lenovo-thinkpad.png
 alt: lenovo-thinkpad
 json-post: true
 permalink: blog/lenovo-thinkpad
