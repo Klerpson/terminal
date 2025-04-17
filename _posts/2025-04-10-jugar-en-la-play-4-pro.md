@@ -3,7 +3,7 @@ layout: post
 title: "Cómo mejorar tu experiencia de juego con la PS4 Pro"
 description: "La PlayStation 4 Pro se ha convertido en una de las consolas más populares de Sony, brindando a los jugadores una experiencia de juego de alta calidad con gráficos mejorados y un rendimiento más fluido"
 h1: "Cómo mejorar tu experiencia de juego con la PS4 Pro: Consejos y trucos"
-date: 2023-02-26
+date: 2025-04-12
 jpg: img/blog/play-4-pro.jpg
 hero: img/blog/play-4-pro.webp
 webps: img/blog/play-4-pro.webp
