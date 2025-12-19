@@ -1,5 +1,5 @@
-baseurl: ''
-url: 'https://terminaldetransporte.com'
+baseurl: 'terminal/'
+url: ''
 name: 'TerminaldeTransporte.com'
 author: terminaldetransporte.com
 email: info@terminalesdetransporte.com
