@@ -18,7 +18,7 @@
       "name": "{{ site.name }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site.url }}{{ site.baseurl }}/img/logo.png"
+        "url": "{{ site.url }}{{ site.baseurl }}/img/logo-terminal-de-transporte-200px.jpg"
       }
     }
   },
@@ -84,7 +84,7 @@
                 "url": "{{ site.url }}{{ empresa.url }}",
                 "image": {
                   "@type": "ImageObject",
-                  "url": "{{ site.url }}{{ site.baseurl }}/img/{{ empresa.img }}",
+                  "url": "{{ site.url }}{{ site.baseurl }}/img/{{ empresa.img | remove_first: "img/" }}",
                   "width": "300",
                   "height": "200"
                 },
@@ -168,7 +168,7 @@
                 "url": "{{ site.url }}{{ post.url }}",
                 "image": {
                   "@type": "ImageObject",
-                  "url": "{{ site.url }}{{ site.baseurl }}/img/{{ post.hero }}",
+                  "url": "{{ site.url }}{{ site.baseurl }}/img/{{ post.hero | remove_first: "img/" }}",
                   "width": "800",
                   "height": "600"
                 },
@@ -181,7 +181,7 @@
                   "name": "{{ site.name }}",
                   "logo": {
                     "@type": "ImageObject",
-                    "url": "{{ site.url }}{{ site.baseurl }}/img/logo.png"
+                    "url": "{{ site.url }}{{ site.baseurl }}/img/logo-terminal-de-transporte-200px.jpg"
                   }
                 },
                 "datePublished": "{{ post.date | date_to_xmlschema }}",
@@ -220,7 +220,7 @@
       "name": "{{ site.name }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site.url }}{{ site.baseurl }}/img/logo.png"
+        "url": "{{ site.url }}{{ site.baseurl }}/img/logo-terminal-de-transporte-200px.jpg"
       }
     },
     "mainEntity": {
@@ -306,7 +306,8 @@
     {%- comment -%} Arreglo con push + jsonify: sin comas colgando cuando falta una imagen {%- endcomment -%}
     {%- assign imagenes = "" | split: "" -%}
     {%- assign claves = "jpg,hero,webp1,webp2" | split: "," -%}
-    {%- for c in claves -%}{%- if page[c] -%}{%- assign img = "/img/" | append: page[c] | absolute_url -%}{%- assign imagenes = imagenes | push: img -%}{%- endif -%}{%- endfor %}
+    {%- comment -%} jpg y hero ya traen "img/"; webp1 y webp2 empiezan en "terminales/" {%- endcomment -%}
+    {%- for c in claves -%}{%- if page[c] -%}{%- assign ruta = page[c] -%}{%- unless ruta contains "img/" -%}{%- assign ruta = "img/" | append: ruta -%}{%- endunless -%}{%- assign img = "/" | append: ruta | absolute_url -%}{%- assign imagenes = imagenes | push: img -%}{%- endif -%}{%- endfor %}
     "image": {{ imagenes | jsonify }},
     "address": {
       "@type": "PostalAddress",
@@ -442,16 +443,21 @@
   "image": [
     {
       "@type": "ImageObject",
-      "url": "{{site.baseurl}}/img/{{page.jpg}}",
+      "url": "{{site.baseurl}}/img/{{page.jpg | remove_first: "img/"}}",
       "height": "600",
       "width": "340"
-    },
+    }
+    {%- comment -%} Segunda foto solo si existe: sin ciudad, la ruta quedaba en img/-terminal-1.jpg {%- endcomment -%}
+    {%- assign foto2 = "/img/" | append: page.ciudad | append: "-terminal-1.jpg" -%}
+    {%- assign existe = site.static_files | where: "path", foto2 | first -%}
+    {%- if page.ciudad and existe %},
     {
       "@type": "ImageObject",
-      "url": "{{site.baseurl}}/img/{{page.ciudad}}-terminal-1.jpg",
+      "url": "{{site.baseurl}}{{ foto2 }}",
       "height": "800",
       "width": "600"
     }
+    {%- endif %}
   ],
   "datePublished": "{{page.date}}",
   "dateModified": "{% if page.lastmod %}{{page.lastmod}}{% else %}{{page.date}}{% endif %}",
