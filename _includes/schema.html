@@ -303,12 +303,11 @@
     "name": "{{ page.title }}",
     "description": "{{ page.description }}",
     "url": "{{ site.url }}{{ page.permalink }}",
-    "image": [
-      "{{ site.baseurl }}/img/{{ page.jpg }}",
-      {% if page.hero %}"{{ site.baseurl }}/img/{{ page.hero }}",{% endif %}
-      {% if page.webp1 %}"{{ site.baseurl }}/img/{{ page.webp1 }}",{% endif %}
-      {% if page.webp2 %}"{{ site.baseurl }}/img/{{ page.webp2 }}"{% endif %}
-    ],
+    {%- comment -%} Arreglo con push + jsonify: sin comas colgando cuando falta una imagen {%- endcomment -%}
+    {%- assign imagenes = "" | split: "" -%}
+    {%- assign claves = "jpg,hero,webp1,webp2" | split: "," -%}
+    {%- for c in claves -%}{%- if page[c] -%}{%- assign img = "/img/" | append: page[c] | absolute_url -%}{%- assign imagenes = imagenes | push: img -%}{%- endif -%}{%- endfor %}
+    "image": {{ imagenes | jsonify }},
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "{{ page.direccion | strip_html | strip_newlines }}",
